@@ -50,6 +50,7 @@ NyaaWiki 采用 [Docsify](https://docsify.js.org) 构建，源文件存放于 [G
 2. 编辑或新建页面时，应保持文件结构正确、整洁。
 3. 文件和目录命名保持简洁，文件名应只包含英文、数字、短线（`-`）。
 4. Wiki 内的链接应使用相对路径，并注意检查引用路径是否正确。
+5. 文本排版保持简洁、美观。中文和西文、数字之间要有空格。
 5. 请勿滥用 heading 语法。
   - 页首标题使用一级 heading
   - 章节/section 使用三级 heading（如希望侧边栏自动展开 table of contents，则需要使用二级 heading）
