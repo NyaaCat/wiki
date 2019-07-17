@@ -52,7 +52,7 @@ NyaaWiki 采用 [Docsify](https://docsify.js.org) 构建，源文件存放于 [G
 4. Wiki 内的链接应使用相对路径，并注意检查引用路径是否正确。
 5. 请勿滥用 heading 语法。
   - 页首标题使用一级 heading
-  - 章节/section 使用三级 heading
+  - 章节/section 使用三级 heading（如希望侧边栏自动展开 table of contents，则需要使用二级 heading）
   - 小节使用五级以下 heading
 6. 并不是所有的页面都要列如侧边栏。一些详细内容的页面也可以存放在相应目录下并通过其他页面访问。
 
