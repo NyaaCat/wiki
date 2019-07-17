@@ -121,7 +121,7 @@ Minecraft 1.12 基本整合 by cylin
 
 2.出现 Instance update failed because: Job 'Download of meta file net.minecraft/1.12.json' failed to process 错误
 
-你只需要点击  **Check for Updates（检查更新）**升级 MultiMC 即可
+你只需要点击 **Check for Updates（检查更新）** 升级 MultiMC 即可
 
 ## **模組（Mod）**
 
