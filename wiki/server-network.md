@@ -9,11 +9,11 @@
 > :heavy_exclamation_mark:游戏内可通过命令 `/server` 查询所有服务器代号。如果知晓已知代号的正确含义，欢迎在下面补充。游戏内可通过命令 `/server` 查询所有服务器代号。如果知晓已知代号的正确含义，欢迎在下面补充。
 
 
-## 常设服务器
+### 常设服务器
 
 > :heavy_check_mark:以下是目前开放中，**随时**可以前往的服务器。
 
-### NyaaCat NyanWorld Fantasyland
+#### NyaaCat NyanWorld Fantasyland
 
 喵窝的主服务器，混合类型的游戏模式。永久保存的主世界、最高优先级的规划和特性等，主服务器是用于构筑喵窝大陆的通用游戏世界。
 
@@ -43,7 +43,7 @@
 *   [权限详见](wiki/permission.md)
 
 
-### World of Kedama Craft
+#### World of Kedama Craft
 
 前往[毛玉线圈物语](https://www.craft.moe/)服务器。
 请注意，该服务器适用的游戏规则与喵窝互不通用。若首次前往，请务必阅读其相关规则。
@@ -52,7 +52,7 @@
 *   **服务器代号** `kedama`
 
 
-### NyaaCat Unlimited Build Works
+#### NyaaCat Unlimited Build Works
 
 Nyaa UBW 是喵窝的创造服务器，所有玩家均为创造权限。同时还设置独立的 `ubw_test` 服务器供玩家练习和测试，**测试用世界没有备份，请不要建造重要工程**。
 
@@ -80,7 +80,7 @@ Nyaa UBW 是喵窝的创造服务器，所有玩家均为创造权限。同时�
 *   如果需要定时备份的工程世界，了解更多请移步 [Project Nyaa UBW](space/project_nyaa_ubw.md)
 
 
-### NyaaCat: Need For Speed
+#### NyaaCat: Need For Speed
 
 Need For Speed 服务器为喵窝的竞速游戏服务器。玩家可以在这里游玩各种竞速类小游戏。目前可供游玩的小游戏有 [**WWR 2018**](https://bbs.nyaa.cat/d/1309-2018-nyaacat-day-1-world-wings-rally "2018年夏日祭“世界飞行拉力赛”规则")、**[Ice Race](https://bbs.nyaa.cat/d/1304-2018 "2018年毛运会“冰道竞速”项目规则") 和** [**Parrot Run**](https://bbs.nyaa.cat/d/1075-2017-7-20-day-7 "2017年夏日祭“鹦鹉竞速”项目规则") 。各个小游戏的规则不同，请点击各自对应之链接查看。
 
@@ -89,7 +89,7 @@ Need For Speed 服务器为喵窝的竞速游戏服务器。玩家可以在这�
 *   进入服务器后，可以在大厅通过传送到达各个小游戏地图。
 *   同时对毛玉线圈物语开放。
 
-### NyaaCat: Miu's Lab
+#### NyaaCat: Miu's Lab
 
 美羽实验室服务器为美羽的专属小游戏服务器。玩家可以在这里体验各种美羽玩具、美羽机关、美羽游戏等等。从含笑半步癫到庞大的地下城探险，这里处处充满了美羽。
 
@@ -97,7 +97,7 @@ Need For Speed 服务器为喵窝的竞速游戏服务器。玩家可以在这�
 
 *   已开放绿森跑酷、彩虹冰山跑酷。
 
-### NyaaCat's History Archives
+#### NyaaCat's History Archives
 
 具体介绍请参见【[喵窝的历史](misc/page/history)】。
 
@@ -117,7 +117,7 @@ Need For Speed 服务器为喵窝的竞速游戏服务器。玩家可以在这�
 `/top` - 传送到建筑顶部
 
 
-### Infinite Infernal World
+#### Infinite Infernal World
 
 **_又称：Infinity Infernal （无尽地狱）
 _**设定为含轻 RPG 元素的 PvE 游戏服务器。游戏目标非常简单——**带上最强装备，讨伐最强怪物。**
@@ -131,7 +131,7 @@ _**
 *   攻略、玩法参考等，参见[毛玉线圈物语社区BBS](https://bbs.craft.moe)。
 *   同时对毛玉线圈物语开放。
 
-### World for Freely Building
+#### World for Freely Building
 
 设定为“自由创造服务器”。其主旨为**“共建世界”**，即全体玩家在同一片天地下，释放想象力、发挥建筑特长，参与世界建筑工程。
 管理组不定期发布一个抽象主题，以引导建造者之思路及方向。
@@ -146,11 +146,11 @@ _**
 *   同时对毛玉线圈物语开放。
 
 
-## 薛定谔的服务器
+### 薛定谔的服务器
 
 > :heavy_check_mark:以下服务器不定期开放，或是仅对特定人员开放。
 
-### Plugin Test serveR (PTR)
+#### Plugin Test serveR (PTR)
 
 专为喵窝开发组而设置的，用于测试服务端插件的喵窝镜像。
 ~~该服务器现已升级 1.13.1~~ 。除**特定测试人员**外，暂无法使用游戏内 `/server` 命令进入。
@@ -158,7 +158,7 @@ _**
 
 *   **服务器代号** `plugin_test`
 
-### Activity Server
+#### Activity Server
 
 管理组在特定时段举办大型活动时，可能会运用独立的活动服务器。具体内容、规则随活动而异。
 在平日，此服务器不开放；参加活动时，请严格按照管理组的指示，进出此服务器，并进行游戏。
@@ -172,11 +172,11 @@ _**
 
 *   活动服务器也可能用于举办毛玉线圈物语的大型活动，届时将对毛玉线圈物语也开放。
 
-## 待开放服务器
+### 待开放服务器
 
 > :heavy_exclamation_mark:以下为正在筹备、或即将开放之服务器。
 
-### Re: ゼロ始まるPvP
+#### Re: ゼロ始まるPvP
 
 “Re: 从零开始的 PvP ”服务器为喵窝的 PvP 游戏服务器。
 
@@ -185,17 +185,17 @@ _**
 *   **服务器代号** `pvp` （准备中，暂不可用）
 *   该服务器将同时对毛玉线圈物语开放。
 
-### NyaaCat: Story Mode
+#### NyaaCat: Story Mode
 
 故事模式服务器为喵窝的 RPG（角色扮演）游戏服务器，由“喵呜堡”活动所启发，目前正在筹划中。
 
 *   **服务期代号** `legend` （准备中，暂不可用）
 
-## 不再开放之服务器
+ ### 不再开放之服务器
 
 > :x:以下是曾经开放的服务器；目前已被下线，不可前往，仅作考古依据。
 
-### World of Minigames
+#### World of Minigames
 
 某些热门Minecraft小游戏单独设置了服务器。来自喵窝、毛玉线圈物语的玩家均可进入。
 以下为可用游戏及其相应代号。诸游戏之规则与其它大多数小游戏服务器（如Hypixel）基本一致，请自行了解体会。
@@ -208,7 +208,7 @@ _**
 
 *   **跑酷 **`mg_pk`（不能以命令进入）
 
-### NyaaCat FarHorizon Wasteland
+#### NyaaCat FarHorizon Wasteland
 
 喵窝的纯净生存服务器。在日益缤纷多彩的主世服务器中，有时会想要重新体验开荒的感觉。纯净生存服务器即为保留 Minecraft 多人联机的最初体验而设置。每当 Minecraft 版本更新，生存服务器会更换主世界以提供最新的游戏体验。之前的世界将保留在服务器中，可以使用 Multiverse 随时返回。
 
