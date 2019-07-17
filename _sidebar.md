@@ -29,4 +29,3 @@
   - [技巧](pvp/guide.md)
 - Miu's Lab
   - [说明](miu/lab.md)
-- [更新日志](changelog.md)
