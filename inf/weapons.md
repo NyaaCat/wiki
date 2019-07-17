@@ -7,7 +7,7 @@
 **注意：黑池页面只显示黑池特殊的物品，其他卡池的物品不会展示。**
 
 |莹白晶石|焰红晶石|苍蓝晶石|抹绿晶石|辉金晶石|狱黑晶石|
-|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|
 |[T1防具](inf/weapons/normal_white/t1.md)|[T1近战](inf/weapons/normal_red/t1.md)|[T1法师](inf/weapons/normal_blue/t1.md)|[T1弓射手](inf/weapons/normal_green/t1.md)|[T1辅助](inf/weapons/normal_golden/t1.md)|[T1随机](inf/weapons/normal_black/t1.md)|
 |[T2防具](inf/weapons/normal_white/t2.md)|[T2近战](inf/weapons/normal_red/t2.md)|[T2法师](inf/weapons/normal_blue/t2.md)|[T2弓射手](inf/weapons/normal_green/t2.md)|[T2辅助](inf/weapons/normal_golden/t2.md)|[T2随机](inf/weapons/normal_black/t2.md)|
 |[T3防具](inf/weapons/normal_white/t3.md)|[T3近战](inf/weapons/normal_red/t3.md)|[T3法师](./weapons/normal_blue/t3.md)|[T3弓射手](inf/weapons/normal_green/t3.md)|[T3辅助](inf/weapons/normal_golden/t3.md)|[T3随机](inf/weapons/normal_black/t3.md)|
