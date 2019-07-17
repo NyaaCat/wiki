@@ -4,7 +4,7 @@
 
 类型：主城  
 范围：(-228, 1465) 至 (841, 3151)  
-城主：點心 Tim_So ，Maki Maki_Banshee  
+城主：點心 `Tim_So` ，Maki `Maki_Banshee`  
 官方信仰：谷鴿神  
 
 ### 简介
