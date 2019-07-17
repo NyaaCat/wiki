@@ -10,7 +10,7 @@
 
 [主页](https://www.nyaa.cat) | [论坛](https://bbs.nyaa.cat) | [常见问题](wiki/faq.md) | [新人指南](nyaa/beginners-guide.md) | [游戏规则](wiki/rules.md) | [世界地图](https://map.nyaacat.com/nyaa)
 
-欢迎[参与贡献](https://github.com/NyaaCat/wiki)，让知识库变得更好。
+欢迎[参与贡献](wiki/contribute.md)，让知识库变得更好。
 
 ### 加入游戏
 
