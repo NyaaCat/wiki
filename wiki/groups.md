@@ -8,7 +8,7 @@
 
 喵窝的 IRC 频道，目前是 invite only，并主要用于游戏与外界的聊天互通平台。
 
-* `nyaa-inf` on Freenode
+* `#nyaa-inf` on Freenode
 
 "Infinite Infernal" 子服务器的频道，主要用于游戏与外界的聊天互通。
 
