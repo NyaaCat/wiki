@@ -4,6 +4,8 @@
 
 |插件|简介|
 |--|--|
-|[Nyaautils](plugins/nyaautils.md)|各种有意思的小工具集合|
+|[Nyaautils](plugins/nyaautils.md)|各项辅助功能|
 |[PlayTimeTracker](plugins/playtimetracker.md)|在线时间记录|
-|[HamsterEcoHelper](plugins/hamsterecohelper.md)|经济辅助插件|
+|[HamsterEcoHelper](plugins/hamsterecohelper.md)|辅助经济流动|
+|[CapCat](plugins/capcat.md)|传送牌子介绍|
+|[物品修复](plugins/repair.md)|物品修复指南|
