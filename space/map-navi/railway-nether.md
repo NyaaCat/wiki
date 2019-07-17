@@ -16,7 +16,7 @@
 
 ![喵窝下界轨道交通线路图](../../assets/images/map-navi/NyaaCat铁路-下界4.png)
 
-<sup>[路痴、新喵士的解药：全喵窝铁路线指南（“无限”版）](https://bbs.nyaa.cat/d/951) by **iDemkors** </sup>
+<sup>[路痴、新喵士的解药：全喵窝铁路线指南（“无限”版）](https://bbs.nyaa.cat/d/951) by **iDemkors** </sup> <font color="#F7F7F7">纪念阿卡鱼（霞羽 Akyuu 原下届轨道交通线路测绘&施工）</font>
 
 『下界地铁』又名Y5NS，取『Y=5 Nether Subway』之缩写，为 Akyuu 铺设建筑的下界交通，目前已有数个站点开通，联通了喵窝四向上（由樱华町出发）的多个较大的城镇、聚落。
 
