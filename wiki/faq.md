@@ -31,7 +31,7 @@
 
 #### 那个，Wiki 的语法是？
 
-现在的 NyaaWiki 使用可视化编辑器。如要练手，可前往 【[Playground](misc/playground.md)】体验 。
+现在的 NyaaWiki 使用可视化编辑器。如要练手，可前往 【[Playground](/misc/playground.md)】体验 。
 
 #### 没有那个啥啥页面，咋办？
 
@@ -45,7 +45,7 @@
 
 #### 你们说的星球是什么东西啊，不是很懂
 
-是 NyaaCat Planet，[这里有它的介绍](wiki/nyaacat-planet.md)。
+是 NyaaCat Planet，[这里有它的介绍](nyaacat-planet.md)。
 
 #### 我不从事 IT 相关行业 / 我对 IT 相关领域没有兴趣，可以加入这个社区吗？
 
@@ -195,7 +195,7 @@ GNU/Linux 下 Minecraft 输入中文/日文等解决方案：(无需 Mod，无�
 
 这个参数**不会影响**游戏的网络连接。
 
-不过有时会遇到进入游戏后又出现验证服务器报错的情况<span style="text-decoration: line-through;">（因为脸太黑了，解决方案洗脸）</span>，这个时候不妨用下面的方案试试看，不仅修改启动器启动命令，还需要修改启动器内填写的 Profile JVM Arguments。
+不过有时会遇到进入游戏后又出现验证服务器报错的情况<span>（因为脸太黑了，解决方案洗脸）</span>，这个时候不妨用下面的方案试试看，不仅修改启动器启动命令，还需要修改启动器内填写的 Profile JVM Arguments。
 
 启动器启动命令示例同上。
 
@@ -267,7 +267,7 @@ GNU/Linux 下 Minecraft 输入中文/日文等解决方案：(无需 Mod，无�
 
 #### 如何创建快递箱？如何向其他玩家发送快递？
 
-[这里](game-tutorial/nyaautils) 有详细说明。
+[这里](/game-tutorial/nyaautils) 有详细说明。
 
 #### 救命啊！我在 Mojang 官网改完 Minecraft 游戏用户名以后，锁住的箱子打不开了！
 
@@ -315,7 +315,7 @@ lockette [官方说明](https://dev.bukkit.org/bukkit-plugins/lockette/) 指出�
 
 喵窝服务器不需要专用客户端，使用原版 Minecraft 客户端即可登录。
 
-不过，如果你懒得自行配置带有辅助性 mod 的客户端，可以直接使用喵窝玩家提供的 [整合包](wiki/resources.md)。
+不过，如果你懒得自行配置带有辅助性 mod 的客户端，可以直接使用喵窝玩家提供的 [整合包](resources.md)。
 
 #### 第一次加入服务器如何注册？以后如何登录？
 
@@ -328,7 +328,7 @@ lockette [官方说明](https://dev.bukkit.org/bukkit-plugins/lockette/) 指出�
 #### 如何去其它维度（世界）？
 
 命令 `/mvtp [维度代号]` 可达。
-但该命令仅可前往指定维度的总出生点。若需抵达出生点以外的任意位置，请使用[传送牌](game-tutorial/teleport-capcat.md)。
+但该命令仅可前往指定维度的总出生点。若需抵达出生点以外的任意位置，请使用[传送牌](/game-tutorial/teleport-capcat.md)。
 
 如果是下界或末地，可前往主世界对应的传送门前往。
 
@@ -342,11 +342,11 @@ lockette [官方说明](https://dev.bukkit.org/bukkit-plugins/lockette/) 指出�
 
 #### 如何设置名称前/后缀？
 
-目前支持通过命令自助设置前后缀。请参阅 [本页面](game-tutorial/nyaautils.md) 中 前缀/后缀 一节了解详情。
+目前支持通过命令自助设置前后缀。请参阅 [本页面](/game-tutorial/nyaautils.md) 中 前缀/后缀 一节了解详情。
 
 #### 维修点在哪里？该如何使用？
 
-目前已废弃维修点，请移步 [这里](game-tutorial/Item-repair.md) 参看新版维修方法。
+目前已废弃维修点，请移步 [这里](/game-tutorial/Item-repair.md) 参看新版维修方法。
 
 #### 为什么有一些非工具的物品有附魔？它们可以给其它工具附魔吗？
 
