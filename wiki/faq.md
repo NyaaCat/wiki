@@ -267,7 +267,7 @@ GNU/Linux 下 Minecraft 输入中文/日文等解决方案：(无需 Mod，无�
 
 #### 如何创建快递箱？如何向其他玩家发送快递？
 
-[这里](game-tutorial/nyaautils) 有详细说明。
+[这里](tutorial/nyaautils) 有详细说明。
 
 #### 救命啊！我在 Mojang 官网改完 Minecraft 游戏用户名以后，锁住的箱子打不开了！
 
@@ -328,7 +328,7 @@ lockette [官方说明](https://dev.bukkit.org/bukkit-plugins/lockette/) 指出�
 #### 如何去其它维度（世界）？
 
 命令 `/mvtp [维度代号]` 可达。
-但该命令仅可前往指定维度的总出生点。若需抵达出生点以外的任意位置，请使用[传送牌](game-tutorial/teleport-capcat.md)。
+但该命令仅可前往指定维度的总出生点。若需抵达出生点以外的任意位置，请使用[传送牌](tutorial/teleport-capcat.md)。
 
 如果是下界或末地，可前往主世界对应的传送门前往。
 
@@ -342,11 +342,11 @@ lockette [官方说明](https://dev.bukkit.org/bukkit-plugins/lockette/) 指出�
 
 #### 如何设置名称前/后缀？
 
-目前支持通过命令自助设置前后缀。请参阅 [本页面](game-tutorial/nyaautils.md) 中 前缀/后缀 一节了解详情。
+目前支持通过命令自助设置前后缀。请参阅 [本页面](tutorial/nyaautils.md) 中 前缀/后缀 一节了解详情。
 
 #### 维修点在哪里？该如何使用？
 
-目前已废弃维修点，请移步 [这里](game-tutorial/Item-repair.md) 参看新版维修方法。
+目前已废弃维修点，请移步 [这里](tutorial/Item-repair.md) 参看新版维修方法。
 
 #### 为什么有一些非工具的物品有附魔？它们可以给其它工具附魔吗？
 
