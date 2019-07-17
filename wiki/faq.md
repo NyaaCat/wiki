@@ -45,7 +45,7 @@
 
 #### 你们说的星球是什么东西啊，不是很懂
 
-是 NyaaCat Planet，[这里有它的介绍](nyaacat-planet.md)。
+是 NyaaCat Planet，[这里有它的介绍](planet-nyaacat.md)。
 
 #### 我不从事 IT 相关行业 / 我对 IT 相关领域没有兴趣，可以加入这个社区吗？
 
