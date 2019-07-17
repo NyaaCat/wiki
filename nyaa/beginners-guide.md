@@ -67,7 +67,7 @@ IRC 、 Telegram 群组和游戏聊天频道互通，请注意不要刷屏。
 
 选择**出生点（即 spawn 点）**的传送门会自动启动，它看起来像这样：
 
-![start](../assets/images/start%3Atown-select.png)
+![start](../assets/images/start_town-select.png)
 
 如果你未作出选择而将其关闭，或者其没有自动开启；则可重新登录喵窝，或键入命令 `/town select` 开始选择。
 
