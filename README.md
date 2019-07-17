@@ -6,7 +6,7 @@
 
 服务器版本 Paper 1.13.2 **Online mode**
 
-?> 请使用 1.13.2 版本客户端，允许加载 Mod。不支持其他版本。
+!> 请使用 1.13.2 版本客户端，允许加载 Mod。不支持其他版本。
 
 [主页](https://www.nyaa.cat) | [论坛](https://bbs.nyaa.cat) | [常见问题](wiki/faq.md) | [新人指南](nyaa/beginners-guide.md) | [游戏规则](wiki/rules.md) | [世界地图](https://map.nyaacat.com/nyaa)
 
