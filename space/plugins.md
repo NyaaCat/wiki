@@ -9,4 +9,3 @@
 |[HamsterEcoHelper](plugins/hamsterecohelper.md)|辅助经济流动|
 |[CapCat](plugins/capcat.md)|传送牌子介绍|
 |[物品修复](plugins/repair.md)|物品修复指南|
-|[高等附魔](plugins/enchant.md)|高等附魔方法|
