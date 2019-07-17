@@ -37,7 +37,7 @@
     *   
 `EpicWorld` - 资源/战斗/黑化世界
 
-    *   详情请参阅【[维度列表](https://wiki.nyaa.cat/books/%E4%B8%96%E7%95%8C%E8%AE%BE%E5%AE%9A/page/%E7%BB%B4%E5%BA%A6%E5%88%97%E8%A1%A8 "维度列表")】
+    *   详情请参阅【[维度列表](nyaa/worlds.md)】
 
 *   [规则详见](wiki/rules.md)
 
