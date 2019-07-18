@@ -35,8 +35,8 @@ NyaaWiki 采用 [Docsify](https://docsify.js.org) 构建，源文件存放于 [G
 - 分类目录说明
   - `wiki` - 各类基础信息，规则、说明性文本等。
   - `nyaa` - 喵窝世界的各项设定、村落、经济、工程等等。
-  - `space` - 玩家贡献的各类内容。
-  - `tutorial` - 玩家贡献的各种教程。
+  - `space` - 玩家贡献的各类内容。玩法、心得、各类整理的信息可以放在这里。
+  - `tutorial` - 玩家贡献的各种教程。这里指的是手把手式、非常 case specific 的教程，而非一般的通用教学和知识整理。
   - `misc` - 各类杂项信息页面。
   - `inf` - "Infinite Infernal" 子服务器相关内容。
   - `nfs` - "Need For Speed" 子服务器相关内容。
