@@ -42,7 +42,7 @@ NyaaWiki 采用 [Docsify](https://docsify.js.org) 构建，源文件存放于 [G
   - `nfs` - "Need For Speed" 子服务器相关内容。
   - `pvp` - "PVP" 子服务器相关内容。
   - `miu` - "美羽实验室" 子服务器相关内容。
-- 如果有额外的详细信息页面，例如[城镇村落](nyaa/realms.md)上的村落详细信息，还可以在以上对应目录中新建目录来整理。例如[琥珀川](nyaa/realm/kohakukawa.md)的独立页面。
+- 如果有额外的详细信息页面，例如[城镇村落](nyaa/realms.md)上的村落详细信息，还可以在以上对应目录中新建目录来整理。例如[琥珀川](nyaa/realms/kohakukawa.md)的独立页面。
 
 ### 编辑说明
 
