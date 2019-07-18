@@ -8,7 +8,7 @@
 
 ### [Minecraft 原生建筑](space/building/minecraft-building.md)  
 最典型的代表是 Minecraft 自动生成的建筑。其外观朴素，材质简单容易获取，适合在生存模式下建造。这类建筑一般在保持基本建筑结构合理的前提下，以游戏实用性为主（比如用石砖建房子可以有效减轻爬行者的爆炸对房屋造成的损害）。  
-![原生村庄](../../assets/images/building-tutorial/building-style/minecraft-village1.png)  ![沙漠神殿](../..assets/images/building-tutorial/building-style/Minecraft-Desert-Temple.jpg)
+![原生村庄](../assets/images/building-tutorial/building-style/minecraft-village1.png)  ![沙漠神殿](../assets/images/building-tutorial/building-style/Minecraft-Desert-Temple.jpg)
 
 ### [东亚建筑](space/building/tutorial-eastern-style.md)
 东亚建筑主要是指中国和日本两个国家古代的建筑风格。它们以木质结构为主，在悠长的历史中，中式建筑和日式建筑各自形成非常庞大的体系。不同派系的有着不同的结构、风格和意义。但是相同的是，东亚建筑都极其注重结构的合理性，部分建筑甚至会通过外露柱梁强调结构美。
