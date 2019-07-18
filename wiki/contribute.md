@@ -56,5 +56,6 @@ NyaaWiki 采用 [Docsify](https://docsify.js.org) 构建，源文件存放于 [G
   - 章节/section 使用三级 heading（如希望侧边栏自动展开 table of contents，则需要使用二级 heading）
   - 小节使用五级以下 heading
 6. 并不是所有的页面都要列如侧边栏。一些详细内容的页面也可以存放在相应目录下并通过其他页面访问。
+7. 由于托管在 GitHub 的特殊性，请尽量不要上传大文件。图片如无必要，请使用 JPG 而非 PNG。其他大文件、静态文件请使用稳定可靠的文件托管外链服务。
 
 (WIP)
