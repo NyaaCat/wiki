@@ -6,6 +6,14 @@
 
 ?> 图片使用webp，需要使用chrome 55+或者firefox 67+浏览器打开
 
+### 传送中心
+
+[传送中心（Capcat传送牌）](nyaa/projects/teleport-center)
+
+### 飞行塔
+
+[飞行塔](nyaa/projects/airline)
+
 ### 主世界铁路网、下界交通网食用手册
 
 - [喵窝铁路线路图（dpicpi版）](space/map-navi/railway-universal-dpicpi)

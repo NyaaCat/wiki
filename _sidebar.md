@@ -16,11 +16,12 @@
 - 玩家空间
   - [插件帮助](space/plugins.md)
   - [交通导航](space/map-navi.md)
+  - [建筑教程](space/building.md)
 - Infinite Infernal
   - [新手教程](inf/guide.md)
   - [敌怪](inf/mobs.md)
   - [事件](inf/events.md)
-  - [装备图鉴](inf/weapons.md)
+  - [物品图鉴](inf/items.md)
 - Need For Speed
   - [赛事](nfs/events.md)
 - PVP 竞技场
