@@ -195,16 +195,6 @@ GNU/Linux 下 Minecraft 输入中文/日文等解决方案：(无需 Mod，无�
 
 这个参数**不会影响**游戏的网络连接。
 
-不过有时会遇到进入游戏后又出现验证服务器报错的情况<span style="text-decoration: line-through;">（因为脸太黑了，解决方案洗脸）</span>，这个时候不妨用下面的方案试试看，不仅修改启动器启动命令，还需要修改启动器内填写的 Profile JVM Arguments。
-
-启动器启动命令示例同上。
-
-启动器内填写的 Profile JVM Arguments 示例：
-
-`-Xmx1G -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:-UseAdaptiveSizePolicy -Xmn128M -DsocksProxyHost=127.0.0.1 -DsocksProxyPort=1080`
-
-这个参数同样**不会影响**游戏的网络连接。
-
 ##### 使用 hosts
 
 将下面的代码添加到 hosts 文件中，即可通过专用的 SNI 加密代理登录 Minecraft 服务器（客户端/服务端均适用）_<sup><span style="color: #ff0000;">[待验证]</span></sup>_
