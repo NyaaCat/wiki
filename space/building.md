@@ -7,14 +7,14 @@
 ## 建筑风格
 
 ### [Minecraft 原生建筑](space/building/minecraft-building.md)  
-最典型的代表是 Minecraft 自动生成的建筑。其外观朴素，材质简单容易获取，适合在生存模式下建造。这类建筑一般在保持基本建筑结构合理的前提下，以游戏实用性为主（比如用石砖建房子可以有效减轻爬行者的爆炸对房屋造成的损害）。  
+最典型的代表是 Minecraft 自动生成的建筑。其外观朴素，材质简单容易获取，适合在生存模式下建造。这类建筑一般在保持基本建筑结构合理的前提下，以游戏实用性为主（比如用石砖建房子可以有效减轻爬行者的爆炸对房屋造成的损害）。   
 ![原生村庄](../assets/images/building-tutorial/building-style/minecraft-village1.png)  ![沙漠神殿](../assets/images/building-tutorial/building-style/Minecraft-Desert-Temple.jpg)
 
 ### [东亚建筑](space/building/tutorial-eastern-style.md)
 东亚建筑主要是指中国和日本两个国家古代的建筑风格。它们以木质结构为主，在悠长的历史中，中式建筑和日式建筑各自形成非常庞大的体系。不同派系的有着不同的结构、风格和意义。但是相同的是，东亚建筑都极其注重结构的合理性，部分建筑甚至会通过外露柱梁强调结构美。
 
 **中式建筑（中国风）：** 
-主要指的是中国古代的建筑，宫殿类的建筑以复杂的柱梁结构，奢华大气的外观为主要风格，最显著的特征是飞檐、斗拱、雕花等。而民居方面，以四合院，园林建筑，徽派建筑等强调实用性和自然观赏性为主。 
+主要指的是中国古代的建筑，宫殿类的建筑以复杂的柱梁结构，奢华大气的外观为主要风格，最显著的特征是飞檐、斗拱、雕花等。而民居方面，以四合院，园林建筑，徽派建筑等强调实用性和自然观赏性为主。   
 ![中式1](../assets/images/building-tutorial/building-style/luoyang1.jpg)  ![中式2](../assets/images/building-tutorial/building-style/luoyang2.jpg)  ![中式3](../assets/images/building-tutorial/building-style/luoyang3.jpg)
 
 **日式建筑（和风）：**
@@ -31,11 +31,11 @@ Minecraft 中欧洲建筑主要指的是欧洲中世纪建筑风格，这也是�
 ![哥特1](../assets/images/building-tutorial/building-style/Gothic1.jpg)  ![哥特2](../assets/images/building-tutorial/building-style/Gothic2.jpg)  ![哥特3](../assets/images/building-tutorial/building-style/Gothic3.jpg)
 
 **维京式**
-维京泛指北欧海盗，他们的建筑也有非常显著的飞檐（一般弧度大于东亚的飞檐）。  
+维京泛指北欧海盗，他们的建筑也有非常显著的飞檐（一般弧度大于东亚的飞檐）。    
 ![维京1](../assets/images/building-tutorial/building-style/víkingar1.jpg)  ![维京2](../assets/images/building-tutorial/building-style/víkingar2.jpg)  ![维京3](../assets/images/building-tutorial/building-style/víkingar3.jpg)
 
 **中东建筑**
-中东地带气候干燥少雨，所以他们的建筑以平顶居多，主要建材是沙石。其中拜占庭风格的圆顶建筑，特点是中心位置常有巨大的半圆穹顶，圆顶下方为四个半圆门拱，门拱交接的地方由四条巨大石柱支撑起整个穹顶压力。另外还有阿拉伯的清真建筑，大多数呈方形结构，除主体建筑祈祷厅外还套这一个露天庭院。  
+中东地带气候干燥少雨，所以他们的建筑以平顶居多，主要建材是沙石。其中拜占庭风格的圆顶建筑，特点是中心位置常有巨大的半圆穹顶，圆顶下方为四个半圆门拱，门拱交接的地方由四条巨大石柱支撑起整个穹顶压力。另外还有阿拉伯的清真建筑，大多数呈方形结构，除主体建筑祈祷厅外还套这一个露天庭院。   
 ![中东1](../assets/images/building-tutorial/building-style/Mid-East1.jpg)  ![中东2](../assets/images/building-tutorial/building-style/Mid-East2.jpg)  ![中东3](../assets/images/building-tutorial/building-style/Mid-East3.jpg)  
 
 ### 现代建筑
