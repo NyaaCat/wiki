@@ -11,9 +11,15 @@
 
 ## 整合包（客户端）
 
-!>目前喵窝已升级至 Minecraft 1.13.2，由于大版本更新 Breaking Changes 较多，目前 Forge等暂未能完成兼容，建议先选择原版客户端使用。
+### Minecraft 1.14.4
 
-### Mincraft 1.13.2
+1.14.4 Fabric 简单整合
+
+包含了各种常用 mod 的简单整合包。
+
+[下载戳这里](https://mega.nz/#!E8dATASB!BcQuG3TNwuulF9SWbtCP41zi3Hc0_CiJ3EFVQ6kJkmg)
+
+### Minecraft 1.13.2
 
 Minecraft 1.13.2 Rift Modpack
 
