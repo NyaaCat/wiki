@@ -1,6 +1,6 @@
 # 喵窝轨道交通线路图（“无限”版）
 
-本页面主要展示由*无限 `iDemkors`* 绘制的 **《主世界轨道交通线路图》** **《下界线路图》**，以及**城镇（村落）内修建的地铁线路图**。其中：
+本页面主要展示由*无限 `iDemkors`* 绘制的 **《主世界轨道交通线路图》** **《下界交通网线路图》**，以及**城镇（村落）内修建的地铁线路图**。其中：
 
 - **《主世界》**包括公认的“公共铁路网”（含“一级铁路”“二级铁路”），以及不属于“公共铁路网”、但与其**直接**接驳的线路。
 - **《下界》**包括**由樱华町（出征楼）传送门附近出发**，在下界Y=5~9处铺设的交通网（含铁路线及冰、铁混合线）。
@@ -29,7 +29,7 @@
 
 ## 主世界线路图
 
-![喵窝主世界轨道交通线路图](../../assets/images/map-navi/NyaaCat铁路27.png)
+![喵窝主世界轨道交通线路图](../../assets/images/map-navi/map-Overworld-Rail-iDemkors.png)
 
 ?> :information_source: 【东城】三个站台分别称 *“东城站”“东城北站”“东城南站”*，分别接入②号线、③号线（北向）、③号线（南向）。
 
@@ -37,16 +37,18 @@
 
 ## 南城地铁线路图
 
-![南城地铁线路图](../../assets/images/map-navi/NyaaCat铁路-南城2.png)
+![南城地铁线路图](../../assets/images/map-navi/map-SouthCity-subway-iDemkors.png)
 
 - - -
 
 ## 新北市地铁线路图
 
-![喵窝新北市地铁线路图](../../assets/images/map-navi/NyaaCat铁路-新北地铁2.png)
+![喵窝新北市地铁线路图](../../assets/images/map-navi/map-NewNorth-subway-iDemkors.png)
 
 - - -
 
-## 下界线路图（Y=5）
+## 下界交通网线路图
 
-![喵窝下界轨道交通线路图](../../assets/images/map-navi/NyaaCat铁路-下界4.png)
+![喵窝下界交通网线路图](../../assets/images/map-navi/map-nether-traffic-iDemkors.png)
+
+!> 更多搭乘指南请见[此页](space/map-navi/railway-nether "下界铁路搭乘指南")。

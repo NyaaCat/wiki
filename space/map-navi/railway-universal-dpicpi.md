@@ -1,6 +1,6 @@
 # 喵窝铁路线路图（dpicpi版）
 
-![喵窝铁路线路图](../../assets/images/map-navi/nyaacatrailroad_end4_660.png)
+![喵窝铁路线路图](../../assets/images/map-navi/map-Overworld-rail(dpicpi).png)
 
 <sup>喵窝世界铁路主要线路图 by *`dpicpi`*</sup> 
 

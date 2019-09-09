@@ -135,7 +135,7 @@ _狸猫_  家设有公共建材仓库。取得同意后，可与*狸猫*  共建
 
 以下数据截至  **2018 年 6 月 15 日**。
 
-![](../../assets/images/Newnorth-metro.png)  
+![](../../assets/images/map-navi/map-NewNorth-subway-iDemkors.png)  
 【[点击此查看changelog](https://bbs.nyaa.cat/d/951--/75 "路痴、新喵士的解药：全喵窝铁路线指南（“无限”版）")】
 
 ##### 车站概览
