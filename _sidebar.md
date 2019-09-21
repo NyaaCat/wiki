@@ -2,6 +2,7 @@
   - [游戏规则](wiki/rules.md)
   - [常见问题](wiki/faq.md)
   - [服务器列表](wiki/server-network.md)
+  - [常用命令大全](tutorial/help)
 - 社区
   - [Planet NyaaCat](wiki/planet-nyaacat.md)
   - [玩家群组](wiki/groups.md)
