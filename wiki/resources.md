@@ -17,7 +17,9 @@
 
 包含了各种常用 mod 的简单整合包。
 
-[下载戳这里](https://mega.nz/#!E8dATASB!BcQuG3TNwuulF9SWbtCP41zi3Hc0_CiJ3EFVQ6kJkmg)
+[适用于官方启动器 - 下载戳这里](https://mega.nz/#!E8dATASB!BcQuG3TNwuulF9SWbtCP41zi3Hc0_CiJ3EFVQ6kJkmg)
+
+[适用于 MultiMC 导入用实例](https://mega.nz/#!V5tlzA6R!W8dxM_KthVnN-4Zwdd3-JE6e4YHa5yARdXH7ATZNUIM)
 
 ### Minecraft 1.13.2
 
