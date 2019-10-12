@@ -35,7 +35,7 @@
 - **【传送中心】** 则位于商业街入口东侧(200, 2564)，共设置21个传送牌。目前可到达科技特区、琥珀川（北沼）。
 - **【町内地铁】** 目前共开通10个站点，覆盖核心城区。线路图见下。
 
-![南城地铁线路图](../../assets/images/map-navi/map-SouthCity-subway-iDemkors.png)
+![浪花町内地铁线路图](../../assets/images/map-navi/map-Naniwa-subway-iDemkors.png)
 
 ## 观景旅游
 
