@@ -231,7 +231,7 @@
 * 简介：
   * 第一居民区为环湖村镇，由中世纪风格魔改的某科学的建筑风格![](data:image/gif;base64,R0lGODlhDwAPAPMMAEVFRf/qAP/OAP/JALhxAP/+k/6dAP+0AP//x//9E///6//lAP///wAAAAAAAAAAACH5BAUAAAwALAAAAAAPAA8AAARmkEkJap2YVYVKERcGcEkSnIIBTEA3DGecrloRv3EAakgCEoKYQTBQAT6AQAEQHAIIhwookFwKplApAFZlJrNMwpaqfAYIKs12XD2JKarBFrYYCN5wgOFweAmiGRViUHw0GWoWhgwRADs=)。
   * 第二居民区为平原山地相交地形，目前靠近第一居民区侧打算使用中式，靠近山地侧启用某更科学的魔改风格。
-  * 总进度完成情况不到10%^（现保守估计有50%）^，其中第一居民区完成度大约30%^（现估计有80%）^，第二居民区为玩家自建区。由于坑主最近较忙，拖坑又已日久，再加上之前觉悟太低犯了某政策性错误，被组织上加以责罚，因此当前开放第二区，招贤纳士，在原有基础风格上加以扩建完善，也如有疑问请联系坑主。
+  * 总进度完成情况不到50%，其中第一居民区完成度大约70%，第二居民区为玩家自建区。由于坑主最近较忙，拖坑又已日久，再加上之前觉悟太低犯了某政策性错误，被组织上加以责罚，因此当前开放第二区，招贤纳士，在原有基础风格上加以扩建完善，也如有疑问请联系坑主。
   * 开放区域的建筑风格要求：
     * 暂时不启用现代风格；
     * 样板房为第二区山头上那座被lwl买走的小房子，推荐使用此风格规划建造自己的建筑，当然只是建议，玩家也可以随自己的风格去建设，不丑即可；
