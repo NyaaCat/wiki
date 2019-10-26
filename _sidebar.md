@@ -18,6 +18,7 @@
   - [插件帮助](space/plugins.md)
   - [交通导航](space/map-navi.md)
   - [建筑教程](space/building.md)
+  - [NPC](space/npc.md)
 - Infinite Infernal
   - [新手教程](inf/guide.md)
   - [敌怪](inf/mobs.md)
