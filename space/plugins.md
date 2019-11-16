@@ -8,5 +8,4 @@
 |[PlayTimeTracker](space/plugins/playtimetracker.md)|在线时间记录|
 |[HamsterEcoHelper](space/plugins/hamsterecohelper.md)|经济流动辅助插件|
 |[CapCat](space/plugins/capcat.md)|传送牌子介绍|
-|[物品修复](space/plugins/repair.md)|物品修复指南|
 |[NyaaBank](space/plugins/nyaabank-instructions)|基于木牌的银行|
