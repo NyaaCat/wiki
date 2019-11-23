@@ -19,6 +19,7 @@
   - [交通导航](space/map-navi.md)
   - [建筑教程](space/building.md)
   - [NPC 向导](space/npc.md)
+  - [主世界道具图鉴](space/items.md)
 - Infinite Infernal
   - [新手教程](inf/guide.md)
   - [敌怪](inf/mobs.md)
