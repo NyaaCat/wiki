@@ -58,7 +58,7 @@
 * 名誉城主：*~浅羽家风筝 `yahagi1943`~，Cylin 喵 `OAO_miao`*
 * 简介：
   * 洋溢着柚子的清香与欢声笑语的欧洲风格小镇
-  * [介绍](nyaa/realms/yuzuki.md)
+  * [介绍](nyaa/realms/yuzuki.md) | QQ 群 `112376080`
 
 ### 北风城
 
@@ -68,7 +68,7 @@
 * 名誉城主：*`Kuroi_Kuroha`，~浅羽家风筝 `yahagi1943`~*
 * 简介：
   * 象征着勇气、探索和前进，最早期的工业化都市
-  * [介绍](nyaa/realms/northwind.md)
+  * [介绍](nyaa/realms/northwind.md) | QQ 群 `977738329`
 
 ### 新北市
 
