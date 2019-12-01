@@ -37,6 +37,7 @@
 * 简介：
   * AQUA'S 海洋与星空之城
   * [介绍](nyaa/realms/aquas.md)
+  * QQ 群 `977607597`
 * <span style="background-color: #333333; color: #333333;">不，不要误会，我不叫 Aquors</span>
 
 ### 浪花町
