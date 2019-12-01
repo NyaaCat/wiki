@@ -2,6 +2,7 @@
   - [游戏规则](wiki/rules.md)
   - [常见问题](wiki/faq.md)
   - [服务器列表](wiki/server-network.md)
+  - [常用命令大全](tutorial/help)
 - 社区
   - [Planet NyaaCat](wiki/planet-nyaacat.md)
   - [玩家群组](wiki/groups.md)
@@ -17,6 +18,8 @@
   - [插件帮助](space/plugins.md)
   - [交通导航](space/map-navi.md)
   - [建筑教程](space/building.md)
+  - [NPC 向导](space/npc.md)
+  - [主世界道具图鉴](space/items.md)
 - Infinite Infernal
   - [新手教程](inf/guide.md)
   - [敌怪](inf/mobs.md)
