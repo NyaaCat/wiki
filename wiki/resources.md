@@ -11,6 +11,12 @@
 
 ## 整合包（客户端）
 
+### Minecraft 1.15.1
+**1.15.1 Fabric 简单整合** *by BlingWang*  
+除 Optifine 暂时缺失以外，体验上基本与1.14.4整合包无异。此外，还新增几个实用插件。
+
+详情请见 [相关帖子](https://bbs.craft.moe/d/1409-minecraft-1-15-1-fabric)。
+
 ### Minecraft 1.14.4
 
 1.14.4 Fabric 简单整合
