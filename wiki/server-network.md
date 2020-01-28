@@ -87,20 +87,6 @@ Need For Speed 服务器为喵窝的竞速游戏服务器。玩家可以在这�
   + `/tppos [X] [Y] [Z]` - 传送到指定位置
   + `/top` - 传送到建筑顶部
 
-
-### Infinite Infernal World
-
-!> 目前仅可通过**1.13.2版客户端**进入。
-
-***又称：Infinity Infernal （无尽地狱）***  
-设定为含轻 RPG 元素的 PvE 游戏服务器。游戏目标非常简单——**带上最强装备，讨伐最强怪物。**  
-其前身为原挂靠于 EpicWorld 维度的“[黑化世界](tutorial/monster.md)”；独立运营后，在其世界观以及喵窝部分装备之基础上，改进了基础设施、装备系统、兑换系统等。
-
-*   **服务器代号** `inf`
-*   改进意见、建议等，[可于NyaaBBS提交。](https://bbs.nyaa.cat/d/1373-infinity-infernal-bug)
-*   攻略、玩法参考等，参见[毛玉线圈物语社区BBS](https://bbs.craft.moe)。
-*   同时对毛玉线圈物语开放。
-
 ### Re: ゼロ始まるPvP
 
 “Re: 从零开始的 PvP ”服务器为喵窝的 PvP 竞技游戏服务器。  
@@ -187,4 +173,17 @@ Need For Speed 服务器为喵窝的竞速游戏服务器。玩家可以在这�
 *   **务必尊重他人和他人的创作**。未经允许，不要擅自修改他人的作品。
 *   如用地发生冲突，请自行协商合作。
 *   详细规则见[NyaaBBS帖子](https://bbs.nyaa.cat/d/1375-freebuild)。
-*   同时对毛玉线圈物语开放。
+*   ~~同时对毛玉线圈物语开放。~~
+
+### Infinite Infernal World
+
+!> 此服务器已转为主服务器`nyaa`的[一个维度](nyaa/worlds#无尽地狱世界)。
+
+***又称：Infinity Infernal （无尽地狱）***  
+设定为含轻 RPG 元素的 PvE 游戏服务器。游戏目标非常简单——**带上最强装备，讨伐最强怪物。**  
+其前身为原挂靠于 EpicWorld 维度的“[黑化世界](tutorial/monster.md)”；独立运营后，在其世界观以及喵窝部分装备之基础上，改进了基础设施、装备系统、兑换系统等。
+
+*   **服务器代号** `inf`
+*   改进意见、建议等，[可于NyaaBBS提交。](https://bbs.nyaa.cat/d/1373-infinity-infernal-bug)
+*   攻略、玩法参考等，参见[毛玉线圈物语社区BBS](https://bbs.craft.moe)。
+*   ~~同时对毛玉线圈物语开放。~~
