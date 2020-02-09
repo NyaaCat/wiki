@@ -11,6 +11,6 @@
 
 - [魔法装备及道具](space/items/magic.md)
 - [远程武器](space/items/remote-weapons.md)
-- 辅助道具
+- [辅助道具](space/items/support.md)
 - 节庆用品（如焰火）
 - 旧版装备道具*（仍可工作的）*
