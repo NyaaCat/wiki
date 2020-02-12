@@ -12,11 +12,11 @@
 
 * 根据建设规模，此工程的补贴/奖励约为 5,000 ~ 100,000 节操。
 * 扩/改建/延长二级铁路工程，请依据[轨道工程建设规范](space/building/railway-construction-standard.md)建设。
-* 查阅现有铁路网的详细信息，请移步[二级铁路](space/map-navi/railway-overworld-dmql)，以及[最新版线路图](space/map-navi/railway-universal-iDemkors)。
+* 查阅现有铁路网的详细信息，请移步[二级铁路](space/map-navi/railway-overworld-dmql)，以及[最新版线路图](space/map-navi/railway-universal-Ceallium)。
 
 #### 当前规划或实施中的铁路项目
 - **科技城专线**：  
-南沙港至科技特区的二级铁路延长项目，由*无限 `iDemkors`* 负责。关于项目规划、进展、合伙情况，请见[BBS帖子](https://bbs.nyaa.cat/d/1483/15 "好耶是新坑/ 主世界「科技城专线」工程规划、建设进度及合伙邀请")。
+南沙港至科技特区的二级铁路延长项目，由*无限 `CealliumInfinity`* 负责。关于项目规划、进展、合伙情况，请见[BBS帖子](https://bbs.nyaa.cat/d/1483/15 "好耶是新坑/ 主世界「科技城专线」工程规划、建设进度及合伙邀请")。
 
 ### 交通工程：飞行塔
 
@@ -40,7 +40,7 @@
 * 根据建设规模，此工程的补贴/奖励约为 5,000 ~ 50,000 节操。
 
 ### 交通工程：下界交通网
-[下界交通网](nyaa/projects/nether-traffic.md)无偿提供部分热门村镇之间的快速旅行服务。目前，交通网由*无限 `iDemkors`* 负责统筹维护。
+[下界交通网](nyaa/projects/nether-traffic.md)无偿提供部分热门村镇之间的快速旅行服务。目前，交通网由*无限 `CealliumInfinity`* 负责统筹维护。
 
 如有意扩建，请遵循[轨道工程建设规范](space/building/railway-construction-standard?id=%e4%ba%8c%e3%80%81%e4%b8%8b%e7%95%8c%e4%ba%a4%e9%80%9a%e7%bd%91%e9%83%a8%e5%88%86)下界部分，并参考交通网线路图（以确定如何接入现有站点）。
 

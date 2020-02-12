@@ -4,7 +4,7 @@
 - **类型**：“卫星城”，公共规划区  
 - **范围**：(110，-4071)至(1829，-2825)  
 - **名誉市长**：*奈尔 `Addams_Chen`，曲奇 `Round_Cookies`，狸猫  `MaoJing_Limao`*
-- **居委会主任**：*无限 `iDemkors`*（北风城居委会代管）
+- **居委会主任**：*无限 `CealliumInfinity`*（北风城居委会代管）
   + **新北街道办全权代表**：*狸猫*
 
 
@@ -125,8 +125,8 @@ _狸猫_  家设有公共建材仓库。取得同意后，可与*狸猫*  共建
 
 以下数据截至  **2018 年 6 月 15 日**。
 
-![](../../assets/images/map-navi/map-NewNorth-subway-iDemkors.png)  
-【[相关页面](space/map-navi/railway-universal-iDemkors.md "路痴、新喵士的解药：全喵窝铁路线指南（“无限”版）")】
+![](../../assets/images/map-navi/map-NewNorth-subway-Ceallium.png)  
+【[相关页面](space/map-navi/railway-universal-Ceallium.md "路痴、新喵士的解药：全喵窝铁路线指南（“无限”版）")】
 
 #### 车站概览
 

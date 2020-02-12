@@ -1,6 +1,6 @@
 # 喵窝轨道交通线路图（“无限”版）
 
-本页面主要展示由*无限 `iDemkors`* 绘制的 **《主世界轨道交通线路图》** **《下界交通网线路图》**，以及**城镇（村落）内修建的地铁线路图**。其中：
+本页面主要展示由*无限 `CealliumInfinity`* 绘制的 **《主世界轨道交通线路图》** **《下界交通网线路图》**，以及**城镇（村落）内修建的地铁线路图**。其中：
 
 - [《主世界》](#主世界线路图)包括公认的“公共铁路网”（含“一级铁路”“二级铁路”），以及不属于“公共铁路网”、但与其**直接**接驳的线路。
 - [《下界》](#下界交通网线路图)包括**由樱华町（出征楼）传送门附近出发**，在下界Y=7处铺设的交通网（含铁路线及冰、铁混合线）。
@@ -29,7 +29,7 @@
 
 ## 主世界线路图
 
-![主世界轨道交通](../../assets/images/map-navi/map-Overworld-Rail-iDemkors.png)
+![主世界轨道交通](../../assets/images/map-navi/map-Overworld-Rail-Ceallium.png)
 
 ?> :information_source: 「阿库亚斯」三个站台分别称  
 **「阿库亚斯站」「阿库亚斯北站」以及「阿库亚斯南站」**，  
@@ -39,18 +39,18 @@
 
 ## 浪花町内地铁线路图
 
-![浪花町内地铁](../../assets/images/map-navi/map-Naniwa-subway-iDemkors.png)
+![浪花町内地铁](../../assets/images/map-navi/map-Naniwa-subway-Ceallium.png)
 
 - - -
 
 ## 新北市地铁线路图
 
-![新北市地铁](../../assets/images/map-navi/map-NewNorth-subway-iDemkors.png)
+![新北市地铁](../../assets/images/map-navi/map-NewNorth-subway-Ceallium.png)
 
 - - -
 
 ## 下界交通网线路图
 
-![下界交通网](../../assets/images/map-navi/map-nether-traffic-iDemkors.png)
+![下界交通网](../../assets/images/map-navi/map-nether-traffic-Ceallium.png)
 
 !> 更多搭乘指南请见[此页](space/map-navi/railway-nether "下界铁路搭乘指南")。

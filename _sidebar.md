@@ -14,7 +14,7 @@
   - [世界工程](nyaa/projects.md)
   - [经济设定](nyaa/economic.md)
   - [维度列表](nyaa/worlds.md)
-  - [用户组及权限](wiki/permission)
+  - [用户组及权限(LEGACY)](wiki/permission)
 - 玩家空间
   - [插件帮助](space/plugins.md)
   - [交通导航](space/map-navi.md)
