@@ -38,7 +38,8 @@ NyaaWiki 采用 [Docsify](https://docsify.js.org) 构建，源文件存放于 [G
   - `space` - 玩家贡献的各类内容。玩法、心得、各类整理的信息可以放在这里。
   - `tutorial` - 玩家贡献的各种教程。这里指的是手把手式、非常 case specific 的教程，而非一般的通用教学和知识整理。
   - `misc` - 各类杂项信息页面。
-  - `inf` - "Infinite Infernal" 子服务器相关内容。
+  - `inf` - "Infinite Infernal" 世界相关内容。
+    + `legacy` - 2018至2019年，作为子服务器独立运营时的内容。请勿更新其内容（但可参考）。
   - `nfs` - "Need For Speed" 子服务器相关内容。
   - `pvp` - "PVP" 子服务器相关内容。
   - `miu` - "美羽实验室" 子服务器相关内容。

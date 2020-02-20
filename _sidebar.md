@@ -21,6 +21,12 @@
   - [建筑教程](space/building.md)
   - [NPC 向导](space/npc.md)
   - [主世界道具图鉴](space/items.md)
+- [Infinite Infernal](inf/index)
+  + [月耀城介绍](inf/lunar-flare)
+  + [黑化怪物](inf/mobs)
+  + [特殊场所](inf/arena)
+  + [装备道具图鉴](inf/items)
+  + [生存战斗攻略](inf/guide)
 - Need For Speed
   - [赛事](nfs/events.md)
 - PVP 竞技场

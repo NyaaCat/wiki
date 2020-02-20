@@ -5,7 +5,7 @@
 
 !> 于**旧版**添加的道具已几乎全数失效，原则上不再收录。如需收录，其必须**仍可照常工作**。
 
-关于在子服务器 `inf` 的装备道具，请参见 [Infinite Infernal装备图鉴](inf/items)。
+关于在“无尽地狱”维度 `inf` 的装备道具，请参见 [Infinite Infernal装备图鉴](inf/items)。
 
 请点击以下【道具分类】了解详情：
 
@@ -13,4 +13,6 @@
 - [远程武器](space/items/remote-weapons.md)
 - [辅助道具](space/items/support.md)
 - 节庆用品（如焰火）
+- 周年纪念道具
+- 活动兑换道具
 - 旧版装备道具*（仍可工作的）*
