@@ -223,91 +223,98 @@ GNU/Linux 下 Minecraft 输入中文/日文等解决方案：(无需 Mod，无�
 
 此方案拥有比 bash 脚本更好的鲁棒性，适应多种情形，并绕过了一些坑。但是需要 Ruby 。（[Gist](https://gist.github.com/FiveYellowMice/86b73e35298467e2d89b5d0cc3db1f0d)）
 
-    #!/usr/bin/env ruby
-    # encoding: utf-8
-    # frozen_string_literal: true
+```ruby
+#!/usr/bin/env ruby
+# encoding: utf-8
+# frozen_string_literal: true
 
-    # mc-im.rb
-    # ========
-    #
-    # 在 Linux 下的 Minecraft 中输入中文。拥有比 bash 脚本更好的鲁棒性，适应多种情形，并绕过了一些坑。
-    #
-    # 使用方法
-    # -------
-    #
-    # 1. 将此脚本下载，保存在任意位置。（如 `/home/user/.bin/mc-im.rb` ）
-    # 2. 将此文件赋予执行权限。（如 `chmod +x /home/user/.bin/mc-im.rb` ）
-    # 3. 在你使用的桌面环境中，添加一个快捷键（如 Meta - c ），将执行的命令设置为脚本的路径。
-    # 4. （可选）再添加一个另外快捷键，将执行的命令设置为脚本的路径，并在后面加上一个空格和 `--direct` 。
-    #
-    # 使用 `--direct` 选项来直接输入文字，而不去按 Esc 、 t 和 Enter ，在输入告示牌等情形下有用。
-    #
-    # 要求
-    # ---
-    # 
-    # 需要 Ruby 1.9 或更高版本。（除非你用的是比 Debian 7, Ubuntu 14.04, CentOS 7 还要老的发行版，这一般没有问题，不过还是确认一下你装了 Ruby 啊！）
-    # 需要 `xdotool` ，所以也只能在 X11 下工作。（不一定自带，请用包管理器装）
-    # 在 KDE 和 LXQt 中需要 `kdialog` ，而在其他桌面环境中需要 `zenity` 。（一般来说都是自带的）
-    #
-    # 版权
-    # ---
-    #
-    # 此脚本以公有领域授权。
+# mc-im.rb
+# ========
+#
+# 在 Linux 下的 Minecraft 中输入中文。拥有比 bash 脚本更好的鲁棒性，适应多种情形，并绕过了一些坑。
+#
+# 使用方法
+# -------
+#
+# 1. 将此脚本下载，保存在任意位置。（如 `/home/user/.bin/mc-im.rb` ）
+# 2. 将此文件赋予执行权限。（如 `chmod +x /home/user/.bin/mc-im.rb` ）
+# 3. 在你使用的桌面环境中，添加一个快捷键（如 Meta - c ），将执行的命令设置为脚本的路径。
+# 4. （可选）再添加一个另外快捷键，将执行的命令设置为脚本的路径，并在后面加上一个空格和 `--direct` 。
+#
+# 使用 `--direct` 选项来直接输入文字，而不去按 Esc 、 t 和 Enter ，在输入告示牌等情形下有用。
+#
+# 要求
+# ---
+# 
+# 需要 Ruby 1.9 或更高版本。（除非你用的是比 Debian 7, Ubuntu 14.04, CentOS 7 还要老的发行版，这一般没有问题，不过还是确认一下你装了 Ruby 啊！）
+# 需要 `xdotool` ，所以也只能在 X11 下工作。（不一定自带，请用包管理器装）
+# 在 KDE 和 LXQt 中需要 `kdialog` ，而在其他桌面环境中需要 `zenity` 。（一般来说都是自带的）
+#
+# 版权
+# ---
+#
+# 此脚本以公有领域授权。
 
-    TITLE_TEXT = "输入"
-    LABEL_TEXT = "在此输入文字："
+TITLE_TEXT = "输入"
+LABEL_TEXT = "在此输入文字："
 
-    def press(*keystrokes)
-      system 'xdotool', 'key', '--delay', '100', *keystrokes
-    end
+def press(*keystrokes)
+  system 'xdotool', 'key', '--delay', '100', *keystrokes
+end
 
-    def type(str)
-      system 'xdotool', 'type', '--delay', '100', '--', str
-    end
+def type(str)
+  system 'xdotool', 'type', '--delay', '100', '--', str
+end
 
-    input =
-    if %w(KDE LXQt).include? ENV['XDG_CURRENT_DESKTOP']
-      `kdialog --title '#{TITLE_TEXT}' --inputbox '#{LABEL_TEXT}'`
-    else
-      `zenity --entry --title '#{TITLE_TEXT}' --text '#{LABEL_TEXT}'`
-    end.chomp
+input =
+if %w(KDE LXQt).include? ENV['XDG_CURRENT_DESKTOP']
+  `kdialog --title '#{TITLE_TEXT}' --inputbox '#{LABEL_TEXT}'`
+else
+  `zenity --entry --title '#{TITLE_TEXT}' --text '#{LABEL_TEXT}'`
+end.chomp
 
-    sleep 0.1
+sleep 0.1
 
-    if ARGV.include? '--direct'
-      type ' '
-      press 'BackSpace'
-      type input
-    elsif !input.empty?
-      press 'Escape', 't'
-      sleep 0.2
-      type input
-      press 'Return'
-    else
-      press 'Escape'
-    end`
+if ARGV.include? '--direct'
+  type ' '
+  press 'BackSpace'
+  type input
+elsif !input.empty?
+  press 'Escape', 't'
+  sleep 0.2
+  type input
+  press 'Return'
+else
+  press 'Escape'
+end`
+```
 
 ##### 方案二
 此方案也可写入告示牌。需要 zenity 和 xdotool，如果用 `apt-get` 的话可以用 `sudo apt-get install zenity xdotool` 来安装：[1)](#fn__1)
 
-   
-	#!/bin/bash -e
-    chars=$(zenity --title 中文输入 --text 中文输入 --width 500 --entry 2&gt;/dev/null)
-    sleep 0.1
-    xdotool key --delay 150 Escape t
-    sleep 0.2
-    xdotool type --delay 150 "$chars"
-    xdotool key Return`
+```bash
+#!/bin/bash -e
+chars=$(zenity --title 中文输入 --text 中文输入 --width 500 --entry 2&gt;/dev/null)
+sleep 0.1
+xdotool key --delay 150 Escape t
+sleep 0.2
+xdotool type --delay 150 "$chars"
+xdotool key Return`
+```
+
 如果不想自动按 t 和回车的话（如写入告示牌的情形），可以去掉不需要的行：
 
-    #!/bin/bash
-    chars=$(zenity --title 中文输入 --text 中文输入 --width 500 --entry 2&gt;/dev/null)
-    xdotool type --delay 150 "$chars"`
+```bash
+#!/bin/bash
+chars=$(zenity --title 中文输入 --text 中文输入 --width 500 --entry 2>/dev/null)
+xdotool type --delay 150 "$chars"`
+```
 
 如果不想使用 zenity 的话，请根据你所使用的工具来修改第二行。如 Ubuntu 下用 gdialog ，就将第二行修改为：
 
-	chars=$(gdialog --inputbox ' ' 2>&1)
-    
+```bash
+chars=$(gdialog --inputbox ' ' 2>&1)
+```
 
 #### macOS 下 Minecraft 如何在聊天框输入中文（或其他 CJK 字符）？
 
