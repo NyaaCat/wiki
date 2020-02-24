@@ -9,3 +9,4 @@
 |[HamsterEcoHelper](space/plugins/hamsterecohelper.md)|经济流动辅助插件|
 |[CapCat](space/plugins/capcat.md)|传送牌子介绍|
 |[NyaaBank](space/plugins/nyaabank-instructions)|基于木牌的银行|
+|[InfiniteInfernal](space/plugins/infinite-infernal-assistant.md)| “无尽地狱”相关的辅助功能|
