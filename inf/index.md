@@ -21,11 +21,11 @@
 
 以下是有关“无尽地狱”的一切实用资料。
 
-- [月耀城](inf/lunar-flare) - 世界中心
-- [黑化怪物](inf/mobs) - 相比原版全面进化的超强怪物，四周闪耀火星。
-- [特殊场所](inf/arena) - 有精英黑化怪，或者NPC出没
-- [装备道具图鉴](inf/items) - 针对黑化怪设计的特色装备道具
-- [辅助功能](space/plugins/infinite-infernal-assistant) - 团队、击杀广播、怒气/魔力条等辅助服务
+- [月耀城](inf/lunar-flare.md) - 世界中心
+- [黑化怪物](inf/mobs.md) - 相比原版全面进化的超强怪物，四周闪耀火星。
+- [安全城镇](inf/safety-towns.md) - 月耀城以外的安全屋，有NPC出没
+- [装备道具图鉴](inf/items.md) - 针对黑化怪设计的特色装备道具
+- [辅助功能](space/plugins/infinite-infernal-assistant.md) - 团队、击杀广播、怒气/魔力条等辅助服务
 - **生存战斗攻略** - 在“无尽地狱”活下去所必需的技巧
   + [开发组简易攻略](inf/guide.md) - 来自*奈诺* 的全方位介绍。~~非常简单易懂。~~
 

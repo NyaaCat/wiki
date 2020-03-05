@@ -24,7 +24,8 @@
 - [Infinite Infernal](inf/index)
   + [月耀城介绍](inf/lunar-flare)
   + [黑化怪物](inf/mobs)
-  + [特殊场所](inf/arena)
+    * [精英怪](inf/mobs/specialist.md)
+  + [安全城镇](inf/safety-towns)
   + [装备道具图鉴](inf/items)
   + [生存战斗攻略](inf/guide)
 - Need For Speed
