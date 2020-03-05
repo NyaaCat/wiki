@@ -14,17 +14,19 @@
   - [世界工程](nyaa/projects.md)
   - [经济设定](nyaa/economic.md)
   - [维度列表](nyaa/worlds.md)
+  - [用户组及权限(LEGACY)](wiki/permission)
 - 玩家空间
   - [插件帮助](space/plugins.md)
   - [交通导航](space/map-navi.md)
   - [建筑教程](space/building.md)
   - [NPC 向导](space/npc.md)
   - [主世界道具图鉴](space/items.md)
-- Infinite Infernal
-  - [新手教程](inf/guide.md)
-  - [敌怪](inf/mobs.md)
-  - [事件](inf/events.md)
-  - [物品图鉴](inf/items.md)
+- [Infinite Infernal](inf/index)
+  + [月耀城介绍](inf/lunar-flare)
+  + [黑化怪物](inf/mobs)
+  + [特殊场所](inf/arena)
+  + [装备道具图鉴](inf/items)
+  + [生存战斗攻略](inf/guide)
 - Need For Speed
   - [赛事](nfs/events.md)
 - PVP 竞技场

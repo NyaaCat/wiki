@@ -6,7 +6,19 @@
 
 总之你抽出一定时间仔细阅读 Wiki，后面只会节省更多时间！
 
-### 游戏相关
+## 初来者相关
+
+?> :heavy_check_mark: 关于初来者的大多数问题，[新人指南](nyaa/beginners-guide)应该皆可解答。
+
+#### 喵窝服务器对客户端有特别的要求吗？
+
+喵窝服务器不需要专用客户端，使用原版 Minecraft 客户端即可登录。
+
+装有合理的辅助性 Mod 的客户端也可接受。不过，如果你懒得自行配置Mod，可以直接使用喵窝玩家提供的 [整合包](wiki/resources.md)。
+
+#### 第一次加入服务器如何注册？以后如何登录？
+
+喵窝已经开启正版验证，不需要 `/login` 命令。只需确认已经使用正版方式启动游戏，并且位于服务器白名单之中，即可直接加入游戏。
 
 #### 我是新玩家，我应该去哪生存？
 
@@ -16,65 +28,33 @@
 - 如果你喜欢独居，则可以坐上喵窝的铁路，随意前往一个地方下车或转乘，直到你发现心仪的地形。确认不与他人占地冲突后，即可开始自由生存。
 - 亦或者你胸怀大志，想要建设一个城市或景观区，请访问[规划用地图](https://map.nyaacat.com/nyaa/)寻找合适的位置，然后动身前往。
 
+#### 为什么我感觉服务器突然好卡啊？
+
+首先你可以尝试使用 `/ping` 命令检查你与服务器的延迟。如果延迟不正常，请尝试检查你自身的网络状况，或更换其它游戏线路。
+
+如果延迟正常但游戏卡顿，意味着游戏服务器可能出现 [TPS](https://www.zhihu.com/question/269769734/answer/349795953) 过低等异常状况，请联系管理组反馈以协助解决问题。
+
 #### 我该怎么赚钱？
 
-最简单的方式是生产。从基础原材料到用心打磨的武器，放在店里总会有人光顾。请访问[Wiki: 经济设定](nyaa/economic.md)页面了解如何销售物品。
+最简单的方式是生产。从基础原材料到稀有玩具、装备，放在店里总会有人光顾。请访问[Wiki: 经济设定](nyaa/economic.md)页面了解如何销售物品。
 
 当然生意总是细水长流。如果你需要一大笔启动资金，不妨了解一下[世界工程](nyaa/projects)或寻找任务发布栏、询问在线玩家等，认领、完成各种工程任务来赚取大笔资财。
-
-#### 喵窝服务器对客户端有特别的要求吗？
-
-喵窝服务器不需要专用客户端，使用原版 Minecraft 客户端即可登录。
-
-不过，如果你懒得自行配置带有辅助性 mod 的客户端，可以直接使用喵窝玩家提供的 [整合包](wiki/resources.md)。
-
-#### 第一次加入服务器如何注册？以后如何登录？
-
-喵窝已经开启正版验证，不需要 `/login` 命令。只需确认已经使用正版方式启动游戏，并且位于服务器白名单之中，即可直接加入游戏。
 
 #### 如何去其它维度（世界）？
 
 命令 `/mvtp [维度代号]` 可达。
 但该命令仅可前往指定维度的总出生点。若需抵达出生点以外的任意位置，请使用[传送牌](tutorial/teleport-capcat.md)。
 
-如果是下界或末地，可前往主世界对应的传送门前往。
+如果是下界或末地，还可通过主世界对应的传送门前往。
 
-#### 我通过 ''/ptt ac'' 命令领取了一个名称为「樱花辦」的粉色染料外形物品，它可以做什么？
+##### 那么，我能不能自己摆个下界传送门？
 
-这是用于启动 月常环游任务(目前已暂时移除) 的中间兑换物。
+一般在野外，下界传送门可自行设置；但在聚落内则不建议私自设置，应首先和聚落内其他邻居共同决定。  
+若你新摆设的传送门与既有的门发生“串门”，应**以既有者为先，不得私自破坏或更改其目的地。**
 
-##### 这名字好像有什么不对？
+#### 我可以自行举办活动吗？
 
-不错，“辦”应作“瓣”。然而，其乃万物之源，此生已不可能改正……
-
-#### 如何设置名称前/后缀？
-
-目前支持通过命令自助设置前后缀。请参阅 [本页面](tutorial/nyaautils.md) 中 前缀/后缀 一节了解详情。
-
-#### 维修点在哪里？该如何使用？
-
-目前已废弃维修点，请移步 [这里](tutorial/Item-repair.md) 参看新版维修方法。
-
-#### 为什么有一些非工具的物品有附魔？它们可以给其它工具附魔吗？
-
-这些附魔往往**仅用于装饰**，不能给其它工具附魔。
-
-一些东西可能具有其他的加成属性，比如增加你的攻击、速度等，这时你可以选择把它们戴在头上（`/hat`），或者放在副手上。
-
-一些附魔可能会间接工作（比如使用带有时运附魔的非工具物品收割作物可以增加产量），但并不靠谱，请不要依赖这个技巧。
-
-#### 一些在原版 Minecraft 里只有 1 级的附魔（精确采集、经验修补等），为什么在喵窝会存在 2 级以上的？这类附魔等级高会有特别的 buff 吗？
-
-这些附魔等级**仅用于装饰**，并不会带来特别的 buff；由此可见，经验修补 1 与经验修补 10 的效力一致。
-
-#### 为什么我感觉服务器突然好卡啊？
-
-首先你可以尝试使用 `/ping` 命令检查你与服务器的延迟。如果延迟不正常，请尝试检查你自身的网络状况，或更换其它游戏线路。
-
-如果延迟正常但游戏卡顿，意味着游戏服务器可能出现 [TPS 过低](https://www.spigotmc.org/threads/what-is-tps.4277/) 等异常状况，请联系管理组反馈以协助解决问题。
-
-#### 如何申请举办活动？
-
+当然可以。  
 请事先计划好整个活动的各方面细节，包括主办方(一名或多名玩家或服内玩家组织)、活动名称、活动主题、时间、地点、可以参与的玩家、活动流程细节、需要管理组做何种支持等。制作成一份活动规划发送至管理组邮件列表：`owo@nyaa.cat`。管理组审核后会予以回复。
 
 #### 修改密码后无法登陆？
@@ -95,14 +75,75 @@
 
 了。
 
-### Nyaa BBS 相关
+
+
+## 关于物品
+
+#### 我通过「`/ptt ac`」命令领取了一个名称为「樱花辦」的粉色染料外形物品，它可以做什么？
+  
+先收藏，以后其自有用处。
+
+##### 这名字好像有什么不对？
+
+不错，“辦”应作“瓣”。然而，其乃万物之源，此生已不可能改正……
+
+#### 如何设置名称前/后缀？
+
+目前支持通过命令自助设置前后缀。请参阅 [NyaaUtils帮助](space/plugins/nyaautils.md#更改前后缀) 中 前缀/后缀 一节了解详情。
+
+#### 我看商店里，那些装备道具似乎很厉害，值得买吗？
+
+视情况而定。对于超出原版的道具，请注意：**目前只有以下道具尚具备价值。**
+1. 在描述的最后，明确写明**使用方法**，以及以**阿拉伯数字**表示最大能量值、剩余能量值的装备道具（即新版 RPGItem）。
+  + 某些道具未写能量值，仅写明了**使用方法（具体到用哪个键）以及效果**。这种是可用的一次性RPGItem，也具备价值。
+1. 包含若干原版附魔的装备道具（等级越高越好）。
+  + 附魔书除外。
+1. 描述最后包含**“Unbreakable（无法破坏）”**的道具。
+  + 含有此的盔甲不包含在内：受伤时，其只能以附魔吸收伤害，使保护效果打折扣。
+1. 新版（2019年10月以后所创建的）兑换需求道具。
+  + 其年代应不早于2019年圣诞节活动。
+
+原版可得者，一般较少见诸市场（因为不及上述装备强力/好玩）。当然，都可以买。
+
+##### 我已经买了坏掉的旧道具，怎么办？
+
+部分道具已有翻新版本，可以**找我们辛勤可耐的，** ***卷老师*** **换货！**  
+没有的，可以找店主协商退货。
+
+#### 为什么有一些非工具的物品有附魔？它们可以给其它工具附魔吗？
+
+这些附魔往往**仅用于装饰**，不能给其它工具附魔。
+
+一些东西可能具有其他的加成属性，比如增加你的攻击、速度等，这时你可以选择把它们戴在头上（`/hat`），或者放在副手上。
+
+一些附魔可能会间接工作（比如使用带有时运附魔的非工具物品收割作物可以增加产量），但并不靠谱，请不要依赖这个技巧。
+
+#### 我看到这装备有陌生的附魔，红色字的，它厉害吗？
+
+现在**无用**，也不厉害。你就当它不存在。
+
+#### 一些在原版 Minecraft 里只有 1 级的附魔（精确采集、经验修补等），为什么在喵窝会存在 2 级以上的？这类附魔等级高会有特别的 buff 吗？
+
+这些附魔等级**仅用于装饰**，并不会带来特别的 buff；由此可见，经验修补 1 与经验修补 10 的效力一致。
+
+##### 那么原来最高 3~5 级（如效率、时运）的呢？我看它们都去到 10 级了。
+
+恭喜你，你捡到宝了。它们真的有用。
+
+##### 它们究竟是怎么来的？
+
+历史遗留问题。玩久了，你会发现个中真谛。
+
+
+
+## Nyaa BBS 相关
 
 #### 别人发的论坛链接都是 HTTP 404，怎么办？
 ~~先在浏览器中登录论坛（没有帐户的话请先注册），再打开链接。~~
 
 这意味着 [帖子位于自宅板块，且你没有获得 Verified 权限](https://bbs.nyaa.cat/d/4)。如果你确认获得了相关权限，那才是别人真的手滑打错地址了。
 
-以及喵窝的梯子在自宅板块。
+~~以及喵窝的梯子在自宅板块。~~<sup>（当前几乎不可用）</sup>
 
 #### 我该如何分辨管理员和站长？
 
@@ -110,44 +151,44 @@
 
 将鼠标移动到徽章上可看到这些徽章的具体含义。
 
-### Nyaa Wiki 相关
+#### 头像上粉红色的徽章是什么？我能获取吗？
 
-#### 如何获得 Wiki 的帐号？
+该徽章意为「Verified」（已认证），当在NyaaBBS**累计发帖、回复50次以上**时，即有资格获取之。  
+需要获取时，联系管理员处理。
 
-发送邮件到 &lt;owo#nyaa.cat&gt; (记得把“#“换成”@”)，注明请求 Wiki 帐号就可以了喵~
 
-请求通过后管理员会将用户名和密码以邮件的方式发送给你，登录之后可以通过右上角的「编辑资料」修改密码。
 
-#### 那个，Wiki 的语法是？
+## Nyaa Wiki 相关
 
-现在的 NyaaWiki 使用可视化编辑器。如要练手，可前往 【[Playground](misc/playground.md)】体验 。
+?> :information_source: **如需编辑Wiki，请见子页面：[参与贡献 Wiki](wiki/contribute)**
 
-#### 没有那个啥啥页面，咋办？
+#### 没有那个啥啥页面或描述，咋办？
 
-去创建它呗~在相应的图书页面，点击右上角的+新页面即可。
+可以自行编辑，亦可联系已参与编辑Wiki的伙伴协助。
 
 #### 原来侧边栏的（页面名称）不见了
 
 尝试进行搜索。但如果还是找不到，说明页面确实被删除了。
 
-### 社区相关
 
 
-##### 为什么喵窝需要正版？我能申请正版 giftcode 吗？
+## 社区相关
+
+#### 为什么喵窝需要正版？我能申请正版 giftcode 吗？
 
 *   使用正版，即承认您尊重商品的著作权，并能正确地使用产品。喵窝服务器使用正版验证是希望您能够：
-    *   了解正版版权的重要性
-        *   有足够的自制能力，能够在游戏里做到主动遵守规则
-        *   能够在游戏中主动承担起相应的玩家责任，在发生问题或冲突时，主动承担自己方面的责任并协助管理员解决问题
+    +   了解正版版权的重要性
+    +   有足够的自制能力，能够在游戏里做到主动遵守规则
+    +   能够在游戏中主动承担起相应的玩家责任，在发生问题或冲突时，主动承担自己方面的责任并协助管理员解决问题
 *   **您必须确认您满足以下要求方可申请 Minecraft 的正版 giftcode**
-    *   您有较好的作品，包括但不限于 Minecraft 相关
-        *   您是喵窝服务器的老玩家，但尚未申请正版
+    +   您有较好的作品，包括但不限于 Minecraft 相关
+    +   您是喵窝服务器的老玩家，但尚未申请正版
 *   申请须发送邮件到 `owo@nyaa.cat` (由于一些问题，请不要使用 163 / 126 / yeah.net 等网易邮箱服务)，**包含以下内容**：
-    *   玩家游戏 ID
-        *   邀请玩家 ID
-        *   希望获取正版 giftcode 的原因
-        *   接触 Minecraft 历史
-        *   优秀作品，包括但不限于 Minecraft 建筑作品，附有图或作品地址
+    +   玩家游戏 ID
+    +   邀请玩家 ID
+    +   希望获取正版 giftcode 的原因
+    +   接触 Minecraft 历史
+    +   优秀作品，包括但不限于 Minecraft 建筑作品，附有图或作品地址
 
 #### 你们说的星球是什么东西啊，不是很懂
 
@@ -167,7 +208,7 @@
 [哪些起源或流行于宅圈的文化已完全不代表宅文化.AFTER](http://miz.audio/posts/otaku-for-the-past-3)
 
 
-### 技术问题
+## 技术问题
 
 #### 服务器地址无法解析？显示 Unknown host?
 
@@ -182,106 +223,117 @@ GNU/Linux 下 Minecraft 输入中文/日文等解决方案：(无需 Mod，无�
 
 此方案拥有比 bash 脚本更好的鲁棒性，适应多种情形，并绕过了一些坑。但是需要 Ruby 。（[Gist](https://gist.github.com/FiveYellowMice/86b73e35298467e2d89b5d0cc3db1f0d)）
 
-    #!/usr/bin/env ruby
-    # encoding: utf-8
-    # frozen_string_literal: true
+```ruby
+#!/usr/bin/env ruby
+# encoding: utf-8
+# frozen_string_literal: true
 
-    # mc-im.rb
-    # ========
-    #
-    # 在 Linux 下的 Minecraft 中输入中文。拥有比 bash 脚本更好的鲁棒性，适应多种情形，并绕过了一些坑。
-    #
-    # 使用方法
-    # -------
-    #
-    # 1. 将此脚本下载，保存在任意位置。（如 `/home/user/.bin/mc-im.rb` ）
-    # 2. 将此文件赋予执行权限。（如 `chmod +x /home/user/.bin/mc-im.rb` ）
-    # 3. 在你使用的桌面环境中，添加一个快捷键（如 Meta - c ），将执行的命令设置为脚本的路径。
-    # 4. （可选）再添加一个另外快捷键，将执行的命令设置为脚本的路径，并在后面加上一个空格和 `--direct` 。
-    #
-    # 使用 `--direct` 选项来直接输入文字，而不去按 Esc 、 t 和 Enter ，在输入告示牌等情形下有用。
-    #
-    # 要求
-    # ---
-    # 
-    # 需要 Ruby 1.9 或更高版本。（除非你用的是比 Debian 7, Ubuntu 14.04, CentOS 7 还要老的发行版，这一般没有问题，不过还是确认一下你装了 Ruby 啊！）
-    # 需要 `xdotool` ，所以也只能在 X11 下工作。（不一定自带，请用包管理器装）
-    # 在 KDE 和 LXQt 中需要 `kdialog` ，而在其他桌面环境中需要 `zenity` 。（一般来说都是自带的）
-    #
-    # 版权
-    # ---
-    #
-    # 此脚本以公有领域授权。
+# mc-im.rb
+# ========
+#
+# 在 Linux 下的 Minecraft 中输入中文。拥有比 bash 脚本更好的鲁棒性，适应多种情形，并绕过了一些坑。
+#
+# 使用方法
+# -------
+#
+# 1. 将此脚本下载，保存在任意位置。（如 `/home/user/.bin/mc-im.rb` ）
+# 2. 将此文件赋予执行权限。（如 `chmod +x /home/user/.bin/mc-im.rb` ）
+# 3. 在你使用的桌面环境中，添加一个快捷键（如 Meta - c ），将执行的命令设置为脚本的路径。
+# 4. （可选）再添加一个另外快捷键，将执行的命令设置为脚本的路径，并在后面加上一个空格和 `--direct` 。
+#
+# 使用 `--direct` 选项来直接输入文字，而不去按 Esc 、 t 和 Enter ，在输入告示牌等情形下有用。
+#
+# 要求
+# ---
+# 
+# 需要 Ruby 1.9 或更高版本。（除非你用的是比 Debian 7, Ubuntu 14.04, CentOS 7 还要老的发行版，这一般没有问题，不过还是确认一下你装了 Ruby 啊！）
+# 需要 `xdotool` ，所以也只能在 X11 下工作。（不一定自带，请用包管理器装）
+# 在 KDE 和 LXQt 中需要 `kdialog` ，而在其他桌面环境中需要 `zenity` 。（一般来说都是自带的）
+#
+# 版权
+# ---
+#
+# 此脚本以公有领域授权。
 
-    TITLE_TEXT = "输入"
-    LABEL_TEXT = "在此输入文字："
+TITLE_TEXT = "输入"
+LABEL_TEXT = "在此输入文字："
 
-    def press(*keystrokes)
-      system 'xdotool', 'key', '--delay', '100', *keystrokes
-    end
+def press(*keystrokes)
+  system 'xdotool', 'key', '--delay', '100', *keystrokes
+end
 
-    def type(str)
-      system 'xdotool', 'type', '--delay', '100', '--', str
-    end
+def type(str)
+  system 'xdotool', 'type', '--delay', '100', '--', str
+end
 
-    input =
-    if %w(KDE LXQt).include? ENV['XDG_CURRENT_DESKTOP']
-      `kdialog --title '#{TITLE_TEXT}' --inputbox '#{LABEL_TEXT}'`
-    else
-      `zenity --entry --title '#{TITLE_TEXT}' --text '#{LABEL_TEXT}'`
-    end.chomp
+input =
+if %w(KDE LXQt).include? ENV['XDG_CURRENT_DESKTOP']
+  `kdialog --title '#{TITLE_TEXT}' --inputbox '#{LABEL_TEXT}'`
+else
+  `zenity --entry --title '#{TITLE_TEXT}' --text '#{LABEL_TEXT}'`
+end.chomp
 
-    sleep 0.1
+sleep 0.1
 
-    if ARGV.include? '--direct'
-      type ' '
-      press 'BackSpace'
-      type input
-    elsif !input.empty?
-      press 'Escape', 't'
-      sleep 0.2
-      type input
-      press 'Return'
-    else
-      press 'Escape'
-    end`
+if ARGV.include? '--direct'
+  type ' '
+  press 'BackSpace'
+  type input
+elsif !input.empty?
+  press 'Escape', 't'
+  sleep 0.2
+  type input
+  press 'Return'
+else
+  press 'Escape'
+end`
+```
 
 ##### 方案二
 此方案也可写入告示牌。需要 zenity 和 xdotool，如果用 `apt-get` 的话可以用 `sudo apt-get install zenity xdotool` 来安装：[1)](#fn__1)
 
-   
-	#!/bin/bash -e
-    chars=$(zenity --title 中文输入 --text 中文输入 --width 500 --entry 2&gt;/dev/null)
-    sleep 0.1
-    xdotool key --delay 150 Escape t
-    sleep 0.2
-    xdotool type --delay 150 "$chars"
-    xdotool key Return`
+```bash
+#!/bin/bash -e
+chars=$(zenity --title 中文输入 --text 中文输入 --width 500 --entry 2&gt;/dev/null)
+sleep 0.1
+xdotool key --delay 150 Escape t
+sleep 0.2
+xdotool type --delay 150 "$chars"
+xdotool key Return`
+```
+
 如果不想自动按 t 和回车的话（如写入告示牌的情形），可以去掉不需要的行：
 
-    #!/bin/bash
-    chars=$(zenity --title 中文输入 --text 中文输入 --width 500 --entry 2&gt;/dev/null)
-    xdotool type --delay 150 "$chars"`
+```bash
+#!/bin/bash
+chars=$(zenity --title 中文输入 --text 中文输入 --width 500 --entry 2>/dev/null)
+xdotool type --delay 150 "$chars"`
+```
 
 如果不想使用 zenity 的话，请根据你所使用的工具来修改第二行。如 Ubuntu 下用 gdialog ，就将第二行修改为：
 
-	chars=$(gdialog --inputbox ' ' 2>&1)
-    
+```bash
+chars=$(gdialog --inputbox ' ' 2>&1)
+```
 
 #### macOS 下 Minecraft 如何在聊天框输入中文（或其他 CJK 字符）？
 
-(无需 Mod，无需修改客户端，支持任何输入法)
+根据笔者测试，喵窝目前使用的游戏版本在 macOS Catalina (10.15.3) 可以正常通过输入法输入中文。如果需要使用旧的游戏版本或 macOS 版本，可以参考以下内容：
 
-注：仅在 10.9 测试通过，据玩家报告 10.10 下使用异常。 以下提供[经 @OrcaXS 修改的 mc-chat-helper](https://github.com/OrcaXS/minecraft-chat-helper)。 使用 Github for Mac 可以将其直接克隆到本地。也可以使用 git clone 指令克隆此脚本到任意目录，具体终端操作如下：
-
-    git clone https://github.com/OrcaXS/minecraft-chat-helper:/Users/XXX/AppleScript`
-
-请将 XXX 设定为您的用户名，脚本所在目录也可以设定为任意位置）
-之后的具体设定方法请参见 [@OrcaXS 的GIST](https://gist.github.com/OrcaXS/312e80a899ad425a98e5)。
-
-游戏时，请直接按下设定的快捷键（比如：Cmd + T），屏幕内将会弹出对话框，即可输入任意文字，回车后自动发送。
-
-如果使用 Forge 的话，可以使用 [CocoaInput](https://minecraft.curseforge.com/projects/cocoainput)
+> (无需 Mod，无需修改客户端，支持任何输入法)
+>
+> 注：仅在 10.9 测试通过，据玩家报告 10.10 下使用异常。 以下提供[经 @OrcaXS 修改的 mc-chat-helper](https://github.com/OrcaXS/minecraft-chat-helper)。 使用 Github for Mac 可以将其直接克隆到本地。也可以使用 git clone 指令克隆此脚本到任意目录，具体终端操作如下：
+>
+> ```bash
+> git clone https://github.com/OrcaXS/minecraft-chat-helper:/Users/XXX/AppleScript`
+> ```
+>
+> 请将 XXX 设定为您的用户名，脚本所在目录也可以设定为任意位置）
+> 之后的具体设定方法请参见 [@OrcaXS 的GIST](https://gist.github.com/OrcaXS/312e80a899ad425a98e5)。
+>
+> 游戏时，请直接按下设定的快捷键（比如：Cmd + T），屏幕内将会弹出对话框，即可输入任意文字，回车后自动发送。
+>
+> 如果使用 Forge 的话，可以使用 [CocoaInput](https://minecraft.curseforge.com/projects/cocoainput)
 
 #### 下载文件失败/无法登录正版服务器
 
@@ -347,7 +399,7 @@ GNU/Linux 下 Minecraft 输入中文/日文等解决方案：(无需 Mod，无�
 [2)](#fnt__2)
 [Java Networking and Proxies](https://docs.oracle.com/javase/8/docs/technotes/guides/net/proxies.htm)
 
-### 插件相关
+## 插件相关
 
 #### 如何使用锁箱插件？
 
@@ -370,7 +422,7 @@ GNU/Linux 下 Minecraft 输入中文/日文等解决方案：(无需 Mod，无�
 [1)](#fnt__1)
 lockette [官方说明](https://dev.bukkit.org/bukkit-plugins/lockette/) 指出了插件会通过用户名历史来重新确认以前的箱子锁的所有权，但由于喵窝以前未开启正版验证等一系列历史原因，贸然改回可能会导致更大的麻烦。
 
-### 参与贡献
+## 参与贡献
 
 #### ~如何成为高级玩家？~
 

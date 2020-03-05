@@ -4,10 +4,9 @@
 
 ### 当前世界「喵窝」
 
-服务器版本 Paper 1.14.4 **Online mode**
+服务器版本 Paper 1.15.2 **Online mode**
 
-!> 请使用 1.14.4 版本客户端登录，允许加载 Mod。  
-如需进入“无尽地狱”`inf` 服务器，须使用 1.13.2 客户端直接登录。  
+!> 请使用 1.15.2 版本客户端登录，允许加载 Mod。   
 **不支持其他任何版本。**
 
 [主页](https://www.nyaa.cat) | [论坛](https://bbs.nyaa.cat) | [常见问题](wiki/faq.md) | [新人指南](nyaa/beginners-guide.md) | [游戏规则](wiki/rules.md) | [世界地图](https://map.nyaacat.com/nyaa)

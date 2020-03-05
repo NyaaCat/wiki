@@ -49,7 +49,7 @@
 |`/heh shop lotto info`	|查询抽奖奖池存储箱位置	 ||
 |`/heh search [关键词] [选项:值]`	|搜索世界木牌商店中的商品	 ||
 |`/heh searchpage [页码]`	|搜索结果页翻页	 ||
-|`/heh transaction sellto [玩家 ID] [单价]`<br />`/hsellto [玩家 ID] [单价]`	|向指定玩家出售手中物品，并发送账单	 ||
+|`/heh transaction sellto [玩家 ID] [总价]`<br />`/hsellto [玩家 ID] [总价]`	|向指定玩家出售手中物品，并发送账单	 ||
 |`/heh transaction pay [账单 ID]`<br />`/hpay [账单 ID]` |支付指定账单，并收货	|收费|
 |`/heh transaction cancel [账单 ID]`	|取消指定账单	 ||
 |`/npc hehshop`	|创建一个NPC，替代自己售货	|与自己样貌相同|
@@ -66,9 +66,9 @@
         *   `lore`：搜索包括描述
         *   `loreonly`：仅包括描述 选项间用 `|` 并列，如 `ench|lore`
 
-?> :v: **以上参数组合范例**  
+?> :heavy_check_mark: **以上参数组合范例**  
 在所有木牌商店中，查找带有『经验修补』附魔的附魔书：  
-`/heh search MENDING i:enchanted_book a:ench`
+`/heh search SILK_TOUCH i:enchanted_book a:ench`
 
 
 ## 物品类
@@ -77,14 +77,18 @@
 | 命令| 说明| 备注 |
 | ------------ | ------------ | ------------ |
 |`/nu rename [名称]`	|重命名物品	|可使用样式代码；收费|
-|`/nu repair info`	|查看手中物品修复信息	||
-|`/nu repair hand`	|修复主手上的工具、武器	|消耗副手上的一个修复用材料|
-|`/nu repair full`	|修复主手上的工具、武器	|副手持修复用材料，尽最大可能修复|
-|`/nu enchant info`	|查询副手中附魔源详情	 ||
-|`/nu enchant [附魔名称] [附魔等级]`	|对主手的物品附魔	|牺牲副手上的附魔源|
+|~~`/nu repair info`~~	|查看手中物品修复信息	||
+|~~`/nu repair hand`~~	|修复主手上的工具、武器	|消耗副手上的一个修复用材料|
+|~~`/nu repair full`~~	|修复主手上的工具、武器	|副手持修复用材料，尽最大可能修复|
+|~~`/nu enchant info`~~	|查询副手中附魔源详情	 ||
+|~~`/nu enchant [附魔名称] [附魔等级]`~~	|对主手的物品附魔	|牺牲副手上的附魔源|
+|`/hat` | 将主手中的物品作为头盔穿戴 | 可突破原版限制；置换头盔栏的物品（若有） |
 
+!> 据多人报告，修复及附魔命令不再工作。
 
 ## 辅助类
+
+**主条目：[NyaaUtils 插件指南](space/plugins/nyaautils.md)**
 
 | 命令| 说明| 备注 |
 | ------------ | ------------ | ------------ |
@@ -93,7 +97,7 @@
 |`/nu lp rejectvanilla`<br />`/nu lp re` |开启战利品保护|拒绝原版物品，但按住 Shift 键仍可捡起|
 |`/nu lp includevanilla`<br />`/nu lp ac`|开启战利品保护|包括原版物品|
 |`/nu el`	|切换飞行动力开关	| |
-|`/nu mailbox create`	创建邮箱	|执行后，右键点击要用作收件箱的箱子||
+|`/nu mailbox create`		|创建邮箱|执行后，右键点击要用作收件箱的箱子|
 |`/nu mailbox remove`	|删除自己的邮箱	 ||
 |`/nu mailbox info`	|查看自己的邮箱信息	 ||
 |`/nu mailbox send` [玩家 ID]	|发送手中的物品	|收费|
@@ -108,8 +112,34 @@
 |`/nu exhibition unset`	|取消物品展示框保护	 ||
 |`/nu expcap store [经验值]`	|将指定数量的经验存储到附魔瓶里	|经验值为“all”时，存储身上所有经验|
 |`/nu expcap restore [经验值]`	|从附魔瓶提取指定数量的经验	|经验值为“all”时，提取所有经验|
-|`/nu sit`	|开启或关闭“席地而坐”	|仅支持半砖、楼梯、毛毯、床（在白天）|
+|`/nu sit`	|开启或关闭“席地而坐”	|仅支持台阶、楼梯、毛毯、床（在白天）|
 |`/nu se sign [行数] [内容]` | 预编辑手中的告示牌 |编辑后放置，直接点击“完成”|
 |`/mail send [玩家 ID] [正文]`	|向指定玩家发送私信	 |正文加玩家ID字数限制**244字**|
 |`/mail read`	|阅读新私信	 ||
 |`/mail clear`	|清空私信箱	 ||
+|`/nick [玩家ID] [昵称]` | 修改在主服务器的昵称 | 优先于游戏ID显示，但不影响之<br />昵称为“off”时，移除昵称 |
+
+### “肝黑”辅助系列
+
+**主条目：[Infinite Infernal相关辅助功能](space/plugins/infinite-infernal-assistant.md)**
+
+|命令|说明|备注|
+|-|-|-|
+|`/imb [on\|off\|auto]` | 选择怒气/魔力指示条的显示方式 | on = 永远显示<br />off = 永远隐藏<br />auto = 在“无尽地狱”显示，在其他维度隐藏 |
+|`/imi [all\|me\|near\|off]` | 选择「黑化怪被击杀」广播的接收范围 | all = 全世界<br />me = 由自己击杀的广播<br />near = 自己在无尽地狱，一定范围内的所有广播<br />off = 永不接收 |
+|`/ig list` | 列出目前现有的团队 ||
+|`/ig accept` | 接受某团队的邀请，加入该团队 | 若已加入另一团队，则自动离开之 |
+|`/ig deny` | 拒绝某团队的邀请 ||
+|`/ig leave` | 离开所在团队 | 若你为最后一名成员，则团队自动解散 |
+|`/ig create [团队名称]` | 建立一个团队 | 团队名不可与既有者重复 |
+|`/ig invite [玩家ID]` | 邀请指定玩家加入自己所在团队 | 30秒内有效 |
+
+
+## 服务器状态查询
+
+| 命令| 说明| 备注 |
+| - | - | - |
+|`/plist` |列出当前在主服务器的玩家||
+|`/glist` |列出在各个服务器的喵窝玩家|仅显示游戏ID|
+|`/tps` |显示服务器近10秒经过的游戏刻|每秒20刻为正常|
+|`/ping`|显示连接到服务器的延迟| 统计近10秒数据 |
