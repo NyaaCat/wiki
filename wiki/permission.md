@@ -42,9 +42,9 @@
 *   服务器群组插件：
     + 查看各子服务器 `/server`
     + 去往各子服务器 `/server [服务器代号]`
-*   喵窝辅助工具，详见 【[NyaaUtils 插件指南](tutorial/nyaautils.md)】
+*   喵窝辅助工具，详见 【[NyaaUtils 插件指南](space/plugins/nyaautils.md)】
 *   仓鼠症插件，包含天喵商城（世界商店）、木牌商店、拍卖、征购等。详见 【[HamsterEcoHelper 插件指南](space/plugins/hamsterecohelper.md)】
-*   传送牌(Capcat) 插件，详见【[指南](tutorial/teleport-capcat.md)】
+*   传送牌(Capcat) 插件，详见【[指南](space/plugins/capcat.md)】
     +   可购买及释放
 *   银行(NyaaBank) 插件：
     + 查看存款、贷款额 `/nb my`
@@ -92,9 +92,9 @@
 > *   仓鼠症插件，包含功能：
 >    +   增加为 6 个世界商店 slot
 >
-> 普通玩家**在线游戏时间**达到 128 小时后即可升级高级玩家，<span style="color: #800000;">**升级机会只有 1 次**</span>。  
+> 普通玩家**在线游戏时间（不包含 afk 时间）**达到 128 小时后，PlayTimeTracker 会在聊天屏幕提示你可以领取 `advanced` 奖励，输入 `/ptt ac` 即可自助升级高级玩家，升级机会只有 1 次。  
 高级玩家 30 天不活跃后会自动降级为普通玩家。  
-降级或错过升级机会后，若欲再次升级，需要向管理员申请重新积累 128 小时。已积累的游戏时间不会清空。
+降级或错过升级机会后，若欲再次升级，需要向管理员申请重新积累 128 小时，积累到足够的时间后即可再次获取奖励。已积累的游戏时间不会清空。
 
 ### 建筑师 | Builder
 
