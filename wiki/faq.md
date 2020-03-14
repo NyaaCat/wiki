@@ -117,7 +117,7 @@
 
 一些东西可能具有其他的加成属性，比如增加你的攻击、速度等，这时你可以选择把它们戴在头上（`/hat`），或者放在副手上。
 
-一些附魔可能会间接工作（比如使用带有时运附魔的非工具物品收割作物可以增加产量），但并不靠谱，请不要依赖这个技巧。
+一些附魔可能会间接工作，但并不靠谱，请不要依赖这个技巧。
 
 #### 我看到这装备有陌生的附魔，红色字的，它厉害吗？
 
@@ -311,7 +311,7 @@ elsif !input.empty?
   press 'Return'
 else
   press 'Escape'
-end`
+end
 ```
 
 ##### 方案二
@@ -324,7 +324,7 @@ sleep 0.1
 xdotool key --delay 150 Escape t
 sleep 0.2
 xdotool type --delay 150 "$chars"
-xdotool key Return`
+xdotool key Return
 ```
 
 如果不想自动按 t 和回车的话（如写入告示牌的情形），可以去掉不需要的行：
@@ -332,7 +332,7 @@ xdotool key Return`
 ```bash
 #!/bin/bash
 chars=$(zenity --title 中文输入 --text 中文输入 --width 500 --entry 2>/dev/null)
-xdotool type --delay 150 "$chars"`
+xdotool type --delay 150 "$chars"
 ```
 
 如果不想使用 zenity 的话，请根据你所使用的工具来修改第二行。如 Ubuntu 下用 gdialog ，就将第二行修改为：
