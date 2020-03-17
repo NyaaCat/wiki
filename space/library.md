@@ -44,4 +44,4 @@
 | 《真正的美羽》 | `Aqua_nano` | 1/1 | 土豆工业总部 | |
 | 《喵窝见闻录》 | `stepchick` | 2/6 | 土豆工业总部 | 缺少后面的 4 期 |
 | 《南城购物指南【npc篇】》 | `Maki_Banshee` | 1/1 | 土豆工业总部 | |
-| 《新北时报》 | `Maki_Nishikino` | 7/7 | 北风城图书馆 | 6 期 + Lovelive! 特刊 |
+| 《新北时报》 | `Maki_Nishikino`（第 1 - 5 期 & 特刊）<br>`stepchick`（第 6 期） | 7/7 | 北风城图书馆 | 6 期 + Lovelive! 特刊 |
