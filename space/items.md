@@ -15,4 +15,4 @@
 - 节庆用品（如焰火）
 - [周年纪念道具](space/items/anniversary-gifts.md)
 - 活动兑换道具
-- 旧版装备道具*（仍可工作的）*
+- [旧版装备道具](space/items/legacy.md)*（仍可工作的）*
