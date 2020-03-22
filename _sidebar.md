@@ -8,6 +8,7 @@
   - [玩家群组](wiki/groups.md)
   - [推荐资源](wiki/resources.md)
   - [白名单申请](wiki/whitelist-application.md)
+  - [作品集](space/works.md)
 - 喵窝世界
   - [新人指南](nyaa/beginners-guide.md)
   - [城镇村落](nyaa/realms.md)
