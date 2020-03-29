@@ -8,6 +8,7 @@
   - [玩家群组](wiki/groups.md)
   - [推荐资源](wiki/resources.md)
   - [白名单申请](wiki/whitelist-application.md)
+  - [作品集](space/works.md)
 - 喵窝世界
   - [新人指南](nyaa/beginners-guide.md)
   - [城镇村落](nyaa/realms.md)
@@ -24,7 +25,8 @@
 - [Infinite Infernal](inf/index)
   + [月耀城介绍](inf/lunar-flare)
   + [黑化怪物](inf/mobs)
-  + [特殊场所](inf/arena)
+    * [精英怪](inf/mobs/specialist.md)
+  + [安全城镇](inf/safety-towns)
   + [装备道具图鉴](inf/items)
   + [生存战斗攻略](inf/guide)
 - Need For Speed
