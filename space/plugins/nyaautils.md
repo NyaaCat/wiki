@@ -30,9 +30,9 @@ NyaaUtils 包含了各类杂项辅助功能，本页面列出该插件在喵窝�
 
 ### 粒子效果
 
-现在，喵窝玩家可以通过 NyaaUtils 为自己、鞘翅和弹射物增加粒子特效。
+可以通过 NyaaUtils 为自己、鞘翅和弹射物增加粒子特效。
 
-[详细介绍](https://bbs.nyaa.cat/d/1165-20171113-nyaautils) | [粒子效果预览](https://bbs.nyaa.cat/d/597-elytra)
+[详细介绍](space/plugins/nyaautils/particle) | [粒子效果预览](https://bbs.nyaa.cat/d/597)
 
 ## 飞行相关
 
