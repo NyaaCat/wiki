@@ -101,8 +101,9 @@ WATER_WAKE
 
 ```
 /nu particle list [TYPE]
-TYPE` 即为上面的效果类型。例如查看鞘翅轨迹的列表，使用 `/nu particle list ELYTRA
 ```
+
+`TYPE` 即为上面的效果类型。例如查看鞘翅轨迹的列表，使用 `/nu particle list ELYTRA
 
 这会列出一堆玩家设置的粒子效果组，前面带有 ID。之后的操作，都需要这个 ID。
 
