@@ -10,3 +10,4 @@
 |[CapCat](space/plugins/capcat.md)|传送牌子介绍|
 |[NyaaBank](space/plugins/nyaabank-instructions)|基于木牌的银行|
 |[InfiniteInfernal](space/plugins/infinite-infernal-assistant.md)| “无尽地狱”相关的辅助功能|
+|[LockettePro](space/plugins/lockettepro)|个人财产保护|
