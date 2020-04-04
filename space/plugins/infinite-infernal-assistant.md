@@ -66,11 +66,3 @@
 |`/ig manage disband` | 解散自己的团队 ||
 |`/ig manage expDropMode [AVERAGE\|SELF]` | 修改团队成员**获得经验**时的分配方式 | AVERAGE = 全体成员平均分配（默认）<br />SELF = 归获得者所有 |
 |`/ig manage lootMode [ROLL\|KILLER]` | 修改团队成员**击杀怪物所得战利品**的分配方式 | ROLL = 全体成员轮流获得（默认）<br />KILLER = 归击杀者所有 |
-
-## 奖池查询
-
-所有玩家可以通过命令查询奖池中所包含的物品，以及抽到相应物品的概率。
-
-|命令|说明|备注|
-|-|-|-|
-| `/saikal [等级] [种类] [放入魔矿数目]` | 查询奖池中物品明细及抽中概率 | 等级：有效值为 1-5<br>种类：可用值为 `blue`、`green`、`internal`、`red`、`white`、`yellow`<br>放入魔矿数目：有效值为 1-64 |
