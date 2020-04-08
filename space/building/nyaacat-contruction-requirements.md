@@ -44,6 +44,6 @@
 
 #### 擎天柱
 
-擎天柱不难理解，以下是典型案例照片：
-![擎天柱1](../../assets/images/building-tutorial/2014-08-25_10.53.39.jpg)    ![擎天柱2](../../assets/images/building-tutorial/2014-08-25_10.54.39.jpg)
-
+擎天柱不难理解，以下是典型案例照片：  
+![擎天柱1](../../assets/images/building-tutorial/2014-08-25_10.53.39.jpg)  
+![擎天柱2](../../assets/images/building-tutorial/2014-08-25_10.54.39.jpg)
