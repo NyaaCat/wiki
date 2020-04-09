@@ -20,7 +20,7 @@
 
 ### 粒子效果列表
 
-https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Particle.html
+（摘自 https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Particle.html ）
 
 ```
 BARRIER
@@ -93,6 +93,8 @@ WATER_SPLASH
 WATER_WAKE
 ```
 
+如果需要了解它们的效果，请戳 [这里](https://wiki.biligame.com/mc/%E9%A2%97%E7%B2%92)。
+
 ## 如何使用？
 
 作为玩家——
@@ -103,7 +105,7 @@ WATER_WAKE
 /nu particle list [TYPE]
 ```
 
-`TYPE` 即为上面的效果类型。例如查看鞘翅轨迹的列表，使用 `/nu particle list ELYTRA
+`TYPE` 即为上面的效果类型。例如查看鞘翅轨迹的列表，使用 `/nu particle list ELYTRA`
 
 这会列出一堆玩家设置的粒子效果组，前面带有 ID。之后的操作，都需要这个 ID。
 
