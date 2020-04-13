@@ -41,6 +41,8 @@ LockettePro 是一个帮助玩家在多人服务器保护自己财产的插件�
 
 用告示牌右键单击可以了。
 
+如果只是希望在可以上锁的方块上放置木牌而不使用上锁功能，可以按住 Shift 键放置木牌。
+
 ![目前可以被上锁的方块](../../assets/images/plugins/lockettepro/blocks.jpg)  
 <small>目前可以被上锁的方块。</small>
 
