@@ -139,7 +139,7 @@
 
 放置一个箱子(或其他可以存放物品的容器)，向其上放置一块木牌，不需要写任何内容，即可锁住该容器。只有木牌上有名字的玩家才可以打开。如果有些容器无法直接右键放置，请按住 `Shift` 再右键放置。
 
-在上锁的箱子上右键牌子输入 `/lockette 3 playername` 即可实现与好友的共享而非所有玩家的共享。
+在上锁的箱子上右键牌子输入 `/lock 3 playername` 即可实现与好友的共享而非所有玩家的共享。
 
 更多用法请见 [插件指南](space/plugins/lockettepro.md)。
 
@@ -160,11 +160,11 @@
 
 #### 救命啊！我在 Mojang 官网改完 Minecraft 游戏用户名以后，锁住的箱子打不开了！
 
-这种情况一般在较早加入喵窝的玩家身上发生，由于较早版本的 lockette 插件**不支持 UUID。**
+这种情况一般在较早加入喵窝的玩家身上发生，由于较早版本的 Lockette 插件**不支持 UUID。**
 
-遇到这种情况，请联系管理组成员移除 lockette 木牌，然后重新锁箱即可。 [2)](#注2)
+遇到这种情况，请联系管理组成员移除 Lockette 木牌，然后重新锁箱即可。
 
-新版 lockette 插件已经加入对 UUID 的支持，如果锁箱时间较晚，你可以安心修改 Minecraft 游戏用户名而不用作出额外举措。
+新版 LockettePro 插件已经加入对 UUID 的支持，如果锁箱时间较晚，你可以安心修改 Minecraft 游戏用户名而不用作出额外举措。
 
 
 
@@ -337,7 +337,7 @@ end
 ```
 
 ##### 方案二
-此方案也可写入告示牌。需要 zenity 和 xdotool，如果用 `apt-get` 的话可以用 `sudo apt-get install zenity xdotool` 来安装：[3)](#注3)
+此方案也可写入告示牌。需要 zenity 和 xdotool，如果用 `apt-get` 的话可以用 `sudo apt-get install zenity xdotool` 来安装：[2)](#注2)
 
 ```bash
 #!/bin/bash -e
@@ -372,7 +372,7 @@ chars=$(gdialog --inputbox ' ' 2>&1)
 > 注：仅在 10.9 测试通过，据玩家报告 10.10 下使用异常。 以下提供[经 @OrcaXS 修改的 mc-chat-helper](https://github.com/OrcaXS/minecraft-chat-helper)。 使用 Github for Mac 可以将其直接克隆到本地。也可以使用 git clone 指令克隆此脚本到任意目录，具体终端操作如下：
 >
 > ```bash
-> git clone https://github.com/OrcaXS/minecraft-chat-helper:/Users/XXX/AppleScript`
+> git clone https://github.com/OrcaXS/minecraft-chat-helper:/Users/XXX/AppleScript
 > ```
 >
 > 请将 XXX 设定为您的用户名，脚本所在目录也可以设定为任意位置）
@@ -392,7 +392,7 @@ chars=$(gdialog --inputbox ' ' 2>&1)
 
 下面的示例用于启动启动器，并不是启动器内填写的 Profile JVM Arguments。
 
-启动器启动命令示例[4)](#注4):
+启动器启动命令示例[3)](#注3):
 
 `java -DsocksProxyHost=127.0.0.1 -DsocksProxyPort=1080 -jar Minecraft.jar`
 
@@ -446,10 +446,7 @@ chars=$(gdialog --inputbox ' ' 2>&1)
 [哪些起源或流行于宅圈的文化已完全不代表宅文化.AFTER](http://miz.audio/posts/otaku-for-the-past-3)
 
 ##### 注2
-lockette [官方说明](https://dev.bukkit.org/bukkit-plugins/lockette/) 指出了插件会通过用户名历史来重新确认以前的箱子锁的所有权，但由于喵窝以前未开启正版验证等一系列历史原因，贸然改回可能会导致更大的麻烦。
-
-##### 注3
 来源：[Linux 下在 Minecraft 里输入中文 - 依云's Blog](https://blog.lilydjwg.me/2015/5/17/input-chinese-to-minecraft-in-linux.93167.html)
 
-##### 注4
+##### 注3
 [Java Networking and Proxies](https://docs.oracle.com/javase/8/docs/technotes/guides/net/proxies.htm)
