@@ -4,9 +4,11 @@
 
 为了方便线上玩家在搭乘铁路旅行能够快速辨识自己的路线，请参照文档下方二级铁路地图和交通图。
 
-交通图与铁路地图的主要区别是每个车站会标注具体的出发方向，线上铁路站台也有相应的方位告示牌来提示玩家通往对应的站台（如：![神山高中铁路告示牌](https://public.lightpic.info/image/B82F_56E587B10.jpg)）。
+交通图与铁路地图的主要区别是每个车站会标注具体的出发方向，线上铁路站台也有相应的方位告示牌来提示玩家通往对应的站台（详见《[铁路建设标准](space/building/railway-construction-standard.md#_13-站牌规范)》）。
 
-*二级铁路原负责人：dmql现由管理员监督、全体玩家接管。*
+*二级铁路原负责人：dmql*
+
+现由管理员监督、全体玩家接管。
 
 ### 地图
 
@@ -15,9 +17,9 @@
 
 二级铁路图（卫星图/交通图）：
 
-[若下图未完整显示，请点击此处查看。图片大小为25.7MB。](https://silverwei.github.io/NyaaCatTraffic/)
+*（注：下图为webp格式，大小1.56MB，最新的浏览器皆可显示。[若无法显示，请点击此处查看。原图大小为25.7MB。](https://silverwei.github.io/NyaaCatTraffic/)）*
 
-![二级铁路图（卫星图/交通图）](../../assets/images/map-navi/nyaacattraffic1-sm.jpg)
+![二级铁路图（卫星图/交通图）](../../assets/images/map-navi/map-overworld-rail-dmql.webp)
 
 ![二级铁路图（卫星图/交通图）](../../assets/images/map-navi/nyaacattraffic2.png)
 
