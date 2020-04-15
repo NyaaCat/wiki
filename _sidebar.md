@@ -37,3 +37,5 @@
   - [技巧](pvp/guide.md)
 - Miu's Lab
   - [说明](miu/lab.md)
+- Terraria
+  - [说明](terraria/server.md)
