@@ -18,7 +18,7 @@
 这里以「[月耀城](inf/lunar-flare)」作为出生点。前往这里，可执行维度间传送命令`/mvtp inf`；或者于“选择出生点”（`/town select`）列表中选择「月耀城」。  
 各传送中心可能有传送牌到达出生点以外的其它区域。
 
-!> 喵窝对于高等级 Infinite Infernal 材料或装备的销售和租借有着一定的**限制**。在进行交易以前，请务必仔细阅读[「经济设定」页面的说明](nyaa/economic?id=Infinite%20Infernal%20物品)。
+!> 喵窝对于高等级 Infinite Infernal 材料或装备的销售和租借有着一定的**限制**。在进行交易以前，请务必仔细阅读[「经济设定」页面的说明](nyaa/economic?id=infinite-infernal-物品)。
 
 ### 实用资料
 
