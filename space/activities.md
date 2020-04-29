@@ -139,3 +139,4 @@ PVE 游戏中意外死亡很常见。我们不设立获得活动奖励的门槛�
 - [2017](space/activities/2017.md)
 - [2016](space/activities/2016.md)
 - [2015](space/activities/2015.md)
+- [2014](space/activities/2014.md)
