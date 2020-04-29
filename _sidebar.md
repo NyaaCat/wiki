@@ -21,6 +21,7 @@
   - [交通导航](space/map-navi.md)
   - [建筑教程](space/building.md)
   - [NPC 向导](space/npc.md)
+  - [游戏活动](space/activities.md)
   - [主世界道具图鉴](space/items.md)
 - [Infinite Infernal](inf/index)
   + [月耀城介绍](inf/lunar-flare)
