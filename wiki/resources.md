@@ -33,9 +33,8 @@
 
 ## 皮肤
 
--   [幻想乡人物皮肤](https://mega.co.nz/#!IsF3iJgb!66hVp2Fi4nz4PwGlcrdc-KGV7SiTPQODGKQoKZVv4CA)  by setomu@yuly  [百度网盘镜像](http://pan.baidu.com/s/1mgyq8mW)
--   [Love Live! 皮肤合集](https://mega.co.nz/#!05EiDYBb!2ylnXGUJ7_vn8XmgjdNkb49PleXvpPy5DNLmoOqlTUs)  by Arasd_Yu
-<!-- 上面的 Love Live! 皮肤合集链接已经失效了。如果以前已经下载过，希望可以重新上传。感激不尽。 -->
+-   [幻想乡人物皮肤](http://pan.baidu.com/s/1mgyq8mW)  by setomu@yuly
+-   [Love Live! 皮肤合集](https://www.mcbbs.net/thread-315887-1-1.html)  by Arasd_Yu
 
 ## Minecraft 正版许可
 
