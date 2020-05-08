@@ -2,6 +2,11 @@
 
 本页面用于保存上古玩家们对服务器历史的考究。
 
+## 历史文献、参考
+
+* [黑化怪（1.13 以前）](misc/history/infernal-mobs)
+* [飞行之书](misc/history/elytra)
+
 ## 地图存档
 
 [静态地图](https://map.nyaacat.com/archive/) 中国大陆地区可能需要挂代理才能正常访问。
