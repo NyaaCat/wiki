@@ -6,6 +6,8 @@
 
 * [黑化怪（1.13 以前）](misc/history/infernal-mobs)
 * [飞行之书](misc/history/elytra)
+* [历年游戏活动](space/activities)
+* [[喵窝] 月芒物语设定集](https://www.zozyo.net/) - Minecraft 服务器「月芒物语」Wiki 存档。
 
 ## 地图存档
 
@@ -29,11 +31,11 @@
 | `bubbleworld` | Bubble World | Scarlet Devil Mansion Server | 3/5 | 1.4.7 | | |
 | `worldv4` | 二小姐不科学红魔馆四周目 | Scarlet Devil Mansion Server | 4/5 | 1.6.2 | | 未挂载 |
 | `worldv5` | 二小姐不科学红魔馆五周目 | Scarlet Devil Mansion Server | 5/5 | 1.6.2 | | |
-| `tsuki_2sm` | 月芒物语 | 月芒物语 | 2/6 | | | |
-| `tsuki_3sm` | 月芒物语 | 月芒物语 | 3/6 | | | |
+| `tsuki_2sm` | 月芒物语 | 月芒物语 | 2/6 | 1.2.5 / 1.4.7 / 1.5.2 | 2012.9 - 2013.6 | |
+| `tsuki_3sm` | 月芒物语 | 月芒物语 | 3/6 | | 2013.7 - ? | |
 | `tsuki_4sm` | 月芒物语 | 月芒物语 | 4/6 | | | |
 | `tsuki_5sm` | 月芒物语 | 月芒物语 | 5/6 | | | |
-| `tsuki_6sm` | 月芒物语 | 月芒物语 | 6/6 | 1.7.2 | | |
+| `tsuki_6sm` | 月芒物语 | 月芒物语 | 6/6 | 1.7.2 | 2014.9 - 2016.6 | |
 | `kedama-start` | 毛玉線圈物語 史前卷 | 毛玉線圈物語 | 0/? | 1.10 | | |
 | `kedama-v0-0` | 毛玉線圈物語 初卷 | 毛玉線圈物語 | 1/? | 1.10.2 | | |
 | `kedama-v0-1` | 毛玉線圈物語 初卷 | 毛玉線圈物語 | 1/? | 1.7.2 | | |
