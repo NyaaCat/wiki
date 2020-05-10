@@ -137,6 +137,9 @@ Need For Speed 服务器为喵窝的竞速游戏服务器。玩家可以在这�
 
 ### World of Minigames
 
+<details>
+<summary>点击此以查看详情</summary>
+
 某些热门Minecraft小游戏单独设置了服务器。来自喵窝、毛玉线圈物语的玩家均可进入。  
 以下为可用游戏及其相应代号。诸游戏之规则与其它大多数小游戏服务器（如Hypixel）基本一致，请自行了解体会。
 
@@ -145,7 +148,12 @@ Need For Speed 服务器为喵窝的竞速游戏服务器。玩家可以在这�
 *   **生存游戏** `mg_sg`
 *   **跑酷** `mg_pk`（不能以命令进入）
 
+</details>
+
 ### NyaaCat FarHorizon Wasteland
+
+<details>
+<summary>点击此以查看详情</summary>
 
 喵窝的纯净生存服务器。在日益缤纷多彩的主世服务器中，有时会想要重新体验开荒的感觉。纯净生存服务器即为保留 Minecraft 多人联机的最初体验而设置。每当 Minecraft 版本更新，生存服务器会更换主世界以提供最新的游戏体验。之前的世界将保留在服务器中，可以使用 Multiverse 随时返回。  
 该服务器每组对应的世界背包等均独立，不会影响每个主世界的开荒体验。
@@ -158,7 +166,12 @@ Need For Speed 服务器为喵窝的竞速游戏服务器。玩家可以在这�
 * 无任何规划；
 * 请遵守喵窝的通用守则。
 
+</details>
+
 ### World for Freely Building
+
+<details>
+<summary>点击此以查看详情</summary>
 
 设定为“自由创造服务器”。其主旨为 **“共建世界”**，即全体玩家在同一片天地下，释放想象力、发挥建筑特长，参与世界建筑工程。  
 管理组不定期发布一个抽象主题，以引导建造者之思路及方向。
@@ -170,12 +183,19 @@ Need For Speed 服务器为喵窝的竞速游戏服务器。玩家可以在这�
 *   详细规则见[NyaaBBS帖子](https://bbs.nyaa.cat/d/1375-freebuild)。
 *   ~~同时对毛玉线圈物语开放。~~
 
+</details>
+
 ### Infinite Infernal World
 
+<details>
+<summary>点击此以查看详情</summary>
+
 !> 此服务器已转为主服务器`nyaa`的[一个维度](nyaa/worlds#无尽地狱世界)。
- 
+
 设定为含轻 RPG 元素的 PvE 游戏服务器。游戏目标非常简单——**带上最强装备，讨伐最强怪物。**  
 其前身为原挂靠于 EpicWorld 维度的“黑化世界”；独立运营后，在其世界观以及喵窝部分装备之基础上，改进了基础设施、装备系统、兑换系统等。
 
 *   **服务器代号** `inf`
 *   ~~同时对毛玉线圈物语开放。~~
+
+</details>

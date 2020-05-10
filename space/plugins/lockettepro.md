@@ -4,7 +4,9 @@ LockettePro 是一个帮助玩家在多人服务器保护自己财产的插件�
 
 挖到钻石 / 绿宝石怎么办？抽到顶级装备怎么办？辛苦撸死只黑化掉了魔矿怎么办？当然您可以~~给卷卷交 450~~ 挖一个很秘密的洞放上箱子储存您的财产，但这并不是正确地保存财产的方法。如果有地精玩家挖到了您的箱子，财产仍然会有丢失之虞。正确的方法是，使用 LockettePro 插件。
 
-?> 原版的 Lockette 与 LockettePro（前者的衍生版本）均已年久失修，因此目前喵窝使用的是自己维护的版本。如果希望查看源代码、反馈技术问题、参与贡献等，请戳 [这里](https://github.com/NyaaCat/LockettePro)。
+?> :information_source: 原版的 Lockette 与 LockettePro（前者的衍生版本）均已年久失修，因此目前喵窝使用的是自己维护的版本。如果希望查看源代码、反馈技术问题、参与贡献等，请戳 [这里](https://github.com/NyaaCat/LockettePro)。
+
+!> **请勿在“无尽地狱”世界（`inf`维度）使用告示牌**，锁定后无法自行拆除。如不慎锁定，请立即共享给所有人（见下）。
 
 ## 快速入门
 
@@ -12,6 +14,12 @@ LockettePro 是一个帮助玩家在多人服务器保护自己财产的插件�
 
 ![基本的锁箱](../../assets/images/plugins/lockettepro/basic.jpg)  
 <small>一个被玩家 `tcdw` 声明拥有主权的箱子。</small>
+
+如果**不希望**上锁，可以按住 Shift 键放置木牌，然后编写其它东西。
+
+!> 任何种类的告示牌用于锁定之后，将自动变为**橡木**告示牌。
+
+!> 告示牌使用的位置**不能有水**，否则无法锁定。
 
 ### 我想把这个箱子分享给更多的玩家
 
@@ -30,7 +38,7 @@ LockettePro 是一个帮助玩家在多人服务器保护自己财产的插件�
 
 ### 但是我觉得分享给两名玩家不够，怎么办？
 
-用告示牌右键单击你自己已经声明主权的箱子的空白处，即可添加「更多用户」木牌。然后，用 `/lock` 命令向「更多用户」木牌添加要共享的玩家 ID；在这里，行号的有效范围介于 2 - 4 之间。
+用告示牌右键单击由你声明占有的箱子外面的其它位置，即可添加「更多用户」木牌。然后，用 `/lock` 命令向「更多用户」木牌添加要共享的玩家 ID；在这里，行号的有效范围介于 2 - 4 之间。
 
 ![共享给多位玩家的箱子](../../assets/images/plugins/lockettepro/many_user.jpg)  
 <small>一个被玩家 `tcdw` 声明拥有主权、4 名指定玩家可以打开的箱子。</small>
@@ -43,7 +51,6 @@ LockettePro 是一个帮助玩家在多人服务器保护自己财产的插件�
 
 用告示牌右键单击可以了。
 
-如果只是希望在可以上锁的方块上放置木牌而不使用上锁功能，可以按住 Shift 键放置木牌。
 
 ![目前可以被上锁的方块](../../assets/images/plugins/lockettepro/blocks.jpg)  
 <small>目前可以被上锁的方块。</small>
@@ -60,13 +67,13 @@ LockettePro 是一个帮助玩家在多人服务器保护自己财产的插件�
 
 ## 技巧
 
-### 一种隐藏锁门木牌的方法
+#### 一种隐藏锁门木牌的方法
 
-![步骤 1](../../assets/images/plugins/lockettepro/hide_step1.jpg)  
+在门下方的方块旁，挂牌锁定，然后以墙壁和地板遮蔽之。如下图：
+ 
 ![步骤 2](../../assets/images/plugins/lockettepro/hide_step2.jpg)  
 ![步骤 3](../../assets/images/plugins/lockettepro/hide_step3.jpg)  
-![步骤 4](../../assets/images/plugins/lockettepro/hide_step4.jpg)  
-![步骤 5](../../assets/images/plugins/lockettepro/hide_step5.jpg)
+
 
 ### 其它
 
