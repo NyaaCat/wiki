@@ -22,10 +22,10 @@
 * **服务器代号** `nyaa`
 * 世界列表
   + `world` - 主世界
-  + `brainhole` - 脑洞世界
-  + `minigame` - 活动/小游戏世界
-  + `EpicWorld` - 资源/战斗/黑化世界
-  + 详情请参阅【[维度列表](nyaa/worlds.md)】
+  + `brainhole` - 脑洞（像素画）世界
+  + `inf` - 战斗/黑化世界
+  + `EpicWorld` - 资源世界
+  + 详情请参阅 [维度列表](nyaa/worlds.md)。
 * [规则详见](wiki/rules.md)
 * [权限详见](wiki/permission.md)
 
