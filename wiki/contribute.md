@@ -38,8 +38,9 @@ NyaaWiki 采用 [Docsify](https://docsify.js.org) 构建，源文件存放于 [G
   - `space` - 玩家贡献的各类内容。玩法、心得、各类整理的信息可以放在这里。
   - `tutorial` - 玩家贡献的各种教程。这里指的是手把手式、非常 case specific 的教程，而非一般的通用教学和知识整理。
   - `misc` - 各类杂项信息页面。
+    + `history` - 关于喵窝的历史资料。
   - `inf` - "Infinite Infernal" 世界相关内容。
-    + `legacy` - 2018至2019年，作为子服务器独立运营时的内容。请勿更新其内容（但可参考）。
+    + `legacy` - 2018 至 2019 年，作为子服务器独立运营时的内容。请勿更新其内容（但可参考）。
   - `nfs` - "Need For Speed" 子服务器相关内容。
   - `pvp` - "PVP" 子服务器相关内容。
   - `miu` - "美羽实验室" 子服务器相关内容。
@@ -56,7 +57,14 @@ NyaaWiki 采用 [Docsify](https://docsify.js.org) 构建，源文件存放于 [G
   - 页首标题使用一级 heading
   - 章节/section 使用三级 heading（如希望侧边栏自动展开 table of contents，则需要使用二级 heading）
   - 小节使用五级以下 heading
-6. 并不是所有的页面都要列如侧边栏。一些详细内容的页面也可以存放在相应目录下并通过其他页面访问。
+6. 并不是所有的页面都要列入侧边栏。一些详细内容的页面也可以存放在相应目录下并通过其他页面访问。
 7. 由于托管在 GitHub 的特殊性，请尽量不要上传大文件。图片如无必要，请使用 JPG 而非 PNG 并使用 mozjpeg 进行压缩。其他大文件、静态文件请使用稳定可靠的文件托管外链服务。
+8. Docsify 的 Markdown 解释器可能与你使用的 Markdown 编辑器的**存在分歧**。为了减少不必要的再修改，请先在本地运行 NyaaWiki 预览效果。
+  - 如使用 VS Code，可以安装插件 **Live Server**，然后点击右下角的 **Go Live**，即可在本地运行 NyaaWiki，并访问相应页面查看效果。
+9. 本 Wiki 没有限制使用自定义 CSS，但请尽量避免使用这一手段改变内容样式。
 
 (WIP)
+
+### 推荐资源
+
+* [Docsify 的特有文档语法](https://docsify.now.sh/helpers)

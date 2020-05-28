@@ -91,4 +91,4 @@ Minecraft 建筑中骨架，屋顶和墙体三者构成一栋建筑的基本轮�
 
 ----
 
-[1]: 由于 NodeBB 版论坛 [关闭](https://wiki.nyaa.cat/changelog)，本链接暂不可用
+[1]: 由于 NodeBB 版论坛 [关闭](changelogs/2016?id=2016-02-08-新论坛上线及创造组-worldedit-schematics-命名规则更新)，本链接暂不可用
