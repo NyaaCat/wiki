@@ -44,7 +44,7 @@
 
 ![Mask](../../assets/images/inf/items/Armors/Iron_Mask.png)
 
-![Hat](../../assets/images/inf/items/Armors/Iron_Headdress.png)
+![Headdress](../../assets/images/inf/items/Armors/Iron_Headdress.png)
 
 ![Headband](../../assets/images/inf/items/Armors/Iron_Headband.png)
 
