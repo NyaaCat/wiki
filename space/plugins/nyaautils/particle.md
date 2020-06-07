@@ -20,6 +20,9 @@
 
 ### 粒子效果列表
 
+!> **此列表需要订正。**  
+并不是所有的粒子效果都是在喵窝服务器被允许使用的，因此需要对其逐一进行测试。
+
 （摘自 https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Particle.html ）
 
 ```

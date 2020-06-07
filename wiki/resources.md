@@ -17,6 +17,12 @@
 
 详情请见 [相关帖子](https://bbs.craft.moe/d/1409-minecraft-1-15-1-1-15-2-fabric)。
 
+> 目前，预览版 OptiFine 1.15.2 已经达到可用的程度了。如果已经迫不及待，现在可以这样安装：
+>
+> 1. 下载最新预览版 [OptiFine](https://optifine.net/downloads) 和 [OptiFabric](https://www.curseforge.com/minecraft/mc-mods/optifabric)
+> 1. 将下载到的两个 jar 放在 `.minecraft/mods` 目录下
+> 1. 开始享用吧
+
 ## 资源包（材质）
 
 -   [Sphax Pure BDCraft](http://bdcraft.net/purebdcraft-minecraft)
@@ -27,9 +33,8 @@
 
 ## 皮肤
 
--   [幻想乡人物皮肤](https://mega.co.nz/#!IsF3iJgb!66hVp2Fi4nz4PwGlcrdc-KGV7SiTPQODGKQoKZVv4CA)  by setomu@yuly  [百度网盘镜像](http://pan.baidu.com/s/1mgyq8mW)
--   [Love Live! 皮肤合集](https://mega.co.nz/#!05EiDYBb!2ylnXGUJ7_vn8XmgjdNkb49PleXvpPy5DNLmoOqlTUs)  by Arasd_Yu
-<!-- 上面的 Love Live! 皮肤合集链接已经失效了。如果以前已经下载过，希望可以重新上传。感激不尽。 -->
+-   [幻想乡人物皮肤](http://pan.baidu.com/s/1mgyq8mW)  by setomu@yuly
+-   [Love Live! 皮肤合集](https://www.mcbbs.net/thread-315887-1-1.html)  by Arasd_Yu
 
 ## Minecraft 正版许可
 
