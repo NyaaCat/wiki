@@ -154,7 +154,7 @@
   + 注意：如在雷雨天使用，雷雨天气**总会**在若干分钟后取代晴天。参考 `/weather clear` 命令的效果。
   
  #### 便携式黑洞
- ![Mobile_Blackhole](../../assets/images/items/support/Mobile_Blackhole.jpg)
+ ![Mobile_Blackhole](../../assets/images/items/support/Mobile_Blackhole.png)
  - 【外形】黑曜石
  - 【兑换需求】黑曜石x1，末影珍珠x2
  - **【作用】**使用后消耗，投掷一个迷你黑洞，吸引周围的生物。
