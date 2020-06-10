@@ -268,10 +268,6 @@
     +   接触 Minecraft 历史
     +   优秀作品，包括但不限于 Minecraft 建筑作品，附有图或作品地址
 
-#### 你们说的星球是什么东西啊，不是很懂
-
-是 NyaaCat Planet，[这里有它的介绍](wiki/planet-nyaacat.md)。
-
 #### 我不从事 IT 相关行业 / 我对 IT 相关领域没有兴趣，可以加入这个社区吗？
 
 相信很多人有这种误解的一个理由是 NyaaCat 社区中有相当一部分成员来自 [ArchLinuxCN](https://www.archlinuxcn.org) 社区，加上 NyaaCat 社区在 [V2EX](https://www.v2ex.com) 上进行过较多的宣传。
@@ -416,7 +412,11 @@ chars=$(gdialog --inputbox ' ' 2>&1)
 
 #### 下载文件失败/无法登录正版服务器
 
+<!--
+
 提醒：目前 Mojang 似乎在 [封杀使用代理服务器的中国大陆玩家](https://www.reddit.com/r/Minecraft/comments/5vwve1/mojang_now_ban_accounts_for_vpn_usage/)，因此请尽量不使用代理登录。
+
+-->
 
 ##### 使用 SOCKS5 代理
 
