@@ -26,6 +26,7 @@
 - [Infinite Infernal](inf/index)
   + [月耀城介绍](inf/lunar-flare)
   + [黑化怪物](inf/mobs)
+    * [普通黑化](inf/mobs/regular.md)
     * [精英怪](inf/mobs/specialist.md)
   + [安全城镇](inf/safety-towns)
   + [装备道具图鉴](inf/items)
