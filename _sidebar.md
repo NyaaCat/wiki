@@ -16,6 +16,7 @@
   - [经济规则](nyaa/economic.md)
   - [维度列表](nyaa/worlds.md)
   - [服务器列表](wiki/server-network.md)
+  - [创造激励计划](nyaa/creation.md)
 - 玩家空间
   - [插件帮助](space/plugins.md)
   - [交通导航](space/map-navi.md)
