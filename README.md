@@ -1,4 +1,5 @@
-欢迎来到 NyaaWiki ~ 知识库重建中喵~
+欢迎来到 NyaaWiki ~ 知识库重建中喵~<br />
+推荐使用 Chrome、Firefox、Edge 等现代浏览器—— Wiki 将可自动选择**深色主题**，保护视力。
 
 申请白名单请先阅读[白名单申请](wiki/whitelist-application.md)。  
 
