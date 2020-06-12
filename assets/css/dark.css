@@ -5,6 +5,10 @@
 tweaked by Ceallium Infinity
 forked from docsify/themes/dark.css
 
+【注意】
+深色主题通过位于index.html的「media="(prefers-color-scheme: dark)」作为开关。该选项需Chrome 76+、Firefox 67+、Edge 79+等新版本支持，详见：https://developer.mozilla.org/zh-CN/docs/Web/CSS/@media/prefers-color-scheme
+考虑将来以其它方式支持旧版。
+
 【提示】
 正文字体默认颜色：#cecece
 加粗默认颜色：同上
