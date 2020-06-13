@@ -174,7 +174,7 @@
 
 通过在“无尽地狱”铸造/摇号获得的任意武器或辅助道具，如不满意，可联系*奈诺 `Aqua_nano`* 或管理员回收。
 
-- <span style="color:#600;">红色稀有度（T5+）</span> —— 60000 节操
+- <span style="color:#f44336;">红色稀有度（T5+）</span> —— 60000 节操
 
 回收价格可能依「系统余额」动态调整。最新动态请见 [BBS帖子](https://bbs.nyaa.cat/d/1561-infinite-infernal)。
 

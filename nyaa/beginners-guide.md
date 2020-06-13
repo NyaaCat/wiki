@@ -305,5 +305,5 @@ _**『肝爆！开店！』**_
 
 *   申请加入[NyaaWiki源文件仓库](https://github.com/NyaaCat/wiki)贡献者名单，协助完善这份知识库。  
   [参与详情见此页。](wiki/contribute)
-*   查阅 [世界工程计划](nyaa/projects.md)，参与公共工程，让喵窝世界变得更加丰富多彩。
+*   查阅 [创造激励计划](nyaa/creation.md)，参与[公共工程](nyaa/projects.md)，让喵窝世界变得更加丰富多彩。
 *   在涉及服务器与社区的讨论中积极提出自己的看法。
