@@ -16,6 +16,7 @@
   - [经济规则](nyaa/economic.md)
   - [维度列表](nyaa/worlds.md)
   - [服务器列表](wiki/server-network.md)
+  - [创造激励计划](nyaa/creation.md)
 - 玩家空间
   - [插件帮助](space/plugins.md)
   - [交通导航](space/map-navi.md)
@@ -26,6 +27,7 @@
 - [Infinite Infernal](inf/index)
   + [月耀城介绍](inf/lunar-flare)
   + [黑化怪物](inf/mobs)
+    * [普通黑化](inf/mobs/regular.md)
     * [精英怪](inf/mobs/specialist.md)
   + [安全城镇](inf/safety-towns)
   + [装备道具图鉴](inf/items)

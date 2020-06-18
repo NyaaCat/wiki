@@ -15,8 +15,8 @@ NyaaWiki **并不是** 针对《Minecraft》游戏的指南和知识库，它是
 * [菜鸟手册](https://minecraft-zh.gamepedia.com/%E6%95%99%E7%A8%8B/%E8%8F%9C%E9%B8%9F%E6%89%8B%E5%86%8C)
   - 或者内地镜像站的 [相同页面](https://wiki.biligame.com/mc/%E6%95%99%E7%A8%8B/%E8%8F%9C%E9%B8%9F%E6%89%8B%E5%86%8C)
 
-如果你之前没有在其它正版 Java 版服务器游玩过的经历，请务必确认你使用的是 [Java 版客户端](https://minecraft-zh.gamepedia.com/Java%E7%89%88)，并通过**在 minecraft.net 注册和激活的账号**登录游戏。  
-[基岩版](https://minecraft-zh.gamepedia.com/%E5%9F%BA%E5%B2%A9%E7%89%88)、[中国版](https://mc.163.com/) 等其它版本均不受支持。
+如果你之前没有在其它正版 Java 版服务器游玩的经历，请务必确认你使用的是 [Java 版客户端](https://minecraft-zh.gamepedia.com/Java%E7%89%88)，并通过**在 minecraft.net 注册和激活的账号**登录游戏。  
+[基岩版](https://minecraft-zh.gamepedia.com/%E5%9F%BA%E5%B2%A9%E7%89%88)、[网易（中国）版](https://mc.163.com/) 等其它版本均不受支持。
 
 - - -
 
@@ -107,7 +107,7 @@ IRC、Telegram 群组和游戏聊天频道互通，请注意不要刷屏。
 
 在主世界，到晚上或雷雨天，幻翼（俗称“修仙蝠”）会在<span style="text-decoration: underline;">**连续3个游戏日（约一小时）不睡觉、且头顶无遮荫**</span>的玩家头上生成。  
 而在野外树林、针叶林、沙漠、平原等地，可能会出现成群的掠夺者（灾厄村民）。  
-注意，其攻击足以致命。**<span style="color: #ff0000;">若防御不足，遇掠夺者应避开之；晚上应寻求庇护所，或不停赶路</span><span style="color: #000000;">（如疾跑、飞行、乘车/船）</span><span style="color: #ff0000;">，或睡上一觉。</span>**  
+注意，其攻击足以致命。**<span style="color: #ff0000;">若防御不足，遇掠夺者应避开之；晚上应寻求庇护所，或不停赶路</span>（如疾跑、飞行、乘车/船）<span style="color: #ff0000;">，或睡上一觉。</span>**  
 作为多人服务器，号召全体玩家一起睡觉可能是件难事。不过在喵窝，只要**在床上躺上数秒**，即可被认为是睡觉，未来三个游戏日内都不会有幻翼在你头顶生成。
 
 ?> :heavy_check_mark: **随身带床是个不错的习惯。**
@@ -305,5 +305,5 @@ _**『肝爆！开店！』**_
 
 *   申请加入[NyaaWiki源文件仓库](https://github.com/NyaaCat/wiki)贡献者名单，协助完善这份知识库。  
   [参与详情见此页。](wiki/contribute)
-*   查阅 [世界工程计划](nyaa/projects.md)，参与公共工程，让喵窝世界变得更加丰富多彩。
+*   查阅 [创造激励计划](nyaa/creation.md)，参与[公共工程](nyaa/projects.md)，让喵窝世界变得更加丰富多彩。
 *   在涉及服务器与社区的讨论中积极提出自己的看法。
