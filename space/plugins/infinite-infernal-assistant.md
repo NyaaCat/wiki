@@ -66,3 +66,18 @@
 |`/ig manage disband` | 解散自己的团队 ||
 |`/ig manage expDropMode [AVERAGE\|SELF]` | 修改团队成员**获得经验**时的分配方式 | AVERAGE = 全体成员平均分配（默认）<br />SELF = 归获得者所有 |
 |`/ig manage lootMode [ROLL\|KILLER]` | 修改团队成员**击杀怪物所得战利品**的分配方式 | ROLL = 全体成员轮流获得（默认）<br />KILLER = 归击杀者所有 |
+
+## 每秒伤害量计数器（DpsCounter）
+该功能以“Boss 生命条”的方式，显示你的当前每秒伤害量（DPS）、总伤害量（total）、DPS 最高值（max）。  
+指示条可更直观地显示当前 DPS，最大 2048 点（如 DPS 峰值突破此最大值，则修改成此峰值）。
+
+![DPS](../../assets/images/inf/indicator-dps.png)
+
+!> **开关方式及局限性**
+
+- 当**在 Inf 维度首次造成伤害**时，此计数器将弹出。
+- 当**你死亡、或重新登录服务器**，此计数器将消失。
+
+
+- 如果一分钟内未造成过伤害，计数器将清零。
+- 计数器仅计算**直接伤害**——召唤出的仆从不计。
