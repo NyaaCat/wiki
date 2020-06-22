@@ -398,30 +398,7 @@ chars=$(gdialog --inputbox ' ' 2>&1)
 
 #### macOS 下 Minecraft 如何在聊天框输入中文（或其他 CJK 字符）？
 
-根据笔者测试，喵窝目前使用的游戏版本在 macOS Catalina (10.15.3) 可以正常通过输入法输入中文。如果需要使用旧的游戏版本或 macOS 版本，可以参考以下内容：
-
-> (无需 Mod，无需修改客户端，支持任何输入法)
->
-> 注：仅在 10.9 测试通过，据玩家报告 10.10 下使用异常。 以下提供[经 @OrcaXS 修改的 mc-chat-helper](https://github.com/OrcaXS/minecraft-chat-helper)。 使用 Github for Mac 可以将其直接克隆到本地。也可以使用 git clone 指令克隆此脚本到任意目录，具体终端操作如下：
->
-> ```bash
-> git clone https://github.com/OrcaXS/minecraft-chat-helper:/Users/XXX/AppleScript
-> ```
->
-> 请将 XXX 设定为您的用户名，脚本所在目录也可以设定为任意位置）
-> 之后的具体设定方法请参见 [@OrcaXS 的GIST](https://gist.github.com/OrcaXS/312e80a899ad425a98e5)。
->
-> 游戏时，请直接按下设定的快捷键（比如：Cmd + T），屏幕内将会弹出对话框，即可输入任意文字，回车后自动发送。
->
-> 如果使用 Forge 的话，可以使用 [CocoaInput](https://minecraft.curseforge.com/projects/cocoainput)
-
-#### 下载文件失败/无法登录正版服务器
-
-<!--
-
-提醒：目前 Mojang 似乎在 [封杀使用代理服务器的中国大陆玩家](https://www.reddit.com/r/Minecraft/comments/5vwve1/mojang_now_ban_accounts_for_vpn_usage/)，因此请尽量不使用代理登录。
-
--->
+根据笔者测试，喵窝目前使用的游戏版本在 macOS Catalina (10.15) 可以正常通过输入法输入中文。尽管并不是非常完美，但是基本上可以正常使用。
 
 ##### 使用 SOCKS5 代理
 
@@ -436,6 +413,10 @@ chars=$(gdialog --inputbox ' ' 2>&1)
 可以看出这里的 `127.0.0.1:1080` 是一个 SOCKS5 代理地址。
 
 这个参数**不会影响**游戏的网络连接。
+
+<!--
+经过我使用多台主机和网络进行测试，发现设置 Host 以后，反而无法正常连接 Minecraft 相关服务器了。如有问题，请直接与我联系。
+-- tcdw
 
 ##### 使用 hosts
 
@@ -464,6 +445,7 @@ chars=$(gdialog --inputbox ' ' 2>&1)
     2600:3c01::f03c:91ff:fe61:81ae sessionserver.mojang.com
     2600:3c01::f03c:91ff:fe61:81ae skins.minecraft.net
     2600:3c01::f03c:91ff:fe61:81ae minecraft.net
+-->
 
 #### 如何设置游戏的内存大小
 
@@ -472,6 +454,11 @@ chars=$(gdialog --inputbox ' ' 2>&1)
 
 32 位 Java 最大只能设置为 1G。
 
+##### 那么，我该如何下载到 64 位 Java 呢？
+
+对于已经使用 64 位 Windows 系统的玩家，戳[这里](https://www.java.com/en/download/manual.jsp)，选择 `Windows Offline (64-bit)` 即可。
+
+安装完成以后，不要忘记在你的启动器中设置正确的 Java 版本。
 
 --------
 
