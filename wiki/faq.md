@@ -400,6 +400,8 @@ chars=$(gdialog --inputbox ' ' 2>&1)
 
 根据笔者测试，喵窝目前使用的游戏版本在 macOS Catalina (10.15) 可以正常通过输入法输入中文。尽管并不是非常完美，但是基本上可以正常使用。
 
+#### 下载文件失败/无法登录正版服务器
+
 ##### 使用 SOCKS5 代理
 
 因为 Mojang 的服务器基本托管在 Amazon AWS，所以部分地区的用户经常会遇到下载失败、无法登录等等问题。解决方案之一是让启动器通过 [SOCKS5](https://en.wikipedia.org/wiki/SOCKS#SOCKS5) 代理启动。
