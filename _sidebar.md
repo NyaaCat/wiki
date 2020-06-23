@@ -12,7 +12,6 @@
   - [作品集](space/works.md)
 - 喵窝世界
   - [城镇村落](nyaa/realms.md)
-  - [世界工程](nyaa/projects.md)
   - [经济规则](nyaa/economic.md)
   - [维度列表](nyaa/worlds.md)
   - [服务器列表](wiki/server-network.md)
