@@ -23,18 +23,27 @@
 > 1. 将下载到的两个 jar 放在 `.minecraft/mods` 目录下
 > 1. 开始享用吧
 
+### Minecraft 1.16.x
+
+!> 当前喵窝尚未跟进新版本，但可在 [测试服务器](wiki/server-network.md#New-Features-Express) 中体验原版新特性。
+
+**1.16.1 Fabric 不完全整合** *by BlingWang*  
+因 1.16 刚推出不久，可用插件相对较少。详情请见 [相关帖子](https://bbs.craft.moe/d/1923-2020625minecraft-1161-fabric-cmod)。
+
 ## 资源包（材质）
 
--   [Sphax Pure BDCraft](http://bdcraft.net/purebdcraft-minecraft)
+-   [Sphax PureBDCraft](http://bdcraft.net/purebdcraft-minecraft) —— 俗称“五边形”
 -   [ShortBread](http://www.planetminecraft.com/texture_pack/shortbread--/)
 -   [ChromaHills](http://www.chromahills.com/)
 -   [Soartex Fanver](http://soartex.net/downloads/)
 -   [R3D Realism](http://www.minecraftforum.net/topic/1182714-)
+- [Faithful](https://faithful.team) —— 原版材质高清重制
 
 ## 皮肤
 
 -   [幻想乡人物皮肤](http://pan.baidu.com/s/1mgyq8mW)  by setomu@yuly
 -   [Love Live! 皮肤合集](https://www.mcbbs.net/thread-315887-1-1.html)  by Arasd_Yu
+- 还有其它的吗？[在这里挑选！](https://www.minecraftskins.com/)
 
 ## Minecraft 正版许可
 
