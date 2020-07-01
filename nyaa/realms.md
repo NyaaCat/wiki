@@ -35,7 +35,6 @@
 * 名誉城主：*凤凰卷 `phoenixlzx`*
 * 简介：
   * 樱华神树的祝福，和风自然村落
-  * 新手村、出生点、交易中心
   * [介绍](nyaa/realms/sakurakacho.md)
 
 ### AQUA'S
