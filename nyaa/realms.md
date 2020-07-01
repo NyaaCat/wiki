@@ -36,6 +36,7 @@
 * 简介：
   * 樱华神树的祝福，和风自然村落
   * [介绍](nyaa/realms/sakurakacho.md)
+  * QQ 群 `720670291`
 
 ### AQUA'S
 
