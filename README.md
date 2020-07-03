@@ -1,4 +1,4 @@
-欢迎来到 NyaaWiki ~ 知识库重建中喵~
+欢迎来到 NyaaWiki ~ 知识库重建中喵~<br />
 
 申请白名单请先阅读[白名单申请](wiki/whitelist-application.md)。  
 
