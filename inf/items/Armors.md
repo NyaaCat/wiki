@@ -14,19 +14,19 @@
 
 ### 目录
 
-[矿物装甲](../items/Armors.md?id=矿物装甲)
+[矿物装甲](inf/items/Armors?id=矿物装甲)
 
-[T1粗铁套/T1+铁套](../items/Armors.md?id=T1)
+[T1粗铁套/T1+铁套](inf/items/Armors?id=T1)
 
-[T2精铁套/T2+淬火/精钢套](../items/Armors.md?id=T2)
+[T2精铁套/T2+淬火/精钢套](inf/items/Armors?id=T2)
 
-[T3纯金套/T3+精金套](../items/Armors.md?id=T3)
+[T3纯金套/T3+精金套](inf/items/Armors?id=T3)
 
-[T4魔金套/T4+暗金套](../items/Armors.md?id=T4)
+[T4魔金套/T4+暗金套](inf/items/Armors?id=T4)
 
-[T5蓝钻套/T5+星钻套](../items/Armors.md?id=T5)
+[T5蓝钻套/T5+星钻套](inf/items/Armors?id=T5)
 
-[Boss装甲](../items/Armors.md?id=Boss装甲)
+[Boss装甲](inf/items/Armors?id=Boss装甲)
 
 ### 矿物装甲
 
