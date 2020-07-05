@@ -7,13 +7,16 @@
 
 ## 出生点：大神殿
 
-<!-- TODO: 需要带光影拍摄 -->
+![spawn](../../assets/images/realms/sakurakacho/spawn.jpg)  
+*（摄于 2020 年 7 月。光影包：SEUS Renewed 1.0.1，下同）*
 
 全服标志性建筑之一，大神殿分为先天八卦阵广场、外殿、本殿，本殿底面为太极（阴阳玉）图案，中央为出生点「生命之源」。玩家进入大神殿后即会得到生命恢复、力量、跳跃、抗性、速度、急迫、潮涌能量等属性加成。且在「生命之源」中，玩家将是无敌状态。
 
 坐标：`(148, 173)`
 
 ### 樱华神树与守望之田
+
+![sakura_tree](../../assets/images/realms/sakurakacho/sakura_tree.jpg)
 
 全窝最大、最具标志性的人工树。树冠长满了樱花，水平大小约 150 X 150 格，下方及周边会飘落“樱花瓣”颗粒。  
 **文化遗产，谢绝采掘。**
@@ -23,14 +26,11 @@
 
 坐标：`(218, 291)`
 
-![tree](../../assets/images/realms/sakurakacho/tree-farm.jpg)  
-*（摄于2017年2月。资源包：Sphax PureBDCraft，下同）*
-
 --------
 
 ## 商业：万华街
 
-![shop](../../assets/images/realms/sakurakacho/Wanhuajie-1.jpg)
+![shop_east](../../assets/images/realms/sakurakacho/shop_east.jpg)
 
 樱华町万华街是**全服最大的商业中心**，建筑风格为和风。玩家可自由入驻并建立商店。只需确认店铺无人使用，即可贴上自己的木牌、摆放NPC开始与其他玩家交易。  
 万华街由“南街”（一期工程）和“北街”（二、三期工程）构成，分别占据中心城区东面、东北角，以春日神社为界。
@@ -65,7 +65,7 @@
 樱华町拥有全窝最高规格的交通配套设施，是公共铁路网中心，和热门中转地之一。
 
 #### 一级车站与传送站
-![station1](../../assets/images/realms/sakurakacho/primary-station.jpg)
+![primary_station](../../assets/images/realms/sakurakacho/primary_station.jpg)
 
 一级铁路总站位于樱华神树地下根部周围，通向四大主要城市。  
 也设有传送中心 `(207, 38, 300)`，传送牌总共22个，可传送至一些热门聚落；但空位价格达 30 万节操左右，为全窝最高。
@@ -78,7 +78,7 @@
 
 #### 出征楼与飞行塔
 
-![czl](../../assets/images/realms/sakurakacho/Chuzhenglou-1.jpg)
+![teleport_entry](../../assets/images/realms/sakurakacho/teleport_entry.jpg)
 
 该处曾作为传送站使用——正如其名，征战的路程从此开始。现用作下界、飞行塔、一级车站入口。  
 飞行塔在出征楼后山上，设有助跑装置。
@@ -152,7 +152,7 @@
 
 #### 春日神社
 
-<!-- TODO：需要带光影拍摄 -->
+![haruhi](../../assets/images/realms/sakurakacho/haruhi.jpg)
 
 拥有如此浓郁的和风气息的樱华町，怎可没有信仰！春日神社永远屹立于樱华町东山之上，等待您投入五分钱，节操也可以的到来！
 
@@ -160,14 +160,14 @@
 
 #### 高塔
 
-![tower](../../assets/images/realms/sakurakacho/Gaota-1.jpg)
+![tower](../../assets/images/realms/sakurakacho/tower.jpg)
 
 位于守望之田以西 `(52, 328)`。  
 爬至顶层，可见樱华神树、守望之田与天色有机结合的绝美画卷。有条件者提高视距、开启光影效果，景色更佳。
 
 #### 像素美术馆
 
-<!-- TODO：需要带光影拍摄 -->
+![pixel](../../assets/images/realms/sakurakacho/pixel.jpg)
 
 想要一睹喵窝玩家粘贴的[像素画](https://wiki.biligame.com/mc/%E5%9C%B0%E5%9B%BE%E7%89%A9%E5%93%81%E6%A0%BC%E5%BC%8F "点击参见：地图物品格式")，或者想要向大家展示自己的像素画新作？来像素美术馆吧。
 
@@ -176,7 +176,7 @@
 坐标：`(174, 23)`
 
 #### 言叶山谷
-![kotoba](../../assets/images/realms/sakurakacho/kotoba.jpg)
+![kotoba_night](../../assets/images/realms/sakurakacho/kotoba_night.jpg)
 
 玩家们的愿望、憧憬、寄语……皆汇集于此。三面环山，只有一条小径进出；但山洞内部则是别有洞天。  
 地面上有新年专栏和新婚（2017年9月婚礼）专栏。
