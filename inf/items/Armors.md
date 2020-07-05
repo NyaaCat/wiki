@@ -564,6 +564,8 @@
 ![Miaoxing1](../../assets/images/inf/items/Armors/Miaoxing1.png)
 ![Miaoxing2](../../assets/images/inf/items/Armors/Miaoxing2.png)
 
+展示：卷
+
 - **职业**：射手
 - **等级**: T5+
 - **装备位置**：头部
@@ -586,11 +588,15 @@
 ![Xingfang1](../../assets/images/inf/items/Armors/Xingfang1.png)
 ![Xingfang2](../../assets/images/inf/items/Armors/Xingfang2.png)
 
-- **职业**：战士/射手
+注：这是一个经过玩家自行附魔后的版本，得到时只会有保护X。
+
+展示：弐叁
+
+- **职业**：法师/战士/射手
 - **等级**: T5+
 - **装备位置**：头部
 - **护甲值**：50
-- **加成**：全部伤害+50%；最大生命值+4，幸运+4，装甲韧性+8，击退抗性+1
-- **初始附魔**：保护十
+- **加成**：全部伤害+50%，魔力上限+160；最大生命值+4，幸运+4，装甲韧性+8，击退抗性+1
+- **初始附魔**：保护X
 - **耐久**：不可破坏
 - **获取方式**：T5白池铸造
