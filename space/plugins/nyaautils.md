@@ -48,6 +48,9 @@ NyaaUtils 包含了各类杂项辅助功能，本页面列出该插件在喵窝�
 * 如果不希望消耗燃料，可以使用 `/nu el` 来切换动力模式。
 * 此功能在 `brainhole` 世界不可用。
 
+![](../../assets/images/history/elytra/fuel-capsule.png)  
+<small>动力燃料胶囊外观</small>
+
 #### 飞行塔弹射器
 
 飞行塔弹射器可以通过命令方块帮助使用鞘翅的玩家在飞行塔开始飞行时，自动张开鞘翅，并立即提升速度到足够飞行的水平。  
@@ -140,8 +143,7 @@ NyaaUtils 包含了各类杂项辅助功能，本页面列出该插件在喵窝�
 
 也就是说，经验现在可以存储在经验瓶中，日后可取出或交易。如果不慎打碎瓶子，所储存的经验**全部转化为经验球返还**。
 
-![存储有经验的经验胶囊](../../assets/images/plugins/nyaautils/exp-capsule.png)
-
+![存储有经验的经验胶囊](../../assets/images/plugins/nyaautils/exp-capsule.png)  
 <small>存储有经验的经验胶囊，lore 上显示了存储的经验数量。</small>
 
 #### 操作方法
