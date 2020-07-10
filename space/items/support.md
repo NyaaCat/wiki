@@ -131,7 +131,7 @@
 ## 宝蓝精灵
 
 #### 彩虹喵之刃
-![item](../../assets/images/items/support/彩虹喵之刃 T0.png)
+![item](../../assets/images/items/support/彩虹喵之刃T0.png)
 - 【外形】铁剑
 - 【兑换需求】热带鱼桶 x2
 - 不限使用次数
