@@ -413,56 +413,18 @@ chars=$(gdialog --inputbox ' ' 2>&1)
 
 尽管如此，目前还是基本可以使用的。对于比较重要的文本，建议先在其它文本编辑器中输入，然后粘贴到游戏中。
 
-<!-- FIXME：此方法不适用于使用 CEF 的新版官方启动器（需要目前版本可用的解决方案）。 -->
-
-<!--
 #### 下载文件失败/无法登录正版服务器
 
 ##### 使用 SOCKS5 代理
 
 因为 Mojang 的服务器基本托管在 Amazon AWS，所以部分地区的用户经常会遇到下载失败、无法登录等等问题。解决方案之一是让启动器通过 [SOCKS5](https://en.wikipedia.org/wiki/SOCKS#SOCKS5) 代理启动。
 
-下面的示例用于启动启动器，并不是启动器内填写的 Profile JVM Arguments。
+但是，由于新版的、使用 C++ 编写的启动器没有提供代理设置，通过 Proxifier 等第三方工具配置步骤繁杂、稳定性不确定，我们建议直接更换第三方启动器（如 [MultiMC](https://multimc.org/)），然后在启动器中配置代理。
 
-启动器启动命令示例[3)](#注3):
+通常情况下，给启动器配置代理**不会影响**游戏的网络连接，但还请仔细阅读启动器的相关说明。
 
-`java -DsocksProxyHost=127.0.0.1 -DsocksProxyPort=1080 -jar Minecraft.jar`
-
-可以看出这里的 `127.0.0.1:1080` 是一个 SOCKS5 代理地址。
-
-这个参数**不会影响**游戏的网络连接。
-
-经过我使用多台主机和网络进行测试，发现设置 Host 以后，反而无法正常连接 Minecraft 相关服务器了。如有问题，请直接与我联系。
--- tcdw
-
-##### 使用 hosts
-
-将下面的代码添加到 hosts 文件中，即可通过专用的 SNI 加密代理登录 Minecraft 服务器（客户端/服务端均适用）_<sup><span style="color: #ff0000;">[待验证]</span></sup>_
-
-(请注意此代理仅适用于登录 Minecraft 服务器，其他网域访问将直接报错）
-
-    # minecraft sniproxy IPv4
-    106.187.38.30 api.mojang.com
-    106.187.38.30 account.mojang.com
-    106.187.38.30 auth.mojang.com
-    106.187.38.30 authserver.mojang.com      
-    106.187.38.30 login.minecraft.net
-    106.187.38.30 session.minecraft.net
-    106.187.38.30 sessionserver.mojang.com
-    106.187.38.30 skins.minecraft.net
-    106.187.38.30 minecraft.net
-
-    # minecraft sniproxy IPv6
-    2600:3c01::f03c:91ff:fe61:81ae api.mojang.com
-    2600:3c01::f03c:91ff:fe61:81ae account.mojang.com
-    2600:3c01::f03c:91ff:fe61:81ae auth.mojang.com
-    2600:3c01::f03c:91ff:fe61:81ae authserver.mojang.com      
-    2600:3c01::f03c:91ff:fe61:81ae login.minecraft.net
-    2600:3c01::f03c:91ff:fe61:81ae session.minecraft.net
-    2600:3c01::f03c:91ff:fe61:81ae sessionserver.mojang.com
-    2600:3c01::f03c:91ff:fe61:81ae skins.minecraft.net
-    2600:3c01::f03c:91ff:fe61:81ae minecraft.net
--->
+![](../assets/images/faq/multimc_proxy.png)  
+<small>MultiMC 的代理设置页面。正如界面中的说明，该代理设置<b>仅适用于启动器</b>，不适用于游戏本体。</small>
 
 #### 如何设置游戏的内存大小
 
