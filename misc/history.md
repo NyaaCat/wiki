@@ -5,6 +5,7 @@
 ## 历史文献、参考
 
 * [黑化怪（1.13 以前）](misc/history/infernal-mobs)
+* [月常环游任务（1.14 以前）](misc/history/task)
 * [飞行之书](misc/history/elytra)
 * [历年游戏活动](space/activities)
 * [[喵窝] 月芒物语设定集](https://www.zozyo.net/) - Minecraft 服务器「月芒物语」Wiki 存档。
