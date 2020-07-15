@@ -28,6 +28,7 @@
   + [铁御套](#铁御套)
   + [耀斑套](#耀斑套)
   + [星璇套](#星璇套)
+  + [星尘套](#星尘套)
 - [其它套装](#其它套装)
   + [朴实套](#朴实套)
   + [Ezio 套](#ezio-套)
@@ -40,7 +41,7 @@
 
 ### T1
 
-![T1](../../assets/images/inf/items/Armors/T1.png)
+![T1](../../assets/images/inf/items/Armors/t1.png)
 
 #### 粗铁套
 
@@ -78,7 +79,7 @@
 
 ### T2
 
-![T2](../../assets/images/inf/items/Armors/T2.png)
+![T2](../../assets/images/inf/items/Armors/t2.png)
 
 #### 精铁套
 
@@ -124,7 +125,7 @@
 
 ### T3
 
-![T3](../../assets/images/inf/items/Armors/T3.png)
+![T3](../../assets/images/inf/items/Armors/t3.png)
 
 #### 纯金套
 
@@ -180,7 +181,7 @@
 
 ### T4
 
-![T4](../../assets/images/inf/items/Armors/T4.png)
+![T4](../../assets/images/inf/items/Armors/t4.png)
 
 #### 魔金套
 
@@ -236,7 +237,7 @@
 
 ### T5
 
-![T5](../../assets/images/inf/items/Armors/T5.png)
+![T5](../../assets/images/inf/items/Armors/t5.png)
 
 #### 蓝钻套
 
@@ -294,7 +295,7 @@
 
 #### 拉玛套
 
-![Lama](../../assets/images/inf/items/Armors/Lama.png)
+![拉玛](../../assets/images/inf/items/Armors/lama.png)
 
 - **所属 Boss**：拉玛族长 lv.12
 - **可用职业**：全职业
@@ -315,7 +316,7 @@
 
 #### 古木套
 
-![Gumu](../../assets/images/inf/items/Armors/Gumu.png)
+![古木](../../assets/images/inf/items/Armors/ancient_wood.png)
 
 - **所属 Boss**：BadAnkou lv.16
 - **职业**：全职业
@@ -336,7 +337,7 @@
 
 #### 冰钻套
 
-![Bingzuan](../../assets/images/inf/items/Armors/Bingzuan.png)
+![冰钻](../../assets/images/inf/items/Armors/ice_diamond.png)
 
 - **所属 Boss**：熊大 lv.20
 - **职业**：全职业
@@ -357,7 +358,7 @@
 
 #### Altaïr 套
 
-![Altair](../../assets/images/inf/items/Armors/Altair.png)
+![Altaïr](../../assets/images/inf/items/Armors/altair.png)
 
 - **所属 Boss**：空洞王 lv.24
 - **职业**：战士/刺客
@@ -377,7 +378,7 @@
 
 #### 神圣套
 
-![Shensheng](../../assets/images/inf/items/Armors/Shensheng.png)
+![神圣](../../assets/images/inf/items/Armors/hallow.png)
 
 - **所属 Boss**：光明王 lv.24
 - **职业**：牧师/法师
@@ -396,7 +397,7 @@
 
 #### 铁御套
 
-![Tieyu](../../assets/images/inf/items/Armors/Tieyu.png)
+![铁御](../../assets/images/inf/items/Armors/iron_guard.png)
 
 - **所属 Boss**：光明王 lv.24，空洞王 lv.24，铁皮武士 lv.24，火星咕噜怪 lv.23
 - **职业**：全职业
@@ -416,7 +417,7 @@
 
 #### 耀斑套
 
-![Yaoban](../../assets/images/inf/items/Armors/Yaoban.png)
+![耀斑](../../assets/images/inf/items/Armors/solar_flare.png)
 
 - **所属 Boss**：火星咕噜怪 lv.23
 - **职业**：战士
@@ -439,7 +440,7 @@
 
 #### 星璇套
 
-![Xingxuan](../../assets/images/inf/items/Armors/Xingxuan.png)
+![星璇](../../assets/images/inf/items/Armors/vortex.png)
 
 - **所属 Boss**：星璇火枪手 lv.22
 - **职业**：射手
@@ -459,7 +460,7 @@
 
 #### 星云套
 
-![Xingyun](../../assets/images/inf/items/Armors/Xingyun.png)
+![星云](../../assets/images/inf/items/Armors/nebula.png)
 
 - **所属 Boss**：暗精灵 lv.21
 - **职业**：法师
@@ -477,11 +478,31 @@
   + **融合制造**：128x 精灵水晶，256x 蓝钻矿物块
   + **NPC 兑换**：神圣祭坛
 
+#### 星尘套
+
+![星尘](../../assets/images/inf/items/Armors/stardust.png)
+
+- **所属 Boss**：姜王博士 lv.23
+- **职业**：召唤师
+- **等级**: T5+
+- **护甲值**：
+  + **星尘发饰**：32 高级护甲
+  + **星尘胸甲**：58 高级护甲
+  + **星尘护胫**：58 高级护甲
+  + **星尘靴**：58 高级护甲
+- **加成**：
+  + **套装加成**：仆从上限+4，魔力上限+160， 召唤伤害+25%， 仆从攻击时50%几率短暂震撼敌人，仆从暴击率+10%，怒气召唤星尘环绕拦截入侵目标
+- **初始附魔**：保护 V
+- **耐久**：7200
+- **获取方式**：
+  + **融合制造**：128x 聚能核心，256x 蓝钻矿物块
+  + **NPC 兑换**：圣怀特大教堂
+
 ## 其它套装
 
 #### 朴实套
 
-![Pushi](../../assets/images/inf/items/Armors/Pushi.png)
+![朴实](../../assets/images/inf/items/Armors/ordinary.png)
 
 - **职业**：全职业
 - **等级**: T5+
@@ -499,7 +520,7 @@
 
 #### Ezio 套
 
-![Ezio](../../assets/images/inf/items/Armors/Ezio.png)
+![Ezio](../../assets/images/inf/items/Armors/ezio.png)
 
 - **职业**：射手
 - **等级**: T5+
@@ -518,7 +539,7 @@
 
 #### 暮光套
 
-![Muguang](../../assets/images/inf/items/Armors/Muguang.png)
+![暮光](../../assets/images/inf/items/Armors/twilight.png)
 
 - **职业**：法师
 - **等级**: T5+
@@ -538,8 +559,8 @@
 
 #### 喵星炮
 
-![Miaoxing1](../../assets/images/inf/items/Armors/Miaoxing1.png)
-![Miaoxing2](../../assets/images/inf/items/Armors/Miaoxing2.png)
+![喵星炮1](../../assets/images/inf/items/Armors/nyaa_cannon1.png)
+![喵星炮2](../../assets/images/inf/items/Armors/nyaa_cannon2.png)
 
 展示：卷
 
@@ -561,8 +582,8 @@
 
 !> 这是一件需要装备在身上的**辅助道具**，需要在辅助道具池铸造获得。
 
-![Xingfang1](../../assets/images/inf/items/Armors/Xingfang1.png)
-![Xingfang2](../../assets/images/inf/items/Armors/Xingfang2.png)
+![お願いの行方1](../../assets/images/inf/items/Armors/yukue1.png)
+![お願いの行方2](../../assets/images/inf/items/Armors/yukue2.png)
 
 注：这是一个经过玩家自行附魔后的版本，得到时只会有保护 X。
 
