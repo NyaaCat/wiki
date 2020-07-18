@@ -10,14 +10,13 @@
 
 玩家权限详情：
 *   **所有插件的非管理员功能**，详见《[常用命令速查表](tutorial/help.md)》《[插件指南](space/plugins.md)》。
-* 原版允许的命令，包括：
-  - 查看可用命令 `/help`
+* 部分原版允许的命令，包括：
   - 发送一条关于自己的消息 `/me [text]`
 * 插件提供的经济功能，详见《[经济规则](nyaa/economic.md)》。其中：
   - [银行](nyaa/economic/nyaabank.md)（NyaaBank）插件大部分权限，仅限银行家可用。
 * 放置/破坏/交互方块。
   - 在 `inf` 维度，或主世界特定的被保护区域，无法放置或破坏。
-*   锁箱(Lockette Pro) 插件：
+*   锁箱 (Lockette Pro) 插件：
     +   非水下环境，对箱子、门等放置木牌以上锁
     +   右键该木牌可变更准入者 `/lock [line] [content]`
     + 详见《[插件指南](space/plugins/lockettepro.md)》。
