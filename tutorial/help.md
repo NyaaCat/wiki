@@ -49,7 +49,7 @@
 |`/heh shop lotto set`	|设置抽奖奖池存储箱	 ||
 |`/heh shop lotto info`	|查询抽奖奖池存储箱位置	 ||
 |`/heh search [关键词] [选项:值]`	|搜索世界木牌商店中的商品	 ||
-|`/heh searchpage [页码]`	|搜索结果页翻页	 ||
+|`/heh search searchpage [页码]` |搜索结果页翻页	 ||
 |`/heh transaction sellto [玩家 ID] [总价]`<br />`/hsellto [玩家 ID] [总价]`	|向指定玩家出售手中物品，并发送账单	 ||
 |`/heh transaction pay [账单 ID]`<br />`/hpay [账单 ID]` |支付指定账单，并收货	|收费|
 |`/heh transaction cancel [账单 ID]`	|取消指定账单	 ||
