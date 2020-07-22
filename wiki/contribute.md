@@ -68,3 +68,5 @@ NyaaWiki 采用 [Docsify](https://docsify.js.org) 构建，源文件存放于 [G
 ### 推荐资源
 
 * [Docsify 的特有文档语法](https://docsify.now.sh/helpers)
+* [MozJPEG-GUI](https://github.com/TransparentLC/mozjpeg-gui) by [@TransparentLC](https://github.com/TransparentLC)  
+[MozJPEG](https://github.com/mozilla/mozjpeg) 的（第三方）图形界面，可以方便的利用 MozJPEG 进行批量的图像压缩。
