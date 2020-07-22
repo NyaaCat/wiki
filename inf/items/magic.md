@@ -943,7 +943,7 @@
 
 #### 霊符「夢想封印」
 
-![夢想封印](../../assets/images/inf/items/magic/t5p_sprit_sigil.png)
+![夢想封印](../../assets/images/inf/items/magic/t5p_spirit_sigil.png)
 
 - **伤害**：60
 - **使用速度**: 很快
