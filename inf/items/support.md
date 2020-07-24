@@ -402,9 +402,9 @@
   + **合成**：
     * 由 **T3 生命之种**升级，消耗 16x 魔金矿物块，48x T3 天界魔矿，6x 灵魂残片，8x 死亡草和 8x 炮弹残骸
 
-#### カブチーノ
+#### カプチーノ
 
-![カブチーノ](../../assets/images/inf/items/support/t4_kabuchi_no.png)
+![カプチーノ](../../assets/images/inf/items/support/t4_kabuchi_no.png)
 
 - **职业**：全职业
 - **使用方式**：放置在副手生效
@@ -479,7 +479,7 @@
 
 #### 回程魔杖
 
-![回程魔杖]](../../assets/images/inf/items/support/t5_returning_staff.png)
+![回程魔杖](../../assets/images/inf/items/support/t5_returning_staff.png)
 
 - **职业**：全职业
 - **使用方式**：在主副手间来回切换生效
@@ -517,7 +517,7 @@
 
 #### 太阳石
 
-![太阳石](../../assets/images/inf/items/support/t5_moon_stone.png)
+![太阳石](../../assets/images/inf/items/support/t5_sun_stone.png)
 
 - **职业**：全职业
 - **使用方式**：放置在副手生效
@@ -722,7 +722,7 @@
 
 #### 天界护盾
 
-![天界石](../../assets/images/inf/items/support/t5p_celestial_stone.png)
+![天界护盾](../../assets/images/inf/items/support/t5p_celestial_shield.png)
 
 - **职业**：全职业
 - **使用方式**：放置在副手生效
