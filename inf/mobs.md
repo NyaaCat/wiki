@@ -25,12 +25,12 @@
 
 |阶段|简称|相应等级|代表颜色|
 |-|-|-|-|
-| 一等 | T1 | Lv. 1~4 | 白色 |
-| 二等 | T2 | Lv. 5~8 | <span style="color:#2196f3;">蓝色</span> |
-| 三等 | T3 | Lv. 9~12 | <span style="color:#43a047;">绿色</span> |
-| 四等 | T4 | Lv. 13~16 | <span style="color:#9c27b0;">紫色</span> |
-| 五等 | T5 | Lv. 17~20 | <span style="color:#f9a825;">金色</span> |
-| 五等以上 | T5+ | Lv. 21 以上 | <span style="color: #f44336">红色</span> |
+| 一等 | T1 | Lv. 1~4 | <span class="nw-inf-t1">白色</span> |
+| 二等 | T2 | Lv. 5~8 | <span class="nw-inf-t2">蓝色</span> |
+| 三等 | T3 | Lv. 9~12 | <span class="nw-inf-t3">绿色</span> |
+| 四等 | T4 | Lv. 13~16 | <span class="nw-inf-t4">紫色</span> |
+| 五等 | T5 | Lv. 17~20 | <span class="nw-inf-t5">金色</span> |
+| 五等以上 | T5+ | Lv. 21 以上 | <span class="nw-inf-t5p">红色</span> |
 
 ### 战利品简述
 

@@ -1,0 +1,71 @@
+/*
+                             NyaaWiki Common CSS
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+适用于 NyaaWiki 特殊段落内容的通用 CSS 样式。
+
+* 尽量使用 Markdown 和 HTML 的默认样式。
+* 所有 class 名称应以 `nw-` 开头。
+* 使用通俗易懂的名称。
+*/
+
+.nw-spoiler {
+    background-color: #222;
+    color: #222;
+    transition: color 0.25s;
+}
+
+.nw-spoiler:hover {
+    color: #eee;
+}
+
+.nw-explain {
+    cursor: help; 
+    border-bottom: 1px rgba(0, 0, 0, 0.4) dashed;
+}
+
+@media screen and (prefers-color-scheme: dark) {
+    .nw-explain {
+        border-bottom: 1px rgba(255, 255, 255, 0.3) dashed;
+    }
+}
+
+.nw-important {
+    color: red;
+    font-weight: bold;
+}
+
+.nw-inf-t2 {
+    color: #2196f3;
+}
+
+.nw-inf-t3 {
+    color: #43a047;
+}
+
+.nw-inf-t4 {
+    color: #9c27b0;
+}
+
+.nw-inf-t5 {
+    color: #f9a825;
+}
+
+.nw-inf-t5p {
+    color: #f44336;
+}
+
+.nw-inf-red {
+    color: #f44336;
+}
+
+.nw-inf-green {
+    color: #43a047;
+}
+
+.nw-inf-blue {
+    color: #2196f3;
+}
+
+.nw-inf-gold {
+    color: #f9a825;
+}

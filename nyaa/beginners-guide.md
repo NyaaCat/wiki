@@ -44,7 +44,7 @@ IRC、Telegram 群组和游戏聊天频道互通，请注意不要刷屏。
 
 进入服务器之前，请务必再次阅读【[游戏规则](wiki/rules.md)】。  
 如果仍有不清楚是否会被判定违规的情况，请在游戏内或玩家群组内询问。  
-<span style="color: red; font-size: 1.3em; font-weight: bold">这里死亡掉落！<code>/back</code>、<code>/home</code> 命令扣款！<code>/suicide</code> 也扣款！</span><br>
+<span class="nw-important">这里死亡掉落！<code>/back</code>、<code>/home</code> 命令扣款！<code>/suicide</code> 也扣款！</span><br>
 重要的事情讲过三遍了！  
 把从其他服务器带过来的旧习惯改掉！  
 ~（粗心的编者被拖出去鞭尸）~
