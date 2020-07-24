@@ -559,8 +559,8 @@
 
 #### 喵星炮
 
-![喵星炮1](../../assets/images/inf/items/armor/nyaa_cannon1.png)
-![喵星炮2](../../assets/images/inf/items/armor/nyaa_cannon2.png)
+![喵星炮1](../../assets/images/inf/items/armor/nyaa_cannon_exhibition.png)
+![喵星炮2](../../assets/images/inf/items/armor/nyaa_cannon_data.png)
 
 展示：卷
 
@@ -582,10 +582,8 @@
 
 !> 这是一件需要装备在身上的**辅助道具**，需要在辅助道具池铸造获得。
 
-![お願いの行方1](../../assets/images/inf/items/armor/yukue1.png)
-![お願いの行方2](../../assets/images/inf/items/armor/yukue2.png)
-
-注：这是一个经过玩家自行附魔后的版本，得到时只会有保护 X。
+![お願いの行方1](../../assets/images/inf/items/armor/negai_no_yukue_exhibition.png)
+![お願いの行方2](../../assets/images/inf/items/armor/negai_no_yukue_data.png)
 
 展示：弐叁
 
@@ -593,7 +591,7 @@
 - **等级**: T5+
 - **装备位置**：头部
 - **护甲值**：50 高级护甲
-- **加成**：全部伤害+50%，魔力上限+160；最大生命值+4，幸运+4，装甲韧性+8，击退抗性+1
+- **加成**：全部伤害+50%；最大生命值+4，幸运+4，装甲韧性+8，护甲+24，击退抗性+1
 - **初始附魔**：保护 X
 - **耐久**：不可破坏
 - **获取方式**：T5 白池铸造
