@@ -33,6 +33,7 @@
   + [生存战斗攻略](inf/guide)
 - Need For Speed
   - [赛事](nfs/events.md)
+  - [场地](nfs/fields.md)
 - PVP 竞技场
   - [规则](pvp/rules.md)
   - [场地](pvp/arena.md)
