@@ -435,7 +435,7 @@ chars=$(gdialog --inputbox ' ' 2>&1)
 
 通常情况下，给启动器配置代理**不会影响**游戏的网络连接，但还请仔细阅读启动器的相关说明。
 
-![](../assets/images/faq/multimc_proxy.png)  
+![](../assets/images/faq/multimc_proxy_config.png)  
 <small>MultiMC 的代理设置页面。正如界面中的说明，该代理设置<b>仅适用于启动器</b>，不适用于游戏本体。</small>
 
 #### 如何设置游戏的内存大小
