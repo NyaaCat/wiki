@@ -349,7 +349,7 @@
 
 #### Rocklet launcher MAKE III
 
-![Rocklet launcher MAKE III](../../assets/images/inf/items/ranged/t3_rocklet_launcher_make_iii_.png)
+![Rocklet launcher MAKE III](../../assets/images/inf/items/ranged/t3_rocklet_launcher_make_iii.png)
 
 - **伤害**：100
 - **使用速度**: 较慢
@@ -436,7 +436,7 @@
 
 #### 战术霰弹枪
 
-![战术霰弹枪](../../assets/images/inf/items/ranged/t4_tatic_shotgun.png)
+![战术霰弹枪](../../assets/images/inf/items/ranged/t4_tactic_shotgun.png)
 
 - **伤害**：36
 - **使用速度**: 较快
@@ -1123,7 +1123,7 @@
 
 #### 幻影
 
-![幻影](../../assets/images/inf/items/ranged/t5p_phantasn.png)
+![幻影](../../assets/images/inf/items/ranged/t5p_phantasm.png)
 
 - **伤害**：60
 - **使用速度**: 很快
@@ -1330,7 +1330,7 @@
   
 #### 榴弹步枪
 
-![榴弹步枪](../../assets/images/inf/items/ranged/craft_t5p_gernade_rifle.png)
+![榴弹步枪](../../assets/images/inf/items/ranged/craft_t5p_grenade_rifle.png)
 
 - **等级**：T5+
 - **伤害**：168
