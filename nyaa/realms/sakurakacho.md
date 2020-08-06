@@ -65,7 +65,8 @@
 樱华町拥有全窝最高规格的交通配套设施，是公共铁路网中心，和热门中转地之一。
 
 #### 一级车站与传送站
-![primary_station](../../assets/images/realms/sakurakacho/primary_station.jpg)
+![primary_station](../../assets/images/realms/sakurakacho/primary_station_2.jpg)
+*（摄于 2020 年 8 月。光影包：BSL Shaders v7.1.05p3）*
 
 一级铁路总站位于樱华神树地下根部周围，通向四大主要城市。  
 也设有传送中心 `(207, 38, 300)`，传送牌总共22个，可传送至一些热门聚落；但空位价格达 30 万节操左右，为全窝最高。
@@ -167,7 +168,8 @@
 
 #### 像素美术馆
 
-![pixel](../../assets/images/realms/sakurakacho/pixel.jpg)
+![pixel](../../assets/images/realms/sakurakacho/pixel_2.jpg)
+*（摄于 2020 年 8 月。光影包：BSL Shaders v7.1.05p3）*
 
 想要一睹喵窝玩家粘贴的[像素画](https://wiki.biligame.com/mc/%E5%9C%B0%E5%9B%BE%E7%89%A9%E5%93%81%E6%A0%BC%E5%BC%8F "点击参见：地图物品格式")，或者想要向大家展示自己的像素画新作？来像素美术馆吧。
 
@@ -179,7 +181,7 @@
 ![kotoba_night](../../assets/images/realms/sakurakacho/kotoba_night.jpg)
 
 玩家们的愿望、憧憬、寄语……皆汇集于此。三面环山，只有一条小径进出；但山洞内部则是别有洞天。  
-地面上有新年专栏和新婚（2017年9月婚礼）专栏。
+地面上有新年专栏和新婚（2017 年 9 月婚礼）专栏。
 
 坐标：`(10, 160)`，即大神殿以西
 

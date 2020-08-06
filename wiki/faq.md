@@ -209,6 +209,12 @@
 
 专门服务器的背包、权限等与主服务器隔离，不会影响游戏平衡。
 
+#### 为什么「资源世界」在这里叫 EpicWorld？
+
+一句话：历史遗留的叫法。
+
+喵窝曾经存在使用 [EpicWorld](https://www.spigotmc.org/resources/epicworldgenerator-1-15-1-16-1.8067/) 生成器的、兼具资源世界功能的世界。但后来，由于一些原因，EpicWorld 世界被更换为原版生成器。而由于玩家都习惯了这个称谓，所以 EpicWorld 这个世界名称就保留下来了。
+
 
 
 ## Nyaa BBS 相关
