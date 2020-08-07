@@ -19,7 +19,7 @@
   + `Crystal_dorufin`
   + `TMCT_xiaomo`  
 <span class="nw-spoiler">某不愿透露姓名的喵：这是刺杀名单吗</span>
-- ~~成绩提交~~**（尚未开始）**
+- [成绩提交](https://bbs.nyaa.cat/d/1737)
 - [飞行赛道攻略](https://www.bilibili.com/video/BV1T54y1i74E)
 
 ## WWR2019
