@@ -7,20 +7,21 @@
 * [黑化怪（1.13 以前）](misc/history/infernal-mobs)
 * [月常环游任务（1.14 以前）](misc/history/task)
 * [飞行之书](misc/history/elytra)
+* [名胜古迹](misc/history/historical-sites)
 * [历年游戏活动](space/activities)
 * [[喵窝] 月芒物语设定集](https://www.zozyo.net/) - Minecraft 服务器「月芒物语」Wiki 存档。
 
 ## 地图存档
 
-[静态地图](https://map.nyaacat.com/archive/) 中国大陆地区可能需要挂代理才能正常访问。
-
-你也可以前往 `archive` 服务器，并通过 `/mvtp [世界名]`（不区分大小写）前往相应世界进行实地考察；这些存档暂不允许放置 / 破坏任何方块，但允许玩家与方块交互。
+你可以前往 `archive` 服务器，并通过 `/mvtp [世界名]`（不区分大小写）前往相应世界进行实地考察；这些存档暂不允许放置 / 破坏任何方块，但允许玩家与方块交互。
 
 为方便参观，该服务器可使用以下命令：
 
 * `/gamemode [模式名称]` - 切换游戏模式
 * `/tppos [X] [Y] [Z]` - 传送到指定位置
 * `/top` - 传送到建筑顶
+
+也可以查看 [静态地图](https://map.nyaacat.com/archive/)。
 
 地图存档包含目前可能追溯的所有主世界地图，整理如下：
 
