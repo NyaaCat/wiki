@@ -930,7 +930,7 @@
 
 #### 恒星韵
 
-![恒星韵](../../assets/images/inf/items/summon/t5p_star_rhythm.png)
+![恒星韵](../../assets/images/inf/items/summon/boss_t5p_star_rhythm.png)
 
 - **所属 Boss** ：姜王博士 lv.23
 - **等级**：T5+
