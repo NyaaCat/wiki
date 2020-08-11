@@ -28,7 +28,7 @@
 !> 当前喵窝尚未跟进新版本，但可在 [测试服务器](wiki/server-network.md#New-Features-Express) 中体验原版新特性。
 
 **1.16.1 Fabric 不完全整合** *by BlingWang*  
-因 1.16 刚推出不久，可用插件相对较少。详情请见 [相关帖子](https://bbs.craft.moe/d/1923-2020625minecraft-1161-fabric-cmod)。
+因 1.16 刚推出不久，可用 mod 相对较少。详情请见 [相关帖子](https://bbs.craft.moe/d/1923-2020625minecraft-1161-fabric-cmod)。
 
 ## 资源包（材质）
 
@@ -38,6 +38,12 @@
 -   [Soartex Fanver](http://soartex.net/downloads/)
 -   [R3D Realism](http://www.minecraftforum.net/topic/1182714-)
 - [Faithful](https://faithful.team) —— 原版材质高清重制
+
+## 光影包
+
+- [BSL Shaders](https://bitslablab.com/bslshaders/)
+- [SEUS (Sonic Ether’s Unbelievable Shaders)](https://www.sonicether.com/seus/)
+- [Chocapic13' Shaders](https://www.curseforge.com/minecraft/customization/chocapic13-shaders)
 
 ## 皮肤
 

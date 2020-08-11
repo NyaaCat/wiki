@@ -19,6 +19,8 @@
 - 8/12 [毛运会击退擂台决赛&闭幕式](https://bbs.craft.moe/d/2009)
 - 8/13 [决战！夏夜幻影](https://bbs.nyaa.cat/d/1742)
 
+[奖励发放说明](https://bbs.craft.moe/d/2021)
+
 请访问论坛页面查看完整夏日祭、毛运会活动详情，以及参与讨论： https://bbs.nyaa.cat/d/1743
 
 ## 2020 喵窝&毛线劳动节活动 【 Adventurer Legends | 职业死斗 】
