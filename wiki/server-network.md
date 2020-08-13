@@ -66,9 +66,10 @@ Need For Speed 服务器为喵窝的竞速游戏服务器。玩家可以在这�
 *   **服务器代号** `nfs`
 *   目前已开放场地：
   + [WWR 2018](https://bbs.nyaa.cat/d/1309-2018-nyaacat-day-1-world-wings-rally "2018年夏日祭“世界飞行拉力赛”规则")
-  + [Ice Race](https://bbs.nyaa.cat/d/1304-2018 "2018年毛运会“冰道竞速”项目规则") 
-  + [WWR 2019](https://bbs.nyaa.cat/d/1445-2019-world-wings-rally "2019年夏日祭“世界飞行拉力赛”项目规则") 。
+  + [WWR 2019](https://bbs.nyaa.cat/d/1445-2019-world-wings-rally "2019年夏日祭“世界飞行拉力赛”项目规则")
   + [WWR 2020](https://bbs.nyaa.cat/d/1727 "WWR2020 场地开放")
+  + [KSC 2020](https://bbs.craft.moe/d/2009 "2020 第四届毛玉线圈物语运动会 - Day 2 跑酷场地开放")
+  + [Ice Race](https://bbs.nyaa.cat/d/1304-2018 "2018年毛运会“冰道竞速”项目规则") 
 *   进入服务器后，可通过命令 `/town select` 选择进入各个场地。
 *   同时对毛玉线圈物语开放。
 
