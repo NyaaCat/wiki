@@ -783,8 +783,8 @@
 
 !> 这件装备只能**单独使用**，如若与任何其它装备同时使用都会有严重的后果。
 
-![精灵回廊神经1](../../assets/images/inf/items/support/spirit_corridor_nerve_exhibition.png)
-![精灵回廊神经2](../../assets/images/inf/items/support/spirit_corridor_nerve_data.png)
+![精灵回廊神经1](../../assets/images/inf/items/support/t5p_spirit_corridor_nerve_exhibition.png)
+![精灵回廊神经2](../../assets/images/inf/items/support/t5p_spirit_corridor_nerve_data.png)
 
 展示：阿姨
 
