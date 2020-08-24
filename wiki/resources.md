@@ -25,7 +25,7 @@
 
 ### Minecraft 1.16.x
 
-!> 当前喵窝尚未跟进新版本，但可在 [测试服务器](wiki/server-network.md#New-Features-Express) 中体验原版新特性。
+!> 当前喵窝尚未跟进新版本；如需登入游戏，请继续使用 1.15.2 客户端。
 
 **1.16.x Fabric 不完全整合** *by Kinomotomoyo*  
 因 1.16 刚推出不久，可用 mod 相对较少。详情请见 [相关帖子](https://bbs.craft.moe/d/1923-2020625minecraft-1161-fabric-cmod)。
