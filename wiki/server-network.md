@@ -53,11 +53,14 @@ Nyaa UBW 是喵窝的创造服务器，所有玩家均使用创造模式，并�
     + `/tpahere` - 请求某玩家传送到你所在位置
     + `/top` - 传送到建筑顶部
     + `/getpos` - 获取自己的坐标
+    + `/setblock` - 在指定位置放置方块
     + WorldEdit 命令
 * 请遵守喵窝的通用守则。
 * 如果需要定时备份的工程世界，了解更多请移步 [Project Nyaa UBW](space/project_nyaa_ubw.md)
 
 ?> 提示：你可以前往 `test` 服务器完成建筑设想，再通过影印 mod 等复制到喵窝世界。但是，生存建造所需的材料仍然要求在喵窝主世界生产、收集。 
+
+!> 目前不建议在 `test` 服务器使用影印 mod 粘贴原理图。由于其工作原理，在粘贴过程中可能会以 `kicked for spamming` 为由被踢出服务器。
 
 ### NyaaCat: Need For Speed
 
