@@ -29,6 +29,7 @@
 
 **1.16.2 Fabric 不完全整合** *by Kinomotomoyo*  
 体验上基本与 1.15.2 整合包无异。
+
 详情请见 [相关帖子](https://bbs.craft.moe/d/1923)。
 
 ## 资源包（材质）
