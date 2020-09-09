@@ -44,12 +44,10 @@
 
 下载：[Google Drive](https://drive.google.com/file/d/0B3NeH2NioYWfQ3BLQ3ZJUGtoN2c/view) | [MEGA](https://mega.nz/#!upVnjCKJ!rS9kmlAc2IC8-fZ_15uXJas3xe-b-jGIiVDErnv5WDQ) | [天翼云盘](https://cloud.189.cn/t/7zaiuq2umQRb)
 
-#### 关于 MultiMC 的常见问题
+#### 常见问题
 
 1. 出现 `Failed to start Minecraft: java.lang.reflect.InvocationTargetException` 错误  
-本整合包仅支持 JRE 8。如果不慎升级到更高版本，请先降级或单独下载 JRE 8。
-2. 出现 `Instance update failed because: Job 'Download of meta file net.minecraft/1.12.json' failed to process` 错误  
-你只需要点击 **Check for Updates（检查更新）** 升级 MultiMC 即可
+本整合包仅支持 JRE 8，请再次确认您的 JRE 版本。
 </details>
 
 ## 模组（Mod）

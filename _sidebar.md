@@ -38,7 +38,5 @@
   - [规则](pvp/rules.md)
   - [场地](pvp/arena.md)
   - [技巧](pvp/guide.md)
-- Miu's Lab
-  - [说明](miu/lab.md)
 - Terraria
   - [说明](terraria/server.md)

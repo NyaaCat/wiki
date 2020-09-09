@@ -8,6 +8,7 @@
 * [月常环游任务（1.14 以前）](misc/history/task)
 * [飞行之书](misc/history/elytra)
 * [名胜古迹](misc/history/historical-sites)
+* [图书馆](misc/history/library)
 * [历年游戏活动](space/activities)
 * [[喵窝] 月芒物语设定集](https://www.zozyo.net/) - Minecraft 服务器「月芒物语」Wiki 存档。
 
