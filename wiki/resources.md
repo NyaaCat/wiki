@@ -15,7 +15,7 @@
 **1.15.2 Fabric 简单整合** *by BlingWang*  
 除 Optifine 暂时缺失以外，体验上基本与 1.14.4 整合包无异。此外，还新增几个实用插件。
 
-详情请见 [相关帖子](https://bbs.craft.moe/d/1409-minecraft-1-15-1-1-15-2-fabric)。
+详情请见 [相关帖子](https://bbs.craft.moe/d/1409)。
 
 > 目前，预览版 OptiFine 1.15.2 已经达到可用的程度了。如果已经迫不及待，现在可以这样安装：
 >
@@ -23,12 +23,14 @@
 > 1. 将下载到的两个 jar 放在 `.minecraft/mods` 目录下
 > 1. 开始享用吧
 
-### Minecraft 1.16.x
+### Minecraft 1.16.2
 
-!> 当前喵窝尚未跟进新版本，但可在 [测试服务器](wiki/server-network.md#New-Features-Express) 中体验原版新特性。
+!> 当前喵窝尚未跟进新版本，不过可以前往 [预览服务器](wiki/server-network?id=new-features-express) 先行体验。
 
-**1.16.1 Fabric 不完全整合** *by BlingWang*  
-因 1.16 刚推出不久，可用 mod 相对较少。详情请见 [相关帖子](https://bbs.craft.moe/d/1923-2020625minecraft-1161-fabric-cmod)。
+**1.16.2 Fabric 不完全整合** *by Kinomotomoyo*  
+体验上基本与 1.15.2 整合包无异。
+
+详情请见 [相关帖子](https://bbs.craft.moe/d/1923)。
 
 ## 资源包（材质）
 
@@ -50,6 +52,18 @@
 -   [幻想乡人物皮肤](http://pan.baidu.com/s/1mgyq8mW)  by setomu@yuly
 -   [Love Live! 皮肤合集](https://www.mcbbs.net/thread-315887-1-1.html)  by Arasd_Yu
 - 还有其它的吗？[在这里挑选！](https://www.minecraftskins.com/)
+
+## 模组（Mod）
+
+模组能提供许多好用的功能甚至改变整个游戏。
+
+### [Fabric] AutoReconnector
+
+如果在挂机时中途掉线，借助这个 Mod，就可以自动重连了。
+
+支持 1.14.4 / 1.15.\* / 1.16.\* 。
+
+[论坛讨论 / 下载](https://bbs.craft.moe/d/1316)
 
 ## Minecraft 正版许可
 

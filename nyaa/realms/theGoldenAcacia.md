@@ -9,17 +9,17 @@
 
 -   于喵窝大陆东南方向存有一片广袤无垠的沙漠，其中片片翠绿与潺潺碧波交汇之绿洲之处，金合欢镇坐落于此。
 
-![overview](../../assets/images/realms/theGoldenAcacia_1.png)
+![overview](../../assets/images/realms/golden_acacia_town/map.jpg)
 
 -   金合欢镇为**现代风格**绿洲小镇，四周大部为沙漠所包围，西北角毗邻一片金合欢热带草原。向北穿过一片热带区域与大海后可抵达猹湾，沿水路向东不远处可停靠乌木镇河岸，南部公路连接正在建设中的CBD —— **谷鄉町**。
 
-![overview](../../assets/images/realms/theGoldenAcacia_2.png)
+![overview](../../assets/images/realms/golden_acacia_town/street_sunset.jpg)
 
 -   绿洲区域盛产金合欢树。某日绿洲中一新发树苗，其枝叶通体金黄，妙不可言。镇中居民将其移至镇中心培育，以此为镇之宝树，金合欢镇以此得名。
 
-![overview](../../assets/images/realms/theGoldenAcacia_3.png)
+![overview](../../assets/images/realms/golden_acacia_town/street_noon.jpg)
 
-![overview](../../assets/images/realms/theGoldenAcacia_4.png)
+![overview](../../assets/images/realms/golden_acacia_town/street_rainy.jpg)
 
 ## 交通
 

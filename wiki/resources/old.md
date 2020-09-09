@@ -14,23 +14,27 @@
 
 [Minecraft 1.13.2 Rift 简单整合 by phoenixlzx](https://bbs.craft.moe/d/718)
 
-### Minecraft 1.12.2
+### Minecraft 1.12
 
-Minecraft 1.12 基本整合 by cylin
-#### API
-* Forge
-* LiteLoader
-#### Mods
-* JustEnoughItems
-* Neat
-* OptiFine
-* WorldEdit
-* WorldEditCui
-* ZyinsHUD
-* voxelMap
-* popenchanttags
-* InventoryTweaks
-* MouseTweaks
+**Minecraft 1.12 基本整合 by cylin**
+
+<details>
+<summary>点击此以查看详情</summary>
+
+* API
+  * Forge
+  * LiteLoader
+* Mods
+  * JustEnoughItems
+  * Neat
+  * OptiFine
+  * WorldEdit
+  * WorldEditCui
+  * ZyinsHUD
+  * voxelMap
+  * popenchanttags
+  * InventoryTweaks
+  * MouseTweaks
 
 #### 包含 Windows MultiMC 客户端
 
@@ -46,12 +50,16 @@ Minecraft 1.12 基本整合 by cylin
 本整合包仅支持 JRE 8。如果不慎升级到更高版本，请先降级或单独下载 JRE 8。
 2. 出现 `Instance update failed because: Job 'Download of meta file net.minecraft/1.12.json' failed to process` 错误  
 你只需要点击 **Check for Updates（检查更新）** 升级 MultiMC 即可
+</details>
 
 ## 模组（Mod）
 
 模组必须要在安装了 Forge 的客户端上才能正确执行，他能提供许多好用的功能甚至改变整个游戏。
 
 ### TooltipFilter（1.12 / 1.12.2）
+
+<details>
+<summary>点击此以查看详情</summary>
 
 **[论坛讨论](https://bbs.nyaa.cat/d/960)**
 
@@ -62,4 +70,5 @@ Minecraft 1.12 基本整合 by cylin
 -   [下载](https://github.com/Librazy/TooltipFilter/releases)
 -   [配置文件内容（有中英文客户端区分）](https://github.com/Librazy/TooltipFilter/wiki/Some-good-filters)
     
-配置文件放在  `.minecraft\config\Tooltip Filter\filter.txt`，如果是 MultiMC，则放在实例根目录下  `minecraft\config\Tooltip Filter\filter.txt`
+配置文件放在 `.minecraft\config\Tooltip Filter\filter.txt`
+</details>
