@@ -4,6 +4,7 @@
 
 ### 2020 年
 
+- [周末搞事活动「是强者就下 255 层」](space/items/activities/2020-255floor)
 - [夏日祭](space/items/activities/2020-natsu-matsuri)
 - [喵窝&毛线劳动节活动 【 Adventurer Legends | 职业死斗 】](space/items/activities/2020-labour-day)
 - 喵窝&毛线春节活动【 An Epoch of D.D. Juan | 卷卷纪实 】
