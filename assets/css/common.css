@@ -1,11 +1,9 @@
 /*
-                             NyaaWiki Common CSS
--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-适用于 NyaaWiki 特殊段落内容的通用 CSS 样式。
+Stylesheet customized for NyaaWiki
+made by tcdw
 
-* 尽量使用 Markdown 和 HTML 的默认样式。
-* 所有 class 名称应以 `nw-` 开头。
-* 使用通俗易懂的名称。
+Styles below are NOT affiliated to Docsify itself.
+For details & discussion, visit https://bbs.nyaa.cat/d/1724
 */
 
 .nw-spoiler {
