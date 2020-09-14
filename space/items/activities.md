@@ -6,7 +6,7 @@
 ## 银河商人
 
 #### 来自明日的赞美之卷
-![item](../../assets/images/items/support/来自明日的赞美之卷.png)
+![item](../../assets/images/items/activities/来自明日的赞美之卷.png)
 - 【外形】附魔书
 - 【兑换需求】崭新出厂的铲雪锹(2019圣诞活动兑换物)×1，海洋之心×32
 - 【来源】2020新年
