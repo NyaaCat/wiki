@@ -12,49 +12,49 @@
 - 【来源】2020新年
 
 #### 崭新出厂的铲雪锹
-![item](../../assets/images/items/support/崭新出厂的铲雪锹.png)
+![item](../../assets/images/items/activities/崭新出厂的铲雪锹.png)
 - 【外形】铁铲
 - 【兑换需求】钻石矿石×64，绿宝石矿石×64
 - 【来源】2019圣诞节
 
 #### 卖女孩的小火柴
-![item](../../assets/images/items/support/卖女孩的小火柴.png)
+![item](../../assets/images/items/activities/卖女孩的小火柴.png)
 - 【外形】附魔竹子
 - 【兑换需求】崭新出厂的铲雪锹(2019圣诞活动兑换物)×1，附魔台×64
 - 【来源】2019圣诞节
 
 #### 武士刀
-![item](../../assets/images/items/support/武士刀.png)
+![item](../../assets/images/items/activities/武士刀.png)
 - 【外形】附魔石剑
 - 【兑换需求】崭新出厂的铲雪锹(2019圣诞活动兑换物)×1，钟×64
 - 【来源】2019圣诞节
 
 #### 小胡闹
-![item](../../assets/images/items/support/小胡闹.png)
+![item](../../assets/images/items/activities/小胡闹.png)
 - 【外形】附魔凋零玫瑰
 - 【兑换需求】崭新出厂的铲雪锹(2019圣诞活动兑换物)×1
 - 【来源】2019圣诞节
 
 #### 祝福之花 ?
-![item](../../assets/images/items/support/祝福之花.png)
+![item](../../assets/images/items/activities/祝福之花.png)
 - 【外形】附魔铃兰
 - 【兑换需求】被遗忘的碎石(2019国庆活动兑换物)×22
 - 【来源】2019国庆节
 
 #### 叮叮咚咚钟
-![item](../../assets/images/items/support/叮叮咚咚钟.png)
+![item](../../assets/images/items/activities/叮叮咚咚钟.png)
 - 【外形】附魔钟
 - 【兑换需求】被遗忘的碎石(2019国庆活动兑换物)×5
 - 【来源】2019国庆节
 
 #### 从天而降的石头
-![item](../../assets/images/items/support/从天而降的石头.png)
+![item](../../assets/images/items/activities/从天而降的石头.png)
 - 【外形】附魔石头
 - 【兑换需求】被遗忘的碎石(2019国庆活动兑换物)×8
 - 【来源】2019国庆节
 
 #### 玛丽奥的超级蘑菇
-![item](../../assets/images/items/support/玛丽奥的超级蘑菇.png)
+![item](../../assets/images/items/activities/玛丽奥的超级蘑菇.png)
 - 【外形】附魔红蘑菇
 - 【兑换需求】被遗忘的碎石(2019国庆活动兑换物)×15
 - 【来源】2019国庆节
