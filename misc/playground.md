@@ -21,7 +21,3 @@
 * 提升自身素质与姿势水平，要知道服务器里有一堆玩家都是懂电脑会敲代码的人；
 * 凤凰君（`+Phoenix Nemo/phoenixlzx`）来自 Archlinuxcn 社区，而二小姐红魔馆方面的代表人物当然就是二小姐（`+Whale Mo/ncwhale`）了喵～这位才是隐藏 BOSS 喵～记得也要给二小姐交 450 喵～
 * 总之，萌就是正义喵！～
-
-## 某笔者最喜欢的歌曲之一！！！
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/oC14K_iIYWI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

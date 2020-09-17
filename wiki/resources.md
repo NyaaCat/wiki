@@ -23,14 +23,14 @@
 > 1. 将下载到的两个 jar 放在 `.minecraft/mods` 目录下
 > 1. 开始享用吧
 
-### Minecraft 1.16.2
+### Minecraft 1.16.3
 
-!> 当前喵窝尚未跟进新版本，不过可以前往 [预览服务器](wiki/server-network?id=new-features-express) 先行体验。
+!> 当前喵窝尚未跟进新版本，不过可以前往 [预览服务器](wiki/server-network?id=new-features-express) 先行体验（如果已经开启）。
 
-**1.16.2 Fabric 不完全整合** *by Kinomotomoyo*  
-体验上基本与 1.15.2 整合包无异，并加回了 OptiFine。此外，还新增几个实用插件。
+**1.16.3 Fabric 简单整合** *by Atom202SLL*  
+除 Optifine 与 Sodium 暂时缺失以外，体验上基本与 1.15.2 整合包无异。
 
-详情请见 [相关帖子](https://bbs.craft.moe/d/1923)。
+详情请见 [相关帖子](https://bbs.craft.moe/d/2079/3)。
 
 ## 资源包（材质）
 
