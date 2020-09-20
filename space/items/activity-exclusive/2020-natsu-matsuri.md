@@ -4,7 +4,7 @@
 
 ### 浅夏的风铃草
 
-![浅夏的风铃草](../../../assets/images/items/activities/2020-natsu-matsuri/浅夏的风铃草.png)
+![浅夏的风铃草](../../../assets/images/items/activity-exclusive/2020-natsu-matsuri/浅夏的风铃草.png)
 
 * 【外形】铃兰
 * 【来源】本次夏日祭全部活动通用的代币奖励。[详见](https://bbs.nyaa.cat/d/1752)
@@ -13,7 +13,7 @@
 
 ### 黄金火石
 
-![黄金火石](../../../assets/images/items/activities/2020-natsu-matsuri/黄金火石.png)
+![黄金火石](../../../assets/images/items/activity-exclusive/2020-natsu-matsuri/黄金火石.png)
 
 * 【外形】打火石
 * 【兑换需求】**浅夏的风铃草** x3
@@ -25,7 +25,7 @@
 
 ### 精灵时钟
 
-![精灵时钟](../../../assets/images/items/activities/2020-natsu-matsuri/精灵时钟.png)
+![精灵时钟](../../../assets/images/items/activity-exclusive/2020-natsu-matsuri/精灵时钟.png)
 
 * 【外形】钟
 * 【兑换需求】**浅夏的风铃草** x4
@@ -35,7 +35,7 @@
 
 ### 杰瑞的南瓜派
 
-![杰瑞的南瓜派](../../../assets/images/items/activities/2020-natsu-matsuri/杰瑞的南瓜派.png)
+![杰瑞的南瓜派](../../../assets/images/items/activity-exclusive/2020-natsu-matsuri/杰瑞的南瓜派.png)
 
 * 【外形】南瓜派，有附魔
 * 【兑换需求】**浅夏的风铃草** x5
@@ -48,7 +48,7 @@
 
 ### 流仙
 
-![流仙](../../../assets/images/items/activities/2020-natsu-matsuri/流仙.png)
+![流仙](../../../assets/images/items/activity-exclusive/2020-natsu-matsuri/流仙.png)
 
 * 【外形】钓鱼竿
 * 【兑换需求】**浅夏的风铃草** x6
@@ -59,7 +59,7 @@
 
 ### 精铁砍刀
 
-![精铁砍刀](../../../assets/images/items/activities/2020-natsu-matsuri/精铁砍刀.png)
+![精铁砍刀](../../../assets/images/items/activity-exclusive/2020-natsu-matsuri/精铁砍刀.png)
 
 * 【外形】铁剑
 * 【兑换需求】**浅夏的风铃草** x6
@@ -71,7 +71,7 @@
 
 ### 凯露的头
 
-![凯露的头](../../../assets/images/items/activities/2020-natsu-matsuri/凯露的头.png)
+![凯露的头](../../../assets/images/items/activity-exclusive/2020-natsu-matsuri/凯露的头.png)
 
 * 【外形】玩家头颅
 * 【兑换需求】**浅夏的风铃草** x1
@@ -81,7 +81,7 @@
 
 ### 武器蓝图 - 豌豆荚
 
-![武器蓝图 - 豌豆荚](../../../assets/images/items/activities/2020-natsu-matsuri/武器蓝图豌豆荚.png)
+![武器蓝图 - 豌豆荚](../../../assets/images/items/activity-exclusive/2020-natsu-matsuri/武器蓝图豌豆荚.png)
 
 * 【外形】纸
 * 【兑换需求】**浅夏的风铃草** x8
@@ -95,10 +95,10 @@
 
 | 物品 | 兑换需求 | 详情 |
 | - | - | - |
-| 魔法书 | **浅夏的风铃草** x2 | ![魔法书](../../../assets/images/items/activities/2020-natsu-matsuri/魔法书1.png) |
-| 魔法书 | **浅夏的风铃草** x2 | ![魔法书](../../../assets/images/items/activities/2020-natsu-matsuri/魔法书2.png) |
-| 魔法书 | **浅夏的风铃草** x2 | ![魔法书](../../../assets/images/items/activities/2020-natsu-matsuri/魔法书3.png) |
-| 魔法书 | **浅夏的风铃草** x2 | ![魔法书](../../../assets/images/items/activities/2020-natsu-matsuri/魔法书4.png) |
+| 魔法书 | **浅夏的风铃草** x2 | ![魔法书](../../../assets/images/items/activity-exclusive/2020-natsu-matsuri/魔法书1.png) |
+| 魔法书 | **浅夏的风铃草** x2 | ![魔法书](../../../assets/images/items/activity-exclusive/2020-natsu-matsuri/魔法书2.png) |
+| 魔法书 | **浅夏的风铃草** x2 | ![魔法书](../../../assets/images/items/activity-exclusive/2020-natsu-matsuri/魔法书3.png) |
+| 魔法书 | **浅夏的风铃草** x2 | ![魔法书](../../../assets/images/items/activity-exclusive/2020-natsu-matsuri/魔法书4.png) |
 | 特级魂玉兑换券 | **浅夏的风铃草** x2 | |
 | 灵魂残片 | **浅夏的风铃草** x2 | |
 
@@ -106,7 +106,7 @@
 
 ## 物品名称
 
-![aaaa](../../../assets/images/items/activities/2020-natsu-matsuri/aaaa.png)
+![aaaa](../../../assets/images/items/activity-exclusive/2020-natsu-matsuri/aaaa.png)
 
 * 【外形】
 * 【兑换需求】**浅夏的风铃草** x
