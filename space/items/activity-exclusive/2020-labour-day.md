@@ -6,7 +6,7 @@
 
 ### 劳动节大奖章
 
-![劳动节大奖章](../../../assets/images/items/activities/2020-labour-day/劳动节大奖章.png)
+![劳动节大奖章](../../../assets/images/items/activity-exclusive/2020-labour-day/劳动节大奖章.png)
 
 * 【外形】绿宝石，有附魔
 * 【来源】本次劳动节活动的代币奖励。
@@ -15,7 +15,7 @@
 
 ### 武器蓝图 - 极光剑
 
-![武器蓝图 - 极光剑](../../../assets/images/items/activities/2020-labour-day/武器蓝图极光剑.png)
+![武器蓝图 - 极光剑](../../../assets/images/items/activity-exclusive/2020-labour-day/武器蓝图极光剑.png)
 
 * 【外形】纸
 * 【兑换需求】**劳动节大奖章** x5
@@ -25,7 +25,7 @@
 
 ### 武器蓝图 - 魔箭
 
-![武器蓝图 - 魔箭](../../../assets/images/items/activities/2020-labour-day/武器蓝图魔箭.png)
+![武器蓝图 - 魔箭](../../../assets/images/items/activity-exclusive/2020-labour-day/武器蓝图魔箭.png)
 
 * 【外形】纸
 * 【兑换需求】**劳动节大奖章** x5
@@ -35,7 +35,7 @@
 
 ### 武器蓝图 - 森林重弩
 
-![武器蓝图 - 森林重弩](../../../assets/images/items/activities/2020-labour-day/武器蓝图森林重弩.png)
+![武器蓝图 - 森林重弩](../../../assets/images/items/activity-exclusive/2020-labour-day/武器蓝图森林重弩.png)
 
 * 【外形】纸
 * 【兑换需求】**劳动节大奖章** x5
@@ -53,7 +53,7 @@
 | 月耀城每日礼包 | **劳动节大奖章** x1 | |
 | 月耀城每周礼包 | **劳动节大奖章** x3 | |
 | 一张银行卡 | **劳动节大奖章** x2 | |
-| 魔法书 | **劳动节大奖章** x3 | ![魔法书](../../../assets/images/items/activities/2020-natsu-matsuri/魔法书1.png) |
-| 魔法书 | **劳动节大奖章** x3 | ![魔法书](../../../assets/images/items/activities/2020-natsu-matsuri/魔法书2.png) |
-| 魔法书 | **劳动节大奖章** x3 | ![魔法书](../../../assets/images/items/activities/2020-natsu-matsuri/魔法书3.png) |
-| 魔法书 | **劳动节大奖章** x3 | ![魔法书](../../../assets/images/items/activities/2020-natsu-matsuri/魔法书4.png) |
+| 魔法书 | **劳动节大奖章** x3 | ![魔法书](../../../assets/images/items/activity-exclusive/2020-natsu-matsuri/魔法书1.png) |
+| 魔法书 | **劳动节大奖章** x3 | ![魔法书](../../../assets/images/items/activity-exclusive/2020-natsu-matsuri/魔法书2.png) |
+| 魔法书 | **劳动节大奖章** x3 | ![魔法书](../../../assets/images/items/activity-exclusive/2020-natsu-matsuri/魔法书3.png) |
+| 魔法书 | **劳动节大奖章** x3 | ![魔法书](../../../assets/images/items/activity-exclusive/2020-natsu-matsuri/魔法书4.png) |

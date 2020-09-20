@@ -14,5 +14,5 @@
 - [辅助道具](space/items/support.md)
 - [节庆用品（如焰火）](space/items/festival.md)
 - [周年纪念道具](space/items/anniversary-gifts.md)
-- [活动兑换道具](space/items/activities.md)
+- [活动兑换道具](space/items/activity-exclusive.md)
 - [旧版装备道具](space/items/legacy.md)*（仍可工作的）*

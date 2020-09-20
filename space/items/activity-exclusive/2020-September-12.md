@@ -4,7 +4,7 @@
 
 ### 大柚子
 
-![大柚子](../../../assets/images/items/activities/2020-255floor/大柚子.png)
+![大柚子](../../../assets/images/items/activity-exclusive/2020-255floor/大柚子.png)
 
 * 【外形】鹿角珊瑚块，有附魔
 * 【来源】本次活动的代币奖励。
@@ -13,7 +13,7 @@
 
 ### 昏睡柚子茶
 
-![昏睡柚子茶](../../../assets/images/items/activities/2020-255floor/昏睡柚子茶.png)
+![昏睡柚子茶](../../../assets/images/items/activity-exclusive/2020-255floor/昏睡柚子茶.png)
 
 * 【外形】药水瓶，有附魔
 * 【兑换需求】**大柚子** x4 + 蜂蜜瓶 x16
@@ -23,7 +23,7 @@
 
 ### 老旧的勇者跑鞋
 
-![老旧的勇者跑鞋](../../../assets/images/items/activities/2020-255floor/老旧的勇者跑鞋.png)
+![老旧的勇者跑鞋](../../../assets/images/items/activity-exclusive/2020-255floor/老旧的勇者跑鞋.png)
 
 * 【外形】皮靴，有染色及附魔
 * 【兑换需求】**大柚子** x4 + 皮革 x36
@@ -35,7 +35,7 @@
 
 ### 超勇核心
 
-![超勇核心](../../../assets/images/items/activities/2020-255floor/超勇核心.png)
+![超勇核心](../../../assets/images/items/activity-exclusive/2020-255floor/超勇核心.png)
 
 * 【外形】潮涌核心
 * 【兑换需求】**大柚子** x5 + 潮涌核心 x4

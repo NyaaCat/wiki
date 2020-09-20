@@ -34,12 +34,12 @@
 <details>
 <summary>点这里看「深色」版噢</summary>
 
-![dark](../../assets/images/map-navi/map-Overworld-Rail-Ceallium(dark).png)
+![dark](../../assets/images/map-navi/map-Overworld-Rail-Ceallium(dark).jpg)
 
 </details>
 <br />
 
-![主世界轨道交通](../../assets/images/map-navi/map-Overworld-Rail-Ceallium.png)
+![主世界轨道交通](../../assets/images/map-navi/map-Overworld-Rail-Ceallium.jpg)
 
 
 ?> :information_source: 「阿库亚斯」三个站台分别称  
@@ -50,18 +50,18 @@
 
 ## 浪花町内地铁线路图
 
-![浪花町内地铁](../../assets/images/map-navi/map-Naniwa-subway-Ceallium.png)
+![浪花町内地铁](../../assets/images/map-navi/map-Naniwa-subway-Ceallium.jpg)
 
 - - -
 
 ## 新北市地铁线路图
 
-![新北市地铁](../../assets/images/map-navi/map-NewNorth-subway-Ceallium.png)
+![新北市地铁](../../assets/images/map-navi/map-NewNorth-subway-Ceallium.jpg)
 
 - - -
 
 ## 下界交通网线路图
 
-![下界交通网](../../assets/images/map-navi/map-nether-traffic-Ceallium.png)
+![下界交通网](../../assets/images/map-navi/map-nether-traffic-Ceallium.jpg)
 
 !> 更多搭乘指南请见[此页](space/map-navi/railway-nether "下界铁路搭乘指南")。
