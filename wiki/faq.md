@@ -1,5 +1,7 @@
 # FAQ
 
+*最后更新：{docsify-updated}*
+
 问题没有得到解决？
 
 首先要多看看 NyaaWiki 与 [Minecraft Wiki](https://minecraft-zh.gamepedia.com/Minecraft_Wiki) 的其它页面，因为那是众喵们逐字逐句写出来的；本 FAQ 仅仅提供了常见问题的解决方案，一些内容可能还没有覆盖。如果 Wiki 上也没有，那就试着在社群里询问吧。
@@ -167,7 +169,7 @@ https://ci.nyaacat.com/job/resourcepacks/job/master/lastSuccessfulBuild/artifact
 
 由于喵窝材质包会不断更新，所以你需要定期下载喵窝资源包，并覆盖旧的版本，以避免出现物品模型不显示/不正确的问题。
 
-### 这些自定义物品模型是如何制作出来的？如何加入喵窝的制作团队？
+#### 这些自定义物品模型是如何制作出来的？如何加入喵窝的制作团队？
 
 它们是使用专门的 3D 建模工具（如 [Blockbench](https://blockbench.net/)、[Cubik Studio](https://cubik.studio/) 和 [Magicvoxel](https://www.voxelmade.com/magicavoxel)）制作而成的。如果希望入门，不妨参考一下 [这篇教程](https://bbs.craft.moe/d/2078)。
 
