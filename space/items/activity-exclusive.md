@@ -4,7 +4,7 @@
 
 ## 银河商人
 
-详见 [银河商人](space/items/activity-exclusive/galaxy-trader.md) 页面。
+详见 [银河商人](space/items/activity-exclusive/galaxy-merchant.md) 页面。
 
 ## 活动记录
 

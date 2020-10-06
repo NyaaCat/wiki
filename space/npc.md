@@ -45,7 +45,7 @@
 | 御魂匠 | 樱华町附近范围 | 出售辅助道具 |
 | 宝蓝精灵 | 琥珀川领域内 | 出售辅助道具 |
 | 狂野火枪手 | 柚木小镇附近范围 | 出售远程武器 |
-| [银河商人](space/items/activity-exclusive/galaxy-trader) | 主世界范围 | 兑换历年活动纪念品 |
+| [银河商人](space/items/activity-exclusive/galaxy-merchant) | 主世界范围 | 兑换历年活动纪念品 |
 
 ### 任务 NPC
 
