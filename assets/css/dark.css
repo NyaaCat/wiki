@@ -32,6 +32,7 @@ body {
 }
 .markdown-section hr {
   border-bottom: 1px solid #888;
+  margin: 2em 0;
 }
 .markdown-section iframe {
   border: 1px solid #888;
@@ -410,10 +411,6 @@ body.sticky .sidebar-toggle {
 }
 .markdown-section > :first-child {
   margin-top: 0 !important;
-}
-.markdown-section hr {
-  border: none;
-  margin: 2em 0;
 }
 .markdown-section iframe {
 /* fix horizontal overflow on iOS Safari */
