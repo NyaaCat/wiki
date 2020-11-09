@@ -13,9 +13,11 @@
 ### Minecraft 1.15.2
 
 **1.15.2 Fabric 简单整合** *by BlingWang*  
-除 Optifine 暂时缺失以外，体验上基本与 1.14.4 整合包无异。此外，还新增几个实用插件。
+除 Optifine 暂时缺失以外，体验上基本与 1.14.4 整合包无异。此外，还新增几个实用插件。  
 
 详情请见 [相关帖子](https://bbs.craft.moe/d/1409)。
+
+![1-15-2](https://global.cdn.mikupics.cn/2019/12/29/69be4c307eb77.png)
 
 > 目前，预览版 OptiFine 1.15.2 已经达到可用的程度了。如果已经迫不及待，现在可以这样安装：
 >
@@ -23,14 +25,16 @@
 > 1. 将下载到的两个 jar 放在 `.minecraft/mods` 目录下
 > 1. 开始享用吧
 
-### Minecraft 1.16.3
+### Minecraft 1.16.4
 
-!> 当前喵窝尚未跟进新版本，不过可以前往 [预览服务器](wiki/server-network?id=new-features-express) 先行体验（如果已经开启）。
+?> :information_source: 当前喵窝尚未跟进新版本，不过可以在 [毛玉线圈物语服务器](https://www.craft.moe/) 先行体验。
 
-**1.16.3 Fabric 简单整合** *by Atom202SLL*  
+**1.16.4 Fabric 简单整合** *by Atom202SLL*  
 体验上基本与 1.15.2 整合包无异，并加回了 OptiFine。
 
-详情请见 [相关帖子](hhttps://bbs.nyaa.cat/d/1770/3)。
+详情请见 [相关帖子](https://bbs.craft.moe/d/2079-multimcminecraft-116-fabric/5)。
+
+![1-16-4](https://i.loli.net/2020/09/17/6oyE5LACUXFiT4t.png)
 
 ## 资源包（材质）
 
@@ -64,6 +68,17 @@
 支持 1.14.4 / 1.15.\* / 1.16.\* 。
 
 [论坛讨论 / 下载](https://bbs.craft.moe/d/1316)
+
+### Sodium
+
+可以大幅提升游玩时的**帧率**，尤其在核芯（集成）显卡、入门独显平台上。<br />
+当前仅支持 1.16.1 及以上版本，以及 Fabric 框架。
+
+- MCBBS 上的[介绍](https://www.mcbbs.net/thread-1079347-1-1.html)
+- [下载地址](https://github.com/jellysquid3/sodium-fabric/releases)
+  + [Gitee镜像](https://gitee.com/mirrors_trending/sodium-fabric/tree/1.16.x%2Fstable/)，可供自行编译（选择 1.16.x/Stable 分支，编译后即适配 1.16.4）
+
+!> **Optifine 和 Sodium 不兼容。** 使用本插件前，须先移除/禁用 OptiFabric 和 Optifine，反之亦然。
 
 <!--
 ## Minecraft 正版许可
