@@ -10,6 +10,9 @@
 
 ### 2020 年
 
+- 万圣节活动「Treat or Beat」
+- [国庆节活动「围攻行动」](space/items/activity-exclusive/2020-national-day#围攻行动)
+- [国庆节活动「王牌战机」](space/items/activity-exclusive/2020-national-day#王牌战机)
 - [周末搞事活动「是强者就下 255 层」](space/items/activity-exclusive/2020-september-12.md)
 - [夏日祭](space/items/activity-exclusive/2020-natsu-matsuri.md)
 - [喵窝&毛线劳动节活动 【 Adventurer Legends | 职业死斗 】](space/items/activity-exclusive/2020-labour-day.md)

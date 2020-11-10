@@ -92,7 +92,7 @@ _（请注意: 以上描述仅供参考，实际内容以游戏内为准）_
 
 --------
 
-## 2020 喵窝&毛线国庆活动 【围攻行动】
+## 2020 喵窝&毛线国庆活动 【围攻行动】 :id=national-day-besiege
 
 ![siegetitle.png](../assets/images/activities/2020-national-day/YLyjmHf7oNw3ObK.png)
 
@@ -220,7 +220,7 @@ _（请注意: 以上描述仅供参考，实际内容以游戏内为准）_
 
 - - -
 
-## 2020 喵窝&毛线国庆活动 【王牌战机】
+## 2020 喵窝&毛线国庆活动 【王牌战机】 :id=national-day-airfight
 
 > 这里是[预告帖](https://bbs.craft.moe/d/2059-2020)
 
