@@ -28,43 +28,43 @@
 
 ## 经济 / 市场类
 
-| 命令| 说明| 备注 |
-|-|-|-|
-|`/balance`<br />`/bal`	|查看现金余额	 ||
-|`/nb my` | 查看银行存款及贷款总额 ||
-|`/pay [玩家 ID] [金额]`	|转账给指定玩家	|执行后**立即转账**，请慎用<br>以星号代替 `[玩家 ID]` 意味着向**当时在线的每一位玩家**转账 `[金额]` 数目的节操（可以用来给大家发糖 |
-|`/ptt ac`	|领取刚刚提示的PTT奖励	 ||
-|`/heh market view`<br />`/hm`	|打开世界商店	 ||
-|`/heh market offer [单价]`<br />`/hm [单价]`	|将手中的物品上架到世界商店|	收费|
-|`/heh requisition req [物品ID] [单价] [数量]`<br />`/hreq [物品ID] [单价] [数量]`	|发起征购	 |物品ID为“hand”时，征购手中的物品|
-|`/heh requisition sell [数量（可选）]`<br />`/hsell [数量（可选）]`	|手持征购中物品，响应征购	 ||
-|`/heh auction auc [起步价] [步进价] [保留价（可选）]`<br />`/hauc [起步价] [步进价] [保留价（可选）]`	|发起拍卖，拍卖手中的物品	 ||
-|`/heh auction bid [价格]`<br />`/hbid [价格]`	|在拍卖中出价	|价格**留空**或为“min”时，跟进可允许的最低价格|
-|`/heh retrieve [confirm]`	|取回购买后，暂存于系统的物品|	执行前，需腾退背包/末影箱空间|
-|`/heh shop sell [单价]`	|上架商品到你的木牌商店|	执行前，对准自己的商店“SELL”木牌|
-|`/heh shop storage set`	|设置收购存储箱	 ||
-|`/heh shop storage info`	|查询收购存储箱位置	 ||
-|`/heh shop buy [单价]`	|将手中的物品添加到收购列表	|执行前，对准自己的商店“BUY”木牌|
-|`/heh shop lotto set`	|设置抽奖奖池存储箱	 ||
-|`/heh shop lotto info`	|查询抽奖奖池存储箱位置	 ||
-|`/heh search [关键词] [选项:值]`	|搜索世界木牌商店中的商品	 ||
-|`/heh search searchpage [页码]` |搜索结果页翻页	 ||
-|`/heh transaction sellto [玩家 ID] [总价]`<br />`/hsellto [玩家 ID] [总价]`	|向指定玩家出售手中物品，并发送账单	 ||
-|`/heh transaction pay [账单 ID]`<br />`/hpay [账单 ID]` |支付指定账单，并收货	|收费|
-|`/heh transaction cancel [账单 ID]`	|取消指定账单	 ||
-|`/npc hehshop`	|创建一个NPC，替代自己售货	|与自己样貌相同|
-|`/npc hehshop remove`	| 移除自己创建的NPC | 执行前须对准自己的NPC |
+| 命令 | 说明 | 备注 |
+| - | - | - |
+| `/balance`<br>`/bal` | 查看现金余额 | |
+| `/nb my` | 查看银行存款及贷款总额 | |
+| `/pay [玩家 ID] [金额]` | 转账给指定玩家 | 执行后**立即转账**，请慎用 |
+| `/ptt ac` | 领取刚刚提示的PTT奖励 | |
+| `/heh m`<br>`/hm` | 打开世界商店 | |
+| `/heh m [单价]`<br>`/hm [单价]` | 将手中的物品上架到世界商店 | 收费 |
+| `/heh req [数量] [单价]`<br>`/hreq [数量] [单价]` | 发起征购（手上的物品） | |
+| `/heh sell [数量（可选）]`<br>`/hsell [数量（可选）]` | 手持征购中物品，响应征购 | |
+| `/heh auc [起步价] [步进价] [保留价（可选）]`<br>`/hauc [起步价] [步进价] [保留价（可选）]` | 发起拍卖，拍卖手中的物品 | |
+| `/heh bid [价格]`<br>`/hbid [价格]` | 在拍卖中出价 | 价格**留空**或为“min”时，跟进可允许的最低价格 |
+| `/heh storage` | 查看/取回暂存于系统的物品 | |
+| `/heh shop sell [单价]` | 上架商品到你的木牌商店 | 执行前，对准自己的商店“SELL”木牌 |
+| `/heh chest req` | 设置收购存储箱 | |
+| `/heh shop buy [单价]` | 将手中的物品添加到收购列表 | 执行前，对准自己的商店“BUY”木牌 |
+| `/heh chest lotto` | 设置抽奖奖池存储箱 | |
+| `/heh frame set` | 设置展示框商店 | |
+| `/heh frame remove` | 移除展示框商店 | |
+| `/heh search [关键词] [选项:值]` | 搜索世界木牌商店中的商品 | |
+| `/heh search page [页码]` | 搜索结果页翻页 | |
+| `/heh sellto [玩家 ID] [总价]`<br>`/hsellto [玩家 ID] [总价]` | 向指定玩家出售手中物品，并发送账单 | |
+| `/heh pay [账单 ID]`<br>`/hpay [账单 ID]` | 支付指定账单，并收货 | 收费 |
+| `/heh cancel [账单 ID]` | 取消指定账单 | |
+| `/npc hehshop` | 创建一个NPC，替代自己售货 | 与自己样貌相同 |
+| `/npc hehshop remove` | 移除自己创建的NPC | 执行前须对准自己的NPC |
 
 ### 木牌商店搜索选项
 
-*   `i` 或 `item`：物品名称或 ID，仅搜索指定物品
-*   `p` 或 `player`：玩家 ID，仅搜索指定玩家
-*   `r` 或 `range`：搜索范围，仅搜索指定距离内有木牌的商店
-*   `a` 或 `advanced`：高级搜索选项：
-    *   `ench`：搜索包括附魔
-        *   `enchonly`：仅搜索附魔
-        *   `lore`：搜索包括描述
-        *   `loreonly`：仅包括描述 选项间用 `|` 并列，如 `ench|lore`
+* `i` 或 `item`：物品名称或 ID，仅搜索指定物品
+* `p` 或 `player`：玩家 ID，仅搜索指定玩家
+* `r` 或 `range`：搜索范围，仅搜索指定距离内有木牌的商店
+* `a` 或 `advanced`：高级搜索选项：
+  * `ench`：搜索包括附魔
+    * `enchonly`：仅搜索附魔
+    * `lore`：搜索包括描述
+    * `loreonly`：仅包括描述 选项间用 `|` 并列，如 `ench|lore`
 
 ?> :heavy_check_mark: **以上参数组合范例**  
 在所有木牌商店中，查找带有『经验修补』附魔的附魔书：  
