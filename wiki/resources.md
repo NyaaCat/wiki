@@ -17,7 +17,18 @@
 
 详情请见 [相关帖子](https://bbs.craft.moe/d/2079-multimcminecraft-116-fabric/5)。
 
-![1-16-4](https://i.loli.net/2020/09/17/6oyE5LACUXFiT4t.png)
+<details>
+<summary>Mod 一览</summary>
+<img alt=1-16-4 src=https://i.loli.net/2020/09/17/6oyE5LACUXFiT4t.png>
+</details>
+
+#### 已知问题
+
+如果进入喵窝服务器并启用服务器资源包，**会出现客户端崩溃的情况。**  
+目前可用的临时解决方案（选择其一）：
+
+- 禁用 Optifine。
+- 关闭服务器资源包，并使用[离线资源包](wiki/faq#服务器资源包加载缓慢，怎么办？)。
 
 #### 关于官方启动器使用整合包
 
