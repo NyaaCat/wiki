@@ -12,8 +12,6 @@
 
 ### Minecraft 1.16.4
 
-?> :information_source: 当前喵窝尚未跟进新版本，不过可以在 [毛玉线圈物语服务器](https://www.craft.moe/) 先行体验。
-
 **1.16.4 Fabric 简单整合** *by Atom202SLL* （适用于 MultiMC）  
 体验上基本与 1.15.2 整合包无异，并加回了 OptiFine。
 
@@ -29,7 +27,7 @@
 1. 从整合包内的`.minecraft/mods`目录，提取所有文件，放到官方启动器所存储的<span class="nw-explain" title="对于Windows，其位于 C:\Users\<用户名>\AppData\Roaming\.minecraft">游戏目录</span>下的`mods`目录中。
 1. 整合包可能禁用了 Optifine / OptiFabric，如需使用它们，重命名将`.disabled`后缀删除。如果需要 [Sodium](#sodium)，请勿重命名。
 1. （可选）从 [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabric-api) 下载最新版 Fabric API。
-  - **注意：1.15.2 整合包**内的 Fabric API 不要更新。
+  <!-- - **注意：1.15.2 整合包**内的 Fabric API 不要更新。 -->
 1. 开始游戏吧:-P
 
 ## 模组（Mod）
