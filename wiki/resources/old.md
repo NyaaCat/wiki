@@ -6,6 +6,21 @@
 
 ## 整合包（客户端）
 
+### Minecraft 1.15.2
+
+**1.15.2 Fabric 简单整合** *by BlingWang* （适用于 MultiMC）  
+除 Optifine 暂时缺失以外，体验上基本与 1.14.4 整合包无异；此外，还新增几个实用插件。
+
+详情请见 [相关帖子](https://bbs.craft.moe/d/1409)。
+
+![1-15-2](https://global.cdn.mikupics.cn/2019/12/29/69be4c307eb77.png)
+
+> 目前，预览版 OptiFine 1.15.2 已经达到可用的程度了。如果已经迫不及待，现在可以这样安装：
+>
+> 1. 下载最新预览版 [OptiFine](https://optifine.net/downloads) 和 [OptiFabric](https://www.curseforge.com/minecraft/mc-mods/optifabric)
+> 1. 将下载到的两个 jar 放在 `.minecraft/mods` 目录下
+> 1. 开始享用吧
+
 ### Minecraft 1.14.4
 
 [1.14.4 Fabric 简单整合 by phoenixlzx](https://bbs.craft.moe/d/1185)
