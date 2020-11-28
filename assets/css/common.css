@@ -7,12 +7,21 @@ For details & discussion, visit https://bbs.nyaa.cat/d/1724
 */
 
 .nw-spoiler {
-    background-color: #222;
-    color: #222;
+    background-color: #111;
+    color: #111;
     transition: color 0.25s;
 }
 
 .nw-spoiler:hover {
+    color: #eee;
+}
+
+.nw-spoiler a, .nw-spoiler a.hover {
+    color: #111;
+    transition: color 0.25s;
+}
+
+.nw-spoiler:hover a, .nw-spoiler:hover a:hover {
     color: #eee;
 }
 

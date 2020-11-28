@@ -28,6 +28,7 @@
 目前可用的临时解决方案（选择其一）：
 
 - 禁用 Optifine。
+- 手工删除服务器资源包后再试一次。
 - 关闭服务器资源包，并使用[离线资源包](wiki/faq#服务器资源包加载缓慢，怎么办？)。
 
 #### 关于官方启动器使用整合包
@@ -52,6 +53,16 @@
 支持 1.14.4 / 1.15.\* / 1.16.\* 。
 
 [论坛讨论 / 下载](https://bbs.craft.moe/d/1316)
+
+### [Fabric] EasierVillagerTrading
+
+可以大幅提升与村民等 NPC 交易的效率，对于喵窝等重度依赖交易 NPC 的服务器非常有帮助。
+
+* 单击一种交易内容即可立即交易一次
+* 按住 Shift 键单击一种交易内容即可将背包中的物品全部用于交易
+* 按住 Ctrl 键单击一种交易内容即可只准备交易（就像原版一样）
+
+[CurseForge 介绍 / 下载](https://www.curseforge.com/minecraft/mc-mods/easiervillagertrading)
 
 ### [Fabric] Sodium :id=sodium
 
