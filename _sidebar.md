@@ -1,17 +1,17 @@
 - 起步
   - [游戏规则](wiki/rules.md)
-  - [玩家权限](wiki/permission)
   - [新人指南](nyaa/beginners-guide.md)
   - [常见问题](wiki/faq.md)
   - [常用命令大全](tutorial/help)
+  - [推荐资源](wiki/resources.md)
 - 社区
   - [Planet NyaaCat](wiki/planet-nyaacat.md)
   - [玩家群组](wiki/groups.md)
-  - [推荐资源](wiki/resources.md)
   - [白名单申请](wiki/whitelist-application.md)
   - [作品集](space/works.md)
 - 喵窝世界
-  - [城镇村落](nyaa/realms.md)
+  - [玩家权限](wiki/permission)
+  - [城镇村落总览](nyaa/realms.md)
   - [经济规则](nyaa/economic.md)
   - [维度列表](nyaa/worlds.md)
   - [服务器列表](wiki/server-network.md)

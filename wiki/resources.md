@@ -1,8 +1,7 @@
 # 推荐资源
 
-这里是推荐使用的各类游戏资源。
-
-请注意这里仅仅是推荐，我们的服务器对客户端**除了版本对应，没有任何要求**。使用这些整合包/资源包可以让您获得更好的游戏体验。但如果您有自己的选择，请尽管按照自己的喜好来游戏。
+这里是推荐使用的各类游戏资源。  
+请注意这里仅仅是推荐，我们的服务器对客户端**除了版本对应，没有任何要求**。相比于原版，使用这些整合包/资源包可以让您获得更好的游戏体验。但如果您有自己的选择，请尽管按照自己的喜好来游戏。
 
 这里提供的版本可能不是最新的，最新版本请参考各资源官网。
 
@@ -12,26 +11,106 @@
 
 ### Minecraft 1.16.4
 
-**1.16.4 Fabric 简单整合** *by Atom202SLL* （适用于 MultiMC）  
-体验上基本与 1.15.2 整合包无异，并加回了 OptiFine。
+?> :green_heart: 【2020.11.30更新】**Fabric 不完全整合/Auth Me/optifine/锂钠磷/投影mod教程**
 
-详情请见 [相关帖子](https://bbs.craft.moe/d/2079-multimcminecraft-116-fabric/5)。
+由 *Kinomotomoyo* 整理，需解压后手动添加到游戏。  
+[原帖与下载地址](https://bbs.craft.moe/d/1923-20201130minecraft-1164-fabric-auth-meoptifinemod)
+
+<details>
+<summary>默认包含模组</summary>
+
+- Antighost ——反幽灵方块【快捷键G或者输入指令/ghost】
+- AppleSkin ——饥饿显示
+- Auth Me ——游戏内重登账号(不用退游戏和启动器，然后再开启动器进游戏那么麻烦了  
+<span class="nw-spoiler">其实电脑足够快的话，稍微等等也无妨</span>
+-  AutoReconnector-Fabric ——自动断线重连  
+_感谢派兹，辛苦更新_
+- BlockMeterFabric ——距离度量
+- Color Unchained ——将彩色/特殊字体输入书(编写彩色书籍
+- Controlling ——键位设置
+- Giselbaer's Durability Viewer ——耐久显示
+- [Easiervillagertrading](#easier-trading) ——批量与村民交易
+- **Fabric API**
+- Hwyla ——方块信息显示
+- Inventory Profiles ——R键整理【修改配置界面快捷键R+C】
+- Item Scroller ——【修改配置界面快捷键I+C】超级好用的物品批量移动！！！（交易必备）
+- Litematica ——投影【修改配置界面快捷键M+C】
+- **MaLiLib** ——<span class="nw-explain" title="Item Scroller、Litematica、MiniHUD、Tweakeroo">部分模组</span>的基础API
+- MiniHUD ——信息显示【修改配置界面快捷键H+C】
+- Mod Menu ——模组信息列表
+- **Optifabric**
+  + OptiFine ——高清修复
+  + **此二者必须同时安装！**和 Lithium、Sodium 互不兼容！
+- Orderly ——生命值显示
+- Phosphor(磷) ——计算优化
+- Roughly Enough Items (REI) ——方块信息
+- ShulkerBoxTooltip ——潜影盒内容快捷显示
+- Tooltipfix ——信息大小自适应调整
+- Tweakeroo ——万能工具箱【修改配置界面快捷键X+C】
+- VoxelMap ——小地图
+
+</details>
+<br />
+
+<details>
+<summary>可选模组</summary>
+
+- BBOR ——特殊建筑区块范围显示
+- EnchantedToolTips ——附魔描述
+- Lithium(锂) ——照明优化
+- Mouse Wheelie ——鼠标功能扩展(貌似和Item Scroller有冲突？看你习惯用哪个吧)
+- NBT Tooltip ——物品 NBT 标签信息显示
+- Replay ——录像重放
+- [Sodium(钠)](#sodium) ——渲染优化
+- WorldEdit
+- WorldEdit CUI
+
+</details>
+<br />
+
+?> :blue_heart: 【2020.11.04更新】**Fabric 简单整合**
+
+由 *Atom202SLL* 整理，可直接被 MultiMC 导入。  
+[原帖与下载地址](https://bbs.craft.moe/d/1923-20201130minecraft-1164-fabric-auth-meoptifinemod)
 
 <details>
 <summary>Mod 一览</summary>
-<img alt=1-16-4 src=https://i.loli.net/2020/09/17/6oyE5LACUXFiT4t.png>
+
+- Appleskin
+- Carpet
+- Carpet-extra
+- Durability Viewer
+- **Fabric API**
+- Hwyla
+- Inventory Profiles
+- MASA 五件套，包含：
+  + Item Scroller
+  + Litematica
+  + **MaLiLib**
+  + MiniHUD
+  + Tweakeroo
+- Mod Menu
+- Optifabric
+  + Optifine
+- Replaymod
+- Roughly Enough Items
+- Shulker Box Tooltip
+- Voxelmap
+- WorldEdit
+- WorldEdit CUI
+
 </details>
 
-#### 已知问题
+!> **已知问题**
 
-如果进入喵窝服务器并启用服务器资源包，**会出现客户端崩溃的情况。**  
+当前，如果启用 Optifine 并尝试进入喵窝服务器，**会出现客户端崩溃的情况。**  
 目前可用的临时解决方案（选择其一）：
 
 - 禁用 Optifine。
 - 手工删除服务器资源包后再试一次。
 - 关闭服务器资源包，并使用[离线资源包](wiki/faq#服务器资源包加载缓慢，怎么办？)。
 
-#### 关于官方启动器使用整合包
+!> 关于官方启动器使用 MultiMC 整合包
 
 如果你正在、且只能使用官方启动器，你必须先安装 Fabric 框架，并配合 **Fabric API** 模组使用（以上整合包均已包含 Fabric API）。
 
@@ -54,7 +133,7 @@
 
 [论坛讨论 / 下载](https://bbs.craft.moe/d/1316)
 
-### [Fabric] EasierVillagerTrading
+### [Fabric] EasierVillagerTrading :id=easier-trading
 
 可以大幅提升与村民等 NPC 交易的效率，对于喵窝等重度依赖交易 NPC 的服务器非常有帮助。
 
