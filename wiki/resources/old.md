@@ -13,7 +13,10 @@
 
 详情请见 [相关帖子](https://bbs.craft.moe/d/1409)。
 
+<details>
+<summary>默认包含模组</summary>
 ![1-15-2](https://global.cdn.mikupics.cn/2019/12/29/69be4c307eb77.png)
+</details>
 
 > 目前，预览版 OptiFine 1.15.2 已经达到可用的程度了。如果已经迫不及待，现在可以这样安装：
 >
