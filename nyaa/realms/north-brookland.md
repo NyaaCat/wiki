@@ -7,12 +7,16 @@
 - 中部，现代别墅区
 - 西南部，木屋区
 - 西部，现代公寓区
-- 北部乡下，自建区
+- 北部乡下（北溪田町），自建区
 
 对于整栋出售的房屋，门前均标有单栋价格。公寓楼则按单层出售。有意者请与村长联系。  
 温泉也提供两间可购置的客房。
 
-下面来听听村长 *花花 `Rikka_cute`、Nel `KyokotsuNel`* 的[碎碎念](https://bbs.nyaa.cat/d/1557 "原载于 NyaaBBS")。
+北溪台和周边卫星城之间，也通了地铁，未来将接入新北市的公共铁路网。以下是线路图。
+
+![北溪台地铁](../../assets/images/map-navi/map-NorthBrook-subway-Ceallium.png)
+
+下面来看看村长 *花花 `Rikka_cute`、Nel `KyokotsuNel`* 的[碎碎念](https://bbs.nyaa.cat/d/1557 "原载于 NyaaBBS")。
 
 ### 北溪台是啥玩意？
 
