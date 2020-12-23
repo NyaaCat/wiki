@@ -97,7 +97,7 @@
 1. 描述最后包含**“Unbreakable（无法破坏）”**的道具。
   + 含有此的盔甲不包含在内：受伤时，其只能以附魔吸收伤害，使保护效果打折扣。
 1. 新版活动限定代币，不早于 2020 年劳动节活动。
-1. 新版活动限定道具，不早于 2019 年圣诞节活动。
+1. 新版活动限定道具，不早于 2019 年国庆节活动。
 1. 服务器[周年纪念道具](space/items/anniversary-gifts.md)。
 
 原版可得者，一般较少见诸市场（因为不及上述装备强力/好玩）。当然，都可以买。
@@ -158,7 +158,7 @@
 
 这种情况下，可尝试使用离线资源包。下载地址：
 
-```none
+```text
 https://ci.nyaacat.com/job/resourcepacks/job/master/lastSuccessfulBuild/artifact/nyaacat-resourcepack-latest.zip
 ```
 

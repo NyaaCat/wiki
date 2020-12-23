@@ -1,5 +1,4 @@
 欢迎来到 NyaaWiki ~ 知识库重建中喵\~<br />
-:construction: **工事中！**随着版本升级，部分内容或已过时。如有遗漏，欢迎反馈\~
 
 申请白名单请先阅读[白名单申请](wiki/whitelist-application.md)。
 
