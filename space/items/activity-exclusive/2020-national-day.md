@@ -77,6 +77,18 @@
 - **一次性道具**
 - **【作用】**使用后获得一系列烟花火箭和箭，应该是用以配合[破损的玻璃弩](#破损的玻璃弩)。
 
+<details>
+<summary>神秘的弹药库内含物品</summary>
+
+| 物品 | 数量（组） |
+| - | - |
+| ![来源神秘的弹药库 - 1](../../../assets/images/items/activity-exclusive/2020-national-day/airfight/来源神秘的弹药库-1.png) | 6 |
+| ![来源神秘的弹药库 - 2](../../../assets/images/items/activity-exclusive/2020-national-day/airfight/来源神秘的弹药库-2.png) | 6 |
+| ![来源神秘的弹药库 - 3](../../../assets/images/items/activity-exclusive/2020-national-day/airfight/来源神秘的弹药库-3.png) | 6 |
+| ![来源神秘的弹药库 - 4](../../../assets/images/items/activity-exclusive/2020-national-day/airfight/来源神秘的弹药库-4.png) | 6 |
+| ![来源神秘的弹药库 - 5](../../../assets/images/items/activity-exclusive/2020-national-day/airfight/来源神秘的弹药库-5.png) | 3 |
+</details>
+
 --------
 
 ## 王牌战机
