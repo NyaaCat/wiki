@@ -9,7 +9,7 @@
 !> 请使用 1.16.4 版本客户端登录，请保持"使用服务器资源包"为打开状态。  
 **不支持其他任何版本。**  
 <br />
-**Optifine** 和服务器资源包之间存在兼容性问题，详见[此处](wiki/faq#server-resourcepack-dl)。
+**你的 MC 客户端一进喵窝就闪退？**兴许你需要一些[帮助](wiki/faq#server-resourcepack-dl)。
 
 [主页](https://www.nyaa.cat) | [论坛](https://bbs.nyaa.cat) | [常见问题](wiki/faq.md) | [新人指南](nyaa/beginners-guide.md) | [游戏规则](wiki/rules.md) | [世界地图](https://map.nyaacat.com/nyaa)
 
