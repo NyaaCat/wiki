@@ -49,9 +49,9 @@
 <sup>*（注：游戏内如果启用了语言选项的“强制使用 Unicode”，图标 ⛏ 将不可正常显示）*</sup>
 
 <details>
-<summary><span class="nw-important">烈火拔刀！Don't miss it!</span></summary>
+<summary>:fire: <span class="nw-important">烈火拔刀！Don't miss it!</span></summary>
 
-<span class="nw-spoiler">ドメタィックアーマー！（超金属的装甲！）</span> —— 生命+20、不可击退  
+<span class="nw-spoiler">ドメタリックアーマー！（超金属的装甲！）</span> —— 生命+20、不可击退  
 <span class="nw-spoiler">ドハデニックブースター！（超华丽的推进器！）</span> —— 效率X、速度+5%  
 <span class="nw-spoiler">ドハクリョックライダー！（超有魅力的骑士！）</span> —— 幸运+2、时运X  
 <span class="nw-spoiler">ドラゴニックナイト！（龙骑士！）</span>
