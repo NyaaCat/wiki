@@ -106,6 +106,7 @@ _感谢派兹，辛苦更新_
 当前，如果启用 Optifine 并尝试进入喵窝服务器，**会出现客户端崩溃的情况。**  
 目前可用的临时解决方案（选择其一）：
 
+- 安装 Mod「[SomeCrashFixes](https://bbs.nyaa.cat/d/1801-1164-somecrashfixes)」。
 - 禁用 Optifine。
 - 关闭服务器资源包，并使用[离线资源包](wiki/faq#服务器资源包加载缓慢，怎么办？)。
 
