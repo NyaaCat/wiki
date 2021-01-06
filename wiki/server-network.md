@@ -14,7 +14,7 @@
 
 ?> :heavy_check_mark: 以下是目前开放中，**随时**可以前往的服务器。
 
-### NyaaCat NyanWorld Fantasyland
+### NyaaCat NyanWorld Fantasyland :id=nyaa
 
 喵窝的主服务器，混合类型的游戏模式。永久保存的主世界、最高优先级的规划和特性等，主服务器是用于构筑喵窝大陆的通用游戏世界。
 
@@ -30,7 +30,7 @@
 * [权限详见](wiki/permission.md)
 
 
-### World of Kedama Craft
+### Kedama Koiru Monogatari :id=kedama
 
 前往[毛玉线圈物语](https://www.craft.moe/)服务器。  
 请注意，该服务器适用的游戏规则与喵窝互不通用。若首次前往，请务必阅读其相关规则。  
@@ -38,7 +38,7 @@
 
 *   **服务器代号** `kedama`
 
-### NyaaCat Unlimited Build Works
+### NyaaCat Unlimited Build Works :id=ubw
 
 Nyaa UBW 是喵窝的创造服务器，所有玩家均使用创造模式，并拥有 WorldEdit 使用权限。同时还设置独立的 `test` 服务器供玩家练习和测试，**测试用世界没有备份，请不要建造重要工程**。<br />
 除测试服务器外，UBW 通常仅对特定人员按需开放，用于测试插件、建造等。
@@ -61,7 +61,7 @@ Nyaa UBW 是喵窝的创造服务器，所有玩家均使用创造模式，并�
 
 !> 目前不建议在 `test` 服务器使用影印 mod 粘贴原理图。由于其工作原理，在粘贴过程中可能会以 `kicked for spamming` 为由被踢出服务器。
 
-### NyaaCat: Need For Speed
+### NyaaCat: Need For Speed :id=nfs
 
 Need For Speed 服务器为喵窝的竞速游戏服务器。玩家可以在这里游玩各种竞速类小游戏。各个小游戏的规则不同，请点击各自对应之链接查看。
 
@@ -75,7 +75,7 @@ Need For Speed 服务器为喵窝的竞速游戏服务器。玩家可以在这�
 *   进入服务器后，可通过命令 `/town select` 选择进入各个场地。
 *   同时对毛玉线圈物语开放。
 
-### NyaaCat's History Archives
+### NyaaCat's History Archives :id=archive
 
 具体介绍请参见【[喵窝的历史](misc/history.md)】。
 
@@ -85,7 +85,7 @@ Need For Speed 服务器为喵窝的竞速游戏服务器。玩家可以在这�
   + `/tppos [X] [Y] [Z]` - 传送到指定位置
   + `/top` - 传送到建筑顶部
 
-### Re: ゼロ始まるPvP
+### Re: ゼロ始まるPvP :id=pvp
 
 “Re: 从零开始的 PvP ”服务器为喵窝的 PvP 竞技游戏服务器。  
 玩家通过 PvP 提升获得货币和经验，用于购买装备和提升等级。玩家 PvP 仅限同等级之间进行，而玩家死亡后会回到初始等级。  
@@ -103,7 +103,7 @@ Need For Speed 服务器为喵窝的竞速游戏服务器。玩家可以在这�
 
 ?> :question: 以下服务器不定期开放，或是仅对特定人员开放。
 
-### Activity Server
+### Activity Server :id=act
 
 管理组在特定时段举办大型活动时，可能会运用独立的活动服务器。具体内容、规则随活动而异。  
 在平日，此服务器不开放；参加活动时，请严格按照管理组的指示，进出此服务器，并进行游戏。
@@ -112,7 +112,7 @@ Need For Speed 服务器为喵窝的竞速游戏服务器。玩家可以在这�
 <small>（当多个活动同时举办时，可能会同时开放多个活动服务器来运行不同活动。）</small>
 * 活动服务器也可能用于举办毛玉线圈物语的大型活动，届时将对毛玉线圈物语也开放。
 
-### New Features Express
+### New Features Express :id=pre
 
 当 *Minecraft* Java 正式版发布了重大更新，因插件跟进、性能评估等因素，主服务器并不会第一时间升级。此时，可能会开放独立服务器，以供玩家**抢先体验**原版新特性。  
 此世界仅供测试，不设备份，不保证长期在线，请勿建造重大工程。
@@ -127,13 +127,13 @@ Need For Speed 服务器为喵窝的竞速游戏服务器。玩家可以在这�
 
 ?> :clock4: 以下为正在筹备、或即将开放之服务器。目前均未上线。
 
-### NyaaCat: Story Mode
+### NyaaCat: Story Mode :id=legend
 
 故事模式服务器为喵窝的 RPG（角色扮演）游戏服务器，由“喵呜堡”活动所启发，目前正在筹划中。
 
 * **服务器代号：**`legend`
 
-### NyaaCat: Miu's Lab
+### NyaaCat: Miu's Lab :id=miu
 
 *主条目：[Miu's Lab](miu/lab.md)*
 

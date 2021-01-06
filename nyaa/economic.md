@@ -94,7 +94,7 @@
 ### 重命名、邮送物品
 
 请参见 NyaaUtils：
-- [物品寄送](space/plugins/nyaautils#postal-service)
+- [物品寄送](space/plugins/nyaautils#mailbox)
 - [修改你的前、后缀和昵称](space/plugins/nyaautils#prefix-suffix)
 - [物品重命名](space/plugins/nyaautils#rename)
 
