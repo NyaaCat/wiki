@@ -153,14 +153,17 @@
 通常「加载缓慢」和客户端崩溃，可能发生于以下情况：
 
 1. 资源包的下载。不过，目前资源包分发已改用中国大陆节点，国内加载速度正常情况下应该可以接受。
-2. 资源包的应用。以笔者~~拉胯~~的电脑为例，该过程需要至少 20 秒；如果从其它子服务器跳转到主服务器，资源包还会加载两遍，极大影响体验。
-3. 如果**在 Fabric 框架上同时加载 Optifine 与 VoxelMap 插件**，读取资源包时，客户端将发生崩溃<sup>（注：首次登录时不会崩溃）</sup>。
+2. 资源包的应用。以笔者~~拉胯~~的电脑为例，该过程需要至少 20 秒；如果从其它子服务器跳转到主服务器，资源包还会加载两遍，极大影响体验。  
+——以上皆可尝试离线资源包以改善体验。
+3. 如果**在 Fabric 框架上同时加载 Optifine 与 VoxelMap 插件**，读取资源包时，客户端将发生崩溃<sup>（注：首次登录时不会崩溃）</sup>。<br />
+——这种情况下，可尝试以下其中一种办法：
+  - 额外安装 [SomeCrashFixes](https://bbs.nyaa.cat/d/1801-1164-somecrashfixes) 插件以避免崩溃<sup>（实名感谢一下宝蓝）</sup>。
+  - 移除 Fabric、Optifine、VoxelMap 当中的一个。如电脑性能欠佳，可选配 [Sodium](wiki/resources#sodium)。
+  - 使用离线资源包。
 
-这种情况下，可尝试 [SomeCrashFixes](https://bbs.nyaa.cat/d/1801-1164-somecrashfixes) 插件来避免闪退问题<sup>（实名感谢一下宝蓝）</sup>。
+离线资源包下载地址：
 
-或者，尝试使用离线资源包，下载地址：
-
-```text
+```
 https://ci.nyaacat.com/job/resourcepacks/job/master/lastSuccessfulBuild/artifact/nyaacat-resourcepack-latest.zip
 ```
 

@@ -7,6 +7,8 @@
 
 如果因为一些原因需要适用于旧版的资源，戳 [这里](wiki/resources/old)。
 
+!> **你的 MC 客户端一进喵窝就闪退？**兴许你需要一些[帮助](wiki/faq#server-resourcepack-dl)。
+
 ## 整合包（客户端）
 
 ### Minecraft 1.16.4
@@ -100,17 +102,9 @@ _感谢派兹，辛苦更新_
 - WorldEdit CUI
 
 </details>
-
-!> **已知问题**
-
-当前，如果启用 Optifine 并尝试进入喵窝服务器，**会出现客户端崩溃的情况。**  
-目前可用的临时解决方案（选择其一）：
-
-- 安装 Mod「[SomeCrashFixes](https://bbs.nyaa.cat/d/1801-1164-somecrashfixes)」。
-- 禁用 Optifine。
-- 关闭服务器资源包，并使用[离线资源包](wiki/faq#服务器资源包加载缓慢，怎么办？)。
-
-!> 关于官方启动器使用 MultiMC 整合包
+<br />
+<details>
+<summary>:information_source: 关于官方启动器使用 MultiMC 整合包</summary>
 
 如果你正在、且只能使用官方启动器，你必须先安装 Fabric 框架，并配合 **Fabric API** 模组使用（以上整合包均已包含 Fabric API）。
 
@@ -120,6 +114,8 @@ _感谢派兹，辛苦更新_
 1. （可选）从 [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabric-api) 下载最新版 Fabric API。
   <!-- - **注意：1.15.2 整合包**内的 Fabric API 不要更新。 -->
 1. 开始游戏吧:-P
+
+</details>
 
 ## 模组（Mod）
 
