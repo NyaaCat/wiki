@@ -8,6 +8,10 @@
 
 ## 活动记录
 
+### 2021 年
+
+- [元旦节活动【卷卷大魔王的地狱试练】](space/items/activity-exclusive/2021-new-year.md)
+
 ### 2020 年
 
 - 万圣节活动「Treat or Beat」

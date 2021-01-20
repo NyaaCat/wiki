@@ -62,7 +62,7 @@
 
 ### 七星上将
 
-![7th](../../assets/images/items/anniversary-gifts/7th-七星上将.png)
+![7th](../../assets/images/items/anniversary-gifts/7th-七星上将2.png)
 - **【年份】2021**
 - 【外形】下界合金剑，带有附魔
 - 【物品类型】近战武器
@@ -79,7 +79,7 @@
 
 ### 奇怪的猩红卷角
 
-![7th](../../assets/images/items/anniversary-gifts/7th-奇怪的猩红卷角.png)
+![7th](../../assets/images/items/anniversary-gifts/7th-奇怪的猩红卷角2.png)
 - **【年份】2021**
 - 【外形】垂泪藤，带有附魔
 - 【物品类型】普通物品
