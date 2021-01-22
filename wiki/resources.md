@@ -11,6 +11,34 @@
 
 ## 整合包（客户端）
 
+### Minecraft 1.16.5
+
+?> :blue_heart: 【2021.1.21更新】**Fabric 简单整合**
+
+由 *Atom202SLL* 整理，可直接被 MultiMC 导入。  
+[原帖与下载地址](https://bbs.craft.moe/d/2079-multimcminecraft-116-fabric/18)
+
+<details>
+<summary>Mod 一览</summary>
+
+- [Appleskin](https://www.curseforge.com/minecraft/mc-mods/appleskin)
+- [Durability Viewer](https://www.curseforge.com/minecraft/mc-mods/giselbaers-durability-viewer)
+- [Fabric Api](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
+- [Hwyla](https://www.curseforge.com/minecraft/mc-mods/hwyla)
+- [Inventory Profiles](https://www.curseforge.com/minecraft/mc-mods/inventory-profiles)
+- [MASA](https://masa.dy.fi/tmp/minecraft/mods/client_mods/)
+- [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu)
+- [Optifabric](https://www.curseforge.com/minecraft/mc-mods/optifabric)
+- [Optifine](https://www.optifine.net/home)
+- [Replaymod](https://www.replaymod.com/)
+- [Roughly Enough Items](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items)
+- [Shulker Box Tooltip](https://www.curseforge.com/minecraft/mc-mods/shulkerboxtooltip)
+- [Voxelmap](https://www.curseforge.com/minecraft/mc-mods/voxelmap)
+- [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit)
+- [WorldEditCUI](https://github.com/mikroskeem/WorldEditCUI)
+
+</details>
+
 ### Minecraft 1.16.4
 
 ?> :green_heart: 【2020.11.30更新】**Fabric 不完全整合/Auth Me/optifine/锂钠磷/投影mod教程**
