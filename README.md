@@ -35,7 +35,7 @@ cn.play.nyaacat.com
 global.play.nyaacat.com
 ```
 
-如果您仍有延迟过高、网络抖动等问题，请联系管理员寻求帮助。
+如果您仍有延迟过高、网络抖动等问题，请联系管理组寻求帮助。
 
 ### 联系
 
@@ -43,5 +43,5 @@ global.play.nyaacat.com
   喵窝服务器没有任何收费项目。  
   NyaaCat 社区、喵窝服务器和管理组不会以任何理由向任何人索要金钱、物品或任何敏感信息。
 
-* 管理员邮件列表 `owo@nyaa.cat`
+* 管理组邮件列表 `owo@nyaa.cat`
 * 加入[玩家群组](wiki/groups.md)

@@ -27,4 +27,4 @@
 - 您是直播主
 - 您善于绘图或渲染
 
-请 [通过迎新群直接联系管理员](wiki/whitelist-application-direct)。
+请 [通过迎新群直接联系管理组](wiki/whitelist-application-direct)。
