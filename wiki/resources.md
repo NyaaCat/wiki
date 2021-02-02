@@ -41,6 +41,16 @@
 
 ### Minecraft 1.16.4
 
+?> :red_heart: Minecraft 1.16.4 简单整合
+
+由 *BlingWang* 整理，可直接被 MultiMC 导入。  
+[原帖与下载地址](https://bbs.craft.moe/d/2182)
+
+<details>
+<summary>默认包含模组</summary>
+[模组列表](https://global.cdn.mikupics.cn/2021/01/13/3f4c0c92e990b.png)
+</details>
+
 ?> :green_heart: 【2020.11.30更新】**Fabric 不完全整合/Auth Me/optifine/锂钠磷/投影mod教程**
 
 由 *Kinomotomoyo* 整理，需解压后手动添加到游戏。  
