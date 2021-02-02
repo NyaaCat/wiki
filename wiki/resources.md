@@ -41,7 +41,7 @@
 
 ### Minecraft 1.16.4
 
-?> :red_heart: Minecraft 1.16.4 简单整合
+?> :heart: Minecraft 1.16.4 简单整合
 
 由 *BlingWang* 整理，可直接被 MultiMC 导入。  
 [原帖与下载地址](https://bbs.craft.moe/d/2182)
