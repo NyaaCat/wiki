@@ -11,7 +11,9 @@
 <br />
 **你的 MC 客户端一进喵窝就闪退？**兴许你需要一些[帮助](wiki/faq#server-resourcepack-dl)。
 
-[主页](https://www.nyaa.cat) | [论坛](https://bbs.nyaa.cat) | [常见问题](wiki/faq.md) | [新人指南](nyaa/beginners-guide.md) | [游戏规则](wiki/rules.md) | [世界地图](https://map.nyaacat.com/nyaa ':disabled')<sup>（大陆地区暂不可用。[不在大陆？](https://map.nyaacat.com/nyaa)）</sup>
+<!-- TODO: 在地图服务恢复后更新下面段落 -->
+
+[主页](https://www.nyaa.cat) | [论坛](https://bbs.nyaa.cat) | [常见问题](wiki/faq.md) | [新人指南](nyaa/beginners-guide.md) | [游戏规则](wiki/rules.md) | ~~世界地图~~
 
 欢迎[参与贡献](wiki/contribute.md)，让知识库变得更好。
 

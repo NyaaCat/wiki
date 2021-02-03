@@ -12,7 +12,9 @@
 
 ### 主世界卫星图
 
-喵窝提供 [主世界卫星图](https://map.nyaacat.com/nyaa)。
+<!-- TODO: 在地图服务恢复后更新下面段落 -->
+
+~~喵窝提供 [主世界卫星图](https://map.nyaacat.com/nyaa)。~~由于服务器硬件故障，静态地图暂时不可用。
 
 ?> 图片使用 WebP，需要使用**最新版** <span class="nw-explain" title="包括其它基于 Chromium，且内核版本 ≧32 的浏览器">Chrome</span> 或者 FireFox 浏览器打开。[详情](https://caniuse.com/#search=webp)。
 
