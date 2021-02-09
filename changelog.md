@@ -12,7 +12,7 @@
   - PvP、NFS 等子服务器也基本已升级。UBW 等非公开服务器尚未跟进。
   - 三个非原版维度 `EpicWorld` `EpicNether` `EpicEnd` 再度被重置。
 - **经济系统大改：**
-  - 经济系统基础插件——HamsterEcoHelper 被重构，其中多个命令用法发生改变，并增加了 `\h` 命令以替代 `\heh`（后者仍可用）。[详见](space/plugins/hamsterecohelper)
+  - 经济系统基础插件——HamsterEcoHelper 被重构，其中多个命令用法发生改变，并增加了 `/h` 命令以替代 `/heh`（后者仍可用）。[详见](space/plugins/hamsterecohelper)
   - 现在开设商店木牌需通过命令，而非编辑告示牌。
   - 新增展示框商店，可以展示店内随机物品，并允许玩家直接购买展示框中的物品（一次购买一个）。
   - 天喵商城费率上调：

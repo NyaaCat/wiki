@@ -60,7 +60,7 @@ NyaaWiki 采用 [Docsify](https://docsify.js.org) 构建，源文件存放于 [G
 6. 并不是所有的页面都要列入侧边栏。一些详细内容的页面也可以存放在相应目录下并通过其他页面访问。
 7. 由于托管在 GitHub 的特殊性，请尽量不要上传大文件。图片如无必要，请使用 JPG 而非 PNG 并使用 mozjpeg 进行压缩。其他大文件、静态文件请使用稳定可靠的文件托管外链服务。
 8. Docsify 的 Markdown 解释器可能与你使用的 Markdown 编辑器的**存在分歧**。为了减少不必要的再修改，请先在本地运行 NyaaWiki 预览效果。
-  - 如使用 VS Code，可以安装插件 **Live Server**，然后点击右下角的 **Go Live**，即可在本地运行 NyaaWiki，并访问相应页面查看效果。
+  - 如使用 VS Code，可以安装插件 [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)，然后点击右下角的 **Go Live**，即可在本地运行 NyaaWiki，并访问相应页面查看效果。
 9. 本 Wiki 没有限制使用自定义 CSS，但请尽量避免使用这一手段改变内容样式。
 
 (WIP)
