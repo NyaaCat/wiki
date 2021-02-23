@@ -10,6 +10,7 @@
 
 ### 2021 年
 
+- [春节活动【西西与海】](space/items/activity-exclusive/2021-spring-festival.md)
 - [元旦节活动【卷卷大魔王的地狱试练】](space/items/activity-exclusive/2021-new-year.md)
 
 ### 2020 年
