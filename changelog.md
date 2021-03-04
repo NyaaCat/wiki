@@ -6,6 +6,12 @@
 
 !> 除管理组公告、服务器重大变动之外，其余内容会逐步迁移至[喵窝历史事件](misc/history/events.md)。<br>关于「无尽地狱世界」本体的更新记录，请见 [Infinite Infernal](inf/index#历史) 页面。
 
+## 2021
+### 2021-3-3 Mod 服务器运营始动
+
+在简单筹划之后，管理组开始试水 Mod 服务器，并[公之于众](https://bbs.nyaa.cat/d/1826-nyaacat-flourish-moment-202133-alpha)。  
+该服务器挂靠于 `hana`，详情见[服务器列表](wiki/server-network#hana)。
+
 ## 2020
 ### 2020-11-24 Minecraft 1.16.4
 - 喵窝主服务器**升级至 1.16.4 版本。**

@@ -112,6 +112,30 @@ Need For Speed 服务器为喵窝的竞速游戏服务器。玩家可以在这�
 <small>（当多个活动同时举办时，可能会同时开放多个活动服务器来运行不同活动。）</small>
 * 活动服务器也可能用于举办毛玉线圈物语的大型活动，届时将对毛玉线圈物语也开放。
 
+### NyaaCat: Flourish Moment :id=hana
+
+喵窝的 **Mod 服务器**，名称寓意为“繁华绽放之瞬间”。通常是中短期的，每期内容不尽相同。  
+如要登入，需使用对应的 Mod 客户端——原版通常无法进入；登录喵窝/毛线之后，即自动登入该服务器。退出后，切换回高版本原版客户端，即可回到你熟悉的世界。
+
+所以看到好玩的 Mod 可以推荐到[论坛](https://bbs.nyaa.cat/d/1826-nyaacat-flourish-moment-202133-alpha)啦。
+
+- **服务器代号：**`hana`
+- **游戏版本：**`1.12.2`
+- 当前存档：第一期 `2021.3.3 Alpha`
+- **模组列表：**
+  + Forge 框架
+  + [The Betweenlands](https://www.curseforge.com/minecraft/mc-mods/angry-pixel-the-betweenlands-mod)——**“交错次元”**模组，更多群系、音效、机制、物品等
+  + [Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering)——“沉浸工程”，重工业科技模组
+  + [Immersive Railroading](https://www.curseforge.com/minecraft/mc-mods/immersive-railroading)——“沉浸铁路”，真实铁路和火车
+  + [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)——更多生物群系
+  + [Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones)——传送石碑和传送道具
+  + [JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap)——小地图
+  + [Just Enough Items (JEI)](https://www.curseforge.com/minecraft/mc-mods/jei)——物品合成、用途信息查询
+  + [Just Enough Resources (JER)](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer)——资源获取信息查询
+  + [Neat](https://www.curseforge.com/minecraft/mc-mods/neat)——生命条显示
+  + [Baubles](https://www.curseforge.com/minecraft/mc-mods/baubles)——可佩戴饰品
+- P.S. 主群已分享整合包。
+
 ### New Features Express :id=pre
 
 当 *Minecraft* Java 正式版发布了重大更新，因插件跟进、性能评估等因素，主服务器并不会第一时间升级。此时，可能会开放独立服务器，以供玩家**抢先体验**原版新特性。  
