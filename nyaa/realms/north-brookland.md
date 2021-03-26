@@ -14,7 +14,7 @@
 
 北溪台和周边卫星城之间，也通了地铁，未来将接入新北市的公共铁路网。以下是线路图。
 
-![北溪台地铁](../../assets/images/map-navi/map-NorthBrook-subway-Ceallium.png)
+![北溪台地铁](../../assets/images/map-navi/map-NorthBrook-subway(Bersella).png)
 
 下面来看看村长 *花花 `Rikka_cute`、Nel `KyokotsuNel`* 的[碎碎念](https://bbs.nyaa.cat/d/1557 "原载于 NyaaBBS")。
 

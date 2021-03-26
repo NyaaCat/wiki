@@ -139,7 +139,7 @@
 |-|-|
 | <span class="nw-inf-gold">RecursiveG</span> | 8190.60854 |
 | <span class="nw-inf-green">Akyuu</span> | 6464.696 |
-| <span class="nw-inf-red">CealliumInfinity</span> | 5587.91656 |
+| <span class="nw-inf-red">Bersella_AI</span> | 5587.91656 |
 | OAO_miao | 5412.87597 |
 | tcdw | 5141.81371 |
 | Aqua_nano | 4722.96306 |
@@ -213,7 +213,7 @@
 
 | 玩家 | 骑马移动距离（千米） |
 |-|-|
-| <span class="nw-inf-gold">CealliumInfinity</span> | 831.33835 |
+| <span class="nw-inf-gold">Bersella_AI</span> | 831.33835 |
 | <span class="nw-inf-green">Episode15c</span> | 308.65132 |
 | <span class="nw-inf-red">RtqyU</span> | 293.50333 |
 | c4r50nz | 270.55988 |
@@ -240,7 +240,7 @@
 | doubl233 | 186.16773 |
 | Coicy_kanoe | 174.50332 |
 | Aqua_Cc | 158.04743 |
-| CealliumInfinity | 156.87438 |
+| Bersella_AI | 156.87438 |
 | Ankou54 | 144.23335 |
 
 </details>
@@ -251,7 +251,7 @@
 
 | 玩家 | 乘船移动距离（千米） |
 |-|-|
-| <span class="nw-inf-gold">CealliumInfinity</span> | 745.15764 |
+| <span class="nw-inf-gold">Bersella_AI</span> | 745.15764 |
 | <span class="nw-inf-green">Akyuu</span> | 295.15337 |
 | <span class="nw-inf-red">OrganicTao</span> | 281.10682 |
 | RoyalZero_ | 263.86441 |
@@ -276,7 +276,7 @@
 | Akyuu | 73.41041 |
 | RDCarrot | 66.31617 |
 | Takaranoao | 64.63984 |
-| CealliumInfinity | 50.245 |
+| Bersella_AI | 50.245 |
 | miao_o | 47.83493 |
 | Skill_Sun | 46.35143 |
 | Lain___ | 39.49902 |
@@ -291,7 +291,7 @@
 |-|-|
 | <span class="nw-inf-gold">Yui_cn</span> | 3869.19539 |
 | <span class="nw-inf-green">LittleSpeechless</span> | 1688.77605 |
-| <span class="nw-inf-red">CealliumInfinity</span> | 1519.66181 |
+| <span class="nw-inf-red">Bersella_AI</span> | 1519.66181 |
 | dmql | 918.81502 |
 | etora | 857.93432 |
 | Akyuu | 738.29365 |

@@ -1,11 +1,12 @@
-# 喵窝轨道交通线路图（“无限”版）
+# 喵窝轨道交通线路图（小爱版）
 
-本页面主要展示由*无限 `CealliumInfinity`* 绘制的 **《主世界轨道交通线路图》** **《下界交通网线路图》**，以及**城镇（村落）内修建的地铁线路图**。其中：
+本页面主要展示由*小爱 `Bersella_AI`* 绘制的**喵窝主世界铁路（含聚落地铁）以及下界交通网**线路图。其中：
 
-- [《主世界》](#主世界线路图)包括公认的“公共铁路网”（含“一级铁路”“二级铁路”），以及不属于“公共铁路网”、但与其**直接**接驳的线路。
-- [《下界》](#下界交通网线路图)包括**由樱华町（出征楼）传送门附近出发**，在下界Y=7处铺设的交通网（含铁路线及冰、铁混合线）。
-- [《新北市地铁》](#新北市地铁线路图)包括新北市当前的4条地铁线、1条有轨电车线，以及过境的“公共”铁路线。
-- [《浪花町内地铁》](#浪花町内地铁线路图)包括浪花町当前的3条地铁线，「村庄」站至「东海望城堡」的直达线，以及过境、接驳的“公共”铁路线。
+- [主世界铁路](#overworld)包括公认的“一级铁路”和“二级铁路”，以及与其**直接**接驳的其它线路。
+- [下界交通网](#nether)包括整个在下界Y=7处铺设的轨道网络。
+- [新北市地铁](#newnorth)包括新北市的4条地铁线、1条有轨电车线，以及过境的二级铁路。
+- [浪花町地铁](#naniwa)包括浪花町的3条地铁线，直抵「东海望城堡」的通道，以及过境的公共铁路。
+- [北溪台地铁](#northbrook)包括北溪台本地及其卫星城的地铁线。
 
 ## ⚠阅览前请注意
 
@@ -25,21 +26,21 @@
 2. 浪花町内地铁的站牌，标示大多为英文，作为文化遗产被保留。乘坐时，请自行判断欲经过的站台数量。
 3. 某些站点名称未确定，给予了暂定名。本图尽可能尊重当地住户、建设者之意见，欢迎提供更合适的站名。
 4. 目前，**深色主题**适配正在推进，因工作量浩大，进度可能会慢一点。另外 Wiki 暂无自动选择图片显示的功能，所以请手动点开哈\~
-5. 有什么建议都可以在[论坛帖子](https://bbs.nyaa.cat/d/951/100)上提出\~
+5. 如需**申请登记新站点**、或提出建议，都可以往这个[论坛帖子](https://bbs.nyaa.cat/d/951/100)上面发\~（小爱本人不大会上线巡逻或者看群了）
 
 - - -
 
-## 主世界线路图
+## 主世界线路图 :id=overworld
 
 <details>
 <summary>点这里看「深色」版噢</summary>
 
-![dark](../../assets/images/map-navi/map-Overworld-Rail-Ceallium(dark).png)
+![dark](../../assets/images/map-navi/map-overworld-rail(Bersella)(dark).png)
 
 </details>
 <br />
 
-![主世界轨道交通](../../assets/images/map-navi/map-Overworld-Rail-Ceallium.png)
+![主世界轨道交通](../../assets/images/map-navi/map-overworld-rail(Bersella).png)
 
 
 ?> :information_source: 「阿库亚斯」三个站台分别称  
@@ -48,26 +49,26 @@
 
 - - -
 
-## 浪花町内地铁线路图
+## 浪花町内地铁线路图 :id=naniwa
 
-![浪花町内地铁](../../assets/images/map-navi/map-Naniwa-subway-Ceallium.png)
-
-- - -
-
-## 新北市地铁线路图
-
-![新北市地铁](../../assets/images/map-navi/map-NewNorth-subway-Ceallium.png)
+![浪花町内地铁](../../assets/images/map-navi/map-Naniwa-subway(Bersella).png)
 
 - - -
 
-## 北溪台地铁线路图
+## 新北市地铁线路图 :id=newnorth
 
-![北溪台地铁](../../assets/images/map-navi/map-NorthBrook-subway-Ceallium.png)
+![新北市地铁](../../assets/images/map-navi/map-NewNorth-subway(Bersella).png)
 
 - - -
 
-## 下界交通网线路图
+## 北溪台地铁线路图 :id=northbrook
 
-![下界交通网](../../assets/images/map-navi/map-nether-traffic-Ceallium.png)
+![北溪台地铁](../../assets/images/map-navi/map-NorthBrook-subway(Bersella).png)
+
+- - -
+
+## 下界交通网线路图 :id=nether
+
+![下界交通网](../../assets/images/map-navi/map-nether-traffic(Bersella).png)
 
 !> 更多搭乘指南请见[此页](space/map-navi/railway-nether "下界铁路搭乘指南")。
