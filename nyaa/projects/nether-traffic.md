@@ -17,7 +17,8 @@
 
 ### 建设标准
 
-想要拓展交通网版图？但又担心自己造得难看、不人性化，难以融入现有路网？请参见[建设标准与规范](space/building/railway-construction-standard)。有不明之处的，可向*小爱* 求助。
+对于 2021 年以来新建的路段，**不再强制统一风格**；但仍要求有可供行舟的冰道。  
+[此页](space/building/railway-construction-standard)展示现有线路的规范，仅供参考。
 
 ### 历史
 
