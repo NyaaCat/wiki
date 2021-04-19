@@ -29,7 +29,8 @@
 ## 2021劳动节活动：Adventurer Legends :id=labour-day
 
 > 关键词：PVP、职业、小队、死斗  
-本页依据[预告帖](https://bbs.nyaa.cat/d/1836-2021-adventurer-legends)略有改动；比赛期间建议参照预告帖
+本页依据[预告帖](https://bbs.nyaa.cat/d/1836-2021-adventurer-legends)略有改动；比赛期间建议参照预告帖。  
+*更新时间：{docsify-updated}*
 
 没错！那个每年劳动节都会举办的 PVP 活动 —— Adventurer Legends “职业死斗”<span class="nw-spoiler">3.0</span>，它回来了！全新职业，全新技能，全新地图，以及全新的作战系统！
 
@@ -74,7 +75,7 @@
 - **游戏基础设定：**  
 冒险模式；饥饿值不扣减；无自动回复生命值；无死亡掉落；无队友伤害与摔落伤害。
 - **玩法介绍：**
-  + 每一个冒险者小队由 5 名玩家组成。玩家可在重装、输出、辅助等共 9 个角色当中自由选择；同一角色可被多人同时选用。
+  + 每一个冒险者小队由 5 名玩家组成。玩家可在重装、输出、辅助等共 9 个职业当中自由选择；**队内同一职业不可重复选用**。
   + 比赛开始时，所有队伍被统一传送至战场内，进行死斗。
   + 阵亡后，等待片刻可传送至随机一名队友身边。若全队阵亡，则首先返回战场的将传送至随机地点。
   + 击杀敌人后，己方小队会获得积分，但自身会获得一级 **【嗜血诅咒】**减益。  
@@ -90,7 +91,7 @@
   + 活动结束时，按指令离开当前服务器。
 
 <details>
-<summary>:construction_worker: 点击展开职业介绍</summary>
+<summary>:construction_worker: 职业介绍（点击展开）</summary>
 <br />
 
 !> **职业介绍仅供参考。在正式活动前，职业的技能与数值可能会有所调整。**  
@@ -98,15 +99,15 @@
 
 | 职业 | 属性 | :heart: | 武器与伤害 | 被动技能 | 主技能 | 终极技能 |
 |-|-|-|-|-|-|-|
-| **瓦瑞尔·巨象** | 重装 | ?? | 喵的末路 (4) | <span class="nw-explain" title="每隔15秒，下一次攻击为自己恢复8点生命值">复苏之风</span> | ①<span class="nw-explain" title="（右键）跳跃并造成6点伤害【CD:8s】">战争践踏</span><br />②<span class="nw-explain" title="（潜行）自身无法攻击和行动，持续恢复生命值">铁壳防御</span> | <span class="nw-explain" title="发射小型黑洞，聚集周围敌人到目标位置，对其每秒造成2点伤害，持续5秒">重力喷涌</span> |
-| **帕拉丁·吉塔** | 重装 | ?? | 圣剑 (4) | ①<span class="nw-explain" title="攻击大幅降低敌人的移动速度">震慑气场</span><br />②<span class="nw-explain" title="每一次攻击为周围20格内的友方治疗1点生命值">领袖气场</span> | ①<span class="nw-explain" title="（右键）对前方敌人造成6点伤害并击退敌人【CD:8s】">圣光突刺</span><br />②<span class="nw-explain" title="（潜行）给予一名队友持续8秒的临时护盾【CD:12s】">圣光庇佑</span> | <span class="nw-explain" title="治疗效果翻倍，给予周围20格内的所有友军移速和护盾，持续15s">圣光普照</span> |
-| **格拉迪·φ特** | 重装 | ?? | 角斗士的终幕礼 (5) | ①<span class="nw-explain" title="连续攻击造成1.5倍伤害">压制</span><br />②<span class="nw-explain" title="攻击敌人提供移速加成">乘胜追击</span> | ①<span class="nw-explain" title="（右键）释放震荡波直线前进，造成8点伤害【CD:8s】">雄狮之牙</span><br />②<span class="nw-explain" title="（潜行）开启后对周围敌人造成每秒1点伤害，但自身移动速度降低">烈焰光环</span> | <span class="nw-explain" title="开启后，攻击造成范围伤害，且每次攻击恢复自身生命值，持续15s">决斗</span> |
-| **阿彻·全藏** | 输出 | ?? | 翡翠之弓 (5)<br /><sup>（远程）</sup> | ①<span class="nw-explain" title="攻击命中头部造成150%伤害">正中靶心</span><br />②<span class="nw-explain" title="箭矢可穿透目标">一箭双卷卷</span> | ①<span class="nw-explain" title="（左键）3秒内的攻击命中后造成小范围爆炸，造成4点伤害【CD:12s】">爆炸箭矢</span><br />②<span class="nw-explain" title="（潜行）向前进行一段位移【CD:4s】">健步如飞</span> | <span class="nw-explain" title="每次攻击释放一发追踪箭，额外造成3点伤害，持续15秒">扫射</span> |
-| **杜姆·费斯特·鲁旦** | 输出 | ?? | <span class="nw-explain" title="（左键）发射环状子弹，造成4点伤害【CD:1s】">末日拳套 (4)</span><br /><sup>（远程）</sup> | ①<span class="nw-explain" title="命中敌人周期性获得4点护盾">最佳防守</span><br />②应激反应<sup>（见右）</sup> | ①<span class="nw-explain" title="（右键）向下前方跳跃，并造成6点伤害【CD:8s】">裂地拳</span><br />②<span class="nw-explain" title="（潜行）挑起前方敌人，造成5点伤害并向上跃起，短暂滞空【CD:8s】">上勾拳</span><br />③<span class="nw-explain" title="（冲刺）受伤后的短时间内，向前冲刺造成3点伤害【CD:3s】">应激反应</span> | <span class="nw-explain" title="原地起飞并落地，对周围敌人造成12-16点伤害">毁天灭地</span> |
-| **阿萨辛·拜格欸** | 输出 | ?? | 猎杀者匕首 (5) | ①<span class="nw-explain" title="脱离战斗2秒后进入隐身状态">遁入阴影</span><br />②<span class="nw-explain" title="击杀敌人后刷新全部技能冷却时间">蜻蜓点水</span> | ①<span class="nw-explain" title="（右键）向前挥砍造成3点伤害并使敌人中毒，持续5s【CD:8s】">淬毒</span><br />②<span class="nw-explain" title="（潜行）传送至目标身旁，并对目标敌人造成7点伤害【CD:16s】">怨鬼扑杀</span> | <span class="nw-explain" title="宣判一名敌方单位，持续5秒。5s内对方生命值一旦少于10点，即被击杀。5s后若对方仍存活，则献祭自身">断魂仪式</span> |
-| **玛吉·麦迪文** | 输出 | ?? | 埃提耶什 (6)<br /><sup>（远程）</sup> | <span class="nw-explain" title="技能命中后，如3s内再次命中，则攻击力提升50%并恢复4点生命值">神秘攻击</span> | ①<span class="nw-explain" title="（右键）发射奥术裂隙对沿途敌人造成6点伤害，如果击中则缩短冷却时间5s【CD:6s】">奥术裂隙</span><br />②<span class="nw-explain" title="（左键）制造一组传送门，传送到指定目标，6秒内再次使用回到原地【CD:10s】">传送门</span><br />③<span class="nw-explain" title="（潜行）免疫所有伤害——受到伤害恢复生命值，持续3秒【CD:12s】">意志之力</span> | <span class="nw-explain" title="攻击造成3s束缚，持续15s">魔网封印</span> |
+| **瓦瑞尔·巨象** | 重装 | ?? | 喵的末路 (4) | ①<span class="nw-explain" title="每隔15秒，下一次攻击为自己恢复8点生命值">复苏之风</span><br />②<span class="nw-explain" title="武器持有能量时，额外获得伤害提升和减伤效果（攻击与受伤会消耗能量）">护盾喷涌</span> | ①<span class="nw-explain" title="（右键）跳跃并造成6点伤害【CD:8s】">战争践踏</span><br />②<span class="nw-explain" title="（潜行）自身无法攻击和行动，持续恢复生命值和能量，并为附近队友提供伤害减免">铁壳防御</span> | <span class="nw-explain" title="发射小型黑洞，聚集周围敌人到目标位置，持续5秒">重力喷涌</span> |
+| **帕拉丁·吉塔** | 重装 | ?? | 圣剑 (4) | ①<span class="nw-explain" title="攻击大幅降低敌人的移动速度">震慑气场</span><br />②<span class="nw-explain" title="每一次攻击为周围20格内的友方治疗1点生命值">领袖气场</span> | ①<span class="nw-explain" title="（右键）对前方敌人造成6点伤害并拉向自己【CD:8s】">圣光束缚</span><br />②<span class="nw-explain" title="（潜行）给予一名队友持续8秒的临时护盾【CD:12s】">圣光庇佑</span> | <span class="nw-explain" title="治疗效果翻倍，给予周围20格内的所有友军移速和护盾，持续15s">圣光普照</span> |
+| **格拉迪·φ特** | 重装 | ?? | 角斗士的终幕礼 (6) | ①<span class="nw-explain" title="连续攻击造成1.5倍伤害">压制</span><br />②<span class="nw-explain" title="攻击敌人时获得抗性提升">体质增强</span> | ①<span class="nw-explain" title="（右键）释放震荡波直线前进，造成8点伤害【CD:6s】">雄狮之牙</span><br />②<span class="nw-explain" title="（潜行）开启：攻击造成点燃和减速效果，但自身移动速度降低；关闭：提升移动速度">烈焰光环</span> | <span class="nw-explain" title="开启后，攻击造成范围伤害，且每次攻击恢复自身生命值，持续15s">决斗</span> |
+| **阿彻·全藏** | 输出 | ?? | 翡翠之弓 (5)<br /><sup>（远程）</sup> | ①<span class="nw-explain" title="攻击命中头部造成150%伤害">正中靶心</span><br />②<span class="nw-explain" title="箭矢可穿透目标">一箭双卷卷</span><br />③<span class="nw-explain" title="箭矢命中后会返还；使用主技能可获得2支箭矢">无限弹药</span> | ①<span class="nw-explain" title="（左键）3秒内的攻击命中后造成小范围爆炸，造成8点伤害【CD:12s】">爆炸箭矢</span><br />②<span class="nw-explain" title="（潜行）向前进行一段位移【CD:10s】">健步如飞</span> | <span class="nw-explain" title="每次攻击释放一发追踪箭，额外造成3点伤害，持续15秒">扫射</span> |
+| **杜姆·费斯特·鲁旦** | 输出 | ?? | <span class="nw-explain" title="（左键）发射环状子弹，造成3点伤害【CD:1s】【AMMO:3】">末日拳套 (3)</span><br /><sup>（远程）</sup> | ①<span class="nw-explain" title="命中敌人周期性获得4点护盾">最佳防守</span><br />②应激反应<sup>（见右）</sup> | ①<span class="nw-explain" title="（右键）向下前方跳跃，并造成8点伤害【CD:8s】">裂地拳</span><br />②<span class="nw-explain" title="（潜行）对前方敌人造成6点伤害并向上跃起，短暂滞空【CD:8s】">上勾拳</span><br />③<span class="nw-explain" title="（冲刺）受伤后的短时间内，向前冲刺造成4点伤害【CD:5s】">应激反应</span> | <span class="nw-explain" title="原地起飞并落地，对周围敌人造成12点伤害">毁天灭地</span> |
+| **阿萨辛·拜格欸** | 输出 | ?? | 猎杀者匕首 (5) | ①<span class="nw-explain" title="脱离战斗2秒后进入隐身状态">遁入阴影</span><br />②<span class="nw-explain" title="击杀敌人后刷新全部技能冷却时间">蜻蜓点水</span><br />③<span class="nw-explain" title="背刺敌人时造成的伤害提升50%">趁虚而入</span> | ①<span class="nw-explain" title="（右键）向前挥砍造成3点伤害并使敌人中毒，持续5s【CD:8s】">淬毒</span><br />②<span class="nw-explain" title="（潜行）传送至目标身旁，并对目标敌人造成7点伤害【CD:16s】">怨鬼扑杀</span> | <span class="nw-explain" title="宣判一名敌方单位，持续5秒。5s内对方生命值一旦少于10点，即被击杀。5s后若对方仍存活，则献祭自身">断魂仪式</span> |
+| **玛吉·麦迪文** | 输出 | ?? | 埃提耶什 (6)<br /><sup>（远程）</sup> | <span class="nw-explain" title="技能命中后，如3s内再次命中，则攻击力提升50%并恢复4点生命值">神秘攻击</span> | ①<span class="nw-explain" title="（右键）发射奥术裂隙对沿途敌人造成6点伤害，如果击中则缩短冷却时间5s【CD:6s】">奥术裂隙</span><br />②<span class="nw-explain" title="（左键）制造一组传送门，传送到指定目标，6秒内再次使用回到原地【CD:18s】">传送门</span><br />③<span class="nw-explain" title="（潜行）免疫所有伤害——受到伤害恢复生命值，持续3秒【CD:16s】">意志之力</span> | <span class="nw-explain" title="攻击造成3s束缚，持续15s">魔网封印</span> |
 | **腐竹·不倦麒麟** | 辅助 | ?? | <span class="nw-explain" title="（左键）对指定位置的敌人造成3点伤害【CD:2s】">光明权杖 (3)</span><br /><sup>（远程）</sup> | <span class="nw-explain" title="生命值缓慢自动恢复">守护光环</span> | ①<span class="nw-explain" title="（右键）恢复指定位置的友军4点生命值【CD:1s】">治疗术</span><br />②<span class="nw-explain" title="（潜行）投掷一个治疗球造成10点伤害，并在4s内持续治疗所有玩家【CD:12s】">治疗之球</span> | <span class="nw-explain" title="开启后获得移速和跳跃提升，攻击提升100%，持续15s">女武神</span> |
-| **刀客塔·诺娜** | 辅助 | ?? | <span class="nw-explain" title="（左键）发射练习用弹药，造成1点伤害【CD:1s】">PRTS 代理作战终端 (1)</span><br /><sup>（远程）</sup> | ①<span class="nw-explain" title="攻击造成小幅击退效果">别把它放进来！</span><br />②<span class="nw-explain" title="攻击造成“易伤”减益，持续3秒">莫得理智</span> | ①<span class="nw-explain" title="（左键）对面前敌人造成8点伤害，自身失去4点生命值【CD:8s】">手撕</span><br />②<span class="nw-explain" title="（右键）投掷药剂治疗前方小范围所有友方2点生命值【CD:2s】">应急理智小样</span><br />③<span class="nw-explain" title="（潜行）一段时间内持续恢复周围20格的友方8点生命值【CD:12s】">应急理智合剂</span> | <span class="nw-explain" title="强化一名队友，令其攻击提升100%，并获得50%减伤，持续15s">应急理智顶液</span> |
+| **刀客塔·诺娜** | 辅助 | ?? | <span class="nw-explain" title="（左键）发射练习用弹药，造成1点伤害【CD:1s】">PRTS 代理作战终端 (1)</span><br /><sup>（远程）</sup> | ①<span class="nw-explain" title="攻击造成小幅击退效果">别把它放进来！</span><br />②<span class="nw-explain" title="攻击造成“易伤”减益，持续3秒">莫得理智</span> | ①<span class="nw-explain" title="（左键）对面前敌人造成8点伤害，并失去4点生命值【CD:8s】">手撕</span><br />②<span class="nw-explain" title="（右键）投掷药剂治疗前方小范围所有友方4点生命值【CD:2s】">应急理智小样</span><br />③<span class="nw-explain" title="（潜行）一段时间内持续恢复周围20格的友方8点生命值【CD:12s】">应急理智合剂</span> | <span class="nw-explain" title="强化一名队友，令其攻击提升100%，并获得50%减伤，持续15s">应急理智顶液</span> |
 
 </details>
 
