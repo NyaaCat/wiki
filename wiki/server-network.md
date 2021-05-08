@@ -124,12 +124,15 @@ Need For Speed 服务器为喵窝的竞速游戏服务器。玩家可以在这�
 - 当前存档：第三期 `2021.5 Alpha`
 - **模组列表：**
   + Forge 框架
-  + [Thaumcraft 6](https://ftbwiki.org/Thaumcraft_6)——**“神秘时代”**，用魔法产生奇迹
-  + [Environmental Tech](https://www.curseforge.com/minecraft/mc-mods/environmental-tech/download)——**“环境科技”**，特别环保的科技模组
+  + [Thaumcraft 6](https://minecraftguides.net/tc6/)——**“神秘时代”**，用魔法产生奇迹
+  + [Environmental Tech](https://www.curseforge.com/minecraft/mc-mods/environmental-tech)——**“环境科技”**，绿色环保的科技模组
   + [the Twilight Forest](https://ftb.fandom.com/wiki/Twilight_Forest)——**暮色森林**
   + [The Betweenlands](https://the-betweenlands.fandom.com/wiki/The_Betweenlands_Wiki)——**“交错次元”**，全新世界和更多武器、怪物、地形等
   + [Astral Sorcery](https://minecraftguides.net/AS/)——**“星辉魔法”**，仰望星空，拿起星芒宝典改变世界吧！<br />*注意：其带来的星空可能和 Optifine 不兼容。*
   + [Tinkers' Construct](https://ftbwiki.org/Tinkers%27_Construct)——**“匠魂”**，冶炼系统以及更多工具、矿物等
+  + [Mekanism](https://wiki.aidancbrady.com/wiki/Main_Page)——**“通用机械”**，各种机械设备以及矿石、工具、装备等
+    * Mekanism Generators——发电机模块
+    * Mekanism Tools——工具模块
   + [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)——更多生物群系
   + [Open Terrain Generator](https://www.curseforge.com/minecraft/mc-mods/open-terrain-generator) (OTG) ——完全可定制的世界生成器
     * [Biomes Bundle O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biome-bundle-o-plenty)——更多生物群系与自然结构，依赖 OTG
@@ -137,7 +140,7 @@ Need For Speed 服务器为喵窝的竞速游戏服务器。玩家可以在这�
     * [Valkyrie Lib](https://www.curseforge.com/minecraft/mc-mods/valkyrielib)——“环境科技”所必需
     * [Mantle](https://www.curseforge.com/minecraft/mc-mods/mantle)——“匠魂”所必需
   + [Connected Textures Mod](https://www.curseforge.com/minecraft/mc-mods/ctm) (CTM) ——支持连接材质、高光材质、带图案材质等
-  + [JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap)——小地图
+  + [JourneyMap](https://journeymap.info/Home)——小地图
   + [Just Enough Items (JEI)](https://www.curseforge.com/minecraft/mc-mods/jei)——物品合成、用途信息查询
   + [Just Enough Resources (JER)](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer)——资源获取信息查询
   + [Neat](https://www.curseforge.com/minecraft/mc-mods/neat)——生命条显示
