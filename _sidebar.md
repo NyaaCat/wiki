@@ -41,5 +41,5 @@
 - 其他服务器
   - [Terraria](gameservers/terraria.md)
   - [Starbound](gameservers/starbound.md)
-  - [CS:GO](gameserver/csgo.md)
-  - [Risk of Rain 2](gameserver/ror2.md)
+  - [CS:GO](gameservers/csgo.md)
+  - [Risk of Rain 2](gameservers/ror2.md)
