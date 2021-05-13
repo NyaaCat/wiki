@@ -1,10 +1,12 @@
 # 服务器列表
 
-喵窝是群组型服务器，如此可分担压力到多个处理器核心，并对不同设定的游戏提供隔离的环境。
-
+喵窝是群组型服务器，如此可分担压力到多个处理器核心，并对不同设定的游戏提供隔离的环境。  
 多个服务器之间，物品、经济等均不互通；聊天频道一般也不互通（某些可通过 IRC 或 Telegram 间接联系）。每个服务器可能有特定的规则或者限制，请在对应服务器游戏时注意。
 
 要去往特定的服务器，请使用命令 `/server [服务器代号]`。例如去往主服务器的命令是 `/server nyaa`。
+
+?> :rice_ball: 在喵窝与[毛玉线圈物语](https://www.craft.moe/)服务器合并运营<sup>（并非合服）</sup>之后，大多数服务器也对后者开放了。  
+**以下不含 :smile_cat: 图标的，均为二者共通的服务器。**
 
 !> 游戏内可通过命令 `/server` 查询所有服务器代号。  
 如果知晓已知代号的正确含义，欢迎在下面补充。
@@ -14,7 +16,7 @@
 
 ?> :heavy_check_mark: 以下是目前开放中，**随时**可以前往的服务器。
 
-### NyaaCat NyanWorld Fantasyland :id=nyaa
+### :smile_cat: NyaaCat NyanWorld Fantasyland :id=nyaa
 
 喵窝的主服务器，混合类型的游戏模式。永久保存的主世界、最高优先级的规划和特性等，主服务器是用于构筑喵窝大陆的通用游戏世界。
 
@@ -33,12 +35,12 @@
 ### Kedama Koiru Monogatari :id=kedama
 
 前往[毛玉线圈物语](https://www.craft.moe/)服务器。  
-请注意，该服务器适用的游戏规则与喵窝互不通用。若首次前往，请务必阅读其相关规则。  
+请注意，喵窝的游戏规则也适用于此处；其并不设白名单限制；在此的游戏体验，相对更接近原版。  
 作为喵窝的一份子前往，可随时返回任意其它常设服务器。
 
 *   **服务器代号** `kedama`
 
-### NyaaCat Unlimited Build Works :id=ubw
+### :smile_cat: NyaaCat Unlimited Build Works :id=ubw
 
 Nyaa UBW 是喵窝的创造服务器，所有玩家均使用创造模式，并拥有 WorldEdit 使用权限。同时还设置独立的 `test` 服务器供玩家练习和测试，**测试用世界没有备份，请不要建造重要工程**。<br />
 除测试服务器外，UBW 通常仅对特定人员按需开放，用于测试插件、建造等。
@@ -73,9 +75,8 @@ Need For Speed 服务器为喵窝的竞速游戏服务器。玩家可以在这�
   + [KSC 2020](https://bbs.craft.moe/d/2009 "2020 第四届毛玉线圈物语运动会 - Day 2 跑酷场地开放")
   + [Ice Race](https://bbs.nyaa.cat/d/1304-2018 "2018年毛运会“冰道竞速”项目规则") 
 *   进入服务器后，可通过命令 `/town select` 选择进入各个场地。
-*   同时对毛玉线圈物语开放。
 
-### NyaaCat's History Archives :id=archive
+### :smile_cat: NyaaCat's History Archives :id=archive
 
 具体介绍请参见【[喵窝的历史](misc/history.md)】。
 
@@ -97,7 +98,6 @@ Need For Speed 服务器为喵窝的竞速游戏服务器。玩家可以在这�
   - Juve练习场
   - 新罗马斗兽场
   - 绿豆沙
-* 同时对毛玉线圈物语开放。
 
 ## 薛定谔的服务器
 
@@ -108,9 +108,10 @@ Need For Speed 服务器为喵窝的竞速游戏服务器。玩家可以在这�
 管理组在特定时段举办大型活动时，可能会运用独立的活动服务器。具体内容、规则随活动而异。  
 在平日，此服务器不开放；参加活动时，请严格按照管理组的指示，进出此服务器，并进行游戏。
 
-* **活动服务器：**`act` `act2` `act3` ...（按需开放）  
-<small>（当多个活动同时举办时，可能会同时开放多个活动服务器来运行不同活动。）</small>
-* 活动服务器也可能用于举办毛玉线圈物语的大型活动，届时将对毛玉线圈物语也开放。
+* **活动服务器：**`act`
+* 不常用的服务器代号： `act2` `act3` ...  
+  - 当多个活动同时举办时，或者在活动前的测试阶段，它们会按需开放。
+  - :smile_cat: 进行喵窝独家活动时<sup>（现在十分罕见）</sup>，仅可从喵窝跳转。
 
 ### NyaaCat: Flourish Moment :id=hana
 
@@ -146,6 +147,7 @@ Need For Speed 服务器为喵窝的竞速游戏服务器。玩家可以在这�
   + [Neat](https://www.curseforge.com/minecraft/mc-mods/neat)——生命条显示
   + [Baubles](https://www.curseforge.com/minecraft/mc-mods/baubles)——可佩戴饰品
   + [Waystones](https://minecraft.curseforge.com/projects/waystones)——传送石碑与道具
+  + Optifine
 - P.S. 主群已分享整合包，可被 MultiMC 导入。
 
 ### New Features Express :id=pre
@@ -178,14 +180,14 @@ Need For Speed 服务器为喵窝的竞速游戏服务器。玩家可以在这�
 由于疏于维护，服务器暂时关闭。
 
 * **服务器代号：**`miu`
-* 已开放绿森跑酷、彩虹冰山跑酷。
-* ~~同时对毛玉线圈物语开放。~~
+* 曾开放绿森跑酷、彩虹冰山跑酷。
+* [从未撰写的说明书](miu/lab.md)
 
 ## 不再开放之服务器 {docsify-ignore}
 
 !> :x: 以下是曾经开放的服务器；目前已被下线，不可前往，仅作考古依据。
 
-### World of Minigames
+### World of Minigames :id=minigame
 
 <details>
 <summary>点击此以查看详情</summary>
@@ -200,7 +202,7 @@ Need For Speed 服务器为喵窝的竞速游戏服务器。玩家可以在这�
 
 </details>
 
-### NyaaCat FarHorizon Wasteland
+### :smile_cat: NyaaCat FarHorizon Wasteland :id=tsuki
 
 <details>
 <summary>点击此以查看详情</summary>
@@ -218,7 +220,7 @@ Need For Speed 服务器为喵窝的竞速游戏服务器。玩家可以在这�
 
 </details>
 
-### World for Freely Building
+### World for Freely Building :id=freebuild
 
 <details>
 <summary>点击此以查看详情</summary>

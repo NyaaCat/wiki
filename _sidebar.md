@@ -1,8 +1,8 @@
 - 起步
-  - [游戏规则](wiki/rules.md)
+  - [游戏规则 :four_leaf_clover:](wiki/rules.md)
   - [新人指南](nyaa/beginners-guide.md)
   - [常见问题](wiki/faq.md)
-  - [常用命令大全](tutorial/help)
+  - [常用命令大全 :four_leaf_clover:](tutorial/help)
   - [推荐资源](wiki/resources.md)
 - 社区
   - [Planet NyaaCat](wiki/planet-nyaacat.md)
@@ -14,14 +14,14 @@
   - [城镇村落总览](nyaa/realms.md)
   - [经济规则](nyaa/economic.md)
   - [维度列表](nyaa/worlds.md)
-  - [服务器列表](wiki/server-network.md)
+  - [服务器列表 :four_leaf_clover:](wiki/server-network.md)
   - [创造激励计划](nyaa/creation.md)
 - 玩家空间
-  - [插件帮助](space/plugins.md)
+  - [插件帮助 :four_leaf_clover:](space/plugins.md)
   - [交通导航](space/map-navi.md)
   - [建筑教程](space/building.md)
   - [NPC 向导](space/npc.md)
-  - [游戏活动](space/activities.md)
+  - [游戏活动 :four_leaf_clover:](space/activities.md)
   - [主世界道具图鉴](space/items.md)
 - [Infinite Infernal](inf/index)
   + [月耀城介绍](inf/lunar-flare)
@@ -29,18 +29,20 @@
   + [安全城镇](inf/safety-towns)
   + [装备道具图鉴](inf/items)
   + [生存战斗攻略](inf/guide)
-- Need For Speed
+- Need For Speed :four_leaf_clover:
   - [赛事](nfs/events.md)
   - [场地](nfs/fields.md)
-- PVP 竞技场
+- PVP 竞技场 :four_leaf_clover:
   - [规则](pvp/rules.md)
   - [场地](pvp/arena.md)
   - [技巧](pvp/guide.md)
-- Miu's Lab
-  - [说明](miu/lab.md)
-- 其他服务器
+- Minecraft 以外的喵窝世界
   - [Terraria](gameservers/terraria.md)
   - [Starbound](gameservers/starbound.md)
   - [CS:GO](gameservers/csgo.md)
   - [Risk of Rain 2](gameservers/ror2.md)
   - [Don't Starve Together](gameservers/dst.md)
+
+
+
+- *:four_leaf_clover:：与“毛玉线圈物语”共通*

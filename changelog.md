@@ -7,12 +7,93 @@
 !> 除管理组公告、服务器重大变动之外，其余内容会逐步迁移至[喵窝历史事件](misc/history/events.md)。<br>关于「无尽地狱世界」本体的更新记录，请见 [Infinite Infernal](inf/index#历史) 页面。
 
 ## 2021
+### 2021-5-4 模组服务器三期开放
+
+服务器 `hana` 例行更新，更换了部分模组。
+
+<details>
+<summary>:notebook_with_decorative_cover: 五月存档的模组列表（点击展开）</summary>
+
+?> :information_source: **备注**  
+①含 :star2: 标记者为首次使用。  
+②含 :recycle: 标记者为再次回归。
+
++ [Thaumcraft 6](https://minecraftguides.net/tc6/)——**“神秘时代”**，用魔法产生奇迹
++ :star2: [Environmental Tech](https://www.curseforge.com/minecraft/mc-mods/environmental-tech)——**“环境科技”**，绿色环保的科技模组
+  - 需前置模组：[Valkyrie Lib](https://www.curseforge.com/minecraft/mc-mods/valkyrielib)
++ :star2: [the Twilight Forest](https://ftb.fandom.com/wiki/Twilight_Forest)——**暮色森林**
++ :recycle: [The Betweenlands](https://the-betweenlands.fandom.com/wiki/The_Betweenlands_Wiki)——**“交错次元”**，全新世界和更多武器、怪物、地形等
++ :star2: [Astral Sorcery](https://minecraftguides.net/AS/)——**“星辉魔法”**，仰望星空，拿起星芒宝典改变世界吧！
+  *注意：其带来的星空可能和 Optifine 不兼容。*
++ :star2: [Tinkers' Construct](https://ftbwiki.org/Tinkers%27_Construct)——**“匠魂”**，冶炼系统以及更多工具、矿物等
+  - 需前置模组：[Mantle](https://www.curseforge.com/minecraft/mc-mods/mantle)
++ :star2: [Mekanism](https://wiki.aidancbrady.com/wiki/Main_Page)——**“通用机械”**，各种机械设备以及矿石、工具、装备等
+    * Mekanism Generators——发电机模块
+    * Mekanism Tools——工具模块
++ [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)——更多生物群系
++ :star2: [Open Terrain Generator](https://www.curseforge.com/minecraft/mc-mods/open-terrain-generator) (OTG) ——完全可定制的世界生成器
+    * [Biomes Bundle O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biome-bundle-o-plenty)——更多生物群系与自然结构，依赖 OTG
++ :star2: [Connected Textures Mod](https://www.curseforge.com/minecraft/mc-mods/ctm) (CTM) ——支持连接材质、高光材质、带图案材质等
++ [JourneyMap](https://journeymap.info/Home)——小地图
++ [Just Enough Items (JEI)](https://www.curseforge.com/minecraft/mc-mods/jei)——物品合成、用途信息查询
++ [Just Enough Resources (JER)](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer)——资源获取信息查询
++ [Neat](https://www.curseforge.com/minecraft/mc-mods/neat)——生命条显示
++ [Baubles](https://www.curseforge.com/minecraft/mc-mods/baubles)——可佩戴饰品
++ :recycle: [Waystones](https://minecraft.curseforge.com/projects/waystones)——传送石碑与道具
++ Optifine
+
+</details>
+
+### 2021-4-4 模组服务器二期开放
+
+服务器 `hana` 例行更新，更换了部分模组。
+
+<details>
+<summary>:notebook_with_decorative_cover: 四月存档的模组列表（点击展开）</summary>
+
+?> *注：含 :star2: 标记者为首次使用。*
+
++ Forge 框架
++ :star2: [Industrial Craft 2](https://www.industrial-craft.net/)——**“工业时代”**，最知名的工业模组
++ :star2: [Thaumcraft 6](https://ftbwiki.org/Thaumcraft_6)——**“神秘时代”**，用魔法产生奇迹
++ :star2: [Botania](https://botaniamod.net/)——**“植物魔法”**，蕴含大自然魔力的科技模组
++ [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)——更多生物群系
++ [JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap)——小地图
++ [Just Enough Items (JEI)](https://www.curseforge.com/minecraft/mc-mods/jei)——物品合成、用途信息查询
++ [Just Enough Resources (JER)](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer)——资源获取信息查询
++ [Neat](https://www.curseforge.com/minecraft/mc-mods/neat)——生命条显示
++ [Baubles](https://www.curseforge.com/minecraft/mc-mods/baubles)——可佩戴饰品
++ Optifine
+
+</details>
+
+
 ### 2021-3-3 Mod 服务器运营始动
 
-- 在简单筹划之后，管理组开始试水 Mod 服务器，并[公之于众](https://bbs.nyaa.cat/d/1826-nyaacat-flourish-moment-202133-alpha)。  
+- 在简单筹划之后，管理组开始试水 Mod 服务器，并[开放了首个存档](https://bbs.nyaa.cat/d/1826-nyaacat-flourish-moment-202133-alpha)。  
 该服务器挂靠于 `hana`，详情见[服务器列表](wiki/server-network#hana)。
 - 服务器前端由 Waterfall 更换为 Velocity。
-  - 该变动导致 `/glist` 命令不再可用。
+  - 该变动导致 `/glist` 命令不再对公众开放。
+
+<details>
+<summary>:notebook_with_decorative_cover: 三月存档的模组列表（点击展开）</summary>
+
++ Forge 框架
++ [The Betweenlands](https://www.curseforge.com/minecraft/mc-mods/angry-pixel-the-betweenlands-mod)——**“交错次元”**模组，更多群系、音效、机制、物品等
++ [Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering)——“沉浸工程”，重工业科技模组
++ [Immersive Railroading](https://www.curseforge.com/minecraft/mc-mods/immersive-railroading)——“沉浸铁路”，真实铁路和火车
++ [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)——更多生物群系
++ [Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones)——传送石碑和传送道具
++ [JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap)——小地图
++ [Just Enough Items (JEI)](https://www.curseforge.com/minecraft/mc-mods/jei)——物品合成、用途信息查询
++ [Just Enough Resources (JER)](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer)——资源获取信息查询
++ [Neat](https://www.curseforge.com/minecraft/mc-mods/neat)——生命条显示
++ [Baubles](https://www.curseforge.com/minecraft/mc-mods/baubles)——可佩戴饰品
++ Optifine
+
+</details>
+
+--------
 
 ## 2020
 ### 2020-11-24 Minecraft 1.16.4
@@ -27,11 +108,11 @@
     + 上架手续费 39 → 100 节
     + 消费税 8% → 10%
   - 天喵商城托管费用将进行调整，目前暂时免费。请密切关注管理组的通知。
-  - ~~现在商店（含天喵商城）不再优先展示最近上架的物品了。~~<sup>（已恢复）</sup>
+  - 现在商店（含天喵商城）不再优先展示最近上架的物品了。
   - 商店搜索结果中不再显示商店木牌坐标。
 - **部分细节变更**<sup>（待完善）</sup>：
   - NyaaUtils 展示框保护功能被重写，利用了原版新增的 `Fixed` 属性。
-  - 由于 API 限制，**旧版动力燃料胶囊和经验瓶全部失效。**请等待管理组的补偿方案。
+  - 由于 API 限制，**旧版动力燃料胶囊和经验瓶全部失效。**~~请等待管理组的补偿方案。~~
   - 聊天新增 **RGB 彩色文本**支持，支持 HTML 表记的颜色代码，如 `&#66ccff好喝的水`。<br>11 月 29 日，支持范围扩展到**自定义前后缀、告示牌及物品重命名**（后两者均需要通过 NyaaUtils 设置才可生效）。
   - 铁砧不再会清除物品名称中原有的多彩样式。
   - 暂时离开（AFK）状态提醒由中文变为英文。

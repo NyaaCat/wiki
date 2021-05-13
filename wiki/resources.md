@@ -9,7 +9,25 @@
 
 !> **你的 MC 客户端一进喵窝就闪退？**兴许你需要一些[帮助](wiki/faq#server-resourcepack-dl)。
 
-## 整合包（客户端）
+<details>
+<summary>:information_source: 关于官方启动器使用 MultiMC 整合包</summary>
+
+如果你正在、且只能使用官方启动器，你必须先安装 Fabric 框架，并配合 **Fabric API** 模组使用（以上整合包均已包含 Fabric API）。
+
+1. 首先[下载](https://fabricmc.net/use/) Fabric 框架安装器，之后双击安装。
+1. 从整合包内的`.minecraft/mods`目录，提取所有文件，放到官方启动器所存储的<span class="nw-explain" title="对于Windows，其位于 C:\Users\<用户名>\AppData\Roaming\.minecraft">游戏目录</span>下的`mods`目录中。
+1. 整合包可能禁用了 Optifine / OptiFabric，如需使用它们，重命名将`.disabled`后缀删除。如果需要 [Sodium](#sodium)，请勿重命名。
+1. （可选）从 [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabric-api) 下载最新版 Fabric API。
+  <!-- - **注意：1.15.2 整合包**内的 Fabric API 不要更新。 -->
+1. 开始游戏吧:-P
+
+</details>
+
+--------
+
+## 原版整合包（客户端）
+
+——以下整合包可正常登录喵窝世界，以及除 `hana` 以外的所有[子服务器](wiki/server-network)。
 
 ### Minecraft 1.16.5
 
@@ -142,22 +160,24 @@ _感谢派兹，辛苦更新_
 - WorldEdit CUI
 
 </details>
-<br />
-<details>
-<summary>:information_source: 关于官方启动器使用 MultiMC 整合包</summary>
 
-如果你正在、且只能使用官方启动器，你必须先安装 Fabric 框架，并配合 **Fabric API** 模组使用（以上整合包均已包含 Fabric API）。
 
-1. 首先[下载](https://fabricmc.net/use/) Fabric 框架安装器，之后双击安装。
-1. 从整合包内的`.minecraft/mods`目录，提取所有文件，放到官方启动器所存储的<span class="nw-explain" title="对于Windows，其位于 C:\Users\<用户名>\AppData\Roaming\.minecraft">游戏目录</span>下的`mods`目录中。
-1. 整合包可能禁用了 Optifine / OptiFabric，如需使用它们，重命名将`.disabled`后缀删除。如果需要 [Sodium](#sodium)，请勿重命名。
-1. （可选）从 [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabric-api) 下载最新版 Fabric API。
-  <!-- - **注意：1.15.2 整合包**内的 Fabric API 不要更新。 -->
-1. 开始游戏吧:-P
+## 模组服务器整合包
 
-</details>
+——以下整合包可登录模组服务器 `hana`。
 
-## 模组（Mod）
+### NyaaCat: Flourish Moment 2021.5
+
+由*凤凰卷 `phoenixlzx`* 整理，可被 MultiMC 直接导入。  
+模组列表请见[子服务器列表](wiki/server-network#hana)页面。
+
+- [原帖](https://bbs.nyaa.cat/d/1840-nyaacat-flourish-moment-20215/5)
+- [派兹网盘下载](https://dl.blingwang.cn/1.12.2%20NyaaCat%20Flourish%20Moment%202021.5rev2.zip)——大陆地区可粘贴至 MultiMC
+- [Mega 网盘下载](https://mega.nz/file/It0SDABb#4ebkBHji_4_dTReFLkXSjiJrYrtkh9Z3fVFCF3KtusQ)——非大陆地区可用
+
+--------
+
+## 辅助模组（Mod）
 
 模组能提供许多好用的功能甚至改变整个游戏。
 

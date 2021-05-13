@@ -1,4 +1,5 @@
 欢迎来到 NyaaWiki ~ 知识库重建中喵\~<br />
+从“毛玉线圈物语”慕名而来？那有些东西也和喵窝共通，左边都用四叶草 :four_leaf_clover: 标记好了喵\~
 
 申请白名单请先阅读[白名单申请](wiki/whitelist-application.md)。
 

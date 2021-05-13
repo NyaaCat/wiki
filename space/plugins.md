@@ -2,12 +2,14 @@
 
 不记得命令了？在此处选择对应的插件寻找下吧。**善用搜索**
 
+喵窝大多数插件与“毛玉线圈物语”服务器共通；以下含 :smile_cat: 标记的，为喵窝特有。
+
 |插件|简介|
 |--|--|
 |[Nyaautils](space/plugins/nyaautils.md)|各项辅助功能|
 |[PlayTimeTracker](space/plugins/playtimetracker.md)|在线时间记录|
 |[HamsterEcoHelper](space/plugins/hamsterecohelper.md)|经济流动辅助插件|
-|[CapCat](space/plugins/capcat.md)|传送牌子介绍|
-|[NyaaBank](space/plugins/nyaabank-instructions)|基于木牌的银行|
-|[InfiniteInfernal](space/plugins/infinite-infernal-assistant.md)| “无尽地狱”相关的辅助功能|
+|:smile_cat: [CapCat](space/plugins/capcat.md)|传送牌子介绍|
+|:smile_cat: [NyaaBank](space/plugins/nyaabank-instructions)|基于木牌的银行|
+|:smile_cat: [InfiniteInfernal](space/plugins/infinite-infernal-assistant.md)| “无尽地狱”相关的辅助功能|
 |[LockettePro](space/plugins/lockettepro)|个人财产保护|
