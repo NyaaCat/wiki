@@ -36,5 +36,10 @@
   - [规则](pvp/rules.md)
   - [场地](pvp/arena.md)
   - [技巧](pvp/guide.md)
-- Terraria
-  - [说明](terraria/server.md)
+- Miu's Lab
+  - [说明](miu/lab.md)
+- 其他服务器
+  - [Terraria](gameservers/terraria.md)
+  - [Starbound](gameservers/starbound.md)
+  - [CS:GO](gameserver/csgo.md)
+  - [Risk of Rain 2](gameserver/ror2.md)
