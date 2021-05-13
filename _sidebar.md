@@ -43,3 +43,4 @@
   - [Starbound](gameservers/starbound.md)
   - [CS:GO](gameservers/csgo.md)
   - [Risk of Rain 2](gameservers/ror2.md)
+  - [Don't Starve Together](gameservers/dst.md)
