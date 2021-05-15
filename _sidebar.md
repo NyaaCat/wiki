@@ -42,7 +42,7 @@
   - [CS:GO](gameservers/csgo.md)
   - [Risk of Rain 2](gameservers/ror2.md)
   - [Don't Starve Together](gameservers/dst.md)
-
+  - [Valheim](gameservers/valheim.md)
 
 
 - *:four_leaf_clover:：与“毛玉线圈物语”共通*
