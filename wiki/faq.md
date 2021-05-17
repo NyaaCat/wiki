@@ -448,12 +448,9 @@ chars=$(gdialog --inputbox ' ' 2>&1)
 
 ?> :green_circle: **macOS 下鼠标滚轮速度鬼畜**
 
-这是由于 macOS 的鼠标滚轮加速功能导致的；该功能对 Minecraft 并不是非常友好，从而会导致滚动速度鬼畜的问题。
+这是由于 macOS Sierra 及以上版本的鼠标滚轮加速功能导致的；该功能对 Minecraft 并不是非常友好，从而会导致滚动速度鬼畜的问题。
 
-如果只考虑解决物品栏选择的问题，可以在设置中将**鼠标灵敏度调到较高程度**，这样物品栏选择体验就大致与 Windows 一致了。
-
-亦可尝试通过第三方工具（如 [USB Overdrive](https://www.usboverdrive.com/)）来调整鼠标行为。
-
+如果需要禁用滚轮加速功能，可以尝试安装 [DiscreteScroll](https://github.com/emreyolcu/discrete-scroll)。
 
 ?> :large_blue_circle: **下载文件失败/无法登录正版服务器**
 
