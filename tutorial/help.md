@@ -126,7 +126,7 @@ HEH 相关命令具有多种拼写方法，功能完全一致。以访问天喵�
 |`/nu show`	|展示手中的物品	 ||
 |`/nu exhibition set`	|设置物品展示框保护	 ||
 |`/nu exhibition unset`	|取消物品展示框保护	 ||
-| `/nu expcap store`:smile_cat: | 查询当前自己拥有的经验值的具体数值 ||
+| `/nu expcap store` | 查询当前自己拥有的经验值的具体数值 ||
 |`/nu expcap store [经验值]`	|将指定数量的经验存储到附魔瓶里	|经验值为“all”时，存储身上所有经验|
 |`/nu expcap restore [经验值]`	|从附魔瓶提取指定数量的经验	|经验值为“all”时，提取所有经验|
 |`/nu sit`	|开启或关闭“席地而坐”	|仅支持台阶、楼梯、毛毯、床（在白天）|
