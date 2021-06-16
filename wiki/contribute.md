@@ -69,11 +69,13 @@ NyaaWiki 采用 [Docsify](https://docsify.js.org) 构建，源文件存放于 [G
    - 对于其它情况，可运行 `docsify serve`，然后浏览`localhost:4000`。
 10. 本 Wiki 没有限制使用自定义 CSS，但请尽量避免使用这一手段改变内容样式。  
 ——尽管如此，几位热心编者还是[自制样式](wiki/contribute/custom-stylesheet.md)了，可大大丰富阅读体验。
+11. 所有 commit 的备注内容都将公开于众，为便于跟踪与更正，应如实概括所作变更，并避免加入任何无关信息。
 
 (WIP)
 
 ### 推荐资源
 
 * [Docsify 的特有文档语法](https://docsify.js.org/#/helpers)
+* [本 Wiki 定制样式汇总](wiki/contribute/custom-stylesheet.md)
 * [MozJPEG-GUI](https://github.com/TransparentLC/mozjpeg-gui) by [@TransparentLC](https://github.com/TransparentLC)  
 [MozJPEG](https://github.com/mozilla/mozjpeg) 的（第三方）图形界面，可以方便的利用 MozJPEG 进行批量的图像压缩。
