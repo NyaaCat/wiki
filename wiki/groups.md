@@ -9,7 +9,7 @@
 
 ### IRC
 
-* `#nyaacat` on Freenode
+* `#nyaacat` on Libera.Chat
 
 喵窝的 IRC 频道，目前是 invite only，并主要用于游戏与外界的聊天互通平台。
 
