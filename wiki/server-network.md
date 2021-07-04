@@ -6,7 +6,7 @@
 要去往特定的服务器，请使用命令 `/server [服务器代号]`。例如去往主服务器的命令是 `/server nyaa`。
 
 ?> :rice_ball: 在喵窝与[毛玉线圈物语](https://www.craft.moe/)服务器合并运营<sup>（并非合服）</sup>之后，大多数服务器也对后者开放了。  
-**以下不含 :smile_cat: 图标的，均为二者共通的服务器。**
+**以下含 :smile_cat: 图标的，仅对喵窝成员开放。**
 
 !> 游戏内可通过命令 `/server` 查询所有服务器代号。  
 如果知晓已知代号的正确含义，欢迎在下面补充。
@@ -122,9 +122,9 @@ Need For Speed 服务器为喵窝的竞速游戏服务器。玩家可以在这�
 
 - **服务器代号：**`hana`
 - **游戏版本：**`1.12.2`
-- 当前存档：第四期 `2021.6`
+- 当前存档：第五期 `2021.7`
 - P.S. 主群已分享整合包，可被 MultiMC 导入。
-  + 本期模组较多，**需至少分配 4GB 内存！**
+  + 本期模组较复杂，**需至少分配 4GB 内存！**
 
 <details>
 <summary>:notebook_with_decorative_cover: 本期模组列表（点击展开）</summary>
@@ -135,57 +135,35 @@ Need For Speed 服务器为喵窝的竞速游戏服务器。玩家可以在这�
 
 | 模组 | 功能简述 | 前置模组 |
 |-|-|-|
-| [Aether](https://www.curseforge.com/minecraft/mc-mods/the-aether) | “以太”，构筑天空之上的浮岛世界 ||
-| [Applied Energistics 2](https://ae-mod.info/) | “应用能源”，更科学、智能地存储与运输物品，以及更多 ||
 | [Akashic Tome](https://www.curseforge.com/minecraft/mc-mods/akashic-tome) | 制作“阿卡什宝典”，存放各种手册 | [AutoReg Lib](https://www.curseforge.com/minecraft/mc-mods/autoreglib) |
-| [Atum 2](https://www.curseforge.com/minecraft/mc-mods/atum) | 漫天风沙、险象环生的沙漠世界 ||
+| [Applied Energistics 2](https://ae-mod.info/) | **“应用能源”**，更科学、智能地存储与运输物品，以及更多 ||
+| YUNG's [Better Caves](https://www.curseforge.com/minecraft/mc-mods/yungs-better-caves) | 更丰富的洞穴环境 ||
+| YUNG's [Better Mineshafts](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge) | 更多花样的废弃矿井 ||
 | [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty) | 更多生物群系 ||
-| [Blood Magic 2](https://www.curseforge.com/minecraft/mc-mods/blood-magic) | “血魔法”，献祭仪式、魔法印记、气血宝珠等 ||
-| _子模块：[Animus](https://www.curseforge.com/minecraft/mc-mods/animus)_ | 添加更多祭台、容器等   | [Guide API](https://guide-api.readthedocs.io/en/latest/)<br />Blood Magic |
-| _子模块：[Blood Arsenal](https://ftbwiki.org/Blood_Arsenal)_ | 更多装备、饰品等 | Blood Magic |
-| [Botania](https://botaniamod.net/) | **“植物魔法”**，蕴含大自然魔力的科技模组 ||
-| _子模块：[Extra Botany](https://www.curseforge.com/minecraft/mc-mods/extrabotany)_ | 支持魔力转换，更多花卉、装备等，新Boss | Botania |
-| _子模块：[Mana Visualizer](https://www.curseforge.com/minecraft/mc-mods/manavisualizer)_ | 直观显示魔力值 | Botania |
-| [Energy Converters](https://www.curseforge.com/minecraft/mc-mods/energy-converters) | 工业能源的相互转换 ||
-| [Forestry](https://ftbwiki.org/Forestry) | 更丰富的农林业体验，能源生产 ||
+| [Cooking for Blockheads](https://blay09.net/mods/cookingforblockheads/?page=cookingforblockheads) | 更好的厨房 ||
+| [Ender IO](https://www.enderio.com/) | **“末影接口”**，各种机械设备、导管、工具等，<br />支持超视距访问，也可联动“应用能源” | [EnderCore](https://www.curseforge.com/minecraft/mc-mods/endercore) |
+| [Flux Networks](https://www.curseforge.com/minecraft/mc-mods/flux-networks) | 支持无线传输、存取能量和物品，联动“应用能源” ||
 | [Future MC](https://modrinth.com/mod/future-mc) | 在 1.12.2 客户端体验原版新特性！ |[Shadowfacts' Forgelin](https://www.curseforge.com/minecraft/mc-mods/shadowfacts-forgelin)|
-| [Industrial Craft 2](https://www.industrial-craft.net/) | **“工业时代”**，最知名的工业模组 ||
-| [Mekanism](https://wiki.aidancbrady.com/wiki/Main_Page) | **“通用机械”**，各种机械设备以及矿石、工具、装备等 ||
-| _子模块：Mekanism Generators_ | 发电机模块 | Mekanism |
-| _子模块：Mekanism Tools_ | 工具模块 | Mekanism |
-| [MineColonies](https://wiki.minecolonies.ldtteam.com/) | 开辟属于自己的殖民地！ ||
+| [the Lost Cities](https://wiki.mcjty.eu/mods/index.php?title=Lost_Cities) | 在废弃城市当中探索 | [McJtyLib](https://www.curseforge.com/minecraft/mc-mods/mcjtylib) |
 | [Morph-o-Tool](https://www.curseforge.com/minecraft/mc-mods/morph-o-tool) | 可制作“变形工具”，化身任意工具 | AutoReg Lib |
-| [Mystical World](https://www.curseforge.com/minecraft/mc-mods/mystical-world) | 更多生物、矿石及工具、农作物、装饰品等 | [MysticalLib](https://www.curseforge.com/minecraft/mc-mods/mysticallib) ||
-| [Nature's Aura](https://www.curseforge.com/minecraft/mc-mods/natures-aura) | 收集“自然灵气”，滋养天地万物 | [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli) ||
+| [NetherEx](https://www.curseforge.com/minecraft/mc-mods/netherex) | 更多下界生物群系 | [LibraryEx](https://www.curseforge.com/minecraft/mc-mods/libraryex)<br />Biomes O' Plenty |
+| [Open Modular Turrets](https://www.curseforge.com/minecraft/mc-mods/openmodularturrets) | 添加模块化炮塔 | [OMLib](https://www.curseforge.com/minecraft/mc-mods/omlib) |
 | [Open Terrain Generator](https://www.curseforge.com/minecraft/mc-mods/open-terrain-generator) (OTG)  | 完全可定制的世界生成器 ||
 | _子模块：[Biomes Bundle O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biome-bundle-o-plenty)_ | 更多生物群系与自然结构 | OTG |
+| [Pam's HarvestCraft](https://ftbwiki.org/Pam%27s_HarvestCraft) | “潘马斯农场”，更多食物、农作物与烹饪工具 ||
+| [Pixelmon](https://pixelmonmod.com/wiki/Main_Page) | 和宝可梦们一起战斗！ ||
 | [Quark](https://quark.vazkii.net) | “夸克”，添加各种小功能（总计百余种），务必点链接翻阅详情！ | AutoReg Lib |
 | [Quark Oddities](https://www.curseforge.com/minecraft/mc-mods/quark-oddities) | 启用某些隐藏功能，如行囊、磁铁、管道等 | Quark |
-| [Pam's HarvestCraft](https://ftbwiki.org/Pam%27s_HarvestCraft) | “潘马斯农场”，更多食物、农作物与烹饪工具 ||
-| [Recurrent Complex](http://www.curse.com/mc-mods/minecraft/223150-recurrent-complex) | 更多随机生成的建筑 | [IvToolkit](https://www.curseforge.com/minecraft/mc-mods/ivtoolkit)|
 | [Refined Storage](https://refinedmods.com/refined-storage/) | 存储物品与流体更方便 ||
-| [Roguelike Dungeons](https://www.curseforge.com/minecraft/mc-mods/roguelike-dungeons) | 随机生成冒险地牢 ||
-| [Roots](https://www.curseforge.com/minecraft/mc-mods/roots) | 化身巫师，找寻魔法之源 ||
-| [Thaumcraft 6](https://minecraftguides.net/tc6/) | **“神秘时代”**，用魔法产生奇迹 ||
-| _子模块：[Thaumic Augmentation](https://www.curseforge.com/minecraft/mc-mods/thaumic-augmentation)_ | 增添若干新道具，可见[GitHub项目](https://github.com/TheCodex6824/ThaumicAugmentation)了解详情 | Thaumcraft |
-| [Tinkers' Construct](https://ftbwiki.org/Tinkers%27_Construct) | **“匠魂”**，冶炼系统以及更多工具、矿物等   | [Mantle](https://www.curseforge.com/minecraft/mc-mods/mantle)|
-| [Tropicraft](https://www.curseforge.com/minecraft/mc-mods/tropicraft) | 领略热带丛林风情 ||
 | [UniDict](https://www.curseforge.com/minecraft/mc-mods/unidict) | 统一某些模组的共通内容，如矿石 | [WanionLib](https://minecraft.curseforge.com/projects/wanionlib)|
-
+| [XNet](https://wiki.mcjty.eu/mods/index.php?title=XNet) | 一根线缆完成能量、流体、物品等的传输 | McJtyLib |
 
 ?> :wrench: **辅助类** 
 
 
 | 模组 | 功能简述 | 前置模组 |
 |-|-|-|
-| [Advanced Hook Launchers](https://openeye.openmods.info/mod/adhooks) | 添加立体机动装置 | [ForgeEndertech](https://www.curseforge.com/minecraft/mc-mods/forgeendertech)|
-| [Baubles](https://www.curseforge.com/minecraft/mc-mods/baubles) | 可佩戴饰品 ||
-| [Better Advancements](https://www.curseforge.com/minecraft/mc-mods/better-advancements) | 更友好的“进度”界面 ||
-| [Cooking for Blockheads](https://blay09.net/mods/cookingforblockheads/?page=cookingforblockheads) | 更好的厨房 ||
-| [Connected Textures Mod](https://www.curseforge.com/minecraft/mc-mods/ctm) (CTM)  | 支持连接材质、高光材质、带图案材质等 ||
 | [Dynamic Surroundings](https://dynamicsurroundings.readthedocs.io/en/master/) | 更真实丰富的自然环境与生存体验 | [OreLib](https://www.curseforge.com/minecraft/mc-mods/orelib)|
-| [i18n Update](https://www.curseforge.com/minecraft/mc-mods/i18nupdatemod) | 自动翻译英文资源 ||
-| [Inventory Pets](https://www.curseforge.com/minecraft/mc-mods/inventory-pets) | 领养宠物，塞进衣兜！ ||
 | [JourneyMap](https://journeymap.info/Home) | 小地图 ||
 | [Just Enough Items (JEI)](https://www.curseforge.com/minecraft/mc-mods/jei) | 物品合成、用途信息查询 ||
 | [Neat](https://www.curseforge.com/minecraft/mc-mods/neat) | 生命条显示 ||

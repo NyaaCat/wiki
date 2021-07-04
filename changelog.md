@@ -7,9 +7,60 @@
 !> 除管理组公告、服务器重大变动之外，其余内容会逐步迁移至[喵窝历史事件](misc/history/events.md)。<br>关于「无尽地狱世界」本体的更新记录，请见 [Infinite Infernal](inf/index#历史) 页面。
 
 ## 2021
+### 2021-7-4 模组服务器五期开放
+
+服务器 `hana` 例行更新，大幅调整了模组组合，**宝可梦加入了世界**。
+
+<details>
+<summary>:notebook_with_decorative_cover: 七月存档的模组列表（点击展开）</summary>
+
+!> **必需品**：Forge 框架
+
+?> :newspaper: **内容类**
+
+| 模组 | 功能简述 | 前置模组 |
+|-|-|-|
+| [Akashic Tome](https://www.curseforge.com/minecraft/mc-mods/akashic-tome) | 制作“阿卡什宝典”，存放各种手册 | [AutoReg Lib](https://www.curseforge.com/minecraft/mc-mods/autoreglib) |
+| [Applied Energistics 2](https://ae-mod.info/) | **“应用能源”**，更科学、智能地存储与运输物品，以及更多 ||
+| YUNG's [Better Caves](https://www.curseforge.com/minecraft/mc-mods/yungs-better-caves) | 更丰富的洞穴环境 ||
+| YUNG's [Better Mineshafts](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge) | 更多花样的废弃矿井 ||
+| [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty) | 更多生物群系 ||
+| [Cooking for Blockheads](https://blay09.net/mods/cookingforblockheads/?page=cookingforblockheads) | 更好的厨房 ||
+| [Ender IO](https://www.enderio.com/) | **“末影接口”**，各种机械设备、导管、工具等，<br />支持超视距访问，也可联动“应用能源” | [EnderCore](https://www.curseforge.com/minecraft/mc-mods/endercore) |
+| [Flux Networks](https://www.curseforge.com/minecraft/mc-mods/flux-networks) | 支持无线传输、存取能量和物品，联动“应用能源” ||
+| [Future MC](https://modrinth.com/mod/future-mc) | 在 1.12.2 客户端体验原版新特性！ |[Shadowfacts' Forgelin](https://www.curseforge.com/minecraft/mc-mods/shadowfacts-forgelin)|
+| [the Lost Cities](https://wiki.mcjty.eu/mods/index.php?title=Lost_Cities) | 在废弃城市当中探索 | [McJtyLib](https://www.curseforge.com/minecraft/mc-mods/mcjtylib) |
+| [Morph-o-Tool](https://www.curseforge.com/minecraft/mc-mods/morph-o-tool) | 可制作“变形工具”，化身任意工具 | AutoReg Lib |
+| [NetherEx](https://www.curseforge.com/minecraft/mc-mods/netherex) | 更多下界生物群系 | [LibraryEx](https://www.curseforge.com/minecraft/mc-mods/libraryex)<br />Biomes O' Plenty |
+| [Open Modular Turrets](https://www.curseforge.com/minecraft/mc-mods/openmodularturrets) | 添加模块化炮塔 | [OMLib](https://www.curseforge.com/minecraft/mc-mods/omlib) |
+| [Open Terrain Generator](https://www.curseforge.com/minecraft/mc-mods/open-terrain-generator) (OTG)  | 完全可定制的世界生成器 ||
+| _子模块：[Biomes Bundle O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biome-bundle-o-plenty)_ | 更多生物群系与自然结构 | OTG |
+| [Pam's HarvestCraft](https://ftbwiki.org/Pam%27s_HarvestCraft) | “潘马斯农场”，更多食物、农作物与烹饪工具 ||
+| [Pixelmon](https://pixelmonmod.com/wiki/Main_Page) | 和宝可梦们一起战斗！ ||
+| [Quark](https://quark.vazkii.net) | “夸克”，添加各种小功能（总计百余种），务必点链接翻阅详情！ | AutoReg Lib |
+| [Quark Oddities](https://www.curseforge.com/minecraft/mc-mods/quark-oddities) | 启用某些隐藏功能，如行囊、磁铁、管道等 | Quark |
+| [Refined Storage](https://refinedmods.com/refined-storage/) | 存储物品与流体更方便 ||
+| [UniDict](https://www.curseforge.com/minecraft/mc-mods/unidict) | 统一某些模组的共通内容，如矿石 | [WanionLib](https://minecraft.curseforge.com/projects/wanionlib)|
+| [XNet](https://wiki.mcjty.eu/mods/index.php?title=XNet) | 一根线缆完成能量、流体、物品等的传输 | McJtyLib |
+
+?> :wrench: **辅助类** 
+
+
+| 模组 | 功能简述 | 前置模组 |
+|-|-|-|
+| [Dynamic Surroundings](https://dynamicsurroundings.readthedocs.io/en/master/) | 更真实丰富的自然环境与生存体验 | [OreLib](https://www.curseforge.com/minecraft/mc-mods/orelib)|
+| [JourneyMap](https://journeymap.info/Home) | 小地图 ||
+| [Just Enough Items (JEI)](https://www.curseforge.com/minecraft/mc-mods/jei) | 物品合成、用途信息查询 ||
+| [Neat](https://www.curseforge.com/minecraft/mc-mods/neat) | 生命条显示 ||
+| [Optifine](https://www.optifine.net) ||
+| [Waystones](https://minecraft.curseforge.com/projects/waystones) | 传送石碑与道具
+
+</details>
+
 ### 2021-6-4 模组服务器四期开放
 
-服务器 `hana` 例行更新，增添了大量模组。
+服务器 `hana` 例行更新，增添了大量模组。  
+现在内存分配要求至少 4GB。
 
 <details>
 <summary>:notebook_with_decorative_cover: 六月存档的模组列表（点击展开）</summary>
