@@ -166,14 +166,14 @@ _感谢派兹，辛苦更新_
 
 ——以下整合包可登录模组服务器 `hana`。
 
-### NyaaCat: Flourish Moment 2021.5
+### NyaaCat: Flourish Moment 2021.8
 
 由*凤凰卷 `phoenixlzx`* 整理，可被 MultiMC 直接导入。  
 模组列表请见[子服务器列表](wiki/server-network#hana)页面。
 
-- [原帖](https://bbs.nyaa.cat/d/1840-nyaacat-flourish-moment-20215/5)
-- [派兹网盘下载](https://dl.blingwang.cn/1.12.2%20NyaaCat%20Flourish%20Moment%202021.5rev2.zip)——大陆地区可粘贴至 MultiMC
-- [Mega 网盘下载](https://mega.nz/file/It0SDABb#4ebkBHji_4_dTReFLkXSjiJrYrtkh9Z3fVFCF3KtusQ)——非大陆地区可用
+- [原帖](https://bbs.nyaa.cat/d/1865-nyaacat-flourish-moment-20218)
+- [派兹网盘下载](https://dl.blingwang.cn/1.12.2%20NyaaCat-%20Flourish%20Moment%202021.8.zip)——大陆地区可粘贴至 MultiMC
+- [Mega 网盘下载](https://mega.nz/file/s18kQbza#UXxEBYom_WRtaHNCiTek2Oz2A8qUuMCqFt3Q5Cwq6lE)——非大陆地区可用
 
 --------
 
@@ -222,10 +222,10 @@ VoxelMap 的替代品，其优势是：
 1. 可生成 PNG 格式的世界地图
 1. 拥有更多选项
 
-当前支持最高至 1.15.2 的游戏版本，仅支持 Forge 框架。
+当前支持最高至 1.16.5 的游戏版本，仅支持 Forge 框架。
 
 - [CurseForge 下载地址](https://minecraft.curseforge.com/projects/journeymap/files)
-- MCBBS 上的[介绍](https://www.mcbbs.net/forum.php?mod=viewthread&tid=612917)
+- MCBBS 上的[介绍](https://www.mcbbs.net/forum.php?mod=viewthread&tid=612917) （不含新版的下载链接）
 
 ## 资源包（材质）
 
