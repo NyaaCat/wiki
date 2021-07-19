@@ -122,7 +122,7 @@ Need For Speed 服务器为喵窝的竞速游戏服务器。玩家可以在这�
 
 - **服务器代号：**`hana`
 - **游戏版本：**`1.12.2`
-- 当前存档：第五期 `2021.7`
+- 当前存档：第六期 `2021.8`
 - P.S. 主群已分享整合包，可被 MultiMC 导入。
   + 本期模组较复杂，**需至少分配 4GB 内存！**
 
@@ -135,26 +135,41 @@ Need For Speed 服务器为喵窝的竞速游戏服务器。玩家可以在这�
 
 | 模组 | 功能简述 | 前置模组 |
 |-|-|-|
-| [Akashic Tome](https://www.curseforge.com/minecraft/mc-mods/akashic-tome) | 制作“阿卡什宝典”，存放各种手册 | [AutoReg Lib](https://www.curseforge.com/minecraft/mc-mods/autoreglib) |
-| [Applied Energistics 2](https://ae-mod.info/) | **“应用能源”**，更科学、智能地存储与运输物品，以及更多 ||
-| YUNG's [Better Caves](https://www.curseforge.com/minecraft/mc-mods/yungs-better-caves) | 更丰富的洞穴环境 ||
-| YUNG's [Better Mineshafts](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge) | 更多花样的废弃矿井 ||
+| [Actually Additions](https://minecraft.curseforge.com/projects/actually-additions) | 更多实用设备和物品等 | |
+| [Applied Energistics 2](https://ae-mod.info/) (AE2) | **“应用能源”**，更科学、智能地存储与运输物品，以及更多 ||
+| *子模块：[AE2 Stuff](https://www.curseforge.com/minecraft/mc-mods/ae2-stuff)* | 添加更多机器与工具 | [BDLib](https://www.curseforge.com/minecraft/mc-mods/bdlib)<br />应用能源 |
+| *子模块：[Wireless Crafting Terminal](https://www.curseforge.com/minecraft/mc-mods/wireless-crafting-terminal)* | 添加无线合成终端 | [AE2WTLib](https://www.curseforge.com/minecraft/mc-mods/ae2wtlib)<br />[p455w0rd's Library](https://www.curseforge.com/minecraft/mc-mods/p455w0rds-library)<br />应用能源 |
+| *子模块：[Wireless Fluid Terminal](https://www.curseforge.com/minecraft/mc-mods/wireless-fluid-terminal)* | 添加无线流体终端 | 同上 |
+| *子模块：[Wireless Interface Terminal](https://www.curseforge.com/minecraft/mc-mods/wireless-fluid-terminal)* | 添加无线接口终端 | 同上 |
 | [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty) | 更多生物群系 ||
-| [Cooking for Blockheads](https://blay09.net/mods/cookingforblockheads/?page=cookingforblockheads) | 更好的厨房 ||
+| [Botania](https://botaniamod.net/) | **“植物魔法”**，蕴含大自然魔力的科技模组 ||
+| _子模块：[Botanic Additions](https://www.curseforge.com/minecraft/mc-mods/botanic-additions)_ | 更多花卉、饰品、武器和功能性方块 | [Hammer Core](https://www.curseforge.com/minecraft/mc-mods/hammer-lib)<br />Botania |
+| _子模块：[Extra Botany](https://www.curseforge.com/minecraft/mc-mods/extrabotany)_ | 支持魔力转换，更多花卉、装备等，新Boss | Botania |
+| [Chisel](https://www.curseforge.com/minecraft/mc-mods/chisel) | 用凿子凿出形状各异的方块 | CTM |
+| [Connected Textures Mod](https://www.curseforge.com/minecraft/mc-mods/ctm) (CTM)  | 支持连接材质、高光材质、带图案材质等 ||
 | [Ender IO](https://www.enderio.com/) | **“末影接口”**，各种机械设备、导管、工具等，<br />支持超视距访问，也可联动“应用能源” | [EnderCore](https://www.curseforge.com/minecraft/mc-mods/endercore) |
+| _子模块：[Ender IO Endergy](https://www.curseforge.com/minecraft/mc-mods/ender-io-endergy)_ | 更多电容、导管、原材料和相应装备及工具等 | Ender IO |
+| _子模块：[Ender IO Zoo](https://www.curseforge.com/minecraft/mc-mods/ender-io-endergy)_ | 更多动物、物品、状态效果与附魔 | Ender IO |
+| [Environmental Tech](https://www.curseforge.com/minecraft/mc-mods/environmental-tech) | **“环境科技”**，绿色环保的科技模组 | [Valkyrie Lib](https://www.curseforge.com/minecraft/mc-mods/valkyrielib) |
 | [Flux Networks](https://www.curseforge.com/minecraft/mc-mods/flux-networks) | 支持无线传输、存取能量和物品，联动“应用能源” ||
-| [Future MC](https://modrinth.com/mod/future-mc) | 在 1.12.2 客户端体验原版新特性！ |[Shadowfacts' Forgelin](https://www.curseforge.com/minecraft/mc-mods/shadowfacts-forgelin)|
-| [the Lost Cities](https://wiki.mcjty.eu/mods/index.php?title=Lost_Cities) | 在废弃城市当中探索 | [McJtyLib](https://www.curseforge.com/minecraft/mc-mods/mcjtylib) |
-| [Morph-o-Tool](https://www.curseforge.com/minecraft/mc-mods/morph-o-tool) | 可制作“变形工具”，化身任意工具 | AutoReg Lib |
-| [NetherEx](https://www.curseforge.com/minecraft/mc-mods/netherex) | 更多下界生物群系 | [LibraryEx](https://www.curseforge.com/minecraft/mc-mods/libraryex)<br />Biomes O' Plenty |
+| [GregTech 社区版](https://www.curseforge.com/minecraft/mc-mods/gregtechce) | “格雷科技”，各种机器、电线管道与新材料<br />（注意：[官网](http://gregtech.overminddl1.com/)仅对1.7.10客户端适配） | [Code Chicken Lib](https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8/files) |
+| [Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering) | “沉浸工程”，重工业科技模组 | |
+| _子模块：[Immersive Cables](https://www.curseforge.com/minecraft/mc-mods/immersive-cables)_ | 将“沉浸工程”的设备管线与<br />AE2、Refined Storage 系统相连 | 沉浸工程 |
+| _子模块：[Immersive Petroleum](https://www.curseforge.com/minecraft/mc-mods/immersive-petroleum)_ | 加入石油（产品）和开采、炼化装置 | 沉浸工程 |
+| [Industrial Craft 2](https://www.industrial-craft.net/) | **“工业时代”**，最知名的工业模组 ||
+| [Mekanism](https://wiki.aidancbrady.com/wiki/Main_Page) | **“通用机械”**，各种机械设备以及矿石、工具、装备等 ||
+| _子模块：Mekanism Generators_ | 发电机模块 | Mekanism |
+| _子模块：Mekanism Tools_ | 工具模块 | Mekanism |
+| [Nature's Aura](https://www.curseforge.com/minecraft/mc-mods/natures-aura) | 收集“自然灵气”，滋养天地万物 | [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli) ||
 | [Open Modular Turrets](https://www.curseforge.com/minecraft/mc-mods/openmodularturrets) | 添加模块化炮塔 | [OMLib](https://www.curseforge.com/minecraft/mc-mods/omlib) |
 | [Open Terrain Generator](https://www.curseforge.com/minecraft/mc-mods/open-terrain-generator) (OTG)  | 完全可定制的世界生成器 ||
 | _子模块：[Biomes Bundle O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biome-bundle-o-plenty)_ | 更多生物群系与自然结构 | OTG |
-| [Pam's HarvestCraft](https://ftbwiki.org/Pam%27s_HarvestCraft) | “潘马斯农场”，更多食物、农作物与烹饪工具 ||
-| [Pixelmon](https://pixelmonmod.com/wiki/Main_Page) | 和宝可梦们一起战斗！ ||
-| [Quark](https://quark.vazkii.net) | “夸克”，添加各种小功能（总计百余种），务必点链接翻阅详情！ | AutoReg Lib |
+| [Quark](https://quark.vazkii.net) | “夸克”，添加各种小功能（总计百余种），务必点链接翻阅详情！ | [AutoReg Lib](https://www.curseforge.com/minecraft/mc-mods/autoreglib) |
 | [Quark Oddities](https://www.curseforge.com/minecraft/mc-mods/quark-oddities) | 启用某些隐藏功能，如行囊、磁铁、管道等 | Quark |
 | [Refined Storage](https://refinedmods.com/refined-storage/) | 存储物品与流体更方便 ||
+| [RFTools](https://www.curseforge.com/minecraft/mc-mods/rftools) | 生成新维度，更多机器与物品等，可联动Ender IO | [McJtyLib](https://www.curseforge.com/minecraft/mc-mods/mcjtylib) |
+| [Tinkers' Construct](https://ftbwiki.org/Tinkers%27_Construct) | **“匠魂”**，冶炼系统以及更多工具、矿物等   | [Mantle](https://www.curseforge.com/minecraft/mc-mods/mantle)|
+| [Thaumcraft 6](https://minecraftguides.net/tc6/) | **“神秘时代”**，用魔法产生奇迹 ||
 | [UniDict](https://www.curseforge.com/minecraft/mc-mods/unidict) | 统一某些模组的共通内容，如矿石 | [WanionLib](https://minecraft.curseforge.com/projects/wanionlib)|
 | [XNet](https://wiki.mcjty.eu/mods/index.php?title=XNet) | 一根线缆完成能量、流体、物品等的传输 | McJtyLib |
 
@@ -163,11 +178,14 @@ Need For Speed 服务器为喵窝的竞速游戏服务器。玩家可以在这�
 
 | 模组 | 功能简述 | 前置模组 |
 |-|-|-|
+| [Akashic Tome](https://www.curseforge.com/minecraft/mc-mods/akashic-tome) | 制作“阿卡什宝典”，存放各种手册 | AutoReg Lib |
+| [Baubles](https://www.curseforge.com/minecraft/mc-mods/baubles) | 可佩戴饰品 ||
 | [Dynamic Surroundings](https://dynamicsurroundings.readthedocs.io/en/master/) | 更真实丰富的自然环境与生存体验 | [OreLib](https://www.curseforge.com/minecraft/mc-mods/orelib)|
 | [JourneyMap](https://journeymap.info/Home) | 小地图 ||
-| [Just Enough Items (JEI)](https://www.curseforge.com/minecraft/mc-mods/jei) | 物品合成、用途信息查询 ||
+| [Morph-o-Tool](https://www.curseforge.com/minecraft/mc-mods/morph-o-tool) | 可制作“变形工具”，化身任意工具 | AutoReg Lib |
 | [Neat](https://www.curseforge.com/minecraft/mc-mods/neat) | 生命条显示 ||
 | [Optifine](https://www.optifine.net) ||
+| [The One Probe](https://www.curseforge.com/minecraft/mc-mods/the-one-probe) | 可检测方块的名称、储存的能量/物品等，生物的状态效果 ||
 | [Waystones](https://minecraft.curseforge.com/projects/waystones) | 传送石碑与道具
 
 </details>
@@ -268,7 +286,7 @@ Need For Speed 服务器为喵窝的竞速游戏服务器。玩家可以在这�
 <details>
 <summary>点击此以查看详情</summary>
 
-!> 此服务器已转为主服务器 `nyaa` 的[一个维度](nyaa/worlds#无尽地狱世界)。
+!> 此服务器后来作为[一个维度](nyaa/worlds#无尽地狱世界)并入喵窝世界。
 
 设定为含轻 RPG 元素的 PvE 游戏服务器。游戏目标非常简单——**带上最强装备，讨伐最强怪物。**  
 其前身为原挂靠于 EpicWorld 维度的“黑化世界”；独立运营后，在其世界观以及喵窝部分装备之基础上，改进了基础设施、装备系统、兑换系统等。
