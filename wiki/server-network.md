@@ -197,13 +197,15 @@ Need For Speed 服务器为喵窝的竞速游戏服务器。玩家可以在这�
 当 *Minecraft* Java 正式版发布了重大更新，因插件跟进、性能评估等因素，主服务器并不会第一时间升级。此时，可能会开放独立服务器，以供玩家**抢先体验**原版新特性。  
 此世界仅供测试，不设备份，不保证长期在线，请勿建造重大工程。
 
-- 当前版本：`1.17`
-- 在 `1.17` 客户端使用与主服务器相同的地址登录即可。
+- 当前版本：`1.17.1`
+- 在 `1.17.1` 客户端使用与主服务器相同的地址登录即可。
 - 请遵守基本游戏规则与社区礼仪。
 
-!> :coffee: 自 1.17 版本起，Java 须升级到 16.0 或以上。如以官方启动器登录，则无需为此担心。  
+!> :coffee: 自 1.17.x 版本起，Java 须升级到 16.0 或以上。如以官方启动器登录，则无需为此担心。  
 如正使用第三方启动器，推荐以下发行版（对于 HMCL 应考虑“JDK FX”）：  
 [Oracle JDK](http://big.xzfile.com/bigfile/100/jdkv16.0.1_downcc.com.zip)<sup>（Windows 64 位安装版）</sup> | [Zulu JRE](https://www.azul.com/downloads/?version=java-16-sts&package=jre) | [Zulu JDK FX](https://www.azul.com/downloads/?version=java-16-sts&package=jdk-fx)
+
+
 
 ## 待开放服务器
 
@@ -226,6 +228,8 @@ Need For Speed 服务器为喵窝的竞速游戏服务器。玩家可以在这�
 * **服务器代号：**`miu`
 * 曾开放绿森跑酷、彩虹冰山跑酷。
 * [从未撰写的说明书](miu/lab.md)
+
+
 
 ## 不再开放之服务器 {docsify-ignore}
 
