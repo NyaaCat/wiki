@@ -19,14 +19,15 @@
 
 ### ℹ温馨提示
 
-1. 站点以线路上的**圆圈**表示。其中：  
-   白底灰边者为**换乘站**（如各个主城）；  
-   特别地，由一根“细棍子”连通两个换乘站，表示 **“跨平台换乘”**（如阿库亚斯）；  
+1. 站点以线路上的**一个点**表示。其中：  
+   黑点为**换乘站**（如各大城市）；  
+   特别地，以虚线连接两个黑点，表示 **“跨平台换乘”**（如阿库亚斯）；  
    其余为**普通站点。**
-2. 浪花町内地铁的站牌，标示大多为英文，作为文化遗产被保留。乘坐时，请自行判断欲经过的站台数量。
+2. 浪花町内地铁使用英文站名。乘坐时，请自行判断欲经过的站台数量。
 3. 某些站点名称未确定，给予了暂定名。本图尽可能尊重当地住户、建设者之意见，欢迎提供更合适的站名。
-4. 目前，**深色主题**适配正在推进，因工作量浩大，进度可能会慢一点。另外 Wiki 暂无自动选择图片显示的功能，所以请手动点开哈\~
+4. 关于**深色主题**，目前《主世界》已适配，暂无进一步适配的计划。请手动点开哈\~
 5. 如需**申请登记新站点**、或提出建议，都可以往这个[论坛帖子](https://bbs.nyaa.cat/d/951/100)上面发\~（小爱本人不大会上线巡逻或者看群了）
+6. 个别站点如过于偏僻，或者从未打通来往通道、建成站台的，或将不予承认。
 
 - - -
 
@@ -35,12 +36,12 @@
 <details>
 <summary>点这里看「深色」版噢</summary>
 
-![dark](../../assets/images/map-navi/map-overworld-rail(Bersella)(dark).png)
+![dark](https://bersella-ai.cc/nyan/map-overworld-rail-dark.png)
 
 </details>
 <br />
 
-![主世界轨道交通](../../assets/images/map-navi/map-overworld-rail(Bersella).png)
+![主世界轨道交通](https://bersella-ai.cc/nyan/map-overworld-rail.png)
 
 
 ?> :information_source: 「阿库亚斯」三个站台分别称  
@@ -52,24 +53,24 @@
 
 ## 浪花町内地铁线路图 :id=naniwa
 
-![浪花町内地铁](../../assets/images/map-navi/map-Naniwa-subway(Bersella).png)
+![浪花町内地铁](https://bersella-ai.cc/nyan/map-Naniwa-subway.png)
 
 - - -
 
 ## 新北市地铁线路图 :id=newnorth
 
-![新北市地铁](../../assets/images/map-navi/map-NewNorth-subway(Bersella).png)
+![新北市地铁](https://bersella-ai.cc/nyan/map-NewNorth-subway.png)
 
 - - -
 
 ## 北溪台地铁线路图 :id=northbrook
 
-![北溪台地铁](../../assets/images/map-navi/map-NorthBrook-subway(Bersella).png)
+![北溪台地铁](https://bersella-ai.cc/nyan/map-NorthBrook-subway.png)
 
 - - -
 
 ## 下界交通网线路图 :id=nether
 
-![下界交通网](../../assets/images/map-navi/map-nether-traffic(Bersella).png)
+![下界交通网](https://bersella-ai.cc/nyan/map-nether-traffic.png)
 
 !> 更多搭乘指南请见[此页](space/map-navi/railway-nether "下界铁路搭乘指南")。

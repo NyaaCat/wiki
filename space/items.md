@@ -10,12 +10,12 @@
 
 - [周年纪念道具](space/items/anniversary-gifts.md)
 - [活动兑换道具](space/items/activity-exclusive.md)
+- [辅助道具](space/items/support.md)
 - [旧版装备道具](space/items/legacy.md)*（仍可工作的）*
 
 以下道具已失去功能，仅供参考，未来将逐步归档：
 
 - [魔法装备及道具](space/items/magic.md)
 - [远程武器](space/items/remote-weapons.md)
-- [辅助道具](space/items/support.md)
 - [节庆用品（如焰火）](space/items/festival.md)
 - [Infinite Infernal装备图鉴](inf/items)

@@ -37,7 +37,7 @@
 - **【传送中心】** 则位于商业街入口东侧(200, 2564)，共设置21个传送牌。目前可到达科技特区、琥珀川（北沼）。
 - **【町内地铁】** 目前共开通10个站点，覆盖核心城区。线路图见下。
 
-![浪花町内地铁线路图](../../assets/images/map-navi/map-Naniwa-subway(Bersella).png)
+![浪花町内地铁线路图](https://bersella-ai.cc/nyan/map-Naniwa-subway.png)
 
 ## 观景旅游
 

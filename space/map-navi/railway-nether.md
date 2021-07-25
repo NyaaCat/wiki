@@ -15,7 +15,7 @@
 
 > **『下界地铁』地图**
 
-![喵窝下界轨道交通线路图](../../assets/images/map-navi/map-nether-traffic(Bersella).png)
+![喵窝下界轨道交通线路图](https://bersella-ai.cc/nyan/map-nether-traffic.png)
 
 下界地铁各站的出入口可参考上图中的介绍，入站、出站均有电梯插件进行支持，大部分线路均为双路、双向自加速铁路和冰道的混合动力模式（俗称冰铁），玩家可自选使用矿车或船进行移动，相关载具需提前自备。
 
