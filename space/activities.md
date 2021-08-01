@@ -8,7 +8,7 @@
 
 # 游戏活动
 
-?> 如无特殊说明，本页所示时间均指北京时间（中国标准时间或 CST，UTC+8）。
+?> :clock8: 如无特殊说明，本页所示时间均指北京时间（中国标准时间或 CST，UTC+8）。
 
 本页面记录玩家组织举办的各类活动，其中大部分在 `act` 服务器组织。  
 在 **2017 年圣诞节** 以前，本页所载活动仅限于喵窝**或**毛线内部。此后，活动大多由喵窝、[毛玉线圈物语服务器](https://www.craft.moe)<sup>（简称“毛线”）</sup>联袂举办，双方玩家共同参与。
@@ -25,6 +25,85 @@
 此页仅展示一年内的活动，往年活动请[戳这里](#往年活动)并选择具体年份。
 
 --------
+
+## 2021 夏日祭 :id=natsu-matsuri
+
+> 本页依据Rem的[游玩指南](https://bbs.craft.moe/d/2475-2021)略有改动
+
+一年一度的夏日祭暨“毛运会”如约而至！日程持续八天，更有各种支线活动等你报到。  
+
+夏日祭日程安排：
+
+| 活动 | 7/31 | 8/1 | 8/2 | 8/3 | 8/4 | 8/5 | 8/6 | 8/7 |
+|-|-|-|-|-|-|-|-|-|
+| **主线：**[买买镇！海洋与大地的馈赠。](https://bbs.nyaa.cat/d/1867-2021) || 19:00起 | ✔ | ✔ | ✔ | ✔ | ✔ | 23:59止 |
+| [买买镇！奇珍异宝突围战！](https://bbs.nyaa.cat/d/1872-2021) | 19:30 ||||||||
+| [世界飞行拉力赛 (WWR) 2021](https://bbs.nyaa.cat/d/1873-2021-world-wings-rally) | 19:00起 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | 23:59止 |
+| [“毛运会”](https://bbs.craft.moe/d/2473-2021)开幕式暨步行马拉松 ||| 19:30 ||||||
+| *（待定）* |||| 19:30 |||||
+| “毛运会”跑酷 ||||| 19:30起 | ✔ | ✔ | 23:59止 |
+| 血拼！买买镇！ |||||| 19:30 |||
+| “毛运会”击落擂台暨闭幕式 ||||||| 19:30 ||
+
+<details>
+<summary>:construction_worker: 鸣谢名单（排名不分先后）</summary>
+
+**『买买镇！奇珍异宝突围战！』工作人员：**
+```
+活动策划与制作：EchoLake_
+
+地图建设人员：
+Asakura_kukii
+ChuXuan_Windy
+Dubhe_ltq
+crazy_bakedfish
+KagurazakaKano
+ToastBrand
+Azur_Strasser
+Fuyomks
+hongling
+PinkishRed
+EchoLake_
+
+活动顾问：
+Aqua_Rem
+langua
+
+摸鱼顾问：PinkishRed
+```
+
+**『买买镇！奇珍异宝突围战！』工作人员：**
+```
+Aqua_nano
+Aqua_Rem
+```
+
+**『WWR 2021』制作人员：**
+```
+Soyne
+Yaolinger102
+Asakura_kukii
+Fangc
+tony_teacher
+Yukikaze_nya
+rvasnkv
+Tormentia
+```
+
+**“毛运会”工作人员：**
+```
+BlingWang
+CinoHi
+Ghost_wh1026
+Lv_da
+lyhyu__yi
+KagurazakaKano
+NAGISAKI_MINATO
+Aqua_Milk
+
+```
+
+</details>
 
 ## 2021劳动节活动：Adventurer Legends :id=labour-day
 
