@@ -115,7 +115,7 @@ EpicWorld 地下还有着丰富的矿物资源，来 EpicWorld 挖掘是个极�
 
 ~~**维度代号：**`inf`~~
 
-**主条目：[Infinite Infernal](inf/index)**
+**主条目：[Infinite Infernal](legacy/inf)**
 
 此世界已经废弃。请等待后续更新。
 

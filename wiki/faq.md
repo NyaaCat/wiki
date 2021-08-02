@@ -11,7 +11,7 @@
 
 一些常用问题已汇总到以下表格了。  
 更多方面的问题：
-- [插件和命令](tutorial/help.md)
+- [插件和命令](tutorial/commands-help.md)
 - 这个世界的[神奇物品](#items)
 - 这个世界的[奇特现象](#nyaa-world)
 - 服务器[连接问题](#connection)
@@ -25,9 +25,9 @@
 | 我该怎么赚钱？ | :point_right:[每个节操都要精打细算](nyaa/beginners-guide#earning) |
 | 如何去其它维度（世界）？ | :point_right:[维度列表](nyaa/worlds)<br />要摆传送门请往下翻\~ |
 | 如何在游戏聊天内分享一条命令？ | 命令前面加上`&f`。 |
-| 如何使用锁箱插件？ | :point_right:[牌子锁指南](space/plugins/lockettepro.md) |
-| 如何设置名称前/后缀？ | :point_right:[NyaaUtils帮助](space/plugins/nyaautils.md#prefix-suffix) |
-| 如何创建邮箱？ | :point_right:[NyaaUtils帮助](space/plugins/nyaautils.md#mailbox) |
+| 如何使用锁箱插件？ | :point_right:[牌子锁指南](tutorial/plugins/lockettepro.md) |
+| 如何设置名称前/后缀？ | :point_right:[NyaaUtils帮助](tutorial/plugins/nyaautils.md#prefix-suffix) |
+| 如何创建邮箱？ | :point_right:[NyaaUtils帮助](tutorial/plugins/nyaautils.md#mailbox) |
 
 ### 关于物品 :id=items
 
@@ -41,7 +41,7 @@
 4. 描述最后包含**“Unbreakable（无法破坏）”**的道具可用。
    + 含有此的盔甲不包含在内：受伤时，其只能以附魔吸收伤害，使保护效果打折扣。
 5. 活动限定道具可用，不早于 2020 年夏日祭。
-6. 服务器[周年纪念道具](space/items/anniversary-gifts.md)，不早于五周年。
+6. 服务器[周年纪念道具](nyaa/items/anniversary-gifts.md)，不早于五周年。
 
 原版可得者，一般较少见诸市场。当然，都可以买。  
 保险起见，**购买前请尽量咨询商家。**

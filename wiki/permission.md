@@ -10,7 +10,7 @@
 
 玩家权限详情：
 
-* **所有插件的非管理组功能**，详见《[常用命令速查表](tutorial/help.md)》《[插件指南](space/plugins.md)》。
+* **所有插件的非管理组功能**，详见《[常用命令速查表](tutorial/commands-help.md)》《[插件指南](tutorial/plugins.md)》。
 * 部分原版允许的命令，包括：
   - 发送一条关于自己的消息 `/me [text]`
 * 插件提供的经济功能，详见《[经济规则](nyaa/economic.md)》。其中：
@@ -22,12 +22,12 @@
   - 传送回上一位置  
 （上述功能的冷却时间为 10 秒。）
   - 传送到默认出生点
-  - 在聊天及大部分命令中使用彩色文本及样式。[详见](space/plugins/nyaautils#format)
+  - 在聊天及大部分命令中使用彩色文本及样式。[详见](tutorial/plugins/nyaautils#format)
   - 与其它玩家私聊、发送邮件
 * 锁箱 (Lockette Pro) 插件：
   - 非水下环境，对箱子、门等放置木牌以上锁
   - 右键该木牌可变更准入者 `/lock [line] [content]`
-  - 详见《[插件指南](space/plugins/lockettepro.md)》。
+  - 详见《[插件指南](tutorial/plugins/lockettepro.md)》。
 * CoreProtect 插件：
   - 查询方块、箱子内容等变更记录
 * 对建筑作品享有[著作权](#著作权)

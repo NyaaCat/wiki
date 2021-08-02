@@ -2,7 +2,7 @@
 
 这里包含喵窝世界的经济设定、基础规则，以及系统级服务细则。
 
-为方便浏览，交易项目的具体操作流程以及相关税款、手续费等，已与 [经济插件指南](space/plugins/hamsterecohelper) 整合。
+为方便浏览，交易项目的具体操作流程以及相关税款、手续费等，已与 [经济插件指南](tutorial/plugins/hamsterecohelper) 整合。
 
 ------
 
@@ -34,11 +34,11 @@
 
 以下为系统提供的所有交易模式，请参见“经济插件指南”：
 
-- [天喵商城](space/plugins/hamsterecohelper#世界商店)——即世界商店
-- [个人商店](space/plugins/hamsterecohelper#木牌商店)——包含出售、收购和抽奖
-- [拍卖](space/plugins/hamsterecohelper#拍卖)
-- [征购](space/plugins/hamsterecohelper#征购)
-- [天喵直送](space/plugins/hamsterecohelper#天喵直送)
+- [天喵商城](tutorial/plugins/hamsterecohelper#世界商店)——即世界商店
+- [个人商店](tutorial/plugins/hamsterecohelper#木牌商店)——包含出售、收购和抽奖
+- [拍卖](tutorial/plugins/hamsterecohelper#拍卖)
+- [征购](tutorial/plugins/hamsterecohelper#征购)
+- [天喵直送](tutorial/plugins/hamsterecohelper#天喵直送)
 
 ## 系统服务收费细则
 
@@ -70,9 +70,9 @@
 ### 重命名、邮送物品
 
 请参见 NyaaUtils：
-- [物品寄送](space/plugins/nyaautils#mailbox)
-- [修改你的前、后缀和昵称](space/plugins/nyaautils#prefix-suffix)
-- [物品重命名](space/plugins/nyaautils#rename)
+- [物品寄送](tutorial/plugins/nyaautils#mailbox)
+- [修改你的前、后缀和昵称](tutorial/plugins/nyaautils#prefix-suffix)
+- [物品重命名](tutorial/plugins/nyaautils#rename)
 
 ### 像素画粘贴
 如果需要从单人世界复制像素画到喵窝（brainhole 维度），可联系*奈诺 `Aqua_nano`* 购买服务。
@@ -112,7 +112,7 @@
 
 ## 在线奖励
 
-**主条目：[PlayTimeTracker](space/plugins/playtimetracker.md)**
+**主条目：[PlayTimeTracker](tutorial/plugins/playtimetracker.md)**
 
 - **daily**——每日签到（固定值）
 - **eco-up**——每日经济活跃（根据系统 balance 浮动）

@@ -2,7 +2,7 @@
   - [游戏规则 :four_leaf_clover:](wiki/rules.md)
   - [新人指南](nyaa/beginners-guide.md)
   - [常见问题](wiki/faq.md)
-  - [常用命令大全 :four_leaf_clover:](tutorial/help)
+  - [常用命令大全 :four_leaf_clover:](tutorial/commands-help)
   - [推荐资源](wiki/resources.md)
 - 社区
   - [Planet NyaaCat](wiki/planet-nyaacat.md)
@@ -16,13 +16,13 @@
   - [维度列表](nyaa/worlds.md)
   - [服务器列表 :four_leaf_clover:](wiki/server-network.md)
   - [创造激励计划](nyaa/creation.md)
-- 玩家空间
-  - [插件帮助 :four_leaf_clover:](space/plugins.md)
-  - [交通导航](space/map-navi.md)
-  - [建筑教程](space/building.md)
-  - [NPC 向导](space/npc.md)
-  - [游戏活动 :four_leaf_clover:](space/activities.md)
-  - [主世界道具图鉴](space/items.md)
+  - [游戏活动 :four_leaf_clover:](nyaa/activities.md)
+  - [历史考古](legacy/)
+- 实用帮助
+  - [插件帮助 :four_leaf_clover:](tutorial/plugins.md)
+  - [交通导航](tutorial/map-navi.md)
+  - [建筑教程](tutorial/building.md)
+  - [主世界道具图鉴](nyaa/items.md)
 - Need For Speed :four_leaf_clover:
   - [赛事](nfs/events.md)
   - [场地](nfs/fields.md)

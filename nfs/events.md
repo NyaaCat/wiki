@@ -4,7 +4,7 @@
 
 ## WWR (World Wings Rally)
 
-WWR (World Wings Rally) 是由 [喵窝飞行家里程俱乐部 (NFMC)](space/nfmc) 举办的鞘翅飞行拉力赛事，目的皆在于鼓励喵窝玩家熟练掌握鞘翅飞行技巧。该赛事通常在每年 7-8 月举办。
+WWR (World Wings Rally) 是由 [喵窝飞行家里程俱乐部 (NFMC)](legacy/nyaa/nfmc) 举办的鞘翅飞行拉力赛事，目的皆在于鼓励喵窝玩家熟练掌握鞘翅飞行技巧。该赛事通常在每年 7-8 月举办。
 
 早期的 WWR 比赛直接使用喵窝主世界地图作为赛场；但从 2018 年起，NFMC 使用独立赛场组织 WWR 赛事，且每年的赛场都会更换。
 

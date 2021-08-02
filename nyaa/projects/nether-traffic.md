@@ -13,12 +13,12 @@
 
 ### 搭乘指南
 
-请参见[下界铁路搭乘指南](space/map-navi/railway-nether)。
+请参见[下界铁路搭乘指南](tutorial/map-navi/railway-nether)。
 
 ### 建设标准
 
 对于 2021 年以来新建的路段，**不再强制统一风格**；但仍要求有可供行舟的冰道。  
-[此页](space/building/railway-construction-standard)展示现有线路的规范，仅供参考。
+[此页](tutorial/building/railway-construction-standard)展示现有线路的规范，仅供参考。
 
 ### 历史
 

@@ -57,7 +57,7 @@ Nyaa UBW 是喵窝的创造服务器，所有玩家均使用创造模式，并�
     + `/setblock` - 在指定位置放置方块
     + WorldEdit 命令
 * 请遵守喵窝的通用守则。
-* 如果需要定时备份的工程世界，了解更多请移步 [Project Nyaa UBW](space/project_nyaa_ubw.md)
+* 如果需要定时备份的工程世界，了解更多请移步 [Project Nyaa UBW](nyaa/project_nyaa_ubw.md)
 
 ?> 提示：你可以前往 `test` 服务器完成建筑设想，再通过影印 mod 等复制到喵窝世界。但是，生存建造所需的材料仍然要求在喵窝主世界生产、收集。 
 
@@ -78,13 +78,40 @@ Need For Speed 服务器为喵窝的竞速游戏服务器。玩家可以在这�
 
 ### :smile_cat: NyaaCat's History Archives :id=archive
 
-具体介绍请参见【[喵窝的历史](misc/history.md)】。
+这里集中展示喵窝创世前，与喵窝相关的玩家们曾经游玩的多人世界。这些存档不允许放置 / 破坏任何方块，但允许玩家与方块交互。具体介绍见下。
 
 * **服务器代号** `archive`
 * 为方便参观，该服务器可使用以下命令：
   + `/gamemode [模式名称]` - 切换游戏模式
   + `/tppos [X] [Y] [Z]` - 传送到指定位置
   + `/top` - 传送到建筑顶部
+  + `/mvtp [存档代号]` - 进入其它存档
+
+<details>
+<summary> :open_file_folder: 所有存档详情（点击展开）</summary>
+
+| 地图存档 | 世界名 | 所属服务器 | 周目 | 版本 | 日期 | 备注 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| `archcn` | Arch Linux CN Community Minecraft Server | Arch Linux 中文社区 | 1/1 | 1.3.2 / 1.4.7 / 1.6.2 | 2012.7 - 2014.1 | |
+| `redworld` | Red World | Scarlet Devil Mansion Server | 1/5 | 1.2.5 | | |
+| `greenworld` | Green World | Scarlet Devil Mansion Server | 2/5 | 1.2.5 | | |
+| `bubbleworld` | Bubble World | Scarlet Devil Mansion Server | 3/5 | 1.4.7 | | |
+| `worldv4` | 二小姐不科学红魔馆四周目 | Scarlet Devil Mansion Server | 4/5 | 1.6.2 | | 未挂载 |
+| `worldv5` | 二小姐不科学红魔馆五周目 | Scarlet Devil Mansion Server | 5/5 | 1.6.2 | | |
+| `tsuki_2sm` | 月芒物语 | 月芒物语 | 2/6 | 1.2.5 / 1.4.7 / 1.5.2 | 2012.9 - 2013.6 | |
+| `tsuki_3sm` | 月芒物语 | 月芒物语 | 3/6 | | 2013.7 - ? | |
+| `tsuki_4sm` | 月芒物语 | 月芒物语 | 4/6 | | | |
+| `tsuki_5sm` | 月芒物语 | 月芒物语 | 5/6 | | | |
+| `tsuki_6sm` | 月芒物语 | 月芒物语 | 6/6 | 1.7.2 | 2014.9 - 2016.6 | |
+| `kedama-start` | 毛玉線圈物語 史前卷 | 毛玉線圈物語 | 0/? | 1.10 | | |
+| `kedama-v0-0` | 毛玉線圈物語 初卷 | 毛玉線圈物語 | 1/? | 1.10.2 | | |
+| `kedama-v0-1` | 毛玉線圈物語 初卷 | 毛玉線圈物語 | 1/? | 1.7.2 | | |
+
+也可以查看 [静态地图](https://map.nyaacat.com/archive/)。
+
+另可参照：[[喵窝] 月芒物语设定集](https://www.zozyo.net/) - Minecraft 服务器「月芒物语」Wiki 存档。
+
+</details>
 
 ### Re: ゼロ始まるPvP :id=pvp
 
@@ -219,7 +246,7 @@ Need For Speed 服务器为喵窝的竞速游戏服务器。玩家可以在这�
 
 ### NyaaCat: Miu's Lab :id=miu
 
-*主条目：[Miu's Lab](miu/lab.md)*
+*主条目：[Miu's Lab](legacy/miu/lab.md)*
 
 美羽实验室服务器为美羽的专属小游戏服务器。玩家可以在这里体验各种美羽玩具、美羽机关、美羽游戏等等。从含笑半步癫到庞大的地下城探险，这里处处充满了美羽。
 
@@ -227,7 +254,7 @@ Need For Speed 服务器为喵窝的竞速游戏服务器。玩家可以在这�
 
 * **服务器代号：**`miu`
 * 曾开放绿森跑酷、彩虹冰山跑酷。
-* [从未撰写的说明书](miu/lab.md)
+* [从未撰写的说明书](legacy/miu/lab.md)
 
 
 
