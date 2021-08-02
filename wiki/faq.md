@@ -150,6 +150,21 @@
 如果数值过低，请联系管理组反馈以协助解决问题。
 
 
+?> :door: **我可以用基岩版（Win10）客户端登录喵窝吗？**
+
+可以，但请注意，**以下方案不受 Mojang 官方支持，随时可能失效。**  
+——你需要的有[GeyserMC](https://geysermc.org/)，以及一个 *Minecraft* Java版服务器（可以是家里另一台电脑，也可以是VPS）。按照《[安装教程](https://github.com/GeyserMC/Geyser/wiki/Setup)》将Geyser安装到该服务器，然后通过其中转，登录喵窝。
+
+在码云也可以看《[安装教程](https://gitee.com/mirrors_trending/Geyser/wikis/Setup)》。
+
+此外，基岩版自动升级后（如1.17.x），可能会无法登录尚未升级（如1.16.5）的喵窝。请参考《[基岩版版本回退 & Geyser版本管理](https://bbs.nyaa.cat/d/1877-minecraftbedrock-edition-geyser)》。
+
+
+?> :iphone: **我可以用手机登录喵窝吗？**
+
+你确定真的要这么干？  
+的确有个解决方案，叫[PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher)。
+
 
 ### 其它初来者问题 :id=other-newcomers
 

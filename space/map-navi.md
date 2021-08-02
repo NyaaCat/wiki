@@ -2,7 +2,7 @@
 
 ## 传送中心
 
-[传送中心（Capcat 传送牌）](nyaa/projects/teleport-center)
+所有传送中心已停止服务，请考虑其它出行方式。
 
 ## 飞行塔
 
