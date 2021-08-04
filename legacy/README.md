@@ -20,6 +20,7 @@
 - [传送中心](legacy/nyaa/teleport-center)
 - [喵窝飞行家里程俱乐部](legacy/nyaa/nfmc)
 - [月常环游任务](legacy/nyaa/monthly-course)
+- [用户组](legacy/nyaa/permission-groups)
 - 《[飞行之书](space/book-of-elytra)》
 
 

@@ -28,6 +28,7 @@
 | 如何使用锁箱插件？ | :point_right:[牌子锁指南](tutorial/plugins/lockettepro.md) |
 | 如何设置名称前/后缀？ | :point_right:[NyaaUtils帮助](tutorial/plugins/nyaautils.md#prefix-suffix) |
 | 如何创建邮箱？ | :point_right:[NyaaUtils帮助](tutorial/plugins/nyaautils.md#mailbox) |
+| 服务器的管理员该找谁？ | 请参阅《[玩家权限](wiki/permission)》之“管理组”。 |
 
 ### 关于物品 :id=items
 

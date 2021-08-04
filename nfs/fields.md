@@ -2,6 +2,34 @@
 
 下面介绍 NFS 服务器中各可用场地。它们可以使用 `/town select` 命令前往。
 
+### WWR 2021
+
+本次首度在城市空间展开飞行角逐。途中需穿越隧道、室内、下水道等复杂地形。
+
+- 检查点数量：74
+- 及格线：4分50秒
+- [开赛预告](https://bbs.nyaa.cat/d/1873-2021-world-wings-rally)
+- [成绩提交](https://bbs.craft.moe/d/2482-2021-world-wings-rally)（7月31日至8月7日）
+- [快速飞行示范](https://www.bilibili.com/video/BV15v411J7aX/)，仅供参考
+
+<details>
+<summary>:construction_worker: 建设人员名单</summary>
+
+```
+Soyne
+Yaolinger102
+Asakura_kukii
+Fangc
+tony_teacher
+Yukikaze_nya
+rvasnkv
+Tormentia
+```
+
+![credits](https://i.loli.net/2021/07/28/hNe81uIdKJvaj7f.png)
+
+</details>
+
 ### WWR 2020
 
 以洞穴和室内空间构成的飞行赛道。与往年相比，这次的难度得到了大幅的提升。
