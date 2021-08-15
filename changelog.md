@@ -6,7 +6,48 @@
 
 !> 除管理组公告、服务器重大变动之外，其余内容会逐步迁移至[民间事件](changelogs/unofficial-events.md)。
 
+
+
 ## 2021
+
+### 2021-8-15 模组服务器七期开放
+
+服务器 `hana` 提前进入第七周目。本次着重于真实的生存体验。
+
+<details>
+<summary>:notebook_with_decorative_cover: 九月存档所需模组（点击展开）</summary>
+
+!> **必需品**：Forge 框架
+
+?> :newspaper: **内容类**
+
+| 模组 | 功能简述 | 前置模组 |
+|-|-|-|
+| [Advent of Ascension 3](https://adventofascension.fandom.com) | **“虚空世界Ⅲ”**，加入21个维度和全新动植物、材料、武器、技能等 | |
+| [Just Enough IDs](https://www.curseforge.com/minecraft/mc-mods/jeid) | 用于兼容1.13+版本的命名空间 ||
+| [Iron Chests](https://www.curseforge.com/minecraft/mc-mods/iron-chests) | 更多种类的箱子 ||
+| [Nature's Aura](https://www.curseforge.com/minecraft/mc-mods/natures-aura) | 收集“自然灵气”，滋养天地万物 | [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli) ||
+| [Quark](https://quark.vazkii.net) | “夸克”，添加各种小功能（总计百余种），务必点链接翻阅详情！ | [AutoReg Lib](https://www.curseforge.com/minecraft/mc-mods/autoreglib) |
+| [Quark Oddities](https://www.curseforge.com/minecraft/mc-mods/quark-oddities) | 启用某些隐藏功能，如行囊、磁铁、管道等 | Quark |
+| [Terra Firma Craft](https://tng.terrafirmacraft.com/Main_Page):<br />the Next Generation | **“群峦传说”**，更真实的生存模式 | |
+
+?> :wrench: **辅助类** 
+
+
+| 模组 | 功能简述 | 前置模组 |
+|-|-|-|
+| [Akashic Tome](https://www.curseforge.com/minecraft/mc-mods/akashic-tome) | 制作“阿卡什宝典”，存放各种手册 | AutoReg Lib |
+| [Dynamic Surroundings](https://dynamicsurroundings.readthedocs.io/en/master/) | 更真实丰富的自然环境与生存体验 | [OreLib](https://www.curseforge.com/minecraft/mc-mods/orelib)|
+| [i18n Update](https://www.curseforge.com/minecraft/mc-mods/i18nupdatemod) | 自动翻译英文资源 ||
+| [JourneyMap](https://journeymap.info/Home) | 小地图 ||
+| [Just Enough Items (JEI)](https://www.curseforge.com/minecraft/mc-mods/jei) | 物品合成、用途信息查询 ||
+| [Neat](https://www.curseforge.com/minecraft/mc-mods/neat) | 生命条显示 ||
+| [Optifine](https://www.optifine.net) ||
+| [Waystones](https://minecraft.curseforge.com/projects/waystones) | 传送石碑与道具
+
+</details>
+
+
 ### 2021-7-17 移除 RPGItems 与「无尽地狱世界」
 
 经过管理组决定，喵窝将回归初心，再次恢复原版生存环境。以下措施将会被逐步实施。
@@ -104,10 +145,11 @@
 
 ### 2021-7-4 模组服务器五期开放
 
-服务器 `hana` 例行更新，大幅调整了模组组合。
+服务器 `hana` 例行更新，大幅调整了模组组合。  
+当月 9 日，又临时更新了模组组合。
 
 <details>
-<summary>:notebook_with_decorative_cover: 七月存档的模组列表（点击展开）</summary>
+<summary>:notebook_with_decorative_cover: 七月存档 V1 模组（点击展开）</summary>
 
 !> **必需品**：Forge 框架
 
@@ -148,6 +190,32 @@
 | [Just Enough Items (JEI)](https://www.curseforge.com/minecraft/mc-mods/jei) | 物品合成、用途信息查询 ||
 | [Neat](https://www.curseforge.com/minecraft/mc-mods/neat) | 生命条显示 ||
 | [Optifine](https://www.optifine.net) ||
+| [Waystones](https://minecraft.curseforge.com/projects/waystones) | 传送石碑与道具
+
+</details>
+
+<details>
+<summary>:notebook_with_decorative_cover: 七月存档 V2 模组（点击展开）</summary>
+
+!> **必需品**：Forge 框架
+
+?> :newspaper: **内容类**
+
+| 模组 | 功能简述 | 前置模组 |
+|-|-|-|
+| [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty) | 更多生物群系 ||
+| [Open Terrain Generator](https://www.curseforge.com/minecraft/mc-mods/open-terrain-generator) (OTG)  | 完全可定制的世界生成器 ||
+| [Pixelmon](https://pixelmonmod.com/wiki/Main_Page) | 和宝可梦们一起战斗！ ||
+| _子模块：[Pixelmon Extras](https://pixelmongenerations.com/wiki/index.php?title=PixelmonExtras)_ | 添加一些实用命令 | Pixelmon<br />SpongeForge |
+| _子模块：[Gameshark](http://www.9minecraft.net/gameshark-add-on-for-pixelmon/)_ | 添加可搜索宝可梦与战利品的雷达 | Pixelmon |
+| SpongeForge | 支持部分服务端模组，包括Pixelmon Extras | Sponge API |
+
+?> :wrench: **辅助类** 
+
+
+| 模组 | 功能简述 | 前置模组 |
+|-|-|-|
+| [JourneyMap](https://journeymap.info/Home) | 小地图 ||
 | [Waystones](https://minecraft.curseforge.com/projects/waystones) | 传送石碑与道具
 
 </details>

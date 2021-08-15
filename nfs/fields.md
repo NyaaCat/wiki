@@ -10,7 +10,11 @@
 - 及格线：4分50秒
 - [开赛预告](https://bbs.nyaa.cat/d/1873-2021-world-wings-rally)
 - [成绩提交](https://bbs.craft.moe/d/2482-2021-world-wings-rally)（7月31日至8月7日）
+- [排名公示](https://bbs.nyaa.cat/d/1886-wwr2021)
 - [快速飞行示范](https://www.bilibili.com/video/BV15v411J7aX/)，仅供参考
+
+
+- [倒飞挑战](https://bbs.craft.moe/d/2496-2021wwr)（非官方）
 
 <details>
 <summary>:construction_worker: 建设人员名单</summary>
@@ -73,6 +77,7 @@ Tormentia
 
 - 检查点数量：36
 - [成绩提交](https://bbs.craft.moe/d/2494-2021)（8月4日至7日）
+- [排名公示](https://bbs.craft.moe/d/2490-2021)
 - **制作人员：**`Lv_da`
 
 ### KSC 2020 - 毛运会跑酷挑战
