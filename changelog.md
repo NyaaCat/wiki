@@ -12,7 +12,8 @@
 
 ### 2021-8-15 模组服务器七期开放
 
-服务器 `hana` 提前进入第七周目。本次着重于真实的生存体验。
+服务器 `hana` 提前进入第七周目。~~本次着重于真实的生存体验。~~  
+因“群峦传说”过于硬核，当晚，另一批模组取而代之；目前主题为“旅游休闲”。
 
 <details>
 <summary>:notebook_with_decorative_cover: 九月存档所需模组（点击展开）</summary>
@@ -23,13 +24,29 @@
 
 | 模组 | 功能简述 | 前置模组 |
 |-|-|-|
-| [Advent of Ascension 3](https://adventofascension.fandom.com) | **“虚空世界Ⅲ”**，加入21个维度和全新动植物、材料、武器、技能等 | |
-| [Just Enough IDs](https://www.curseforge.com/minecraft/mc-mods/jeid) | 用于兼容1.13+版本的命名空间 ||
+| [BiblioCraft](https://www.bibliocraftmod.com) | **“收藏馆”**，添加各式置物架、家具与工具 | |
+| [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty) | 更多生物群系 ||
+| [Cooking for Blockheads](https://blay09.net/mods/cookingforblockheads/?page=cookingforblockheads) | 更好的厨房 ||
+| [DecoCraft](https://www.curseforge.com/minecraft/mc-mods/decocraft) | 添加3000余种装饰品 | [PTRLib](https://www.curseforge.com/minecraft/mc-mods/ptrlib) |
+| MrCrayfish's [Furniture Mod](https://mrcrayfish.com/mods?id=cfm) | 添加80多种家具 | [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli) ||
+| [GrowthCraft](https://www.curseforge.com/minecraft/mc-mods/growthcraft-community-edition) 社区版 | 加入苹果树、竹子、蜜蜂、葡萄、水稻等农业元素 ||
 | [Iron Chests](https://www.curseforge.com/minecraft/mc-mods/iron-chests) | 更多种类的箱子 ||
-| [Nature's Aura](https://www.curseforge.com/minecraft/mc-mods/natures-aura) | 收集“自然灵气”，滋养天地万物 | [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli) ||
+| [Just Enough IDs](https://www.curseforge.com/minecraft/mc-mods/jeid) | 用于兼容1.13+版本的命名空间 ||
+| [Lucky Block](https://www.luckyblockmod.com/) | 随机生成“幸运方块”，亦可自行合成 | |
+| [NetherEx](https://www.curseforge.com/minecraft/mc-mods/netherex) | 更多下界生物群系 | [LibraryEx](https://www.curseforge.com/minecraft/mc-mods/libraryex)<br />Biomes O' Plenty |
+| [Open Terrain Generator](https://www.curseforge.com/minecraft/mc-mods/open-terrain-generator) (OTG)  | 完全可定制的世界生成器 ||
+| _子模块：[Biomes Bundle O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biome-bundle-o-plenty)_ | 更多生物群系与自然结构 | OTG |
+| [Pam's HarvestCraft](https://ftbwiki.org/Pam%27s_HarvestCraft) | “潘马斯农场”，更多食物、农作物与烹饪工具 ||
+| [Plants](https://www.curseforge.com/minecraft/mc-mods/plants) | 添加约180种植物 | [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo) |
+| [Paragliders](https://www.curseforge.com/minecraft/mc-mods/paragliders) | 加入“滑翔伞” | |
+| [Project: Vibrant Journeys](https://www.ordered-chaos.dev/mods/projectvibrantjourneys/) | 为主世界环境添加更多点缀 ||
 | [Quark](https://quark.vazkii.net) | “夸克”，添加各种小功能（总计百余种），务必点链接翻阅详情！ | [AutoReg Lib](https://www.curseforge.com/minecraft/mc-mods/autoreglib) |
 | [Quark Oddities](https://www.curseforge.com/minecraft/mc-mods/quark-oddities) | 启用某些隐藏功能，如行囊、磁铁、管道等 | Quark |
-| [Terra Firma Craft](https://tng.terrafirmacraft.com/Main_Page):<br />the Next Generation | **“群峦传说”**，更真实的生存模式 | |
+| [Sakura](https://www.curseforge.com/minecraft/mc-mods/sakura) | 加入竹林、枫叶林，武士刀，和服等日本元素 | [Mysterious Mountain Lib](https://www.curseforge.com/minecraft/mc-mods/mysterious-mountain-lib) |
+| [Storage Drawers](https://ftb.fandom.com/wiki/Storage_Drawers) | 加入若干收纳柜 | [Chameleon](https://www.curseforge.com/minecraft/mc-mods/chameleon) |
+| [Traveler's Backpack](https://www.curseforge.com/minecraft/mc-mods/travelers-backpack) | 背上行囊走天下！ | |
+| [Varied Commodities](https://www.curseforge.com/minecraft/mc-mods/varied-commodities) | 加入若干家具与武器装备 | |
+| [XL Food Mod](https://ftb.fandom.com/wiki/XL_Food_Mod) | 加入百余种食物 | |
 
 ?> :wrench: **辅助类** 
 
@@ -44,6 +61,18 @@
 | [Neat](https://www.curseforge.com/minecraft/mc-mods/neat) | 生命条显示 ||
 | [Optifine](https://www.optifine.net) ||
 | [Waystones](https://minecraft.curseforge.com/projects/waystones) | 传送石碑与道具
+
+</details>
+<br />
+
+<details>
+<summary>:x: 被淘汰的模组</summary>
+
+| 模组 | 功能简述 | 前置模组 |
+|-|-|-|
+| :x: [Advent of Ascension 3](https://adventofascension.fandom.com) | **“虚空世界Ⅲ”**，加入21个维度和全新动植物、材料、武器、技能等 | |
+| :x: [Nature's Aura](https://www.curseforge.com/minecraft/mc-mods/natures-aura) | 收集“自然灵气”，滋养天地万物 | [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli) ||
+| :x: [Terra Firma Craft](https://tng.terrafirmacraft.com/Main_Page):<br />the Next Generation | **“群峦传说”**，更真实的生存模式 | |
 
 </details>
 
