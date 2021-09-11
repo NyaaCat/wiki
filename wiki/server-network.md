@@ -166,7 +166,7 @@ Need For Speed 服务器为喵窝的竞速游戏服务器。玩家可以在这�
 | [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty) | 更多生物群系 ||
 | [Cooking for Blockheads](https://blay09.net/mods/cookingforblockheads/?page=cookingforblockheads) | 更好的厨房 ||
 | [DecoCraft](https://www.curseforge.com/minecraft/mc-mods/decocraft) | 添加3000余种装饰品 | [PTRLib](https://www.curseforge.com/minecraft/mc-mods/ptrlib) |
-| MrCrayfish's [Furniture Mod](https://mrcrayfish.com/mods?id=cfm) | 添加80多种家具 | [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli) ||
+| MrCrayfish's [Furniture Mod](https://mrcrayfish.com/mods?id=cfm) | 添加80多种家具 ||
 | [GrowthCraft](https://www.curseforge.com/minecraft/mc-mods/growthcraft-community-edition) 社区版 | 加入苹果树、竹子、蜜蜂、葡萄、水稻等农业元素 ||
 | [Iron Chests](https://www.curseforge.com/minecraft/mc-mods/iron-chests) | 更多种类的箱子 ||
 | [Just Enough IDs](https://www.curseforge.com/minecraft/mc-mods/jeid) | 用于兼容1.13+版本的命名空间 ||
@@ -198,6 +198,7 @@ Need For Speed 服务器为喵窝的竞速游戏服务器。玩家可以在这�
 | [Just Enough Items (JEI)](https://www.curseforge.com/minecraft/mc-mods/jei) | 物品合成、用途信息查询 ||
 | [Neat](https://www.curseforge.com/minecraft/mc-mods/neat) | 生命条显示 ||
 | [Optifine](https://www.optifine.net) ||
+| [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli) | 支持内容丰富的手册 ||
 | [Waystones](https://minecraft.curseforge.com/projects/waystones) | 传送石碑与道具
 
 </details>
@@ -215,7 +216,7 @@ Need For Speed 服务器为喵窝的竞速游戏服务器。玩家可以在这�
 
 !> :coffee: 自 1.17.x 版本起，Java 须升级到 16.0 或以上。如以官方启动器登录，则无需为此担心。  
 如正使用第三方启动器，推荐以下发行版（对于 HMCL 应考虑“JDK FX”）：  
-[Oracle JDK](http://big.xzfile.com/bigfile/100/jdkv16.0.1_downcc.com.zip)<sup>（Windows 64 位安装版）</sup> | [Zulu JRE](https://www.azul.com/downloads/?version=java-16-sts&package=jre) | [Zulu JDK FX](https://www.azul.com/downloads/?version=java-16-sts&package=jdk-fx)
+[Amazon Corretto](https://docs.aws.amazon.com/corretto/latest/corretto-16-ug/downloads-list.html) | [Zulu JRE](https://www.azul.com/downloads/?version=java-16-sts&package=jre) | [Zulu JDK FX](https://www.azul.com/downloads/?version=java-16-sts&package=jdk-fx)
 
 
 

@@ -28,7 +28,7 @@
 | [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty) | 更多生物群系 ||
 | [Cooking for Blockheads](https://blay09.net/mods/cookingforblockheads/?page=cookingforblockheads) | 更好的厨房 ||
 | [DecoCraft](https://www.curseforge.com/minecraft/mc-mods/decocraft) | 添加3000余种装饰品 | [PTRLib](https://www.curseforge.com/minecraft/mc-mods/ptrlib) |
-| MrCrayfish's [Furniture Mod](https://mrcrayfish.com/mods?id=cfm) | 添加80多种家具 | [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli) ||
+| MrCrayfish's [Furniture Mod](https://mrcrayfish.com/mods?id=cfm) | 添加80多种家具 ||
 | [GrowthCraft](https://www.curseforge.com/minecraft/mc-mods/growthcraft-community-edition) 社区版 | 加入苹果树、竹子、蜜蜂、葡萄、水稻等农业元素 ||
 | [Iron Chests](https://www.curseforge.com/minecraft/mc-mods/iron-chests) | 更多种类的箱子 ||
 | [Just Enough IDs](https://www.curseforge.com/minecraft/mc-mods/jeid) | 用于兼容1.13+版本的命名空间 ||
@@ -60,6 +60,7 @@
 | [Just Enough Items (JEI)](https://www.curseforge.com/minecraft/mc-mods/jei) | 物品合成、用途信息查询 ||
 | [Neat](https://www.curseforge.com/minecraft/mc-mods/neat) | 生命条显示 ||
 | [Optifine](https://www.optifine.net) ||
+| [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli) | 支持内容丰富的手册 ||
 | [Waystones](https://minecraft.curseforge.com/projects/waystones) | 传送石碑与道具
 
 </details>
@@ -81,8 +82,9 @@
 
 经过管理组决定，喵窝将回归初心，再次恢复原版生存环境。以下措施将会被逐步实施。
 
-- 喵窝已经移除「无尽地狱世界」的相关内容和 RPGItems ，所有相关装备已经失效。同时下线了服务器资源包。
+- 「无尽地狱世界」与所有相关 RPGItems 已被移除。同时下线了服务器资源包。
   - 后来恢复了部分（主世界兑换的）辅助道具的功能。
+  - RPG 相关在将来会有新的举措，请等待后续更新。
 - 所有的现有 NPC 已经被移除。
   - 包括玩家设置的商店 NPC（需要自行重新设置）。
 - 放宽用地限制。
@@ -90,7 +92,6 @@
 - 暂时取消部分特性补丁。
 - 通过新的方式提供飞行功能。
 - 提供更好的建材补助策略。
-- RPG 相关在将来会有新的举措，请等待后续更新。
 - 升级了服务器前端硬件。
 
 其它未公开的变动（由玩家发现）：
@@ -103,6 +104,7 @@
   先前，支持传送牌功能的[Capcat](https://github.com/NyaaCat/capcat)插件被标记为“归档”，终止了维护。
 1. 签到奖励不再派发“月耀城礼包”，`daily-reward` `weekly-reward` 被取消。  
   同时取消的还有日常第三档奖励 `daily2`。
+1. 后来，仍然有新的 RPGItems 与 NPC 加入了。
 
 ### 2021-7-15 模组服务器六期开放
 
