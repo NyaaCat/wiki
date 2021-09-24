@@ -24,8 +24,8 @@
 - 《[飞行之书](space/book-of-elytra)》
 
 
-- [名胜古迹](misc/history/historical-sites)
-- [图书馆](misc/history/library)
+- [名胜古迹](legacy/nyaa/historical-sites)
+- [图书馆](nyaa/projects/libraries)
 - [历年游戏活动](nyaa/activities)
 
 
