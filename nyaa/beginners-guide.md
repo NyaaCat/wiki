@@ -14,8 +14,11 @@ NyaaWiki **并不是** 针对《Minecraft》游戏的指南和知识库，它是
 
 如果你是第一次玩 Minecraft，请首先参考官方 Wiki 的[《菜鸟手册》](https://minecraft-zh.gamepedia.com/%E6%95%99%E7%A8%8B/%E8%8F%9C%E9%B8%9F%E6%89%8B%E5%86%8C)<sup>（或者[内地镜像站页面](https://wiki.biligame.com/mc/%E6%95%99%E7%A8%8B/%E8%8F%9C%E9%B8%9F%E6%89%8B%E5%86%8C)）</sup>。
 
-如果你之前没有在其它正版 Java 版服务器游玩的经历，请务必确认你使用的是 [Java 版客户端](https://minecraft-zh.gamepedia.com/Java%E7%89%88)，并通过**在 minecraft.net 注册和激活的账号**登录游戏。  
-[基岩版](https://minecraft-zh.gamepedia.com/%E5%9F%BA%E5%B2%A9%E7%89%88)、[网易（中国）版](https://mc.163.com/) 等其它版本均不受支持。
+如果你之前没有在其它正版 Java 版服务器游玩的经历，请务必确认你使用的是 [Java 版客户端](https://minecraft-zh.gamepedia.com/Java%E7%89%88)，并通过**在 minecraft.net 注册和激活的 Java 版账号**登录游戏。
+
+尽管也可以[借助 Geyser](https://bbs.nyaa.cat/d/1877) 来使用 [基岩版](https://minecraft-zh.gamepedia.com/%E5%9F%BA%E5%B2%A9%E7%89%88) 游玩喵窝服务器，但它并不受 Mojang 及喵窝官方支持，且你依然需要 Java 版账号来游玩。
+
+[网易（中国）版](https://mc.163.com/) 不受支持。
 
 - - -
 
