@@ -17,7 +17,7 @@
 服务器地址：
 
 ```
-play.nyaacat.com
+play.nyaacat.com:25566
 ```
 
 如果您希望强制使用国内线路，请使用

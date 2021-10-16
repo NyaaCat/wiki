@@ -8,6 +8,7 @@
 
 ### 2021 年
 
+- [国庆节](nyaa/items/activity-exclusive/2021-national-day.md)
 - [夏日祭](nyaa/items/activity-exclusive/2021-natsu-matsuri.md)
 
 
