@@ -6,7 +6,7 @@
 
 服务器版本 Paper 1.17.1 **Online mode**
 
-!> 其他版本，包括 mod 服务器 (hana) 的客户端，将被导向待机服务器。请通过这里跳转至正确的服务器。 
+!> 使用其他版本，包括 mod 服务器 (hana) 的客户端，将被导向待机服务器。请通过这里跳转至正确的服务器。 
 
 [主页](https://www.nyaa.cat) | [论坛](https://bbs.nyaa.cat) | [常见问题](wiki/faq.md) | [新人指南](nyaa/beginners-guide.md) | [游戏规则](wiki/rules.md) | [世界地图](https://map.nyaacat.com/nyaa/)
 
