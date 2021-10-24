@@ -15,8 +15,8 @@
 
 <details>
 <summary>默认包含模组</summary>
-  
-![模组列表](../assets/images/resources/../../../../assets/images/resources/minecraft-1-16-5-simple-modpack.jpg)
+
+[模组列表](https://global.cdn.blingwang.cn/2021/10/24/378dbcd968a65.png)
 
 </details>
 
