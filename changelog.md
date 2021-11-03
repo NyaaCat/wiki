@@ -17,6 +17,48 @@
   - 三个非原版维度 `EpicWorld` `EpicNether` `EpicEnd` 再度被重置。
 - 所有的 RPGitem 物品目前全部失效。
 
+### 2021-10-20 模组服务器第八期开放
+
+服务器 `hana` 例行更新，本次以魔法元素为主。
+
+<details>
+<summary>:notebook_with_decorative_cover: 本期所需模组（点击展开）</summary>
+
+?> :newspaper: **内容类**
+
+| 模组 | 功能简述 | 前置模组 |
+|-|-|-|
+| [Actually Additions](https://minecraft.curseforge.com/projects/actually-additions) | 更多实用设备和物品等 | |
+| [Baubles](https://www.curseforge.com/minecraft/mc-mods/baubles) | 可佩戴饰品 ||
+| [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty) | 更多生物群系 ||
+| [Dark Utilities](https://www.curseforge.com/minecraft/mc-mods/dark-utilities) | 添加矢量板、投食器、戒指等实用工具 | [Bookshelf](https://www.curseforge.com/minecraft/mc-mods/bookshelf) |
+| [Forbidden & Arcanus](https://www.curseforge.com/minecraft/mc-mods/forbidden-arcanus) | 开启黑魔法之旅！ ||
+| [Ice & Fire](https://ice-and-fire-mod.fandom.com/wiki/Ice_and_Fire_Mod_Wiki) | “冰与火之歌”，加入各种神秘生物 | [LLibrary](https://www.curseforge.com/minecraft/mc-mods/llibrary) |
+| [Nature's Aura](https://www.curseforge.com/minecraft/mc-mods/natures-aura) | 收集“自然灵气”，滋养天地万物 | [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli) ||
+| [Open Terrain Generator](https://www.curseforge.com/minecraft/mc-mods/open-terrain-generator) (OTG)  | 完全可定制的世界生成器 ||
+| _子模块：[Biomes Bundle O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biome-bundle-o-plenty)_ | 更多生物群系与自然结构 | OTG |
+| [Quark](https://quark.vazkii.net) | “夸克”，添加各种小功能（总计百余种），务必点链接翻阅详情！ | [AutoReg Lib](https://www.curseforge.com/minecraft/mc-mods/autoreglib) |
+| [Quark Oddities](https://www.curseforge.com/minecraft/mc-mods/quark-oddities) | 启用某些隐藏功能，如行囊、磁铁、管道等 | Quark |
+| [Thaumcraft 6](https://minecraftguides.net/tc6/) | **“神秘时代”**，用魔法产生奇迹 ||
+| _子模块：[Thaumic Tinkerer](https://www.curseforge.com/minecraft/mc-mods/thaumic-augmentation)_ | 增添若干魔法道具和研究项目 | Thaumcraft |
+| [Tinkers' Construct](https://ftbwiki.org/Tinkers%27_Construct) | **“匠魂”**，冶炼系统以及更多工具、矿物等   | [Mantle](https://www.curseforge.com/minecraft/mc-mods/mantle)|
+| _子模块：[Construct's Armory](https://www.curseforge.com/minecraft/mc-mods/constructs-armory)_ | 增添若干盔甲 | “匠魂” |
+| _子模块：[Tinkers' Tool Leveling](https://www.curseforge.com/minecraft/mc-mods/tinkers-tool-leveling)_ | 支持“匠魂”工具的升级 | “匠魂” |
+| [Yo-yos](https://www.curseforge.com/minecraft/mc-mods/yoyos) | 加入悠悠球 | |
+
+?> :wrench: **辅助类** 
+
+
+| 模组 | 功能简述 | 前置模组 |
+|-|-|-|
+| [Akashic Tome](https://www.curseforge.com/minecraft/mc-mods/akashic-tome) | 制作“阿卡什宝典”，存放各种手册 | AutoReg Lib |
+| [Dynamic Surroundings](https://dynamicsurroundings.readthedocs.io/en/master/) | 更真实丰富的自然环境与生存体验 | [OreLib](https://www.curseforge.com/minecraft/mc-mods/orelib)|
+| [Neat](https://www.curseforge.com/minecraft/mc-mods/neat) | 生命条显示 ||
+| [Optifine](https://www.optifine.net) ||
+
+</details>
+
+
 ### 2021-8-15 模组服务器七期开放
 
 服务器 `hana` 提前进入第七周目。~~本次着重于真实的生存体验。~~  

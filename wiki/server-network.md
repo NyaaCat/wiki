@@ -143,48 +143,42 @@ Need For Speed 服务器为喵窝的竞速游戏服务器。玩家可以在这�
 ### NyaaCat: Flourish Moment :id=hana
 
 喵窝的 **Mod 服务器**，名称寓意为“繁华绽放之瞬间”。通常是中短期的，每期内容不尽相同。  
-如要登入，需使用对应的 Mod 客户端——原版通常无法进入；登录喵窝/毛线之后，即自动登入该服务器。退出后，切换回高版本原版客户端，即可回到你熟悉的世界。
+如要登入，需使用对应的 Mod 客户端——原版通常无法进入；登录喵窝/毛线之后，执行命令 `/server hana`，即登入该服务器。退出后，切换回高版本原版客户端，即可回到你熟悉的世界。
 
 所以看到好玩的 Mod 可以推荐到[论坛](https://bbs.nyaa.cat/d/1824-mod)啦。
 
 - **服务器代号：**`hana`
 - **游戏版本：**`1.12.2`
-- 当前存档：第七期 `2021.9`
+- 当前存档：第八期 `2021.10`
 - P.S. 主群已分享整合包，可被 MultiMC 导入。
-  + 本期模组较复杂，**需至少分配 4GB 内存！**
+
+!> 游玩 Mod 服务器，需将 Java 版本回退到 8。  
+内存应至少分配 4GB。
 
 <details>
 <summary>:notebook_with_decorative_cover: 本期模组列表（点击展开）</summary>
-
-!> **必需品**：Forge 框架
 
 ?> :newspaper: **内容类**
 
 | 模组 | 功能简述 | 前置模组 |
 |-|-|-|
-| [BiblioCraft](https://www.bibliocraftmod.com) | **“收藏馆”**，添加各式置物架、家具与工具 | |
+| [Actually Additions](https://minecraft.curseforge.com/projects/actually-additions) | 更多实用设备和物品等 | |
+| [Baubles](https://www.curseforge.com/minecraft/mc-mods/baubles) | 可佩戴饰品 ||
 | [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty) | 更多生物群系 ||
-| [Cooking for Blockheads](https://blay09.net/mods/cookingforblockheads/?page=cookingforblockheads) | 更好的厨房 ||
-| [DecoCraft](https://www.curseforge.com/minecraft/mc-mods/decocraft) | 添加3000余种装饰品 | [PTRLib](https://www.curseforge.com/minecraft/mc-mods/ptrlib) |
-| MrCrayfish's [Furniture Mod](https://mrcrayfish.com/mods?id=cfm) | 添加80多种家具 ||
-| [GrowthCraft](https://www.curseforge.com/minecraft/mc-mods/growthcraft-community-edition) 社区版 | 加入苹果树、竹子、蜜蜂、葡萄、水稻等农业元素 ||
-| [Iron Chests](https://www.curseforge.com/minecraft/mc-mods/iron-chests) | 更多种类的箱子 ||
-| [Just Enough IDs](https://www.curseforge.com/minecraft/mc-mods/jeid) | 用于兼容1.13+版本的命名空间 ||
-| [Lucky Block](https://www.luckyblockmod.com/) | 随机生成“幸运方块”，亦可自行合成 | |
-| [NetherEx](https://www.curseforge.com/minecraft/mc-mods/netherex) | 更多下界生物群系 | [LibraryEx](https://www.curseforge.com/minecraft/mc-mods/libraryex)<br />Biomes O' Plenty |
+| [Dark Utilities](https://www.curseforge.com/minecraft/mc-mods/dark-utilities) | 添加矢量板、投食器、戒指等实用工具 | [Bookshelf](https://www.curseforge.com/minecraft/mc-mods/bookshelf) |
+| [Forbidden & Arcanus](https://www.curseforge.com/minecraft/mc-mods/forbidden-arcanus) | 开启黑魔法之旅！ ||
+| [Ice & Fire](https://ice-and-fire-mod.fandom.com/wiki/Ice_and_Fire_Mod_Wiki) | “冰与火之歌”，加入各种神秘生物 | [LLibrary](https://www.curseforge.com/minecraft/mc-mods/llibrary) |
+| [Nature's Aura](https://www.curseforge.com/minecraft/mc-mods/natures-aura) | 收集“自然灵气”，滋养天地万物 | [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli) ||
 | [Open Terrain Generator](https://www.curseforge.com/minecraft/mc-mods/open-terrain-generator) (OTG)  | 完全可定制的世界生成器 ||
 | _子模块：[Biomes Bundle O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biome-bundle-o-plenty)_ | 更多生物群系与自然结构 | OTG |
-| [Pam's HarvestCraft](https://ftbwiki.org/Pam%27s_HarvestCraft) | “潘马斯农场”，更多食物、农作物与烹饪工具 ||
-| [Plants](https://www.curseforge.com/minecraft/mc-mods/plants) | 添加约180种植物 | [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo) |
-| [Paragliders](https://www.curseforge.com/minecraft/mc-mods/paragliders) | 加入“滑翔伞” | |
-| [Project: Vibrant Journeys](https://www.ordered-chaos.dev/mods/projectvibrantjourneys/) | 为主世界环境添加更多点缀 ||
 | [Quark](https://quark.vazkii.net) | “夸克”，添加各种小功能（总计百余种），务必点链接翻阅详情！ | [AutoReg Lib](https://www.curseforge.com/minecraft/mc-mods/autoreglib) |
 | [Quark Oddities](https://www.curseforge.com/minecraft/mc-mods/quark-oddities) | 启用某些隐藏功能，如行囊、磁铁、管道等 | Quark |
-| [Sakura](https://www.curseforge.com/minecraft/mc-mods/sakura) | 加入竹林、枫叶林，武士刀，和服等日本元素 | [Mysterious Mountain Lib](https://www.curseforge.com/minecraft/mc-mods/mysterious-mountain-lib) |
-| [Storage Drawers](https://ftb.fandom.com/wiki/Storage_Drawers) | 加入若干收纳柜 | [Chameleon](https://www.curseforge.com/minecraft/mc-mods/chameleon) |
-| [Traveler's Backpack](https://www.curseforge.com/minecraft/mc-mods/travelers-backpack) | 背上行囊走天下！ | |
-| [Varied Commodities](https://www.curseforge.com/minecraft/mc-mods/varied-commodities) | 加入若干家具与武器装备 | |
-| [XL Food Mod](https://ftb.fandom.com/wiki/XL_Food_Mod) | 加入百余种食物 | |
+| [Thaumcraft 6](https://minecraftguides.net/tc6/) | **“神秘时代”**，用魔法产生奇迹 ||
+| _子模块：[Thaumic Tinkerer](https://www.curseforge.com/minecraft/mc-mods/thaumic-augmentation)_ | 增添若干魔法道具和研究项目 | Thaumcraft |
+| [Tinkers' Construct](https://ftbwiki.org/Tinkers%27_Construct) | **“匠魂”**，冶炼系统以及更多工具、矿物等   | [Mantle](https://www.curseforge.com/minecraft/mc-mods/mantle)|
+| _子模块：[Construct's Armory](https://www.curseforge.com/minecraft/mc-mods/constructs-armory)_ | 增添若干盔甲 | “匠魂” |
+| _子模块：[Tinkers' Tool Leveling](https://www.curseforge.com/minecraft/mc-mods/tinkers-tool-leveling)_ | 支持“匠魂”工具的升级 | “匠魂” |
+| [Yo-yos](https://www.curseforge.com/minecraft/mc-mods/yoyos) | 加入悠悠球 | |
 
 ?> :wrench: **辅助类** 
 
@@ -193,13 +187,8 @@ Need For Speed 服务器为喵窝的竞速游戏服务器。玩家可以在这�
 |-|-|-|
 | [Akashic Tome](https://www.curseforge.com/minecraft/mc-mods/akashic-tome) | 制作“阿卡什宝典”，存放各种手册 | AutoReg Lib |
 | [Dynamic Surroundings](https://dynamicsurroundings.readthedocs.io/en/master/) | 更真实丰富的自然环境与生存体验 | [OreLib](https://www.curseforge.com/minecraft/mc-mods/orelib)|
-| [i18n Update](https://www.curseforge.com/minecraft/mc-mods/i18nupdatemod) | 自动翻译英文资源 ||
-| [JourneyMap](https://journeymap.info/Home) | 小地图 ||
-| [Just Enough Items (JEI)](https://www.curseforge.com/minecraft/mc-mods/jei) | 物品合成、用途信息查询 ||
 | [Neat](https://www.curseforge.com/minecraft/mc-mods/neat) | 生命条显示 ||
 | [Optifine](https://www.optifine.net) ||
-| [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli) | 支持内容丰富的手册 ||
-| [Waystones](https://minecraft.curseforge.com/projects/waystones) | 传送石碑与道具
 
 </details>
 
@@ -210,14 +199,15 @@ Need For Speed 服务器为喵窝的竞速游戏服务器。玩家可以在这�
 当 *Minecraft* Java 正式版发布了重大更新，因插件跟进、性能评估等因素，主服务器并不会第一时间升级。此时，可能会开放独立服务器，以供玩家**抢先体验**原版新特性。  
 此世界仅供测试，不设备份，不保证长期在线，请勿建造重大工程。
 
-- 当前版本：`1.17.1`
-- 在 `1.17.1` 客户端使用与主服务器相同的地址登录即可。
-- 请遵守基本游戏规则与社区礼仪。
+目前已关闭。
 
-!> :coffee: 自 1.17.x 版本起，Java 须升级到 16.0 或以上。如以官方启动器登录，则无需为此担心。  
-如正使用第三方启动器，推荐以下发行版（对于 HMCL 应考虑“JDK FX”）：  
-[Amazon Corretto](https://docs.aws.amazon.com/corretto/latest/corretto-16-ug/downloads-list.html) | [Zulu JRE](https://www.azul.com/downloads/?version=java-16-sts&package=jre) | [Zulu JDK FX](https://www.azul.com/downloads/?version=java-16-sts&package=jdk-fx)
+- **服务器代号：**`pre`
 
+### Hub Server
+
+“待机服务器”，只有一个陈设简单的出生点。如（首次）使用除**对应主服务器之当前版本**以外的客户端登录喵窝（例如 1.12.2），将自动进入此地图。
+
+- **服务器代号：**`hub`
 
 
 ## 待开放服务器
