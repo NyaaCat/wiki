@@ -2,37 +2,537 @@
 
 喵窝的更新记录。
 
-!> **此页尚需完善。**因原Wiki记录遗失，且维护者精力有限，本页或未记录所有事件。
+!> **此页尚需完善。**因原 Wiki 记录遗失，且维护者精力有限，本页或未记录所有事件。
+
+!> 除管理组公告、服务器重大变动之外，其余内容会逐步迁移至[民间事件](changelogs/unofficial-events.md)。
+
+
+
+## 2021
+
+### 2021-10-23 Minecraft 1.17.1
+
+- 喵窝主服务器**升级至 1.17.1 版本。**
+  - PvP、NFS 等子服务器也基本已升级。
+  - 三个非原版维度 `EpicWorld` `EpicNether` `EpicEnd` 再度被重置。
+- 所有的 RPGitem 物品目前全部失效。
+
+由玩家发现的其它变化：
+
+- 流浪商人的刷新变得相当罕见。*（存疑）*
+- 在二号末地（EpicEnd）**每次**击败末影龙，有几率生成新的龙蛋。
+
+### 2021-10-20 模组服务器第八期开放
+
+服务器 `hana` 例行更新，本次以魔法元素为主。
+
+<details>
+<summary>:notebook_with_decorative_cover: 本期所需模组（点击展开）</summary>
+
+?> :newspaper: **内容类**
+
+| 模组 | 功能简述 | 前置模组 |
+|-|-|-|
+| [Actually Additions](https://minecraft.curseforge.com/projects/actually-additions) | 更多实用设备和物品等 | |
+| [Baubles](https://www.curseforge.com/minecraft/mc-mods/baubles) | 可佩戴饰品 ||
+| [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty) | 更多生物群系 ||
+| [Dark Utilities](https://www.curseforge.com/minecraft/mc-mods/dark-utilities) | 添加矢量板、投食器、戒指等实用工具 | [Bookshelf](https://www.curseforge.com/minecraft/mc-mods/bookshelf) |
+| [Forbidden & Arcanus](https://www.curseforge.com/minecraft/mc-mods/forbidden-arcanus) | 开启黑魔法之旅！ ||
+| [Ice & Fire](https://ice-and-fire-mod.fandom.com/wiki/Ice_and_Fire_Mod_Wiki) | “冰与火之歌”，加入各种神秘生物 | [LLibrary](https://www.curseforge.com/minecraft/mc-mods/llibrary) |
+| [Nature's Aura](https://www.curseforge.com/minecraft/mc-mods/natures-aura) | 收集“自然灵气”，滋养天地万物 | [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli) ||
+| [Open Terrain Generator](https://www.curseforge.com/minecraft/mc-mods/open-terrain-generator) (OTG)  | 完全可定制的世界生成器 ||
+| _子模块：[Biomes Bundle O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biome-bundle-o-plenty)_ | 更多生物群系与自然结构 | OTG |
+| [Quark](https://quark.vazkii.net) | “夸克”，添加各种小功能（总计百余种），务必点链接翻阅详情！ | [AutoReg Lib](https://www.curseforge.com/minecraft/mc-mods/autoreglib) |
+| [Quark Oddities](https://www.curseforge.com/minecraft/mc-mods/quark-oddities) | 启用某些隐藏功能，如行囊、磁铁、管道等 | Quark |
+| [Thaumcraft 6](https://minecraftguides.net/tc6/) | **“神秘时代”**，用魔法产生奇迹 ||
+| _子模块：[Thaumic Tinkerer](https://www.curseforge.com/minecraft/mc-mods/thaumic-augmentation)_ | 增添若干魔法道具和研究项目 | Thaumcraft |
+| [Tinkers' Construct](https://ftbwiki.org/Tinkers%27_Construct) | **“匠魂”**，冶炼系统以及更多工具、矿物等   | [Mantle](https://www.curseforge.com/minecraft/mc-mods/mantle)|
+| _子模块：[Construct's Armory](https://www.curseforge.com/minecraft/mc-mods/constructs-armory)_ | 增添若干盔甲 | “匠魂” |
+| _子模块：[Tinkers' Tool Leveling](https://www.curseforge.com/minecraft/mc-mods/tinkers-tool-leveling)_ | 支持“匠魂”工具的升级 | “匠魂” |
+| [Yo-yos](https://www.curseforge.com/minecraft/mc-mods/yoyos) | 加入悠悠球 | |
+
+?> :wrench: **辅助类** 
+
+
+| 模组 | 功能简述 | 前置模组 |
+|-|-|-|
+| [Akashic Tome](https://www.curseforge.com/minecraft/mc-mods/akashic-tome) | 制作“阿卡什宝典”，存放各种手册 | AutoReg Lib |
+| [Dynamic Surroundings](https://dynamicsurroundings.readthedocs.io/en/master/) | 更真实丰富的自然环境与生存体验 | [OreLib](https://www.curseforge.com/minecraft/mc-mods/orelib)|
+| [Neat](https://www.curseforge.com/minecraft/mc-mods/neat) | 生命条显示 ||
+| [Optifine](https://www.optifine.net) ||
+
+</details>
+
+
+### 2021-8-15 模组服务器七期开放
+
+服务器 `hana` 提前进入第七周目。~~本次着重于真实的生存体验。~~  
+因“群峦传说”过于硬核，当晚，另一批模组取而代之；目前主题为“旅游休闲”。
+
+<details>
+<summary>:notebook_with_decorative_cover: 九月存档所需模组（点击展开）</summary>
+
+!> **必需品**：Forge 框架
+
+?> :newspaper: **内容类**
+
+| 模组 | 功能简述 | 前置模组 |
+|-|-|-|
+| [BiblioCraft](https://www.bibliocraftmod.com) | **“收藏馆”**，添加各式置物架、家具与工具 | |
+| [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty) | 更多生物群系 ||
+| [Cooking for Blockheads](https://blay09.net/mods/cookingforblockheads/?page=cookingforblockheads) | 更好的厨房 ||
+| [DecoCraft](https://www.curseforge.com/minecraft/mc-mods/decocraft) | 添加3000余种装饰品 | [PTRLib](https://www.curseforge.com/minecraft/mc-mods/ptrlib) |
+| MrCrayfish's [Furniture Mod](https://mrcrayfish.com/mods?id=cfm) | 添加80多种家具 ||
+| [GrowthCraft](https://www.curseforge.com/minecraft/mc-mods/growthcraft-community-edition) 社区版 | 加入苹果树、竹子、蜜蜂、葡萄、水稻等农业元素 ||
+| [Iron Chests](https://www.curseforge.com/minecraft/mc-mods/iron-chests) | 更多种类的箱子 ||
+| [Just Enough IDs](https://www.curseforge.com/minecraft/mc-mods/jeid) | 用于兼容1.13+版本的命名空间 ||
+| [Lucky Block](https://www.luckyblockmod.com/) | 随机生成“幸运方块”，亦可自行合成 | |
+| [NetherEx](https://www.curseforge.com/minecraft/mc-mods/netherex) | 更多下界生物群系 | [LibraryEx](https://www.curseforge.com/minecraft/mc-mods/libraryex)<br />Biomes O' Plenty |
+| [Open Terrain Generator](https://www.curseforge.com/minecraft/mc-mods/open-terrain-generator) (OTG)  | 完全可定制的世界生成器 ||
+| _子模块：[Biomes Bundle O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biome-bundle-o-plenty)_ | 更多生物群系与自然结构 | OTG |
+| [Pam's HarvestCraft](https://ftbwiki.org/Pam%27s_HarvestCraft) | “潘马斯农场”，更多食物、农作物与烹饪工具 ||
+| [Plants](https://www.curseforge.com/minecraft/mc-mods/plants) | 添加约180种植物 | [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo) |
+| [Paragliders](https://www.curseforge.com/minecraft/mc-mods/paragliders) | 加入“滑翔伞” | |
+| [Project: Vibrant Journeys](https://www.ordered-chaos.dev/mods/projectvibrantjourneys/) | 为主世界环境添加更多点缀 ||
+| [Quark](https://quark.vazkii.net) | “夸克”，添加各种小功能（总计百余种），务必点链接翻阅详情！ | [AutoReg Lib](https://www.curseforge.com/minecraft/mc-mods/autoreglib) |
+| [Quark Oddities](https://www.curseforge.com/minecraft/mc-mods/quark-oddities) | 启用某些隐藏功能，如行囊、磁铁、管道等 | Quark |
+| [Sakura](https://www.curseforge.com/minecraft/mc-mods/sakura) | 加入竹林、枫叶林，武士刀，和服等日本元素 | [Mysterious Mountain Lib](https://www.curseforge.com/minecraft/mc-mods/mysterious-mountain-lib) |
+| [Storage Drawers](https://ftb.fandom.com/wiki/Storage_Drawers) | 加入若干收纳柜 | [Chameleon](https://www.curseforge.com/minecraft/mc-mods/chameleon) |
+| [Traveler's Backpack](https://www.curseforge.com/minecraft/mc-mods/travelers-backpack) | 背上行囊走天下！ | |
+| [Varied Commodities](https://www.curseforge.com/minecraft/mc-mods/varied-commodities) | 加入若干家具与武器装备 | |
+| [XL Food Mod](https://ftb.fandom.com/wiki/XL_Food_Mod) | 加入百余种食物 | |
+
+?> :wrench: **辅助类** 
+
+
+| 模组 | 功能简述 | 前置模组 |
+|-|-|-|
+| [Akashic Tome](https://www.curseforge.com/minecraft/mc-mods/akashic-tome) | 制作“阿卡什宝典”，存放各种手册 | AutoReg Lib |
+| [Dynamic Surroundings](https://dynamicsurroundings.readthedocs.io/en/master/) | 更真实丰富的自然环境与生存体验 | [OreLib](https://www.curseforge.com/minecraft/mc-mods/orelib)|
+| [i18n Update](https://www.curseforge.com/minecraft/mc-mods/i18nupdatemod) | 自动翻译英文资源 ||
+| [JourneyMap](https://journeymap.info/Home) | 小地图 ||
+| [Just Enough Items (JEI)](https://www.curseforge.com/minecraft/mc-mods/jei) | 物品合成、用途信息查询 ||
+| [Neat](https://www.curseforge.com/minecraft/mc-mods/neat) | 生命条显示 ||
+| [Optifine](https://www.optifine.net) ||
+| [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli) | 支持内容丰富的手册 ||
+| [Waystones](https://minecraft.curseforge.com/projects/waystones) | 传送石碑与道具
+
+</details>
+<br />
+
+<details>
+<summary>:x: 被淘汰的模组</summary>
+
+| 模组 | 功能简述 | 前置模组 |
+|-|-|-|
+| :x: [Advent of Ascension 3](https://adventofascension.fandom.com) | **“虚空世界Ⅲ”**，加入21个维度和全新动植物、材料、武器、技能等 | |
+| :x: [Nature's Aura](https://www.curseforge.com/minecraft/mc-mods/natures-aura) | 收集“自然灵气”，滋养天地万物 | [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli) ||
+| :x: [Terra Firma Craft](https://tng.terrafirmacraft.com/Main_Page):<br />the Next Generation | **“群峦传说”**，更真实的生存模式 | |
+
+</details>
+
+
+### 2021-7-17 移除 RPGItems 与「无尽地狱世界」
+
+经过管理组决定，喵窝将回归初心，再次恢复原版生存环境。以下措施将会被逐步实施。
+
+- 「无尽地狱世界」与所有相关 RPGItems 已被移除。同时下线了服务器资源包。
+  - 后来恢复了部分（主世界兑换的）辅助道具的功能。
+  - RPG 相关在将来会有新的举措，请等待后续更新。
+- 所有的现有 NPC 已经被移除。
+  - 包括玩家设置的商店 NPC（需要自行重新设置）。
+- 放宽用地限制。
+- 大幅放宽了刷怪上限。
+- 暂时取消部分特性补丁。
+- 通过新的方式提供飞行功能。
+- 提供更好的建材补助策略。
+- 升级了服务器前端硬件。
+
+其它未公开的变动（由玩家发现）：
+
+1. 现在主末地不再能返回床边，而是送至大神殿。
+   - 这意味着只有 `/home` 能够迅速回家。
+1. 三个资源维度被再次重置。
+1. 熔岩桶被禁止使用，即便是在资源维度中。
+1. 所有传送牌已停止服务。  
+  先前，支持传送牌功能的[Capcat](https://github.com/NyaaCat/capcat)插件被标记为“归档”，终止了维护。
+1. 签到奖励不再派发“月耀城礼包”，`daily-reward` `weekly-reward` 被取消。  
+  同时取消的还有日常第三档奖励 `daily2`。
+1. 后来，仍然有新的 RPGItems 与 NPC 加入了。
+
+### 2021-7-15 模组服务器六期开放
+
+由于某些原因，服务器 `hana` 提前进入第六周目，回归了科技魔法世界的主题。
+
+<details>
+<summary>:notebook_with_decorative_cover: 八月存档的模组列表（点击展开）</summary>
+
+!> **必需品**：Forge 框架
+
+?> :newspaper: **内容类**
+
+| 模组 | 功能简述 | 前置模组 |
+|-|-|-|
+| [Actually Additions](https://minecraft.curseforge.com/projects/actually-additions) | 更多实用设备和物品等 | |
+| [Applied Energistics 2](https://ae-mod.info/) (AE2) | **“应用能源”**，更科学、智能地存储与运输物品，以及更多 ||
+| *子模块：[AE2 Stuff](https://www.curseforge.com/minecraft/mc-mods/ae2-stuff)* | 添加更多机器与工具 | [BDLib](https://www.curseforge.com/minecraft/mc-mods/bdlib)<br />应用能源 |
+| *子模块：[Wireless Crafting Terminal](https://www.curseforge.com/minecraft/mc-mods/wireless-crafting-terminal)* | 添加无线合成终端 | [AE2WTLib](https://www.curseforge.com/minecraft/mc-mods/ae2wtlib)<br />[p455w0rd's Library](https://www.curseforge.com/minecraft/mc-mods/p455w0rds-library)<br />应用能源 |
+| *子模块：[Wireless Fluid Terminal](https://www.curseforge.com/minecraft/mc-mods/wireless-fluid-terminal)* | 添加无线流体终端 | 同上 |
+| *子模块：[Wireless Interface Terminal](https://www.curseforge.com/minecraft/mc-mods/wireless-fluid-terminal)* | 添加无线接口终端 | 同上 |
+| [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty) | 更多生物群系 ||
+| [Botania](https://botaniamod.net/) | **“植物魔法”**，蕴含大自然魔力的科技模组 ||
+| _子模块：[Botanic Additions](https://www.curseforge.com/minecraft/mc-mods/botanic-additions)_ | 更多花卉、饰品、武器和功能性方块 | [Hammer Core](https://www.curseforge.com/minecraft/mc-mods/hammer-lib)<br />Botania |
+| _子模块：[Extra Botany](https://www.curseforge.com/minecraft/mc-mods/extrabotany)_ | 支持魔力转换，更多花卉、装备等，新Boss | Botania |
+| [Chisel](https://www.curseforge.com/minecraft/mc-mods/chisel) | 用凿子凿出形状各异的方块 | CTM |
+| [Connected Textures Mod](https://www.curseforge.com/minecraft/mc-mods/ctm) (CTM)  | 支持连接材质、高光材质、带图案材质等 ||
+| [Ender IO](https://www.enderio.com/) | **“末影接口”**，各种机械设备、导管、工具等，<br />支持超视距访问，也可联动“应用能源” | [EnderCore](https://www.curseforge.com/minecraft/mc-mods/endercore) |
+| _子模块：[Ender IO Endergy](https://www.curseforge.com/minecraft/mc-mods/ender-io-endergy)_ | 更多电容、导管、原材料和相应装备及工具等 | Ender IO |
+| _子模块：[Ender IO Zoo](https://www.curseforge.com/minecraft/mc-mods/ender-io-endergy)_ | 更多动物、物品、状态效果与附魔 | Ender IO |
+| [Environmental Tech](https://www.curseforge.com/minecraft/mc-mods/environmental-tech) | **“环境科技”**，绿色环保的科技模组 | [Valkyrie Lib](https://www.curseforge.com/minecraft/mc-mods/valkyrielib) |
+| [Flux Networks](https://www.curseforge.com/minecraft/mc-mods/flux-networks) | 支持无线传输、存取能量和物品，联动“应用能源” ||
+| [GregTech 社区版](https://www.curseforge.com/minecraft/mc-mods/gregtechce) | “格雷科技”，各种机器、电线管道与新材料<br />（注意：[官网](http://gregtech.overminddl1.com/)仅对1.7.10客户端适配） | [Code Chicken Lib](https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8/files) |
+| [Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering) | “沉浸工程”，重工业科技模组 | |
+| _子模块：[Immersive Cables](https://www.curseforge.com/minecraft/mc-mods/immersive-cables)_ | 将“沉浸工程”的设备管线与<br />AE2、Refined Storage 系统相连 | 沉浸工程 |
+| _子模块：[Immersive Petroleum](https://www.curseforge.com/minecraft/mc-mods/immersive-petroleum)_ | 加入石油（产品）和开采、炼化装置 | 沉浸工程 |
+| [Industrial Craft 2](https://www.industrial-craft.net/) | **“工业时代”**，最知名的工业模组 ||
+| [Mekanism](https://wiki.aidancbrady.com/wiki/Main_Page) | **“通用机械”**，各种机械设备以及矿石、工具、装备等 ||
+| _子模块：Mekanism Generators_ | 发电机模块 | Mekanism |
+| _子模块：Mekanism Tools_ | 工具模块 | Mekanism |
+| [Nature's Aura](https://www.curseforge.com/minecraft/mc-mods/natures-aura) | 收集“自然灵气”，滋养天地万物 | [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli) ||
+| [Open Modular Turrets](https://www.curseforge.com/minecraft/mc-mods/openmodularturrets) | 添加模块化炮塔 | [OMLib](https://www.curseforge.com/minecraft/mc-mods/omlib) |
+| [Open Terrain Generator](https://www.curseforge.com/minecraft/mc-mods/open-terrain-generator) (OTG)  | 完全可定制的世界生成器 ||
+| _子模块：[Biomes Bundle O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biome-bundle-o-plenty)_ | 更多生物群系与自然结构 | OTG |
+| [Quark](https://quark.vazkii.net) | “夸克”，添加各种小功能（总计百余种），务必点链接翻阅详情！ | [AutoReg Lib](https://www.curseforge.com/minecraft/mc-mods/autoreglib) |
+| [Quark Oddities](https://www.curseforge.com/minecraft/mc-mods/quark-oddities) | 启用某些隐藏功能，如行囊、磁铁、管道等 | Quark |
+| [Refined Storage](https://refinedmods.com/refined-storage/) | 存储物品与流体更方便 ||
+| [RFTools](https://www.curseforge.com/minecraft/mc-mods/rftools) | 生成新维度，更多机器与物品等，可联动Ender IO | [McJtyLib](https://www.curseforge.com/minecraft/mc-mods/mcjtylib) |
+| [Tinkers' Construct](https://ftbwiki.org/Tinkers%27_Construct) | **“匠魂”**，冶炼系统以及更多工具、矿物等   | [Mantle](https://www.curseforge.com/minecraft/mc-mods/mantle)|
+| [Thaumcraft 6](https://minecraftguides.net/tc6/) | **“神秘时代”**，用魔法产生奇迹 ||
+| [UniDict](https://www.curseforge.com/minecraft/mc-mods/unidict) | 统一某些模组的共通内容，如矿石 | [WanionLib](https://minecraft.curseforge.com/projects/wanionlib)|
+| [XNet](https://wiki.mcjty.eu/mods/index.php?title=XNet) | 一根线缆完成能量、流体、物品等的传输 | McJtyLib |
+
+?> :wrench: **辅助类** 
+
+
+| 模组 | 功能简述 | 前置模组 |
+|-|-|-|
+| [Akashic Tome](https://www.curseforge.com/minecraft/mc-mods/akashic-tome) | 制作“阿卡什宝典”，存放各种手册 | AutoReg Lib |
+| [Baubles](https://www.curseforge.com/minecraft/mc-mods/baubles) | 可佩戴饰品 ||
+| [Dynamic Surroundings](https://dynamicsurroundings.readthedocs.io/en/master/) | 更真实丰富的自然环境与生存体验 | [OreLib](https://www.curseforge.com/minecraft/mc-mods/orelib)|
+| [JourneyMap](https://journeymap.info/Home) | 小地图 ||
+| [Morph-o-Tool](https://www.curseforge.com/minecraft/mc-mods/morph-o-tool) | 可制作“变形工具”，化身任意工具 | AutoReg Lib |
+| [Neat](https://www.curseforge.com/minecraft/mc-mods/neat) | 生命条显示 ||
+| [Optifine](https://www.optifine.net) ||
+| [The One Probe](https://www.curseforge.com/minecraft/mc-mods/the-one-probe) | 可检测方块的名称、储存的能量/物品等，生物的状态效果 ||
+| [Waystones](https://minecraft.curseforge.com/projects/waystones) | 传送石碑与道具
+
+</details>
+
+### 2021-7-4 模组服务器五期开放
+
+服务器 `hana` 例行更新，大幅调整了模组组合。  
+当月 9 日，又临时更新了模组组合。
+
+<details>
+<summary>:notebook_with_decorative_cover: 七月存档 V1 模组（点击展开）</summary>
+
+!> **必需品**：Forge 框架
+
+?> :newspaper: **内容类**
+
+| 模组 | 功能简述 | 前置模组 |
+|-|-|-|
+| [Akashic Tome](https://www.curseforge.com/minecraft/mc-mods/akashic-tome) | 制作“阿卡什宝典”，存放各种手册 | [AutoReg Lib](https://www.curseforge.com/minecraft/mc-mods/autoreglib) |
+| [Applied Energistics 2](https://ae-mod.info/) | **“应用能源”**，更科学、智能地存储与运输物品，以及更多 ||
+| YUNG's [Better Caves](https://www.curseforge.com/minecraft/mc-mods/yungs-better-caves) | 更丰富的洞穴环境 ||
+| YUNG's [Better Mineshafts](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge) | 更多花样的废弃矿井 ||
+| [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty) | 更多生物群系 ||
+| [Cooking for Blockheads](https://blay09.net/mods/cookingforblockheads/?page=cookingforblockheads) | 更好的厨房 ||
+| [Ender IO](https://www.enderio.com/) | **“末影接口”**，各种机械设备、导管、工具等，<br />支持超视距访问，也可联动“应用能源” | [EnderCore](https://www.curseforge.com/minecraft/mc-mods/endercore) |
+| [Flux Networks](https://www.curseforge.com/minecraft/mc-mods/flux-networks) | 支持无线传输、存取能量和物品，联动“应用能源” ||
+| [Future MC](https://modrinth.com/mod/future-mc) | 在 1.12.2 客户端体验原版新特性！ |[Shadowfacts' Forgelin](https://www.curseforge.com/minecraft/mc-mods/shadowfacts-forgelin)|
+| [the Lost Cities](https://wiki.mcjty.eu/mods/index.php?title=Lost_Cities) | 在废弃城市当中探索 | [McJtyLib](https://www.curseforge.com/minecraft/mc-mods/mcjtylib) |
+| [Morph-o-Tool](https://www.curseforge.com/minecraft/mc-mods/morph-o-tool) | 可制作“变形工具”，化身任意工具 | AutoReg Lib |
+| [NetherEx](https://www.curseforge.com/minecraft/mc-mods/netherex) | 更多下界生物群系 | [LibraryEx](https://www.curseforge.com/minecraft/mc-mods/libraryex)<br />Biomes O' Plenty |
+| [Open Modular Turrets](https://www.curseforge.com/minecraft/mc-mods/openmodularturrets) | 添加模块化炮塔 | [OMLib](https://www.curseforge.com/minecraft/mc-mods/omlib) |
+| [Open Terrain Generator](https://www.curseforge.com/minecraft/mc-mods/open-terrain-generator) (OTG)  | 完全可定制的世界生成器 ||
+| _子模块：[Biomes Bundle O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biome-bundle-o-plenty)_ | 更多生物群系与自然结构 | OTG |
+| [Pam's HarvestCraft](https://ftbwiki.org/Pam%27s_HarvestCraft) | “潘马斯农场”，更多食物、农作物与烹饪工具 ||
+| [Pixelmon](https://pixelmonmod.com/wiki/Main_Page) | 和宝可梦们一起战斗！ ||
+| [Quark](https://quark.vazkii.net) | “夸克”，添加各种小功能（总计百余种），务必点链接翻阅详情！ | AutoReg Lib |
+| [Quark Oddities](https://www.curseforge.com/minecraft/mc-mods/quark-oddities) | 启用某些隐藏功能，如行囊、磁铁、管道等 | Quark |
+| [Refined Storage](https://refinedmods.com/refined-storage/) | 存储物品与流体更方便 ||
+| [UniDict](https://www.curseforge.com/minecraft/mc-mods/unidict) | 统一某些模组的共通内容，如矿石 | [WanionLib](https://minecraft.curseforge.com/projects/wanionlib)|
+| [XNet](https://wiki.mcjty.eu/mods/index.php?title=XNet) | 一根线缆完成能量、流体、物品等的传输 | McJtyLib |
+
+?> :wrench: **辅助类** 
+
+
+| 模组 | 功能简述 | 前置模组 |
+|-|-|-|
+| [Dynamic Surroundings](https://dynamicsurroundings.readthedocs.io/en/master/) | 更真实丰富的自然环境与生存体验 | [OreLib](https://www.curseforge.com/minecraft/mc-mods/orelib)|
+| [JourneyMap](https://journeymap.info/Home) | 小地图 ||
+| [Just Enough Items (JEI)](https://www.curseforge.com/minecraft/mc-mods/jei) | 物品合成、用途信息查询 ||
+| [Neat](https://www.curseforge.com/minecraft/mc-mods/neat) | 生命条显示 ||
+| [Optifine](https://www.optifine.net) ||
+| [Waystones](https://minecraft.curseforge.com/projects/waystones) | 传送石碑与道具
+
+</details>
+
+<details>
+<summary>:notebook_with_decorative_cover: 七月存档 V2 模组（点击展开）</summary>
+
+!> **必需品**：Forge 框架
+
+?> :newspaper: **内容类**
+
+| 模组 | 功能简述 | 前置模组 |
+|-|-|-|
+| [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty) | 更多生物群系 ||
+| [Open Terrain Generator](https://www.curseforge.com/minecraft/mc-mods/open-terrain-generator) (OTG)  | 完全可定制的世界生成器 ||
+| [Pixelmon](https://pixelmonmod.com/wiki/Main_Page) | 和宝可梦们一起战斗！ ||
+| _子模块：[Pixelmon Extras](https://pixelmongenerations.com/wiki/index.php?title=PixelmonExtras)_ | 添加一些实用命令 | Pixelmon<br />SpongeForge |
+| _子模块：[Gameshark](http://www.9minecraft.net/gameshark-add-on-for-pixelmon/)_ | 添加可搜索宝可梦与战利品的雷达 | Pixelmon |
+| SpongeForge | 支持部分服务端模组，包括Pixelmon Extras | Sponge API |
+
+?> :wrench: **辅助类** 
+
+
+| 模组 | 功能简述 | 前置模组 |
+|-|-|-|
+| [JourneyMap](https://journeymap.info/Home) | 小地图 ||
+| [Waystones](https://minecraft.curseforge.com/projects/waystones) | 传送石碑与道具
+
+</details>
+
+### 2021-6-4 模组服务器四期开放
+
+服务器 `hana` 例行更新，增添了大量模组。  
+现在内存分配要求至少 4GB。
+
+<details>
+<summary>:notebook_with_decorative_cover: 六月存档的模组列表（点击展开）</summary>
+
+!> **必需品**：Forge 框架
+
+?> :newspaper: **内容类**
+
+| 模组 | 功能简述 | 前置模组 |
+|-|-|-|
+| [Aether](https://www.curseforge.com/minecraft/mc-mods/the-aether) | “以太”，构筑天空之上的浮岛世界 ||
+| [Applied Energistics 2](https://ae-mod.info/) | “应用能源”，更科学、智能地存储与运输物品，以及更多 ||
+| [Akashic Tome](https://www.curseforge.com/minecraft/mc-mods/akashic-tome) | 制作“阿卡什宝典”，存放各种手册 | [AutoReg Lib](https://www.curseforge.com/minecraft/mc-mods/autoreglib) |
+| [Atum 2](https://www.curseforge.com/minecraft/mc-mods/atum) | 漫天风沙、险象环生的沙漠世界 ||
+| [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty) | 更多生物群系 ||
+| [Blood Magic 2](https://www.curseforge.com/minecraft/mc-mods/blood-magic) | “血魔法”，献祭仪式、魔法印记、气血宝珠等 ||
+| _子模块：[Animus](https://www.curseforge.com/minecraft/mc-mods/animus)_ | 添加更多祭台、容器等   | [Guide API](https://guide-api.readthedocs.io/en/latest/)<br />Blood Magic |
+| _子模块：[Blood Arsenal](https://ftbwiki.org/Blood_Arsenal)_ | 更多装备、饰品等 | Blood Magic |
+| [Botania](https://botaniamod.net/) | **“植物魔法”**，蕴含大自然魔力的科技模组 ||
+| _子模块：[Extra Botany](https://www.curseforge.com/minecraft/mc-mods/extrabotany)_ | 支持魔力转换，更多花卉、装备等，新Boss | Botania |
+| _子模块：[Mana Visualizer](https://www.curseforge.com/minecraft/mc-mods/manavisualizer)_ | 直观显示魔力值 | Botania |
+| [Energy Converters](https://www.curseforge.com/minecraft/mc-mods/energy-converters) | 工业能源的相互转换 ||
+| [Forestry](https://ftbwiki.org/Forestry) | 更丰富的农林业体验，能源生产 ||
+| [Future MC](https://modrinth.com/mod/future-mc) | 在 1.12.2 客户端体验原版新特性！ |[Shadowfacts' Forgelin](https://www.curseforge.com/minecraft/mc-mods/shadowfacts-forgelin)|
+| [Industrial Craft 2](https://www.industrial-craft.net/) | **“工业时代”**，最知名的工业模组 ||
+| [Mekanism](https://wiki.aidancbrady.com/wiki/Main_Page) | **“通用机械”**，各种机械设备以及矿石、工具、装备等 ||
+| _子模块：Mekanism Generators_ | 发电机模块 | Mekanism |
+| _子模块：Mekanism Tools_ | 工具模块 | Mekanism |
+| [MineColonies](https://wiki.minecolonies.ldtteam.com/) | 开辟属于自己的殖民地！ ||
+| [Morph-o-Tool](https://www.curseforge.com/minecraft/mc-mods/morph-o-tool) | 可制作“变形工具”，化身任意工具 | AutoReg Lib |
+| [Mystical World](https://www.curseforge.com/minecraft/mc-mods/mystical-world) | 更多生物、矿石及工具、农作物、装饰品等 | [MysticalLib](https://www.curseforge.com/minecraft/mc-mods/mysticallib) ||
+| [Nature's Aura](https://www.curseforge.com/minecraft/mc-mods/natures-aura) | 收集“自然灵气”，滋养天地万物 | [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli) ||
+| [Open Terrain Generator](https://www.curseforge.com/minecraft/mc-mods/open-terrain-generator) (OTG)  | 完全可定制的世界生成器 ||
+| _子模块：[Biomes Bundle O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biome-bundle-o-plenty)_ | 更多生物群系与自然结构 | OTG |
+| [Quark](https://quark.vazkii.net) | “夸克”，添加各种小功能（总计百余种），务必点链接翻阅详情！ | AutoReg Lib |
+| [Quark Oddities](https://www.curseforge.com/minecraft/mc-mods/quark-oddities) | 启用某些隐藏功能，如行囊、磁铁、管道等 | Quark |
+| [Pam's HarvestCraft](https://ftbwiki.org/Pam%27s_HarvestCraft) | “潘马斯农场”，更多食物、农作物与烹饪工具 ||
+| [Recurrent Complex](http://www.curse.com/mc-mods/minecraft/223150-recurrent-complex) | 更多随机生成的建筑 | [IvToolkit](https://www.curseforge.com/minecraft/mc-mods/ivtoolkit)|
+| [Refined Storage](https://refinedmods.com/refined-storage/) | 存储物品与流体更方便 ||
+| [Roguelike Dungeons](https://www.curseforge.com/minecraft/mc-mods/roguelike-dungeons) | 随机生成冒险地牢 ||
+| [Roots](https://www.curseforge.com/minecraft/mc-mods/roots) | 化身巫师，找寻魔法之源 ||
+| [Thaumcraft 6](https://minecraftguides.net/tc6/) | **“神秘时代”**，用魔法产生奇迹 ||
+| _子模块：[Thaumic Augmentation](https://www.curseforge.com/minecraft/mc-mods/thaumic-augmentation)_ | 增添若干新道具，可见[GitHub项目](https://github.com/TheCodex6824/ThaumicAugmentation)了解详情 | Thaumcraft |
+| [Tinkers' Construct](https://ftbwiki.org/Tinkers%27_Construct) | **“匠魂”**，冶炼系统以及更多工具、矿物等   | [Mantle](https://www.curseforge.com/minecraft/mc-mods/mantle)|
+| [Tropicraft](https://www.curseforge.com/minecraft/mc-mods/tropicraft) | 领略热带丛林风情 ||
+| [UniDict](https://www.curseforge.com/minecraft/mc-mods/unidict) | 统一某些模组的共通内容，如矿石 | [WanionLib](https://minecraft.curseforge.com/projects/wanionlib)|
+
+
+?> :wrench: **辅助类** 
+
+
+| 模组 | 功能简述 | 前置模组 |
+|-|-|-|
+| [Advanced Hook Launchers](https://openeye.openmods.info/mod/adhooks) | 添加立体机动装置 | [ForgeEndertech](https://www.curseforge.com/minecraft/mc-mods/forgeendertech)|
+| [Baubles](https://www.curseforge.com/minecraft/mc-mods/baubles) | 可佩戴饰品 ||
+| [Better Advancements](https://www.curseforge.com/minecraft/mc-mods/better-advancements) | 更友好的“进度”界面 ||
+| [Cooking for Blockheads](https://blay09.net/mods/cookingforblockheads/?page=cookingforblockheads) | 更好的厨房 ||
+| [Connected Textures Mod](https://www.curseforge.com/minecraft/mc-mods/ctm) (CTM)  | 支持连接材质、高光材质、带图案材质等 ||
+| [Dynamic Surroundings](https://dynamicsurroundings.readthedocs.io/en/master/) | 更真实丰富的自然环境与生存体验 | [OreLib](https://www.curseforge.com/minecraft/mc-mods/orelib)|
+| [i18n Update](https://www.curseforge.com/minecraft/mc-mods/i18nupdatemod) | 自动翻译英文资源 ||
+| [Inventory Pets](https://www.curseforge.com/minecraft/mc-mods/inventory-pets) | 领养宠物，塞进衣兜！ ||
+| [JourneyMap](https://journeymap.info/Home) | 小地图 ||
+| [Just Enough Items (JEI)](https://www.curseforge.com/minecraft/mc-mods/jei) | 物品合成、用途信息查询 ||
+| [Neat](https://www.curseforge.com/minecraft/mc-mods/neat) | 生命条显示 ||
+| [Optifine](https://www.optifine.net) ||
+| [Waystones](https://minecraft.curseforge.com/projects/waystones) | 传送石碑与道具
+
+</details>
+
+
+### 2021-5-4 模组服务器三期开放
+
+服务器 `hana` 例行更新，更换了部分模组。
+
+<details>
+<summary>:notebook_with_decorative_cover: 五月存档的模组列表（点击展开）</summary>
+
+?> :information_source: **备注**  
+①含 :star2: 标记者为首次使用。  
+②含 :recycle: 标记者为再次回归。
+
++ [Thaumcraft 6](https://minecraftguides.net/tc6/)——**“神秘时代”**，用魔法产生奇迹
++ :star2: [Environmental Tech](https://www.curseforge.com/minecraft/mc-mods/environmental-tech)——**“环境科技”**，绿色环保的科技模组
+  - 需前置模组：[Valkyrie Lib](https://www.curseforge.com/minecraft/mc-mods/valkyrielib)
++ :star2: [the Twilight Forest](https://ftb.fandom.com/wiki/Twilight_Forest)——**暮色森林**
++ :recycle: [The Betweenlands](https://the-betweenlands.fandom.com/wiki/The_Betweenlands_Wiki)——**“交错次元”**，全新世界和更多武器、怪物、地形等
++ :star2: [Astral Sorcery](https://minecraftguides.net/AS/)——**“星辉魔法”**，仰望星空，拿起星芒宝典改变世界吧！
+  *注意：其带来的星空可能和 Optifine 不兼容。*
++ :star2: [Tinkers' Construct](https://ftbwiki.org/Tinkers%27_Construct)——**“匠魂”**，冶炼系统以及更多工具、矿物等
+  - 需前置模组：[Mantle](https://www.curseforge.com/minecraft/mc-mods/mantle)
++ :star2: [Mekanism](https://wiki.aidancbrady.com/wiki/Main_Page)——**“通用机械”**，各种机械设备以及矿石、工具、装备等
+    * Mekanism Generators——发电机模块
+    * Mekanism Tools——工具模块
++ [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)——更多生物群系
++ :star2: [Open Terrain Generator](https://www.curseforge.com/minecraft/mc-mods/open-terrain-generator) (OTG) ——完全可定制的世界生成器
+    * [Biomes Bundle O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biome-bundle-o-plenty)——更多生物群系与自然结构，依赖 OTG
++ :star2: [Connected Textures Mod](https://www.curseforge.com/minecraft/mc-mods/ctm) (CTM) ——支持连接材质、高光材质、带图案材质等
++ [JourneyMap](https://journeymap.info/Home)——小地图
++ [Just Enough Items (JEI)](https://www.curseforge.com/minecraft/mc-mods/jei)——物品合成、用途信息查询
++ [Just Enough Resources (JER)](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer)——资源获取信息查询
++ [Neat](https://www.curseforge.com/minecraft/mc-mods/neat)——生命条显示
++ [Baubles](https://www.curseforge.com/minecraft/mc-mods/baubles)——可佩戴饰品
++ :recycle: [Waystones](https://minecraft.curseforge.com/projects/waystones)——传送石碑与道具
++ Optifine
+
+</details>
+
+### 2021-4-4 模组服务器二期开放
+
+服务器 `hana` 例行更新，更换了部分模组。
+
+<details>
+<summary>:notebook_with_decorative_cover: 四月存档的模组列表（点击展开）</summary>
+
+?> *注：含 :star2: 标记者为首次使用。*
+
++ Forge 框架
++ :star2: [Industrial Craft 2](https://www.industrial-craft.net/)——**“工业时代”**，最知名的工业模组
++ :star2: [Thaumcraft 6](https://ftbwiki.org/Thaumcraft_6)——**“神秘时代”**，用魔法产生奇迹
++ :star2: [Botania](https://botaniamod.net/)——**“植物魔法”**，蕴含大自然魔力的科技模组
++ [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)——更多生物群系
++ [JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap)——小地图
++ [Just Enough Items (JEI)](https://www.curseforge.com/minecraft/mc-mods/jei)——物品合成、用途信息查询
++ [Just Enough Resources (JER)](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer)——资源获取信息查询
++ [Neat](https://www.curseforge.com/minecraft/mc-mods/neat)——生命条显示
++ [Baubles](https://www.curseforge.com/minecraft/mc-mods/baubles)——可佩戴饰品
++ Optifine
+
+</details>
+
+
+### 2021-3-3 Mod 服务器运营始动
+
+- 在简单筹划之后，管理组开始试水 Mod 服务器，并[开放了首个存档](https://bbs.nyaa.cat/d/1826-nyaacat-flourish-moment-202133-alpha)。  
+该服务器挂靠于 `hana`，详情见[服务器列表](wiki/server-network#hana)。
+- 服务器前端由 Waterfall 更换为 Velocity。
+  - 该变动导致 `/glist` 命令不再对公众开放。
+
+<details>
+<summary>:notebook_with_decorative_cover: 三月存档的模组列表（点击展开）</summary>
+
++ Forge 框架
++ [The Betweenlands](https://www.curseforge.com/minecraft/mc-mods/angry-pixel-the-betweenlands-mod)——**“交错次元”**模组，更多群系、音效、机制、物品等
++ [Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering)——“沉浸工程”，重工业科技模组
++ [Immersive Railroading](https://www.curseforge.com/minecraft/mc-mods/immersive-railroading)——“沉浸铁路”，真实铁路和火车
++ [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)——更多生物群系
++ [Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones)——传送石碑和传送道具
++ [JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap)——小地图
++ [Just Enough Items (JEI)](https://www.curseforge.com/minecraft/mc-mods/jei)——物品合成、用途信息查询
++ [Just Enough Resources (JER)](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer)——资源获取信息查询
++ [Neat](https://www.curseforge.com/minecraft/mc-mods/neat)——生命条显示
++ [Baubles](https://www.curseforge.com/minecraft/mc-mods/baubles)——可佩戴饰品
++ Optifine
+
+</details>
+
+--------
 
 ## 2020
-### 2020-3-20 Infinite Infernal 中间兑换物更新
+### 2020-11-24 Minecraft 1.16.4
+- 喵窝主服务器**升级至 1.16.4 版本。**
+  - PvP、NFS 等子服务器也基本已升级。UBW 等非公开服务器尚未跟进。
+  - 三个非原版维度 `EpicWorld` `EpicNether` `EpicEnd` 再度被重置。
+- **经济系统大改：**
+  - 经济系统基础插件——HamsterEcoHelper 被重构，其中多个命令用法发生改变，并增加了 `/h` 命令以替代 `/heh`（后者仍可用）。[详见](tutorial/plugins/hamsterecohelper)
+  - 现在开设商店木牌需通过命令，而非编辑告示牌。
+  - 新增展示框商店，可以展示店内随机物品，并允许玩家直接购买展示框中的物品（一次购买一个）。
+  - 天喵商城费率上调：
+    + 上架手续费 39 → 100 节
+    + 消费税 8% → 10%
+  - 天喵商城托管费用将进行调整，目前暂时免费。请密切关注管理组的通知。
+  - 现在商店（含天喵商城）不再优先展示最近上架的物品了。
+  - 商店搜索结果中不再显示商店木牌坐标。
+- **部分细节变更**<sup>（待完善）</sup>：
+  - NyaaUtils 展示框保护功能被重写，利用了原版新增的 `Fixed` 属性。
+  - 由于 API 限制，**旧版动力燃料胶囊和经验瓶全部失效。**~~请等待管理组的补偿方案。~~
+  - 聊天新增 **RGB 彩色文本**支持，支持 HTML 表记的颜色代码，如 `&#66ccff好喝的水`。<br>11 月 29 日，支持范围扩展到**自定义前后缀、告示牌及物品重命名**（后两者均需要通过 NyaaUtils 设置才可生效）。
+  - 铁砧不再会清除物品名称中原有的多彩样式。
+  - 暂时离开（AFK）状态提醒由中文变为英文。
+  - ~~告示牌不再支持多彩样式，即便是通过 `/nu se sign` 编辑的。~~<sup>（已修复）</sup>
+
+### 2020-09-04 服务器物理架构更新
+- 喵窝主服务器迁移至一台新机器，采用了 Core i9-9900K CPU。
+- 活动专用服务器 `act` 也迁移至另一新机器，采用了 Core i5-10600K CPU。
+- PvP、NFS、美羽实验室迁移到了主服务器原先的平台上。该平台由 Xeon E3-1280 v5 CPU 驱动。
+- [Terraria 游戏服务器](terraria/server) 迁移到了活动专用服务器原先的，基于 Xeon E3-1271 v3 CPU 的平台上。
+
+### 2020-07-18 权限表更新
+- 喵窝主服务器进行了权限表更新。  
+玩家发现的变化：
+  * 玩家不再拥有默认前缀 `[喵]`。
+  * **所有玩家的自定义前后缀均被重置**，玩家需要重新进行设置。
+  * `/help`、`/mvlist` 命令不再可用。
+  * `/home` 命令支持补全功能了。
+  * 玩家**不再被允许欠债**。
+  * 玩家的私人传送点数量上限 6 → 2。  
+各玩家超过 2 个传送点的原有设置不受影响，但必须在删除多余的传送点以后才能设置新的传送点。
+  * 玩家在天喵商城的占用槽位上限 12 → 6。
+  * 在告示牌编辑界面，不再能使用样式码。<sup>（请以 `/nu se sign` 替代）</sup>
+  * 传送冷却时间提升至 10 秒。
+- 如果发现有任何权限异常的情况，请直接与管理组联系。
+- 领域提示文本得到了大幅简化；玩家村落会直接在副标题显示所有者。
+
+### 2020-03-20 实物货币更新
 - 多种中间兑换物发生了变化：
   + 「一元大钱」、「喵爪银币」即日起**发行新版**，材质和原型均已更换。「喵爪银币」的**消失诅咒附魔被删除**~~，同时解决了易于被误食的问题~~。
   + 「一两银票」**被「一元钞票」取代**。
   + **新增中间兑换物「一张银行卡」**，可用 64 个「一元钞票」兑换。
   + 喵窝主世界的相关 NPC 也已更新，改为需要上述新版物品。
   + 可以在 `inf` 世界各大城镇的 ATM **自助更换**旧版物品。
-- 「通用纳米子弹」即日起**发行新版**，可以在月曜城的**火狐弹药库**自助更换旧版物品；已经装在「子弹袋」的子弹则无需处理。
+- 「通用纳米子弹」即日起**发行新版**，可以在月耀城的**火狐弹药库**自助更换旧版物品；已经装在「子弹袋」的子弹则无需处理。
 
 
-### 2020-3-12 服务器资源包上线
+### 2020-03-12 服务器资源包上线
 - 通过资源包，道具的材质开始可以定制了。
-  + 目前已知覆盖了其它资源包的 **木制工具、木棍、弓、弩、纸、铁粒、金粒等**材质。
-- 所有玩家自此日起，登录后将被要求下载资源包。~~由于某些缘故，下载过程时有卡顿，期间无法控制人物。开发组已给出[临时解决方案](https://bbs.nyaa.cat/d/1574)。~~<sup>（13日中午起，资源包改从大陆节点分发，下载表现趋于正常）</sup>
+  + 目前已知覆盖了其它资源包的 **木制工具、木棍、弓、弩、纸、铁粒、金粒、羽毛、火把等**材质。
+  + <span class="nw-spoiler">于是我们的 MC 世界开始《泰拉瑞亚》化了</span>
+- 所有玩家自此日起，将被要求使用服务器资源包。~~由于某些缘故，下载过程时有卡顿，期间无法控制人物。开发组已给出[临时解决方案](https://bbs.nyaa.cat/d/1574)。~~<sup>（13日中午起，资源包改从大陆节点分发，下载表现趋于正常）</sup>
 - 插件Resource-pack Over The Air [(ROTA)](https://github.com/NyaaCat/ROTA)启用，允许在不退出服务器的情况下更新资源包。
   + 当服务端资源包更新后，将向玩家推送更新提示。
   + 玩家可以用 `/rota accept`强制更新；或者`/rota ignore`忽略更新提醒。
 
 
-### 2020-3-5 生物失智事故
-- 5日以来，据多人报告，世界部分区域的多种生物失去AI（自主行动能力）。事件严重性堪比 2017 年 6 月的「生物消失」事故。
-  + 目前尚未得知具体发生时间，但可确定的是，发生时未加载的区块不受影响。
-  + 受影响地区包括樱华町、科技特区、末地等，生物型生产设施大多停摆（蜜蜂机器仍正常）。
-  + ~~*凤凰卷* 认为，此应归咎于 [Paper 服务端的一次更新](https://bbs.nyaa.cat/d/1571/6)，唯一解决方法是寻求新生成的生物。~~
-- 开发组已查明，系 Yasui（生物AI控制）插件在「毛玉线圈物语」的设置不慎影响喵窝所致。13日15时许，此漏洞已修复。
-  
-
-### 2020-3-2 服务器设定小改
+### 2020-03-02 服务器设定小改
 - 性能问题基本缓解之后，2日晚间，游戏规则 `maxEntityCramming` 恢复为 24。
 - 1日，经济系统变更：
   + PTT 签到奖励大幅上调。先前，`daily` `eco-up` `week` `activator`奖励上限分别为 45、1024、10240、25600，此次分别上调至 450、2048、15000、80000 节操。
@@ -43,228 +543,38 @@
   + **商店木牌**数目上限从 12 下调至 8。
 - 主世界边境范围由圆形（半径 15360 格）改为**正方形**（边长 30720 格）。
 
-### 2020-2-15【Minecraft 1.15.2】
-服务器主体升级至1.15.2版本。
-- 为`inf`维度恢复了「死亡箱」，以保护掉落物。
-- RPGItem插件增加了新特性。
-- 修复了InfernalMobs插件的若干bug。
-- **樱华町**属地扩大了超过三倍。原属地范围为(-84, 12)至(547, 481)。
+### 2020-02-15 Minecraft 1.15.2
+服务器主体升级至 1.15.2 版本。
+- 为 `inf` 维度恢复了「死亡箱」，以保护掉落物。
+- RPGItem 插件增加了新特性。
+- 修复了 InfiniteInfernal 插件的若干 bug。
+- **樱华町**属地扩大了超过三倍。原属地范围为 (-84, 12) 至 (547, 481)。
 - 像素画粘贴服务开放。
 
-### 2020-1【黑化世界回归 & 若干小更新】
-- 据多人报告，NyaaUtils附魔命令不再可用。
+### 2020-01 黑化世界回归 & 若干小更新
+- 据多人报告，NyaaUtils 附魔命令不再可用。
   + 所有（在旧版产生的）超原版附魔书几乎丧失价值。
-  + 基于`Inf`世界附魔台的附魔功能，取代了该指令。若干新型附魔书（称“魔法书”或「贤者の石」）出现，可在新装备上使用。
-- 31日，自定义昵称命令`/nick`开始支持非ASCII字符。~~颜文字使用可能~~
-- 29日，出于性能考虑，游戏规则 `maxEntityCramming` （生物可挤压数）[调降至 4](https://github.com/NyaaCat/wiki/commit/1e7cbac5ad5000c8ff5821156a8ec6f13584ea72)。
+  + 基于 `Inf` 世界附魔台的附魔功能，取代了该指令。若干新型附魔书（称“魔法书”或「贤者の石」）出现，可在新装备上使用。
+- 31 日，自定义昵称命令 `/nick` 开始支持非 ASCII 字符。~~颜文字使用可能~~
+- 29 日，出于性能考虑，游戏规则 `maxEntityCramming` （生物可挤压数）[调降至 4](https://github.com/NyaaCat/wiki/commit/1e7cbac5ad5000c8ff5821156a8ec6f13584ea72)。
   + 高密度养殖场受影响较大。
   + 有玩家报告，兔圈及蜜蜂机器受损严重。因为一些特性，兔子、蜜蜂偏好于挤在同一角落/花，5 只以上的种群很快出现死亡。
 
 
-- 27日，子服务器 *Infinite Infernal* `inf`关闭。
-- 取而代之的是，隶属于主服务器的同名**维度**`inf`。
+- 27 日，子服务器 *Infinite Infernal* `inf` 关闭。
+- 取而代之的是，隶属于主服务器的同名**维度** `inf`。
   + 当日，地形（含月耀城）被原样迁移，其它内容暂缺。有玩家在此发现了上古时期（2016年重建前）的阿库亚斯地图。
   + 次日，**黑化怪物回归**。
-  + 此后数日，各种武器装备陆续复刻。自此，“去RPG化”进程终止。
-  + 2月6日，作为*Infinite Infernal* 2.2版本[正式开放](https://bbs.nyaa.cat/d/1521-infinite-infernal-v2-2 "Infinite Infernal v2.2 开放公告")。
+  + 此后数日，各种武器装备陆续复刻。自此，“去 RPG 化”进程终止。
+  + 2 月 6 日，作为*Infinite Infernal* 2.2 版本[正式开放](https://bbs.nyaa.cat/d/1521-infinite-infernal-v2-2 "Infinite Infernal v2.2 开放公告")。
   + 因其带来的海量“肝黑”需求，加上版本升级的debuff，服务器压力甚巨。~~据粗略观察，当十人以上同时“肝黑”，主世界生物（除怪物外）行动会大幅放缓；甚至每秒随机刻数（TPS）会被削减。~~
-
-## 2019
-### 2019-12-30【Minecraft 1.15.1】
-服务器主体升级至1.15.1版本（子服务器`inf`除外）。  
-**EpicWorld、二号下界、二号末地维度被重置**，其余不变。
-
-### 2019-12-14【主世界“喵历”重置】
-- 当日22时11分，有玩家上线时发现，欢迎语所示“喵历”为「0001年1月10日」。
-- 玩家[调查](https://bbs.nyaa.cat/d/1507)后，估计在当日约19时，服务器的“游戏刻计时器”溢出、归零，致使“游戏天数”及“喵历”同步归零。
-
-
-- 12月19日约19时，“喵历”再次归零，显示「0001年1月1日」，自此恢复正常纪年。
-
-### 2019-12-1【聚落群组计划】
-- *凤凰卷* [建议各聚落成立居委会](https://bbs.nyaa.cat/d/1497)，以便内部沟通、接纳新进居民。
-- 当日有13个聚落响应倡议，成立居委会12个。
-
-### 2019-12 【随机宝箱】
-- 现在「万华街」多处角落放置了固定宝箱，每隔一定时间刷新战利品。已知其内容选自普通**地牢**的战利品表。
-- 现在 EpicWorld 维度的海边藏宝箱，**清空后**隔一定时间刷新战利品。
-
-### 2019-10-？【幻翼临时禁制令 & 细微变动】
-- 通过设置于大神殿某处的命令方块，一切幻翼生成后即消灭。
-  + 据悉，其为*凤凰卷* 投放；后者还透露，其未指定作用范围，且所在区块强制加载——也即**整个主世界**皆实时禁止幻翼存在。*凤凰卷* 指出，“等装备的NPC普及了就关掉了”。
-  + 当月27日，命令方块被撤下。幻翼不再被限制。
-- 现在「樱华神树」树冠下，会随机落下粉色粒子。
-- 现在 `brainhole` 维度永久和平了。
-
-### 2019-10【十月更新】
-*相关[公告帖](https://bbs.nyaa.cat/d/1478-2019)*  
-<span style="background-color: #333333; color: #333333;">一句话：不忘初心，返璞归真</span>
-
-- **[游戏规则](wiki/rules.md)更新**
-  + **建筑要求**简化：
-    * 公共交通用建筑，须有底座、桥墩（对于桥梁）、照明、防护等合理结构。
-    * 建筑（公共交通以外）的硬性要求，仅保留「禁止“擎天柱”、“豆腐块”存在」「禁止建设测试用建筑」。  
-    其余要求将仅作建议/指导。
-    * 自动化生产装置本身不限制，但应选择于「科技特区」、地下或专用建筑内部署。
-    * 如聚落内有建筑规划及风格要求，应遵守。
-- **城市规划更新**
-  + 取消「主城」概念，各主城（除樱华町外）更名：
-    * 东方主城 → **阿库亚斯**
-    * 南方主城 → **浪花町**
-    * 西方主城 → **柚子小镇**
-    * 北方主城 → **北风城**
-    * *（※各地相关标识将在随后陆续跟进修改。）*
-    * *（注意： 将出生点设为以上主城者，需重新选择出生点，否则`/spawn`将回到位于`(0,0)`的密闭洞穴中。）*
-  + [樱华町](nyaa/realms/sakurakacho.md)扩建，设置自建区。
-  + 建立村落（景观区）不再要求常驻人口及规划内容。新村落在[城镇村落列表](nyaa/realms.md)登记后，即视为有效。
-- **经济规则调整**
-  + ~变更出生点~ 村落间传送命令`/town select` 之费用，降至 45 节操/次。
-- **维度功能调整**
-  + 脑洞世界 `brainhole` 保留，作为像素画专用托管区域。其余内容转移至子服务器 `miu`（美羽实验室）。
-- **内容调整**
-  + RPGItem即将适配新版：
-    * 大部分原基于RPGItem的**道具、武器装备**不再恢复功能。
-    * 然而，部分**实用道具**仍将~恢复~ 重制。
-    * 后续将添加新型道具（如玩具、工具）。相应地，会新设一些NPC，以便兑换。
-    * 22日起[征集新型道具之灵感](https://bbs.nyaa.cat/d/1482)。
-
-### 2019-9-20【Minecraft 1.14.4】
-- 服务器主体升级至1.14.4版本。以下服务器除外：
-  + 因相关插件有待跟进，子服务器`inf`暂时停留于1.13.2版本。
-  + 子服务器`Freebuild`关闭。
-- 主服务器三个非原版维度`EpicWorld` `EpicNether` `EpicEnd`同步重置。
-- CE（CustomEnchantment）插件移除，相关附魔不再有效。
-- RPGItem、Capcat（即传送牌）与NPC暂停服务。其中：
-  + RPGItem相关插件仍在为升级准备；<sup>*（10月26日起已恢复）*</sup>
-  + **移除所有NPC。**  
-10月中旬起，可重新放置商店NPC；其余NPC陆续添加。
-  + 因原告示牌升级为“橡木告示牌”，Capcat需跟进更新相关逻辑。<sup>*（9月21日修复）*</sup>
-- 高级玩家（Advanced）用户组取消，并入玩家（Player）组。
-  + 原Advanced权限下放，如木牌商店空间额度。详见《经济设定》。
-- HEH（HamsterEcoHelper）增加若干短命令，以便交易顺畅。
-- 主服务器备份方式完全改为「增量备份」。  
-因此，玩家不会再收到以下定时备份的消息：
-
-```
-[公告] Time now 2019/09/20 Sun 18:00 CST
-[公告] 正在备份服务器喵~可能会有点卡喵~
-
-[公告] 备份成功了喵~撒花~
-```
-
-### 2019-8-17 → 8-30【the *REAL* Aquatic Update】
-- 主世界水域“升级”至1.13+版本风格。包括水底方块、冰山、生态群系等。
-- 期间，建立一个与主世界使用相同种子的镜像世界；对比两个世界相应水域的海拔Y=63及以下方块，在主世界是水方块、水流的，替换为镜像世界对应的方块。
-- 以下为令人惊喜的成果：
-  + 东城海星城正下方、小鱼塘以西海面，猹湾以南海面，皆发现珊瑚群。
-  + QQ村港湾以西，海面上冒出大量冰山。为已知距离樱华町最近的冰山群。
-- 过程中出现了一些副作用：
-  + 由于未采取“重生成”方式，除水以外的一切皆予保留。你可以在新海床下发现曾经遍布旧海底的砂砾层。
-  + 海床下依靠水工作的人工装置（守卫者渔场、自动化瓜菜生产装置等）遭到大面积破坏。水几乎为岩石取代，鱼类、瓜果等无法输送。
-  + 世界多地出现怪异海滩、沉船，其在Y=63以上本应出现的新方块被削去。
-  + 所有新出现的海泡菜未自动“开灯”，需人工干预。
-
-### 2019-07-17【NyaaWiki架构变更】
-- 由 BookStackApp 迁移至 [Docsify](https://docsify.js.org)。
-  + 因无任何迁移工具支持，所有文档均须以 Markdown 语言重写；
-  + 现知识库基于[GitHub仓库](https://github.com/NyaaCat/wiki)；
-  + 因此，编辑者需掌握基本的 Git 操作与 Markdown 语法。详见 [参与贡献Wiki](wiki/contribute.md)。
-- 原BookStackApp知识库于7月21日下线，数据不再保留。
-
-### 2019-05【服务器设定变更】
-- [经济规则调整](https://bbs.nyaa.cat/d/1410-20190514)
-  + **死亡惩罚取消。**但保留“死亡掉落”。
-  + Capcat 传送木牌最低传送费用降低为 1 节。
-  + 改变出生点 `/town select` 费用降低为 450 节每次。
-  + 前后缀更改费用降低为 42 节
-  + `/sethome` 的费用范围变为 45 - 450，每 100 格降低 20，其他不变。
-  + `/home` 基础费用变为 9，单位 100 格增量改为 1，其他不变。
-  + `/back` 基础费用变为 9，单位 100 格增量改为 1，其他不变。
-- **维度调整**
-  + 新增 资源末地`EpicEnd`；
-  + 新增 资源下界`EpicNether`；
-  + 同步恢复使用跨维度传送命令`/mvtp` `/goto`。
-- NyaaUtils 经验存储瓶[更新](https://bbs.nyaa.cat/d/1408-20190514-nyaautils)
-  + 现在有存储经验的*附魔之瓶* 被砸碎后，所存经验会分散到经验球中。
-- 服务器登录地址[变更](https://bbs.nyaa.cat/d/1409)。
-
-### 2019-3-4【出生点更新】
-- 现在 `/espawn` 目的地重归大神殿。
-
-### 2019-3-2【白名单申请方式变更】
-- 即日起开放申请，不再要求是否有邀请人。
-  + 不过，有邀请人可**增加**些许的过审可能性。
-- 开放“迎新群”供申请人初步了解社区情况，并接受审视。
-- 移除对Google+个人主页的要求（因其即将停止服务）。
-
-### 2019-2-1【用户组改革】
-- 现仅保留三个用户组（含“管理员”）。以下用户组撤销，不再保留相应权限：
-  + 建筑师（Builder）
-  + 创造组（Creator）
-  + 城主（Moderator）
-- 原隶属于上述用户组的玩家，按活跃度<sup>*（需要验证）*</sup>划归“高级玩家”或“玩家”组。
-
-- - -
-## 2018
-
-### 2018-12-29 【服务器群组更新】
-- 开放“无尽地狱”服务器`inf`。<sup>[（公告帖）](https://bbs.nyaa.cat/d/1373-infinity-infernal-bug)</sup>
-  + 设定为轻 RPG 的 PVE 游戏服务器。承接原EpicWorld“黑化世界”功能，独立开服，装备与怪物强度将趋于合理。
-  + 同时，主服务器启动“去RPG化”进程。
-- 开放“自由创造服务器”`freebuild`。<sup>[（公告帖）](https://bbs.nyaa.cat/d/1375-freebuild)</sup>
-  + 其目的是“共建世界”，因此并不同于地皮世界等专用建筑区，而是允许全体玩家释放想象力、发挥建筑特长的世界建筑工程。
-  + 每期会有一个抽象主题，用于抛砖引玉，为玩家建筑提供各方面的思路方向。
-
-### 2018-11-8 【Minecraft 1.13.2】
-服务器已更新 1.13.2，目前带来如下变更：
-
-- EpicWorld 已重置 - 使用 1.13 新地形生成
-- 黑化和血月插件暂时移除 - 等待功能更新或移动到网内其他服务器使用
-- 服务端由 Spigot 更改为 PaperSpigot
-- 移除电梯插件，请使用游戏内机制建设电梯
-- 暂时移除 Shopkeeper 插件，NPC 不会生成。待喵窝的 NPC 插件开发完成后，新的 NPC 会出现
-- 网内其他服务器陆续升级中，可能需要很长一段时间完善/修复等。欢迎有兴趣帮忙的玩家报名。
-- 部分插件仍没有完全兼容新版，因此可能会出错或不正常工作（例如飞行塔）。
-
-玩家发现的一些变化<sup>[（讨论帖）](https://bbs.nyaa.cat/d/1362-minecraft-1-13-2-aquatic-update)</sup>：
-
-- 依赖命令方块（需触碰按钮、踏板或陷阱箱）传送的装置全部失效。已知系新版不支持从命令方块执行由插件提供的命令所致。
-- NyaaUtils现支持徒手点亮、熄灭红石灯，该权限下放至所有玩家。
-- 部分树叶在旧版属性`decayable = true`时，若附近无树干，进入新版必消失。
-- 大量RPGItem功能失效或异变。*后续基本修复大部分*
-- 加载区块时，若有“无皮肤头颅”，会导致客户端卡顿。
-- 新进玩家的`/espawn`目的地，不会随选择出生点而改变——即总是回到“新手密闭洞穴”中。<sup>（直至2019年3月4日）</sup>
-
-### 2018-7-7 【黑化设定更新，掉落分布更新】
-*相关[公告帖](https://bbs.nyaa.cat/d/1298-20180707)*
-
-- 黑化怪血量大幅提升；伤害和部分技能则被削弱。
-- 掉落分布完全重写。现在掉落物价值基本和黑化怪等级匹配。
-- 现在作战需要更多技巧，乐趣更多。
-
-### 2018-03-22 Wiki 系统更新
-
-- NyaaWiki 由 DokuWiki 迁移到了 BookStackApp
-  + 新版 Wiki 已经不再需要了解 Wiki 或者 markdown 语法，而是改为了所见即所得（WYSIWYG）编辑器。
-  + 虽然这并不符合喵窝的极客风格，但是在一定程度上方便了更多非 IT 技术指向的玩家来协助编辑更美观、易用的知识库。
-  + 旧的 Wiki 暂时保留，但将在 90 天后被彻底删除。
-
-### 2018-3-10 [东方主城](/nyaa/realms/aquas)开放
-
-* 东方主城现提供大量成品房屋（斯卡菠萝集市的商住两用房屋）购买，同时还有 2 个自建区（洛戈尔恩平原和小鱼塘）用于免费占用建造居民房屋。希望入居、前往经商等玩家现在可以准备前往
-* 之前在东城有住所、因东城重建而搬离的玩家现在可以免费领取一套住房或商铺，或继续选择自建区建造房屋。这些玩家移居东城的 spawn 点迁移费用可联系管理组补偿
-
-### 2018-02 若干更新
-
-*   PlayTimeTracker 的 AFK 判定调整，只要没有玩家操作则不再计时，即使玩家在挂机池等设施中
-*   移除了玩家切换世界 `/mv tp [世界名称]` 的权限。玩家需要通过 `/spawn`、`/home` 等其它命令和世界内传送木牌、传送门前往其它世界
-*   开设了喵窝历史服务器 （`/server archive`）
-*   ~砍树以后，所砍树木的树叶不再掉落。玩家必须用剑自行清理~
 
 - - -
 
 ## 更早年份的更新
 
+* [2019](changelogs/2019.md) :sparkles:
+* [2018](changelogs/2018.md) :sweat_drops:
 * [2017](changelogs/2017.md) :rainbow:
 * [2016](changelogs/2016.md) :cat:
 * [2015](changelogs/2015.md) :heart:

@@ -1,0 +1,78 @@
+/*
+Stylesheet customized for NyaaWiki
+made by tcdw
+
+Styles below are NOT affiliated to Docsify itself.
+For details & discussion, visit https://bbs.nyaa.cat/d/1724
+*/
+
+.nw-spoiler {
+    background-color: #111;
+    color: #111;
+    transition: color 0.25s;
+}
+
+.nw-spoiler:hover {
+    color: #eee;
+}
+
+.nw-spoiler a, .nw-spoiler a.hover {
+    color: #111;
+    transition: color 0.25s;
+}
+
+.nw-spoiler:hover a, .nw-spoiler:hover a:hover {
+    color: #eee;
+}
+
+.nw-explain {
+    cursor: help; 
+    border-bottom: 1px rgba(0, 0, 0, 0.4) dashed;
+}
+
+@media screen and (prefers-color-scheme: dark) {
+    .nw-explain {
+        border-bottom: 1px rgba(255, 255, 255, 0.3) dashed;
+    }
+}
+
+.nw-important {
+    color: red;
+    font-weight: bold;
+}
+
+.nw-inf-t2 {
+    color: #2196f3;
+}
+
+.nw-inf-t3 {
+    color: #43a047;
+}
+
+.nw-inf-t4 {
+    color: #9c27b0;
+}
+
+.nw-inf-t5 {
+    color: #f9a825;
+}
+
+.nw-inf-t5p {
+    color: #f44336;
+}
+
+.nw-inf-red {
+    color: #f44336;
+}
+
+.nw-inf-green {
+    color: #43a047;
+}
+
+.nw-inf-blue {
+    color: #2196f3;
+}
+
+.nw-inf-gold {
+    color: #f9a825;
+}
