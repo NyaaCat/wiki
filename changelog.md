@@ -21,6 +21,7 @@
 
 - 流浪商人的刷新变得相当罕见。*（存疑）*
 - 在二号末地（EpicEnd）**每次**击败末影龙，有几率生成新的龙蛋。
+- 当前可用 `/goto [玩家ID]` 命令传送到指定玩家的身边。
 
 ### 2021-10-20 模组服务器第八期开放
 
@@ -71,8 +72,6 @@
 
 <details>
 <summary>:notebook_with_decorative_cover: 九月存档所需模组（点击展开）</summary>
-
-!> **必需品**：Forge 框架
 
 ?> :newspaper: **内容类**
 
@@ -167,8 +166,6 @@
 <details>
 <summary>:notebook_with_decorative_cover: 八月存档的模组列表（点击展开）</summary>
 
-!> **必需品**：Forge 框架
-
 ?> :newspaper: **内容类**
 
 | 模组 | 功能简述 | 前置模组 |
@@ -236,8 +233,6 @@
 <details>
 <summary>:notebook_with_decorative_cover: 七月存档 V1 模组（点击展开）</summary>
 
-!> **必需品**：Forge 框架
-
 ?> :newspaper: **内容类**
 
 | 模组 | 功能简述 | 前置模组 |
@@ -282,8 +277,6 @@
 <details>
 <summary>:notebook_with_decorative_cover: 七月存档 V2 模组（点击展开）</summary>
 
-!> **必需品**：Forge 框架
-
 ?> :newspaper: **内容类**
 
 | 模组 | 功能简述 | 前置模组 |
@@ -312,8 +305,6 @@
 
 <details>
 <summary>:notebook_with_decorative_cover: 六月存档的模组列表（点击展开）</summary>
-
-!> **必需品**：Forge 框架
 
 ?> :newspaper: **内容类**
 
