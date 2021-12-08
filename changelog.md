@@ -10,6 +10,43 @@
 
 ## 2021
 
+### 2021-12-5 模组服务器第九期开放
+
+服务器 `hana` 例行更新，本次引入了基于 *Minecraft* 1.18 的若干模组。
+
+<details>
+<summary>:notebook_with_decorative_cover: 本期所需模组（点击展开）</summary>
+
+?> :newspaper: **内容类**
+
+| 模组 | 功能简述 | 前置模组 |
+|-|-|-|
+| [Additional Additions](https://www.curseforge.com/minecraft/mc-mods/additional-additions) | 更多实用设备和物品等 | |
+| [Better Nether](https://www.curseforge.com/minecraft/mc-mods/betternether) | 更丰富的下界环境 | [BCLib](https://www.curseforge.com/minecraft/mc-mods/bclib) |
+| Cammie's [Combat Tweaks](https://www.curseforge.com/minecraft/mc-mods/cammies-combat-tweaks) | 改进战斗机制 ||
+| [Croptopia](https://www.curseforge.com/minecraft/mc-mods/croptopia-fabric) | 添加多种农作物、食物等 | |
+| [Enhanced Celestials](https://www.curseforge.com/minecraft/mc-mods/forbidden-arcanus) | 引入血月、收获之月、幸运蓝月等事件 ||
+| [Modern Industrialization](https://www.curseforge.com/minecraft/mc-mods/modern-industrialization) | 引入现代工业设备 | [Indium](https://www.curseforge.com/minecraft/mc-mods/indium)<br /><sup>*为兼容Sodium所需</sup> |
+| [Origins](https://www.curseforge.com/minecraft/mc-mods/origins) | 选择自己的“起源” | |
+| _子模块：[Origins: Classes](https://www.curseforge.com/minecraft/mc-mods/biome-bundle-o-plenty)_ | 可为“起源”添加更多属性 | Origins |
+| [Terralith](https://www.curseforge.com/minecraft/mc-mods/terralith) 2.0 | 更多生物群系、地形与洞穴结构 | |
+| [Unforgiving Void](https://www.curseforge.com/minecraft/mc-mods/unforgiving-void) | 保护你免受虚空威胁 | [Fireplace Lib](https://www.curseforge.com/minecraft/mc-mods/fireplace-lib) |
+
+?> :wrench: **辅助类** 
+
+
+| 模组 | 功能简述 | 前置模组 |
+|-|-|-|
+| Fabric API | | |
+| [Inventory HUD+](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge) | 监视自身背包、状态效果、装具等 | |
+| [Iris](https://irisshaders.net/) | 替代Optifine | [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) |
+| [Lamb Dynamic Lights](https://www.curseforge.com/minecraft/mc-mods/neat) | 加入动态光源 | [ModMenu](https://www.curseforge.com/minecraft/mc-mods/modmenu) |
+| [Roughly Enough Items](https://irisshaders.net/) | 物品管理器 | [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-forge) |
+| [Skin Layers 3D](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d) | 玩家皮肤立体化 | |
+| Xaero's [Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) | 小地图 | Xaero's [World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map) |
+
+</details>
+
 ### 2021-10-23 Minecraft 1.17.1
 
 - 喵窝主服务器**升级至 1.17.1 版本。**

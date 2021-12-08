@@ -148,11 +148,11 @@ Need For Speed 服务器为喵窝的竞速游戏服务器。玩家可以在这�
 所以看到好玩的 Mod 可以推荐到[论坛](https://bbs.nyaa.cat/d/1824-mod)啦。
 
 - **服务器代号：**`hana`
-- **游戏版本：**`1.12.2`
-- 当前存档：第八期 `2021.10`
+- **游戏版本：**`1.18`
+- 当前存档：第九期 `2021.12`
 - P.S. 主群已分享整合包，可被 MultiMC 导入。
 
-!> 游玩 Mod 服务器，需将 Java 版本回退到 8。  
+!> 游玩 Mod 服务器，需将 Java 版本更新至 17。  
 内存应至少分配 4GB。
 
 <details>
@@ -162,33 +162,29 @@ Need For Speed 服务器为喵窝的竞速游戏服务器。玩家可以在这�
 
 | 模组 | 功能简述 | 前置模组 |
 |-|-|-|
-| [Actually Additions](https://minecraft.curseforge.com/projects/actually-additions) | 更多实用设备和物品等 | |
-| [Baubles](https://www.curseforge.com/minecraft/mc-mods/baubles) | 可佩戴饰品 ||
-| [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty) | 更多生物群系 ||
-| [Dark Utilities](https://www.curseforge.com/minecraft/mc-mods/dark-utilities) | 添加矢量板、投食器、戒指等实用工具 | [Bookshelf](https://www.curseforge.com/minecraft/mc-mods/bookshelf) |
-| [Forbidden & Arcanus](https://www.curseforge.com/minecraft/mc-mods/forbidden-arcanus) | 开启黑魔法之旅！ ||
-| [Ice & Fire](https://ice-and-fire-mod.fandom.com/wiki/Ice_and_Fire_Mod_Wiki) | “冰与火之歌”，加入各种神秘生物 | [LLibrary](https://www.curseforge.com/minecraft/mc-mods/llibrary) |
-| [Nature's Aura](https://www.curseforge.com/minecraft/mc-mods/natures-aura) | 收集“自然灵气”，滋养天地万物 | [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli) ||
-| [Open Terrain Generator](https://www.curseforge.com/minecraft/mc-mods/open-terrain-generator) (OTG)  | 完全可定制的世界生成器 ||
-| _子模块：[Biomes Bundle O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biome-bundle-o-plenty)_ | 更多生物群系与自然结构 | OTG |
-| [Quark](https://quark.vazkii.net) | “夸克”，添加各种小功能（总计百余种），务必点链接翻阅详情！ | [AutoReg Lib](https://www.curseforge.com/minecraft/mc-mods/autoreglib) |
-| [Quark Oddities](https://www.curseforge.com/minecraft/mc-mods/quark-oddities) | 启用某些隐藏功能，如行囊、磁铁、管道等 | Quark |
-| [Thaumcraft 6](https://minecraftguides.net/tc6/) | **“神秘时代”**，用魔法产生奇迹 ||
-| _子模块：[Thaumic Tinkerer](https://www.curseforge.com/minecraft/mc-mods/thaumic-augmentation)_ | 增添若干魔法道具和研究项目 | Thaumcraft |
-| [Tinkers' Construct](https://ftbwiki.org/Tinkers%27_Construct) | **“匠魂”**，冶炼系统以及更多工具、矿物等   | [Mantle](https://www.curseforge.com/minecraft/mc-mods/mantle)|
-| _子模块：[Construct's Armory](https://www.curseforge.com/minecraft/mc-mods/constructs-armory)_ | 增添若干盔甲 | “匠魂” |
-| _子模块：[Tinkers' Tool Leveling](https://www.curseforge.com/minecraft/mc-mods/tinkers-tool-leveling)_ | 支持“匠魂”工具的升级 | “匠魂” |
-| [Yo-yos](https://www.curseforge.com/minecraft/mc-mods/yoyos) | 加入悠悠球 | |
+| [Additional Additions](https://www.curseforge.com/minecraft/mc-mods/additional-additions) | 更多实用设备和物品等 | |
+| [Better Nether](https://www.curseforge.com/minecraft/mc-mods/betternether) | 更丰富的下界环境 | [BCLib](https://www.curseforge.com/minecraft/mc-mods/bclib) |
+| Cammie's [Combat Tweaks](https://www.curseforge.com/minecraft/mc-mods/cammies-combat-tweaks) | 改进战斗机制 ||
+| [Croptopia](https://www.curseforge.com/minecraft/mc-mods/croptopia-fabric) | 添加多种农作物、食物等 | |
+| [Enhanced Celestials](https://www.curseforge.com/minecraft/mc-mods/forbidden-arcanus) | 引入血月、收获之月、幸运蓝月等事件 ||
+| [Modern Industrialization](https://www.curseforge.com/minecraft/mc-mods/modern-industrialization) | 引入现代工业设备 | [Indium](https://www.curseforge.com/minecraft/mc-mods/indium)<br /><sup>*为兼容Sodium所需</sup> |
+| [Origins](https://www.curseforge.com/minecraft/mc-mods/origins) | 选择自己的“起源” | |
+| _子模块：[Origins: Classes](https://www.curseforge.com/minecraft/mc-mods/biome-bundle-o-plenty)_ | 可为“起源”添加更多属性 | Origins |
+| [Terralith](https://www.curseforge.com/minecraft/mc-mods/terralith) 2.0 | 更多生物群系、地形与洞穴结构 | |
+| [Unforgiving Void](https://www.curseforge.com/minecraft/mc-mods/unforgiving-void) | 保护你免受虚空威胁 | [Fireplace Lib](https://www.curseforge.com/minecraft/mc-mods/fireplace-lib) |
 
 ?> :wrench: **辅助类** 
 
 
 | 模组 | 功能简述 | 前置模组 |
 |-|-|-|
-| [Akashic Tome](https://www.curseforge.com/minecraft/mc-mods/akashic-tome) | 制作“阿卡什宝典”，存放各种手册 | AutoReg Lib |
-| [Dynamic Surroundings](https://dynamicsurroundings.readthedocs.io/en/master/) | 更真实丰富的自然环境与生存体验 | [OreLib](https://www.curseforge.com/minecraft/mc-mods/orelib)|
-| [Neat](https://www.curseforge.com/minecraft/mc-mods/neat) | 生命条显示 ||
-| [Optifine](https://www.optifine.net) ||
+| Fabric API | | |
+| [Inventory HUD+](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge) | 监视自身背包、状态效果、装具等 | |
+| [Iris](https://irisshaders.net/) | 替代Optifine | [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) |
+| [Lamb Dynamic Lights](https://www.curseforge.com/minecraft/mc-mods/neat) | 加入动态光源 | [ModMenu](https://www.curseforge.com/minecraft/mc-mods/modmenu) |
+| [Roughly Enough Items](https://irisshaders.net/) | 物品管理器 | [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-forge) |
+| [Skin Layers 3D](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d) | 玩家皮肤立体化 | |
+| Xaero's [Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) | 小地图 | Xaero's [World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map) |
 
 </details>
 
