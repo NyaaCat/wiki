@@ -66,7 +66,7 @@ HEH 相关命令具有多种拼写方法，功能完全一致。以访问天喵�
 | `/hchest lotto` | 设置抽奖奖池存储箱 | |
 | `/hframe set` | 设置展示框商店 | |
 | `/hframe remove` | 移除展示框商店 | |
-| `/hsearch [关键词] [选项:值]` | 搜索世界木牌商店中的商品 | 高级选项暂不可用 |
+| `/hsearch [关键词] [选项:值]` | 搜索世界木牌商店中的商品 | 高级选项暂不可用<br />不提供定位，请参照《[万华街导览图](https://docs.qq.com/sheet/DV2tHUkFJSkxoQkFp?tab=BB08J2)》 |
 | `/hsearch page [页码]` | 搜索结果页翻页 | |
 | `/hsellto [玩家 ID] [总价]` | 向指定玩家出售手中物品，并发送账单 | |
 | `/hpay [账单 ID]` | 支付指定账单，并收货 | 收费 |

@@ -134,6 +134,10 @@ HamsterEcoHelper（仓鼠症插件）是为促进服务器经济流动的辅助�
 
 若搜索结果多于 1 页，可使用 `/hsearch page [页码]` 命令翻页。
 
+!> 如何定位到卖家的店铺位置？
+
+搜索结果会显示卖家 ID，但不提供定位。请参照民间制作的《[万华街店铺导览图](https://docs.qq.com/sheet/DV2tHUkFJSkxoQkFp?tab=BB08J2)》找到卖家店铺。
+
 --------
 
 ## 征购
