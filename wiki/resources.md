@@ -1,13 +1,11 @@
 # 推荐资源
 
 这里是推荐使用的各类游戏资源。  
-请注意这里仅仅是推荐，我们的服务器对客户端**除了版本对应，没有任何要求**。相比于原版，使用这些整合包/资源包可以让您获得更好的游戏体验。但如果您有自己的选择，请尽管按照自己的喜好来游戏。
+请注意这里仅仅是推荐，我们的服务器对客户端**除了版本对应外，没有任何要求**。相比于原版，使用这些整合包/资源包可以让您获得更好的游戏体验。但如果您有自己的选择，请尽管按照自己的喜好来游戏。
 
 这里提供的版本可能不是最新的，最新版本请参考各资源官网。
 
 如果因为一些原因需要适用于旧版的资源，戳 [这里](wiki/resources/old)。
-
-!> **你的 MC 客户端一进喵窝就闪退？**兴许你需要一些[帮助](wiki/faq#server-resourcepack-dl)。
 
 <details>
 <summary>:information_source: 关于官方启动器使用 MultiMC 整合包</summary>
@@ -15,9 +13,9 @@
 如果你正在、且只能使用官方启动器，你必须先安装 Fabric 框架，并配合 **Fabric API** 模组使用（以上整合包均已包含 Fabric API）。
 
 1. 首先[下载](https://fabricmc.net/use/) Fabric 框架安装器，之后双击安装。
-1. 从整合包内的`.minecraft/mods`目录，提取所有文件，放到官方启动器所存储的<span class="nw-explain" title="对于Windows，其位于 C:\Users\<用户名>\AppData\Roaming\.minecraft">游戏目录</span>下的`mods`目录中。
-1. 整合包可能禁用了 Optifine / OptiFabric，如需使用它们，重命名将`.disabled`后缀删除。如果需要 [Sodium](#sodium)，请勿重命名。
-1. （可选）从 [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabric-api) 下载最新版 Fabric API。
+2. 从整合包内的 `.minecraft/mods` 目录，提取所有文件，放到官方启动器所存储的<span class="nw-explain" title="对于Windows，其位于 C:\Users\<用户名>\AppData\Roaming\.minecraft">游戏目录</span>下的 `mods` 目录中。
+3. 整合包可能禁用了 Optifine / OptiFabric，如需使用它们，重命名将 `.disabled` 后缀删除。如果需要 [Sodium](#sodium)，请勿重命名。
+4. （可选）从 [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabric-api) 下载最新版 Fabric API。
   <!-- - **注意：1.15.2 整合包**内的 Fabric API 不要更新。 -->
 1. 开始游戏吧:-P
 
@@ -83,13 +81,13 @@ sodium-fabric-mc1.17.1-0.3.0+build.5<br>
 
 ——以下整合包可登录模组服务器 `hana`。
 
-### NyaaCat: Flourish Moment 2021.10
+### NyaaCat: Flourish Moment 2021.12
 
 由*凤凰卷 `phoenixlzx`* 整理，可被 MultiMC 直接导入。  
 模组列表请见[子服务器列表](wiki/server-network#hana)页面。
 
-- [原帖](https://bbs.craft.moe/d/2691-nyaacat-flourish-moment-202110)
-- [派兹网盘下载](https://dl.blingwang.cn/MMC%201.12.2%20NyaaCat-%20Flourish%20Moment%202021.10.zip)——大陆地区可粘贴至 MultiMC
+- [原帖](https://bbs.craft.moe/d/2729-nyaacat-flourish-moment-202112)
+- [派兹网盘下载](https://dl.blingwang.cn/NyaaCat_FlourishMoment.2021.12.mods.zip)——大陆地区可粘贴至 MultiMC
 
 --------
 
@@ -101,7 +99,7 @@ sodium-fabric-mc1.17.1-0.3.0+build.5<br>
 
 如果在挂机时中途掉线，借助这个 Mod，就可以自动重连了。
 
-支持 1.14.4 / 1.15.\* / 1.16.\* / 1.17.\* 。
+支持 1.14.4 / 1.15.\* / 1.16.\* / 1.17.\* / 1.18.\* 。
 
 [论坛讨论 / 下载](https://bbs.craft.moe/d/1316)
 
@@ -118,12 +116,12 @@ sodium-fabric-mc1.17.1-0.3.0+build.5<br>
 ### [Fabric] Sodium :id=sodium
 
 可以大幅提升游玩时的**帧率**，尤其在核芯（集成）显卡、入门独显平台上。<br />
-当前仅支持 1.16.1 及以上版本，以及 Fabric 框架。
+当前支持 1.16.1 及以上版本，仅支持 Fabric 框架。
 
 - MCBBS 上的[介绍](https://www.mcbbs.net/thread-1079347-1-1.html)
 - [GitHub 下载地址](https://github.com/jellysquid3/sodium-fabric/releases)
 - [CurseForge 下载地址](https://www.curseforge.com/minecraft/mc-mods/sodium/files)
-  + [Gitee镜像](https://gitee.com/mirrors_trending/sodium-fabric/tree/1.16.x%2Fstable/)，可供自行编译（选择 `1.16.x/Stable` 分支，编译后即适配 1.16.4）
+  + [Gitee镜像](https://gitee.com/mirrors_trending/sodium-fabric/tree/1.17.x%2Fdev/)，可供自行编译（选择 `1.17.x/dev` 分支，编译后即适配 1.17.1）
 
 !> **Optifine 和 Sodium 不兼容。** 使用本插件前，须先移除/禁用 OptiFabric 和 Optifine，反之亦然。  
 除提高性能以外，其并不能取代 Optifine（包括光影、披风、资源包的额外特性等）。
@@ -138,7 +136,7 @@ VoxelMap 的替代品，其优势是：
 1. 可生成 PNG 格式的世界地图
 1. 拥有更多选项
 
-当前支持最高至 1.17.1 的游戏版本，仅支持 Forge 框架。
+当前支持最高至 1.18.1 的游戏版本，仅支持 Forge 框架。
 
 - [CurseForge 下载地址](https://minecraft.curseforge.com/projects/journeymap/files)
 - MCBBS 上的[介绍](https://www.mcbbs.net/forum.php?mod=viewthread&tid=612917)
