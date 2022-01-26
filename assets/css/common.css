@@ -41,38 +41,22 @@ For details & discussion, visit https://bbs.nyaa.cat/d/1724
     font-weight: bold;
 }
 
-.nw-inf-t2 {
+.nw-inf-t2, .nw-inf-blue, .nw-mark-blue {
     color: #2196f3;
 }
 
-.nw-inf-t3 {
+.nw-inf-t3, .nw-inf-green, .nw-mark-green {
     color: #43a047;
 }
 
-.nw-inf-t4 {
+.nw-inf-t4, .nw-mark-purple {
     color: #9c27b0;
 }
 
-.nw-inf-t5 {
+.nw-inf-t5, .nw-inf-gold, .nw-mark-yellow {
     color: #f9a825;
 }
 
-.nw-inf-t5p {
+.nw-inf-t5p, .nw-inf-red, .nw-mark-red {
     color: #f44336;
-}
-
-.nw-inf-red {
-    color: #f44336;
-}
-
-.nw-inf-green {
-    color: #43a047;
-}
-
-.nw-inf-blue {
-    color: #2196f3;
-}
-
-.nw-inf-gold {
-    color: #f9a825;
 }

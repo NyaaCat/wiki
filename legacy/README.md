@@ -22,6 +22,7 @@
 - [月常环游任务](legacy/nyaa/monthly-course)
 - [用户组](legacy/nyaa/permission-groups)
 - 《[飞行之书](space/book-of-elytra)》
+- <span class="nw-spoiler">《[有关『风茗岛』的传说](space/legend-of-fengming-island)》</span>
 
 
 - [名胜古迹](legacy/nyaa/historical-sites)

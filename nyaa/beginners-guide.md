@@ -289,7 +289,8 @@ _**『肝爆！开店！』**_
 
 这一切在喵窝都能随时满足。详细了解 [喵窝服务器列表](wiki/server-network.md) ，以及**侧边栏底端的游戏列表**。
 
-<span class="nw-spoiler">还有喵窝真正的另一面——[休闲广场](misc/playground)</span>
+<span class="nw-spoiler">还有喵窝真正的另一面——[休闲广场](misc/playground)</span>  
+<span class="nw-spoiler">以及你有所不知的，另一个版本的[新人指南](space/legend-of-fengming-island)</span>
 
 ### 回馈社区
 

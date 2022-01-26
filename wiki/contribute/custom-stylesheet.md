@@ -27,16 +27,13 @@ Wiki 同时也对 Docsify 提供的“深色主题”样式进行了深度改良
 
 | 样式 | 在源文件中编辑 | 效果 |
 | - | - | - |
-| 【Inf】T1 怪物或武器 | `<span class="nw-inf-t1">T1</span>` | <span class="nw-inf-t1">T1</span> |
-| 【Inf】T2 怪物或武器 | `<span class="nw-inf-t2">T2</span>` | <span class="nw-inf-t2">T2</span> |
-| 【Inf】T3 怪物或武器 | `<span class="nw-inf-t3">T3</span>` | <span class="nw-inf-t3">T3</span> |
-| 【Inf】T4 怪物或武器 | `<span class="nw-inf-t4">T4</span>` | <span class="nw-inf-t4">T4</span> |
-| 【Inf】T5 怪物或武器 | `<span class="nw-inf-t5">T5</span>` | <span class="nw-inf-t5">T5</span> |
-| 【Inf】T5+ 怪物或武器 | `<span class="nw-inf-t5p">T5+</span>` | <span class="nw-inf-t5p">T5+</span> |
-| 【Inf】近战武器 | `<span class="nw-inf-red">近战武器</span>` | <span class="nw-inf-red">近战武器</span> |
-| 【Inf】远程武器 | `<span class="nw-inf-green">远程武器</span>` | <span class="nw-inf-green">远程武器</span> |
-| 【Inf】魔法武器 | `<span class="nw-inf-blue">魔法武器</span>` | <span class="nw-inf-blue">魔法武器</span> |
-| 【Inf】召唤武器 | `<span class="nw-inf-gold">召唤武器</span>` | <span class="nw-inf-gold">召唤武器</span> |
+| 红色标注；<br />旧式近战武器 | `<span class="nw-mark-red">红色标注</span>` | <span class="nw-mark-red">红色标注</span> |
+| 绿色标注；<br />旧式远程武器 | `<span class="nw-mark-green">绿色标注</span>` | <span class="nw-mark-green">绿色标注</span> |
+| 蓝色标注；<br />旧式魔法武器 | `<span class="nw-mark-blue">蓝色标注</span>` | <span class="nw-mark-blue">蓝色标注</span> |
+| 黄色标注；<br />旧式召唤武器 | `<span class="nw-mark-yellow">黄色标注</span>` | <span class="nw-mark-yellow">黄色标注</span> |
+| 紫色标注；<br />原 T4 怪物及武器 | `<span class="nw-mark-purple">紫色标注</span>` | <span class="nw-mark-purple">紫色标注</span> |
+
+> 注：<span class="nw-important">重要的文本</span>是<span class="nw-mark-red">红色标注</span>的加粗型。
 
 ## 深色主题样式
 
