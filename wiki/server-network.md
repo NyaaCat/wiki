@@ -25,7 +25,6 @@
 * 世界列表
   + `world` - 主世界
   + `brainhole` - 脑洞（像素画）世界
-  + `inf` - 战斗/黑化世界
   + `EpicWorld` - 资源世界
   + 详情请参阅 [维度列表](nyaa/worlds.md)。
 * [规则详见](wiki/rules.md)
@@ -148,9 +147,9 @@ Need For Speed 服务器为喵窝的竞速游戏服务器。玩家可以在这�
 所以看到好玩的 Mod 可以推荐到[论坛](https://bbs.nyaa.cat/d/1824-mod)啦。
 
 - **服务器代号：**`hana`
-- **游戏版本：**`1.18`
-- 当前存档：第九期 `2021.12`
-- P.S. 主群已分享整合包，可被 MultiMC 导入。
+- **游戏版本：**`1.18.1`
+- 当前存档：第十期 `2022.2`
+- P.S. 主群已分享所需模组的合集，需自行导入。
 
 !> 游玩 Mod 服务器，需将 Java 版本更新至 17。  
 内存应至少分配 4GB。
@@ -162,29 +161,32 @@ Need For Speed 服务器为喵窝的竞速游戏服务器。玩家可以在这�
 
 | 模组 | 功能简述 | 前置模组 |
 |-|-|-|
-| [Additional Additions](https://www.curseforge.com/minecraft/mc-mods/additional-additions) | 更多实用设备和物品等 | |
-| [Better Nether](https://www.curseforge.com/minecraft/mc-mods/betternether) | 更丰富的下界环境 | [BCLib](https://www.curseforge.com/minecraft/mc-mods/bclib) |
-| Cammie's [Combat Tweaks](https://www.curseforge.com/minecraft/mc-mods/cammies-combat-tweaks) | 改进战斗机制 ||
-| [Croptopia](https://www.curseforge.com/minecraft/mc-mods/croptopia-fabric) | 添加多种农作物、食物等 | |
-| [Enhanced Celestials](https://www.curseforge.com/minecraft/mc-mods/forbidden-arcanus) | 引入血月、收获之月、幸运蓝月等事件 ||
+| [Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2) | **“应用能源”**，更科学、智能地存储与运输物品，以及更多 ||
+| _插件：[Wireless Terminals](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2-wireless-terminals)_ | 整合并添加无线合成、流体、接口终端等多种终端机 | “应用能源” |
+| [Botania](https://botaniamod.net/) | **“植物魔法”**，蕴含大自然魔力的科技模组 ||
+| [Hookshot](https://www.curseforge.com/minecraft/mc-mods/cammies-combat-tweaks) | 加入一种立体机动装置 ||
 | [Modern Industrialization](https://www.curseforge.com/minecraft/mc-mods/modern-industrialization) | 引入现代工业设备 | [Indium](https://www.curseforge.com/minecraft/mc-mods/indium)<br /><sup>*为兼容Sodium所需</sup> |
-| [Origins](https://www.curseforge.com/minecraft/mc-mods/origins) | 选择自己的“起源” | |
-| _子模块：[Origins: Classes](https://www.curseforge.com/minecraft/mc-mods/biome-bundle-o-plenty)_ | 可为“起源”添加更多属性 | Origins |
-| [Terralith](https://www.curseforge.com/minecraft/mc-mods/terralith) 2.0 | 更多生物群系、地形与洞穴结构 | |
-| [Unforgiving Void](https://www.curseforge.com/minecraft/mc-mods/unforgiving-void) | 保护你免受虚空威胁 | [Fireplace Lib](https://www.curseforge.com/minecraft/mc-mods/fireplace-lib) |
+| [Promenade](https://www.curseforge.com/minecraft/mc-mods/promenade) | 加入鸭子及全新生物群系 | [Dawn](https://www.curseforge.com/minecraft/mc-mods/dawn) |
+| [Sky Villages](https://www.curseforge.com/minecraft/mc-mods/sky-villages-fabric) | 随机生成浮空村庄 | [Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config)<br />[Cloth API](https://www.curseforge.com/minecraft/mc-mods/cloth-api) |
+| The [Wild Mod](https://www.curseforge.com/minecraft/mc-mods/the-wild-mod)| 抢先体验 *Minecraft* 1.19 新内容——青蛙和循声守卫等 | |
+| [Trinkets](https://www.curseforge.com/minecraft/mc-mods/the-wild-mod)| 可佩戴饰品 | |
+| [When Dungeons Arise](https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise-fabric) | 随机生成神庙、宫殿、要塞、城镇，以及帆船、飞船、树屋等结构 | |
 
-?> :wrench: **辅助类** 
+
+?> :wrench: **辅助类**  
+此分类下的模组可独立于 Mod 服务器使用。
 
 
 | 模组 | 功能简述 | 前置模组 |
 |-|-|-|
 | Fabric API | | |
-| [Inventory HUD+](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge) | 监视自身背包、状态效果、装具等 | |
 | [Iris](https://irisshaders.net/) | 替代Optifine | [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) |
+| [Krypton](https://www.curseforge.com/minecraft/mc-mods/krypton) | 优化客户端的网络性能 | |
 | [Lamb Dynamic Lights](https://www.curseforge.com/minecraft/mc-mods/neat) | 加入动态光源 | [ModMenu](https://www.curseforge.com/minecraft/mc-mods/modmenu) |
+| [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) | 优化客户端性能 ||
+| [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor) | 优化光照性能 | |
 | [Roughly Enough Items](https://irisshaders.net/) | 物品管理器 | [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-forge) |
-| [Skin Layers 3D](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d) | 玩家皮肤立体化 | |
-| Xaero's [Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) | 小地图 | Xaero's [World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map) |
+
 
 </details>
 
@@ -196,8 +198,8 @@ Need For Speed 服务器为喵窝的竞速游戏服务器。玩家可以在这�
 此世界仅供测试，不设备份，不保证长期在线，请勿建造重大工程。
 
 - **服务器代号：**`pre`
-- **当前版本：**`1.18`
-  + 以 `1.18` 客户端登录后，执行命令 `/server pre` 开始体验。
+- **当前版本：**`1.18.1`
+  + 以 `1.18.1` 客户端登录后，执行命令 `/server pre` 开始体验。
 
 ### Hub Server
 

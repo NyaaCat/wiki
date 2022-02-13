@@ -6,7 +6,50 @@
 
 !> 除管理组公告、服务器重大变动之外，其余内容会逐步迁移至[民间事件](changelogs/unofficial-events.md)。
 
+## 2022
 
+### 2022-2-5 模组服务器第十期开放
+
+服务器 `hana` 例行更新，仍基于 *Minecraft* 1.18.1；相比上期仅保留了“现代工业”模组。
+
+<details>
+<summary>:notebook_with_decorative_cover: 本期所需模组（点击展开）</summary>
+
+?> :newspaper: **内容类**
+
+| 模组 | 功能简述 | 前置模组 |
+|-|-|-|
+| [Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2) | **“应用能源”**，更科学、智能地存储与运输物品，以及更多 ||
+| _插件：[Wireless Terminals](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2-wireless-terminals)_ | 整合并添加无线合成、流体、接口终端等多种终端机 | “应用能源” |
+| [Botania](https://botaniamod.net/) | **“植物魔法”**，蕴含大自然魔力的科技模组 ||
+| [Hookshot](https://www.curseforge.com/minecraft/mc-mods/cammies-combat-tweaks) | 加入一种立体机动装置 ||
+| [Modern Industrialization](https://www.curseforge.com/minecraft/mc-mods/modern-industrialization) | 引入现代工业设备 | [Indium](https://www.curseforge.com/minecraft/mc-mods/indium)<br /><sup>*为兼容Sodium所需</sup> |
+| [Promenade](https://www.curseforge.com/minecraft/mc-mods/promenade) | 加入鸭子及全新生物群系 | [Dawn](https://www.curseforge.com/minecraft/mc-mods/dawn) |
+| [Sky Villages](https://www.curseforge.com/minecraft/mc-mods/sky-villages-fabric) | 随机生成浮空村庄 | [Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config)<br />[Cloth API](https://www.curseforge.com/minecraft/mc-mods/cloth-api) |
+| The [Wild Mod](https://www.curseforge.com/minecraft/mc-mods/the-wild-mod)| 抢先体验 *Minecraft* 1.19 新内容——青蛙和循声守卫等 | |
+| [Trinkets](https://www.curseforge.com/minecraft/mc-mods/the-wild-mod)| 可佩戴饰品 | |
+| [When Dungeons Arise](https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise-fabric) | 随机生成神庙、宫殿、要塞、城镇，以及帆船、飞船、树屋等结构 | |
+
+
+?> :wrench: **辅助类**  
+此分类下的模组可独立于 Mod 服务器使用。
+
+
+| 模组 | 功能简述 | 前置模组 |
+|-|-|-|
+| Fabric API | | |
+| [Iris](https://irisshaders.net/) | 替代Optifine | [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) |
+| [Krypton](https://www.curseforge.com/minecraft/mc-mods/krypton) | 优化客户端的网络性能 | |
+| [Lamb Dynamic Lights](https://www.curseforge.com/minecraft/mc-mods/neat) | 加入动态光源 | [ModMenu](https://www.curseforge.com/minecraft/mc-mods/modmenu) |
+| [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) | 优化客户端性能 ||
+| [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor) | 优化光照性能 | |
+| [Roughly Enough Items](https://irisshaders.net/) | 物品管理器 | [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-forge) |
+
+
+</details>
+
+
+--------
 
 ## 2021
 
