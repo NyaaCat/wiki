@@ -68,6 +68,4 @@
 交通网复线自 `(0,130,0)` 向四个方向拓展，伸出四条主干道。
 截至目前（{docsify-updated}），该交通网已接入的地点如下：
 
-| 主干道 | 主世界已接入的位置 |
-|-|-|
-| 东线 | 樱华町（出征楼） |
+![下界交通网](https://bersella-ai.cc/nyan/map-nether-bedrock-traffic.png)
