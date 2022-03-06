@@ -13,6 +13,7 @@
   - [玩家权限](wiki/permission)
   - [城镇村落总览](nyaa/realms.md)
   - [经济规则](nyaa/economic.md)
+  - [资源获取:公用生产设施](nyaa/public-facilities.md)
   - [维度列表](nyaa/worlds.md)
   - [服务器列表 :four_leaf_clover:](wiki/server-network.md)
   - [创造激励计划](nyaa/creation.md)
