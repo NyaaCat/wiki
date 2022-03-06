@@ -6,9 +6,124 @@
 
 !> 除管理组公告、服务器重大变动之外，其余内容会逐步迁移至[民间事件](changelogs/unofficial-events.md)。
 
+## 2022
 
+### 2022-2-20 Minecraft 1.18.1 升级测试
+
+- 主服务器已升级至 *Minecraft* 1.18.1。
+  + 主世界地下已拓展；外围人迹罕至之区块被重置。
+- 三个资源维度被再次重置。
+- 目前除基本经济功能、PTT、牌子锁之外，所有辅助插件（命令）及NPC下线。
+- 经济系统被完全重置：
+  + 存量货币作废；
+  + 货币单位改用“卷”；
+  + `/pay` 现在收取 1% 服务费，微调了命令格式，（重新）加入了两步验证；
+  + `/home` 等指令暂时免费了。
+  + PTT 在线奖励仅保留了 `daily`（日常档），额度缩至 45 卷。
+  + 牌子商店、天喵商城与银行关闭。
+
+
+- 所有玩家的 `/spawn` 目的地重置为大神殿。
+- 现在终末之池传送门又不能回家了（改向大神殿）。
+
+!> **注意！插件仍在测试，不排除后续各项设定仍有调整的可能。**
+
+### 2022-2-19 小变动
+
+- 移除了玩家使用 `/goto [玩家 ID]` 传送的权限。  
+  作为替代，现可通过 `/tpa [玩家 ID]` 与 `/tpahere [玩家 ID]` 发出传送要约；经对方同意即可传送。
+- 大神殿被打扫干净了。
+- 清理了多余的月饼礼盒。
+- 增设一名 NPC 以便获取空气光源。
+
+### 2022-2-5 模组服务器第十期开放
+
+服务器 `hana` 例行更新，仍基于 *Minecraft* 1.18.1；相比上期仅保留了“现代工业”模组。
+
+<details>
+<summary>:notebook_with_decorative_cover: 本期所需模组（点击展开）</summary>
+
+?> :newspaper: **内容类**
+
+| 模组 | 功能简述 | 前置模组 |
+|-|-|-|
+| [Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2) | **“应用能源”**，更科学、智能地存储与运输物品，以及更多 ||
+| _插件：[Wireless Terminals](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2-wireless-terminals)_ | 整合并添加无线合成、流体、接口终端等多种终端机 | “应用能源” |
+| [Botania](https://botaniamod.net/) | **“植物魔法”**，蕴含大自然魔力的科技模组 ||
+| [Hookshot](https://www.curseforge.com/minecraft/mc-mods/cammies-combat-tweaks) | 加入一种立体机动装置 ||
+| [Modern Industrialization](https://www.curseforge.com/minecraft/mc-mods/modern-industrialization) | 引入现代工业设备 | [Indium](https://www.curseforge.com/minecraft/mc-mods/indium)<br /><sup>*为兼容Sodium所需</sup> |
+| [Promenade](https://www.curseforge.com/minecraft/mc-mods/promenade) | 加入鸭子及全新生物群系 | [Dawn](https://www.curseforge.com/minecraft/mc-mods/dawn) |
+| [Sky Villages](https://www.curseforge.com/minecraft/mc-mods/sky-villages-fabric) | 随机生成浮空村庄 | [Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config)<br />[Cloth API](https://www.curseforge.com/minecraft/mc-mods/cloth-api) |
+| The [Wild Mod](https://www.curseforge.com/minecraft/mc-mods/the-wild-mod)| 抢先体验 *Minecraft* 1.19 新内容——青蛙和循声守卫等 | |
+| [Trinkets](https://www.curseforge.com/minecraft/mc-mods/the-wild-mod)| 可佩戴饰品 | |
+| [When Dungeons Arise](https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise-fabric) | 随机生成神庙、宫殿、要塞、城镇，以及帆船、飞船、树屋等结构 | |
+
+
+?> :wrench: **辅助类**  
+此分类下的模组可独立于 Mod 服务器使用。
+
+
+| 模组 | 功能简述 | 前置模组 |
+|-|-|-|
+| Fabric API | | |
+| [Iris](https://irisshaders.net/) | 替代Optifine | [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) |
+| [Krypton](https://www.curseforge.com/minecraft/mc-mods/krypton) | 优化客户端的网络性能 | |
+| [Lamb Dynamic Lights](https://www.curseforge.com/minecraft/mc-mods/neat) | 加入动态光源 | [ModMenu](https://www.curseforge.com/minecraft/mc-mods/modmenu) |
+| [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) | 优化客户端性能 ||
+| [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor) | 优化光照性能 | |
+| [Roughly Enough Items](https://irisshaders.net/) | 物品管理器 | [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-forge) |
+
+
+</details>
+
+
+--------
 
 ## 2021
+
+### 2021-12-10 临时停服
+
+受 Log4J 2 的严重漏洞（[CVE-2021-44228](https://github.com/advisories/GHSA-jfh8-c2jp-5v3q)）影响，喵窝临时关闭。  
+管理员同时建议所有玩家，近期不要登录任何服务器，直至客户端获得安全更新。
+
+至 12 日，确认安全后，喵窝重新开放。
+
+### 2021-12-5 模组服务器第九期开放
+
+服务器 `hana` 例行更新，本次引入了基于 *Minecraft* 1.18 的若干模组。
+
+<details>
+<summary>:notebook_with_decorative_cover: 本期所需模组（点击展开）</summary>
+
+?> :newspaper: **内容类**
+
+| 模组 | 功能简述 | 前置模组 |
+|-|-|-|
+| [Additional Additions](https://www.curseforge.com/minecraft/mc-mods/additional-additions) | 更多实用设备和物品等 | |
+| [Better Nether](https://www.curseforge.com/minecraft/mc-mods/betternether) | 更丰富的下界环境 | [BCLib](https://www.curseforge.com/minecraft/mc-mods/bclib) |
+| Cammie's [Combat Tweaks](https://www.curseforge.com/minecraft/mc-mods/cammies-combat-tweaks) | 改进战斗机制 ||
+| [Croptopia](https://www.curseforge.com/minecraft/mc-mods/croptopia-fabric) | 添加多种农作物、食物等 | |
+| [Enhanced Celestials](https://www.curseforge.com/minecraft/mc-mods/forbidden-arcanus) | 引入血月、收获之月、幸运蓝月等事件 ||
+| [Modern Industrialization](https://www.curseforge.com/minecraft/mc-mods/modern-industrialization) | 引入现代工业设备 | [Indium](https://www.curseforge.com/minecraft/mc-mods/indium)<br /><sup>*为兼容Sodium所需</sup> |
+| [Origins](https://www.curseforge.com/minecraft/mc-mods/origins) | 选择自己的“起源” | |
+| _子模块：[Origins: Classes](https://www.curseforge.com/minecraft/mc-mods/biome-bundle-o-plenty)_ | 可为“起源”添加更多属性 | Origins |
+| [Terralith](https://www.curseforge.com/minecraft/mc-mods/terralith) 2.0 | 更多生物群系、地形与洞穴结构 | |
+| [Unforgiving Void](https://www.curseforge.com/minecraft/mc-mods/unforgiving-void) | 保护你免受虚空威胁 | [Fireplace Lib](https://www.curseforge.com/minecraft/mc-mods/fireplace-lib) |
+
+?> :wrench: **辅助类** 
+
+
+| 模组 | 功能简述 | 前置模组 |
+|-|-|-|
+| Fabric API | | |
+| [Inventory HUD+](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge) | 监视自身背包、状态效果、装具等 | |
+| [Iris](https://irisshaders.net/) | 替代Optifine | [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) |
+| [Lamb Dynamic Lights](https://www.curseforge.com/minecraft/mc-mods/neat) | 加入动态光源 | [ModMenu](https://www.curseforge.com/minecraft/mc-mods/modmenu) |
+| [Roughly Enough Items](https://irisshaders.net/) | 物品管理器 | [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-forge) |
+| [Skin Layers 3D](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d) | 玩家皮肤立体化 | |
+| Xaero's [Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) | 小地图 | Xaero's [World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map) |
+
+</details>
 
 ### 2021-10-23 Minecraft 1.17.1
 
@@ -21,6 +136,8 @@
 
 - 流浪商人的刷新变得相当罕见。*（存疑）*
 - 在二号末地（EpicEnd）**每次**击败末影龙，有几率生成新的龙蛋。
+- ~~当前可用 `/goto [玩家ID]` 命令传送到指定玩家的身边。~~
+- 现在终末之池传送门又可以直接回家了。
 
 ### 2021-10-20 模组服务器第八期开放
 
@@ -71,8 +188,6 @@
 
 <details>
 <summary>:notebook_with_decorative_cover: 九月存档所需模组（点击展开）</summary>
-
-!> **必需品**：Forge 框架
 
 ?> :newspaper: **内容类**
 
@@ -167,8 +282,6 @@
 <details>
 <summary>:notebook_with_decorative_cover: 八月存档的模组列表（点击展开）</summary>
 
-!> **必需品**：Forge 框架
-
 ?> :newspaper: **内容类**
 
 | 模组 | 功能简述 | 前置模组 |
@@ -236,8 +349,6 @@
 <details>
 <summary>:notebook_with_decorative_cover: 七月存档 V1 模组（点击展开）</summary>
 
-!> **必需品**：Forge 框架
-
 ?> :newspaper: **内容类**
 
 | 模组 | 功能简述 | 前置模组 |
@@ -282,8 +393,6 @@
 <details>
 <summary>:notebook_with_decorative_cover: 七月存档 V2 模组（点击展开）</summary>
 
-!> **必需品**：Forge 框架
-
 ?> :newspaper: **内容类**
 
 | 模组 | 功能简述 | 前置模组 |
@@ -312,8 +421,6 @@
 
 <details>
 <summary>:notebook_with_decorative_cover: 六月存档的模组列表（点击展开）</summary>
-
-!> **必需品**：Forge 框架
 
 ?> :newspaper: **内容类**
 
@@ -465,114 +572,12 @@
 
 </details>
 
---------
-
-## 2020
-### 2020-11-24 Minecraft 1.16.4
-- 喵窝主服务器**升级至 1.16.4 版本。**
-  - PvP、NFS 等子服务器也基本已升级。UBW 等非公开服务器尚未跟进。
-  - 三个非原版维度 `EpicWorld` `EpicNether` `EpicEnd` 再度被重置。
-- **经济系统大改：**
-  - 经济系统基础插件——HamsterEcoHelper 被重构，其中多个命令用法发生改变，并增加了 `/h` 命令以替代 `/heh`（后者仍可用）。[详见](tutorial/plugins/hamsterecohelper)
-  - 现在开设商店木牌需通过命令，而非编辑告示牌。
-  - 新增展示框商店，可以展示店内随机物品，并允许玩家直接购买展示框中的物品（一次购买一个）。
-  - 天喵商城费率上调：
-    + 上架手续费 39 → 100 节
-    + 消费税 8% → 10%
-  - 天喵商城托管费用将进行调整，目前暂时免费。请密切关注管理组的通知。
-  - 现在商店（含天喵商城）不再优先展示最近上架的物品了。
-  - 商店搜索结果中不再显示商店木牌坐标。
-- **部分细节变更**<sup>（待完善）</sup>：
-  - NyaaUtils 展示框保护功能被重写，利用了原版新增的 `Fixed` 属性。
-  - 由于 API 限制，**旧版动力燃料胶囊和经验瓶全部失效。**~~请等待管理组的补偿方案。~~
-  - 聊天新增 **RGB 彩色文本**支持，支持 HTML 表记的颜色代码，如 `&#66ccff好喝的水`。<br>11 月 29 日，支持范围扩展到**自定义前后缀、告示牌及物品重命名**（后两者均需要通过 NyaaUtils 设置才可生效）。
-  - 铁砧不再会清除物品名称中原有的多彩样式。
-  - 暂时离开（AFK）状态提醒由中文变为英文。
-  - ~~告示牌不再支持多彩样式，即便是通过 `/nu se sign` 编辑的。~~<sup>（已修复）</sup>
-
-### 2020-09-04 服务器物理架构更新
-- 喵窝主服务器迁移至一台新机器，采用了 Core i9-9900K CPU。
-- 活动专用服务器 `act` 也迁移至另一新机器，采用了 Core i5-10600K CPU。
-- PvP、NFS、美羽实验室迁移到了主服务器原先的平台上。该平台由 Xeon E3-1280 v5 CPU 驱动。
-- [Terraria 游戏服务器](terraria/server) 迁移到了活动专用服务器原先的，基于 Xeon E3-1271 v3 CPU 的平台上。
-
-### 2020-07-18 权限表更新
-- 喵窝主服务器进行了权限表更新。  
-玩家发现的变化：
-  * 玩家不再拥有默认前缀 `[喵]`。
-  * **所有玩家的自定义前后缀均被重置**，玩家需要重新进行设置。
-  * `/help`、`/mvlist` 命令不再可用。
-  * `/home` 命令支持补全功能了。
-  * 玩家**不再被允许欠债**。
-  * 玩家的私人传送点数量上限 6 → 2。  
-各玩家超过 2 个传送点的原有设置不受影响，但必须在删除多余的传送点以后才能设置新的传送点。
-  * 玩家在天喵商城的占用槽位上限 12 → 6。
-  * 在告示牌编辑界面，不再能使用样式码。<sup>（请以 `/nu se sign` 替代）</sup>
-  * 传送冷却时间提升至 10 秒。
-- 如果发现有任何权限异常的情况，请直接与管理组联系。
-- 领域提示文本得到了大幅简化；玩家村落会直接在副标题显示所有者。
-
-### 2020-03-20 实物货币更新
-- 多种中间兑换物发生了变化：
-  + 「一元大钱」、「喵爪银币」即日起**发行新版**，材质和原型均已更换。「喵爪银币」的**消失诅咒附魔被删除**~~，同时解决了易于被误食的问题~~。
-  + 「一两银票」**被「一元钞票」取代**。
-  + **新增中间兑换物「一张银行卡」**，可用 64 个「一元钞票」兑换。
-  + 喵窝主世界的相关 NPC 也已更新，改为需要上述新版物品。
-  + 可以在 `inf` 世界各大城镇的 ATM **自助更换**旧版物品。
-- 「通用纳米子弹」即日起**发行新版**，可以在月耀城的**火狐弹药库**自助更换旧版物品；已经装在「子弹袋」的子弹则无需处理。
-
-
-### 2020-03-12 服务器资源包上线
-- 通过资源包，道具的材质开始可以定制了。
-  + 目前已知覆盖了其它资源包的 **木制工具、木棍、弓、弩、纸、铁粒、金粒、羽毛、火把等**材质。
-  + <span class="nw-spoiler">于是我们的 MC 世界开始《泰拉瑞亚》化了</span>
-- 所有玩家自此日起，将被要求使用服务器资源包。~~由于某些缘故，下载过程时有卡顿，期间无法控制人物。开发组已给出[临时解决方案](https://bbs.nyaa.cat/d/1574)。~~<sup>（13日中午起，资源包改从大陆节点分发，下载表现趋于正常）</sup>
-- 插件Resource-pack Over The Air [(ROTA)](https://github.com/NyaaCat/ROTA)启用，允许在不退出服务器的情况下更新资源包。
-  + 当服务端资源包更新后，将向玩家推送更新提示。
-  + 玩家可以用 `/rota accept`强制更新；或者`/rota ignore`忽略更新提醒。
-
-
-### 2020-03-02 服务器设定小改
-- 性能问题基本缓解之后，2日晚间，游戏规则 `maxEntityCramming` 恢复为 24。
-- 1日，经济系统变更：
-  + PTT 签到奖励大幅上调。先前，`daily` `eco-up` `week` `activator`奖励上限分别为 45、1024、10240、25600，此次分别上调至 450、2048、15000、80000 节操。
-    * 只有`month`被小幅下调了（20480 → 20000）。
-    * 「樱花辦」物品 `Quest_Serrakura` 不再发放。
-  + 高级装备回收服务开放。
-  + 搬迁服务已被确认下线。
-  + **商店木牌**数目上限从 12 下调至 8。
-- 主世界边境范围由圆形（半径 15360 格）改为**正方形**（边长 30720 格）。
-
-### 2020-02-15 Minecraft 1.15.2
-服务器主体升级至 1.15.2 版本。
-- 为 `inf` 维度恢复了「死亡箱」，以保护掉落物。
-- RPGItem 插件增加了新特性。
-- 修复了 InfiniteInfernal 插件的若干 bug。
-- **樱华町**属地扩大了超过三倍。原属地范围为 (-84, 12) 至 (547, 481)。
-- 像素画粘贴服务开放。
-
-### 2020-01 黑化世界回归 & 若干小更新
-- 据多人报告，NyaaUtils 附魔命令不再可用。
-  + 所有（在旧版产生的）超原版附魔书几乎丧失价值。
-  + 基于 `Inf` 世界附魔台的附魔功能，取代了该指令。若干新型附魔书（称“魔法书”或「贤者の石」）出现，可在新装备上使用。
-- 31 日，自定义昵称命令 `/nick` 开始支持非 ASCII 字符。~~颜文字使用可能~~
-- 29 日，出于性能考虑，游戏规则 `maxEntityCramming` （生物可挤压数）[调降至 4](https://github.com/NyaaCat/wiki/commit/1e7cbac5ad5000c8ff5821156a8ec6f13584ea72)。
-  + 高密度养殖场受影响较大。
-  + 有玩家报告，兔圈及蜜蜂机器受损严重。因为一些特性，兔子、蜜蜂偏好于挤在同一角落/花，5 只以上的种群很快出现死亡。
-
-
-- 27 日，子服务器 *Infinite Infernal* `inf` 关闭。
-- 取而代之的是，隶属于主服务器的同名**维度** `inf`。
-  + 当日，地形（含月耀城）被原样迁移，其它内容暂缺。有玩家在此发现了上古时期（2016年重建前）的阿库亚斯地图。
-  + 次日，**黑化怪物回归**。
-  + 此后数日，各种武器装备陆续复刻。自此，“去 RPG 化”进程终止。
-  + 2 月 6 日，作为*Infinite Infernal* 2.2 版本[正式开放](https://bbs.nyaa.cat/d/1521-infinite-infernal-v2-2 "Infinite Infernal v2.2 开放公告")。
-  + 因其带来的海量“肝黑”需求，加上版本升级的debuff，服务器压力甚巨。~~据粗略观察，当十人以上同时“肝黑”，主世界生物（除怪物外）行动会大幅放缓；甚至每秒随机刻数（TPS）会被削减。~~
 
 - - -
 
 ## 更早年份的更新
 
+* [2020](changelogs/2020.md) :butterfly:
 * [2019](changelogs/2019.md) :sparkles:
 * [2018](changelogs/2018.md) :sweat_drops:
 * [2017](changelogs/2017.md) :rainbow:

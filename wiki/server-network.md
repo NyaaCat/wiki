@@ -25,7 +25,6 @@
 * 世界列表
   + `world` - 主世界
   + `brainhole` - 脑洞（像素画）世界
-  + `inf` - 战斗/黑化世界
   + `EpicWorld` - 资源世界
   + 详情请参阅 [维度列表](nyaa/worlds.md)。
 * [规则详见](wiki/rules.md)
@@ -148,11 +147,11 @@ Need For Speed 服务器为喵窝的竞速游戏服务器。玩家可以在这�
 所以看到好玩的 Mod 可以推荐到[论坛](https://bbs.nyaa.cat/d/1824-mod)啦。
 
 - **服务器代号：**`hana`
-- **游戏版本：**`1.12.2`
-- 当前存档：第八期 `2021.10`
-- P.S. 主群已分享整合包，可被 MultiMC 导入。
+- **游戏版本：**`1.18.1`
+- 当前存档：第十期 `2022.2`
+- P.S. 主群已分享所需模组的合集，需自行导入。
 
-!> 游玩 Mod 服务器，需将 Java 版本回退到 8。  
+!> 游玩 Mod 服务器，需将 Java 版本更新至 17。  
 内存应至少分配 4GB。
 
 <details>
@@ -162,33 +161,32 @@ Need For Speed 服务器为喵窝的竞速游戏服务器。玩家可以在这�
 
 | 模组 | 功能简述 | 前置模组 |
 |-|-|-|
-| [Actually Additions](https://minecraft.curseforge.com/projects/actually-additions) | 更多实用设备和物品等 | |
-| [Baubles](https://www.curseforge.com/minecraft/mc-mods/baubles) | 可佩戴饰品 ||
-| [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty) | 更多生物群系 ||
-| [Dark Utilities](https://www.curseforge.com/minecraft/mc-mods/dark-utilities) | 添加矢量板、投食器、戒指等实用工具 | [Bookshelf](https://www.curseforge.com/minecraft/mc-mods/bookshelf) |
-| [Forbidden & Arcanus](https://www.curseforge.com/minecraft/mc-mods/forbidden-arcanus) | 开启黑魔法之旅！ ||
-| [Ice & Fire](https://ice-and-fire-mod.fandom.com/wiki/Ice_and_Fire_Mod_Wiki) | “冰与火之歌”，加入各种神秘生物 | [LLibrary](https://www.curseforge.com/minecraft/mc-mods/llibrary) |
-| [Nature's Aura](https://www.curseforge.com/minecraft/mc-mods/natures-aura) | 收集“自然灵气”，滋养天地万物 | [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli) ||
-| [Open Terrain Generator](https://www.curseforge.com/minecraft/mc-mods/open-terrain-generator) (OTG)  | 完全可定制的世界生成器 ||
-| _子模块：[Biomes Bundle O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biome-bundle-o-plenty)_ | 更多生物群系与自然结构 | OTG |
-| [Quark](https://quark.vazkii.net) | “夸克”，添加各种小功能（总计百余种），务必点链接翻阅详情！ | [AutoReg Lib](https://www.curseforge.com/minecraft/mc-mods/autoreglib) |
-| [Quark Oddities](https://www.curseforge.com/minecraft/mc-mods/quark-oddities) | 启用某些隐藏功能，如行囊、磁铁、管道等 | Quark |
-| [Thaumcraft 6](https://minecraftguides.net/tc6/) | **“神秘时代”**，用魔法产生奇迹 ||
-| _子模块：[Thaumic Tinkerer](https://www.curseforge.com/minecraft/mc-mods/thaumic-augmentation)_ | 增添若干魔法道具和研究项目 | Thaumcraft |
-| [Tinkers' Construct](https://ftbwiki.org/Tinkers%27_Construct) | **“匠魂”**，冶炼系统以及更多工具、矿物等   | [Mantle](https://www.curseforge.com/minecraft/mc-mods/mantle)|
-| _子模块：[Construct's Armory](https://www.curseforge.com/minecraft/mc-mods/constructs-armory)_ | 增添若干盔甲 | “匠魂” |
-| _子模块：[Tinkers' Tool Leveling](https://www.curseforge.com/minecraft/mc-mods/tinkers-tool-leveling)_ | 支持“匠魂”工具的升级 | “匠魂” |
-| [Yo-yos](https://www.curseforge.com/minecraft/mc-mods/yoyos) | 加入悠悠球 | |
+| [Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2) | **“应用能源”**，更科学、智能地存储与运输物品，以及更多 ||
+| _插件：[Wireless Terminals](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2-wireless-terminals)_ | 整合并添加无线合成、流体、接口终端等多种终端机 | “应用能源” |
+| [Botania](https://botaniamod.net/) | **“植物魔法”**，蕴含大自然魔力的科技模组 ||
+| [Hookshot](https://www.curseforge.com/minecraft/mc-mods/cammies-combat-tweaks) | 加入一种立体机动装置 ||
+| [Modern Industrialization](https://www.curseforge.com/minecraft/mc-mods/modern-industrialization) | 引入现代工业设备 | [Indium](https://www.curseforge.com/minecraft/mc-mods/indium)<br /><sup>*为兼容Sodium所需</sup> |
+| [Promenade](https://www.curseforge.com/minecraft/mc-mods/promenade) | 加入鸭子及全新生物群系 | [Dawn](https://www.curseforge.com/minecraft/mc-mods/dawn) |
+| [Sky Villages](https://www.curseforge.com/minecraft/mc-mods/sky-villages-fabric) | 随机生成浮空村庄 | [Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config)<br />[Cloth API](https://www.curseforge.com/minecraft/mc-mods/cloth-api) |
+| The [Wild Mod](https://www.curseforge.com/minecraft/mc-mods/the-wild-mod)| 抢先体验 *Minecraft* 1.19 新内容——青蛙和循声守卫等 | |
+| [Trinkets](https://www.curseforge.com/minecraft/mc-mods/the-wild-mod)| 可佩戴饰品 | |
+| [When Dungeons Arise](https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise-fabric) | 随机生成神庙、宫殿、要塞、城镇，以及帆船、飞船、树屋等结构 | |
 
-?> :wrench: **辅助类** 
+
+?> :wrench: **辅助类**  
+此分类下的模组可独立于 Mod 服务器使用。
 
 
 | 模组 | 功能简述 | 前置模组 |
 |-|-|-|
-| [Akashic Tome](https://www.curseforge.com/minecraft/mc-mods/akashic-tome) | 制作“阿卡什宝典”，存放各种手册 | AutoReg Lib |
-| [Dynamic Surroundings](https://dynamicsurroundings.readthedocs.io/en/master/) | 更真实丰富的自然环境与生存体验 | [OreLib](https://www.curseforge.com/minecraft/mc-mods/orelib)|
-| [Neat](https://www.curseforge.com/minecraft/mc-mods/neat) | 生命条显示 ||
-| [Optifine](https://www.optifine.net) ||
+| Fabric API | | |
+| [Iris](https://irisshaders.net/) | 替代Optifine | [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) |
+| [Krypton](https://www.curseforge.com/minecraft/mc-mods/krypton) | 优化客户端的网络性能 | |
+| [Lamb Dynamic Lights](https://www.curseforge.com/minecraft/mc-mods/neat) | 加入动态光源 | [ModMenu](https://www.curseforge.com/minecraft/mc-mods/modmenu) |
+| [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) | 优化客户端性能 ||
+| [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor) | 优化光照性能 | |
+| [Roughly Enough Items](https://irisshaders.net/) | 物品管理器 | [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-forge) |
+
 
 </details>
 
@@ -199,9 +197,9 @@ Need For Speed 服务器为喵窝的竞速游戏服务器。玩家可以在这�
 当 *Minecraft* Java 正式版发布了重大更新，因插件跟进、性能评估等因素，主服务器并不会第一时间升级。此时，可能会开放独立服务器，以供玩家**抢先体验**原版新特性。  
 此世界仅供测试，不设备份，不保证长期在线，请勿建造重大工程。
 
-目前已关闭。
-
 - **服务器代号：**`pre`
+- **当前版本：**`1.18.1`
+  + 以 `1.18.1` 客户端登录后，执行命令 `/server pre` 开始体验。
 
 ### Hub Server
 

@@ -73,4 +73,8 @@
 
 ![下界交通网](https://bersella-ai.cc/nyan/map-nether-traffic.png)
 
+## 下界基岩之上交通网线路图 :id=nether-bedrock
+
+![下界交通网](https://bersella-ai.cc/nyan/map-nether-bedrock-traffic.png)
+
 !> 更多搭乘指南请见[此页](tutorial/map-navi/railway-nether "下界铁路搭乘指南")。
