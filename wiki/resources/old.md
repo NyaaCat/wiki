@@ -6,6 +6,56 @@
 
 ## 整合包（客户端）
 
+### Minecraft 1.17.1
+
+?> :heart: 【2021.10.24更新】**Minecraft 1.17.1 简单整合**
+
+由 *BlingWang* 整理，提供包含启动器的独立整合包，亦提供可直接被 MultiMC 导入的 Mod 包。  
+[原帖与下载地址](https://bbs.craft.moe/d/2553-minecraft-1171)
+
+<details>
+<summary>默认包含模组</summary>
+
+[模组列表](https://global.cdn.blingwang.cn/2021/10/24/c755a9675995b.png)
+
+</details>
+
+?> :blue_heart: 【2021.8.22更新】**Fabric 简单整合**
+
+由 *Atom202SLL* 整理，可直接被 MultiMC 导入。  
+[原帖与下载地址](https://bbs.craft.moe/d/2079-multimcminecraft-117-fabric/)
+
+<details>
+<summary>Mod 一览</summary>
+
+appleskin-fabric-mc1.17-2.1.3<br>
+architectury-2.3.24-fabric<br>
+cloth-config-5.0.38-fabric<br>
+easiervillagertrading-1.17.1-fabric0.36.1-1.5.4<br>
+fabric-api-0.37.2+1.17<br>
+fabricmod_VoxelMap-1.10.15_for_1.17.0<br>
+fast-chest-1.2+1.17<br>
+InventoryHUD-fabric-[1.17.x]-3.4.0<br>
+InventoryProfilesNext-fabric-1.17-0.8.5<br>
+litematica-fabric-1.17.1-0.0.0-dev.20210713.103711<br>
+malilib-fabric-1.17.1-0.10.0-dev.24<br>
+minihud-fabric-1.17.1-0.19.0-dev.20210707.150016<br>
+modmenu-2.0.4<br>
+optifabric-1.11.20<br>
+preview_OptiFine_1.17.1_HD_U_G9_pre34<br>
+replaymod-1.17.1-2.6.1<br>
+RoughlyEnoughItems-6.0.264-alpha-fabric<br>
+shulkerboxtooltip-3.0.1+1.17<br>
+tweakeroo-fabric-1.17.1-0.10.0-dev.20210710.155746<br>
+worldedit-fabric-mc1.17-7.2.6-beta-01<br>
+wthit-fabric-3.8.1<br>
+<br>
+未启用Mod<br>
+iris-mc1.17-1.1.1<br>
+sodium-fabric-mc1.17.1-0.3.0+build.5<br>
+
+</details>
+
 ### Minecraft 1.16.5
 
 ?> :heart: 【2021.02.14更新】Minecraft 1.16.4 & 1.16.5 简单整合
