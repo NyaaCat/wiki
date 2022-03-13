@@ -29,7 +29,7 @@
 
 ### Minecraft 1.18.2
 
-?> :heart: 【2022.3.8更新】**Minecraft 1.18.2 简单整合**
+?> :heart: 【2022.3.14更新】**Minecraft 1.18.2 简单整合**
 
 由 *BlingWang* 整理，提供可被 MultiMC 导入的 Mod 包。  
 [原帖与下载地址](https://bbs.craft.moe/d/2735-minecraft-118x)
@@ -37,7 +37,7 @@
 <details>
 <summary>默认包含模组及资源包</summary>
 
-[模组列表](https://global.cdn.blingwang.cn/2022/03/08/811324727a696.png)
+[模组列表](https://global.cdn.blingwang.cn/2022/03/14/6101253b41c65.png)
 [资源包列表](https://global.cdn.blingwang.cn/2022/03/08/56b12d625b9e9.png)
 
 </details>
@@ -46,13 +46,13 @@
 
 ——以下整合包可登录模组服务器 `hana`。
 
-### NyaaCat: Flourish Moment 2021.12
+### NyaaCat: Flourish Moment 2022.2
 
-由*凤凰卷 `phoenixlzx`* 整理，可被 MultiMC 直接导入。  
+由*凤凰卷 `phoenixlzx`* 整理，仅包含 Mods 本体。  
 模组列表请见[子服务器列表](wiki/server-network#hana)页面。
 
-- [原帖](https://bbs.craft.moe/d/2729-nyaacat-flourish-moment-202112)
-- [派兹网盘下载](https://dl.blingwang.cn/NyaaCat_FlourishMoment.2021.12.mods.zip)——大陆地区可粘贴至 MultiMC
+- [原帖](https://bbs.craft.moe/d/2764-nyaacat-flourish-moment-20222)
+- [派兹网盘下载](https://dl.blingwang.cn/NyaaCat_FlourishMoment.2022.2.mods.zip)
 
 --------
 
