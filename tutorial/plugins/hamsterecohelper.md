@@ -1,5 +1,7 @@
 # HamsterEcoHelper 插件指南
 
+!> :construction: **HamsterEcoHelper 已终止服务；本页将择期归档，内容仅供参考。**
+
 HamsterEcoHelper（仓鼠症插件）是为促进服务器经济流动的辅助性插件。
 
 源码、文档及反馈 [戳这里](https://github.com/NyaaCat/HamsterEcoHelper)。
