@@ -13,8 +13,7 @@
 * **所有插件的非管理组功能**，详见《[常用命令速查表](tutorial/commands-help.md)》《[插件指南](tutorial/plugins.md)》。
 * 部分原版允许的命令，包括：
   - 发送一条关于自己的消息 `/me [text]`
-* 插件提供的经济功能，详见《[经济规则](nyaa/economic.md)》。其中：
-  - [银行](nyaa/economic/nyaabank.md)（NyaaBank）插件大部分权限，仅限银行家可用。
+* 插件提供的经济功能，详见《[经济规则](nyaa/economic.md)》。
 * 放置/破坏/交互方块。
   - 在主世界特定的被保护区域，无法放置或破坏。
 * EssentialsX 插件：
@@ -22,7 +21,7 @@
   - 传送回上一位置，传送回家
 （上述功能的冷却时间为 10 秒。）
   - 传送到默认出生点
-  - 在聊天及大部分命令中使用彩色文本及样式。[详见](tutorial/plugins/nyaautils#format)
+  - 在聊天及大部分命令中使用彩色文本及样式。[详见](tutorial/plugins/ukit#format)
   - 与其它玩家私聊、发送邮件
 * 锁箱 (Lockette Pro) 插件：
   - 非水下环境，对箱子、门等放置木牌以上锁

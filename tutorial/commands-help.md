@@ -6,9 +6,9 @@
 - 本页大多数命令与“毛玉线圈物语”服务器共通；  
   **以下含 :smile_cat: 标记的，为喵窝特有。**
 - 如无特殊说明，如果需要手持物品，均为**主手持有**。
-- 部分命令收费或征税，备注为 **“收费”**。收费明细请参考 [经济规则](nyaa/economic.md)和[HEH 插件指南](tutorial/plugins/hamsterecohelper)<sup>（经济类）</sup>。
+- 部分命令收费或征税，备注为 **“收费”**。收费明细请参考 [经济规则](nyaa/economic.md)。
 - 对于某些命名类命令，如果名称中含有空格，需要使用反引号 ``` ` ``` 将全部内容包围。  
-示例：```/nu suffix `&f宝 生 永 梦` ```
+示例：```/u chat suffix set `&f门 田 man` ```
 
 ## 传送类
 
@@ -16,7 +16,7 @@
 | - | - | - |
 | `/espawn`:smile_cat: | 返回喵窝默认出生点 | 当前为大神殿 |
 | `/spawn`<br>`/town tp`:smile_cat: | 返回玩家设定的出生点 | |
-| `/mvtp [维度代号]`:smile_cat:<br />`/goto [维度代号]`:smile_cat: |前往指定[维度](nyaa/worlds.md "也称世界")的默认出生点 ||
+| `/mvtp [维度代号]`:smile_cat: |前往指定[维度](nyaa/worlds.md "也称世界")的默认出生点 ||
 | `/back`:smile_cat:  | 返回上一次传送前所在位置 | 收费 |
 | `/home`:smile_cat:  | 传送回家 | 收费 |
 | `/home [家的名称]`:smile_cat:  | 传送回指定名称的家 | 收费 |
@@ -37,10 +37,9 @@
 | 命令 | 说明 | 备注 |
 | - | - | - |
 | `/balance`<br>`/bal` | 查看现金余额 | |
-| `/nb my`:smile_cat: | 查看银行存款及贷款总额 | |
-| `/pay [玩家 ID] [金额]` | 转账给指定玩家 | 执行后**立即转账**，请慎用 |
+| `/pay [玩家 ID] [金额]` | 转账给指定玩家 | 执行后**立即转账**，请慎用<br/>收费 |
 | `/ptt ac` | 领取刚刚提示的PTT奖励 | |
-| `/u redbag create [fixed|lucky] [总金额] [数目] [口令(可选)] | 派发一次红包 | “fixed”可使每个红包金额相等；<br />“lucky”可使每个红包份量不一 |
+| `/u redbag create [fixed\|lucky] [总金额] [数目] [口令(可选)]` | 派发一次红包 | “fixed”可使每个红包金额相等；<br />“lucky”可使每个红包份量不一 |
 
 
 <details>
@@ -109,6 +108,8 @@
 
 !> 插件仍在测试，部分功能尚未恢复或已取消。
 
+**主条目：[Ukit 插件指南](tutorial/plugins/ukit.md)**
+
 | 命令| 说明| 备注 |
 |-|-|-|
 |`/u chat prefix set [前缀]`	|设置名称前缀	|可使用样式代码；收费|
@@ -134,7 +135,7 @@
 <details>
 <summary>:x: 尚未被替代的原 NyaaUtils 命令，仅供参考</summary>
 
-**主条目：[NyaaUtils 插件指南](tutorial/plugins/nyaautils.md)**
+**主条目：[NyaaUtils 插件指南](legacy/tutorial/plugins/nyaautils.md)**
 
 | 命令| 说明| 备注 |
 |-|-|-|

@@ -60,7 +60,7 @@ NyaaUtils 包含了各类杂项辅助功能，本页面列出该插件在喵窝�
 
 可以通过 NyaaUtils 为自己、鞘翅和弹射物增加粒子特效。
 
-[详细介绍](tutorial/plugins/nyaautils/particle)
+[详细介绍](legacy/tutorial/plugins/nyaautils/particle)
 
 ## 飞行相关
 

@@ -3,7 +3,7 @@
 
 #### 麦辣鸡盒
 
-![item](../../../assets/images/items/support/foods/麦辣鸡盒.png)
+![item](../../../../assets/images/legacy/items/assistant/foods/麦辣鸡盒.png)
 
 - 【外形】木桶
 - 【来源】Chef Steve（北溪台的望海潮麦当劳）
@@ -16,7 +16,7 @@
 
 #### 铁板烧肉桶
 
-![item](../../../assets/images/items/support/foods/铁板烧肉桶.png)
+![item](../../../../assets/images/legacy/items/assistant/foods/铁板烧肉桶.png)
 
 - 【外形】木桶
 - 【来源】Chef Steve（北溪台的望海潮麦当劳）
@@ -29,8 +29,8 @@
 
 #### 惠方卷
 
-![item](../../../assets/images/items/support/foods/惠方卷1.jpg)  
-![item](../../../assets/images/items/support/foods/惠方卷2.jpg)
+![item](../../../../assets/images/legacy/items/assistant/foods/惠方卷1.jpg)  
+![item](../../../../assets/images/legacy/items/assistant/foods/惠方卷2.jpg)
 
 - 【外形】定制材质
 - 【来源】农协代理员 麻吉（千里田町的商业街）
@@ -40,8 +40,8 @@
 
 #### 凤凰卷
 
-![item](../../../assets/images/items/support/foods/凤凰卷1.jpg)  
-![item](../../../assets/images/items/support/foods/凤凰卷2.jpg)
+![item](../../../../assets/images/legacy/items/assistant/foods/凤凰卷1.jpg)  
+![item](../../../../assets/images/legacy/items/assistant/foods/凤凰卷2.jpg)
 
 - 【外形】定制材质
 - 【来源】*凤凰卷* 的店铺
@@ -54,7 +54,7 @@
 ### 并没什么卯月的食物
 #### 生命果
 
-![item](../../../assets/images/items/support/foods/生命果.png)
+![item](../../../../assets/images/legacy/items/assistant/foods/生命果.png)
 - 【外形】附魔金苹果
 - 【来源】Chef Steve（北溪台的望海潮麦当劳）
   + 兑换需苹果 x64、橡树树苗 x64

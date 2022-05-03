@@ -6,8 +6,7 @@
 
 |插件|简介|
 |--|--|
-|[Nyaautils](tutorial/plugins/nyaautils.md)|各项辅助功能|
+|[UKit](tutorial/plugins/ukit.md)|各项辅助功能|
 |[PlayTimeTracker](tutorial/plugins/playtimetracker.md)|在线时间记录|
-|[HamsterEcoHelper](tutorial/plugins/hamsterecohelper.md)|经济流动辅助插件|
-|:smile_cat: [NyaaBank](tutorial/plugins/nyaabank-instructions)|基于木牌的银行|
+|[HamsterEcoHelper](legacy/tutorial/plugins/hamsterecohelper.md)|经济流动辅助插件<br />（已下线，正等待新版插件替换）|
 |[LockettePro](tutorial/plugins/lockettepro)|个人财产保护|

@@ -4,8 +4,6 @@
 
 这里包含喵窝世界的经济设定、基础规则，以及系统级服务细则。
 
-为方便浏览，交易项目的具体操作流程以及相关税款、手续费等，已与 [经济插件指南](tutorial/plugins/hamsterecohelper) 整合。
-
 ------
 
 ## 基本设定
@@ -35,11 +33,11 @@
 
 !> :x: **以下高级交易功能尚未恢复，仅供参考。**
 
-- [天喵商城](tutorial/plugins/hamsterecohelper#世界商店)——即世界商店
-- [个人商店](tutorial/plugins/hamsterecohelper#木牌商店)——包含出售、收购和抽奖
-- [拍卖](tutorial/plugins/hamsterecohelper#拍卖)
-- [征购](tutorial/plugins/hamsterecohelper#征购)
-- [天喵直送](tutorial/plugins/hamsterecohelper#天喵直送)
+- [天喵商城](legacy/tutorial/plugins/hamsterecohelper#世界商店)——即世界商店
+- [个人商店](legacy/tutorial/plugins/hamsterecohelper#木牌商店)——包含出售、收购和抽奖
+- [拍卖](legacy/tutorial/plugins/hamsterecohelper#拍卖)
+- [征购](legacy/tutorial/plugins/hamsterecohelper#征购)
+- [天喵直送](legacy/tutorial/plugins/hamsterecohelper#天喵直送)
 
 ## 系统服务收费细则
 
@@ -62,15 +60,18 @@
 
 其中，`/spawn` 前往的出生点为玩家 [选定的出生点](nyaa/realms) 或默认的世界出生点，`/espawn` 前往的出生点始终为默认的世界出生点。
 
-### 领域规划
+### 领域提示
 
+该服务已暂停，请等待后续更新。
+<!--
 玩家可为自己所管理的村落或规划区建立领域提示。建立提示后，将展示规划区名称和管理玩家。
 
 领域规划必须由管理组审核后操作。**对于玩家村落免费**，特殊规划提示价格为每个方块 1 卷。（占地面积 x 高度，一般 256）
+-->
 
 ### 重命名、邮送物品
 
-请参见“Ukit 指南”：
+请参见“[Ukit 指南](tutorial/plugins/ukit)”：
 
 - 重命名物品 —— 每次收取 10 卷
 
@@ -78,10 +79,6 @@
 ### 玩家提供的系统服务
 
 目前暂无面向玩家开放接入的系统服务。
-
-在 1.17.1 版本前提供的系统服务（待归档）：
-- [开设银行](nyaa/economic/nyaabank)
-- [像素画粘贴](https://bbs.nyaa.cat/d/1534)
 
 
 ### 死亡惩罚

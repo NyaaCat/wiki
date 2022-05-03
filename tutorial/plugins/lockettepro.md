@@ -6,7 +6,6 @@ LockettePro 是一个帮助玩家在多人服务器保护自己财产的插件�
 
 ?> :information_source: 原版的 Lockette 与 LockettePro（前者的衍生版本）均已年久失修，因此目前喵窝使用的是自己维护的版本。如果希望查看源代码、反馈技术问题、参与贡献等，请戳 [这里](https://github.com/NyaaCat/LockettePro)。
 
-!> **请勿在“无尽地狱”世界（`inf`维度）使用告示牌**，锁定后无法自行拆除。如不慎锁定，请立即共享给所有人（见下），然后联系管理组处置。
 
 ## 快速入门
 
@@ -20,8 +19,8 @@ LockettePro 是一个帮助玩家在多人服务器保护自己财产的插件�
 !> 任何种类的告示牌如直接用于锁定，会自动变为**橡木**告示牌。
 <br /><br />
 要绕过这项特性，可以预编辑手上的牌子，然后边潜行边放置。预编辑的命令：<br />
-`/nu se sign 0 [Private]`<br />
-`/nu se sign 1 Your_Player_ID`
+`/u signedit 1 [Private]`
+
 
 !> 告示牌使用的位置**不能有水**，否则无法锁定。
 
@@ -87,4 +86,4 @@ LockettePro 是一个帮助玩家在多人服务器保护自己财产的插件�
 
 ### 嗯，我想保护展示框里的东西，怎么办呢？
 
-[这个功能 NyaaUtils 做了。](tutorial/plugins/nyaautils?id=在展示框中)
+[这个功能 Ukit 做了。](tutorial/plugins/ukit.md#lock)

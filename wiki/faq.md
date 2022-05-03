@@ -26,8 +26,8 @@
 | 如何去其它维度（世界）？ | :point_right:[维度列表](nyaa/worlds)<br />要摆传送门请往下翻\~ |
 | 如何在游戏聊天内分享一条命令？ | 命令前面加上`&f`。 |
 | 如何使用锁箱插件？ | :point_right:[牌子锁指南](tutorial/plugins/lockettepro.md) |
-| 如何设置名称前/后缀？ | :point_right:[NyaaUtils帮助](tutorial/plugins/nyaautils.md#prefix-suffix) |
-| 如何创建邮箱？ | :point_right:[NyaaUtils帮助](tutorial/plugins/nyaautils.md#mailbox) |
+| 如何设置名称前/后缀？ | :point_right:[Ukit 帮助](tutorial/plugins/ukit.md#chat-prefix-suffix) |
+| 如何创建邮箱？ | :point_right:[Ukit 帮助](tutorial/plugins/ukit.md#mailer) |
 | 服务器的管理员该找谁？ | 请参阅《[玩家权限](wiki/permission)》之“管理组”。 |
 
 ### 关于物品 :id=items

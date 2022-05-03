@@ -15,19 +15,27 @@
 
 ?> :newspaper_roll: **喵窝曾经的日常**
 
-- [NPC 向导](legacy/nyaa/npc)
-- [世界建设工程](legacy/nyaa/projects)
-- [传送中心](legacy/nyaa/teleport-center)
-- [喵窝飞行家里程俱乐部](legacy/nyaa/nfmc)
-- [月常环游任务](legacy/nyaa/monthly-course)
-- [用户组](legacy/nyaa/permission-groups)
-- 《[飞行之书](space/book-of-elytra)》
-- <span class="nw-spoiler">《[有关『风茗岛』的传说](space/legend-of-fengming-island)》</span>
+- 已下线的插件功能
+  + [NPC 向导](legacy/nyaa/npc)
+  + [世界建设工程](legacy/nyaa/projects)
+  + [传送中心](legacy/nyaa/teleport-center)
+  + [银行系统](legacy/nyaa/economics/nyaabank)及其[操作手册](legacy/tutorial/plugins/nyaabank-instructions)
+  + [NyaaUtils](legacy/nyaa/economics/nyaautils)
+  + [经济流动辅助插件 HEH](legacy/tutorial/plugins/hamsterecohelper.md)
 
 
-- [名胜古迹](legacy/nyaa/historical-sites)
-- [图书馆](nyaa/projects/libraries)
-- [历年游戏活动](nyaa/activities)
+- 历史文献
+  + [喵窝飞行家里程俱乐部](legacy/nyaa/nfmc)
+  + [月常环游任务](legacy/nyaa/monthly-course)
+  + [用户组](legacy/nyaa/permission-groups)
+  + 《[飞行之书](space/book-of-elytra)》
+  + <span class="nw-spoiler">《[有关『风茗岛』的传说](space/legend-of-fengming-island)》</span>
+
+
+- 人类活动遗存
+  + [名胜古迹](legacy/nyaa/historical-sites)
+  + [图书馆](nyaa/projects/libraries)
+  + [历年游戏活动](nyaa/activities)
 
 
 - 已失效的道具
@@ -35,6 +43,7 @@
   + [魔法装备](legacy/nyaa/items/magic)
   + [远程武器](legacy/nyaa/items/remote-weapons)
   + [“肝黑”装备及武器](legacy/inf2/items.md)
+  + [辅助道具](legacy/nyaa/items/assistant)
 
 
 ?> :imp: **有关黑化怪物和它们的世界**

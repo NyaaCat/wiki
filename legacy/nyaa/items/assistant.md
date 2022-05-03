@@ -6,21 +6,21 @@
 - 位于**樱华町**的游商 NPC「御魂匠」
 - 在**琥珀川**活动的游商 NPC「宝蓝精灵」
 
-因 NPC 下线，这些道具不再可兑换，但尚可使用。不排除将来也一并失效的可能。
+因 NPC 下线，这些道具不再可兑换。自 1.17.1 版本起失效。
 
-?> :rice_ball: 此外，一些 NPC 也提供[快捷食品](nyaa/items/support/foods.md)。
+?> :rice_ball: 此外，一些 NPC 也提供[快捷食品](legacy/nyaa/items/assistant/foods.md)。
 
 ## 御魂匠
 
 #### 头颅宝石
-![item](../../assets/images/items/support/头颅宝石.png)
+![item](../../../assets/images/legacy/items/assistant/头颅宝石.png)
 - 【外形】绿宝石
 - 【兑换需求】钻石×4，绿宝石×4
 - **一次性道具**
 - **【作用】**按右键使用，抛出一个玩家头颅（使用自己的皮肤；带“幸运 +2”效果）。
 
 #### 猩红针管
-![item](../../assets/images/items/support/猩红针管.png)
+![item](../../../assets/images/legacy/items/assistant/猩红针管.png)
 - 【外形】末地烛
 - 【兑换需求】钻石块×16，下界之星×4
 - 【最大能量值】100
@@ -28,7 +28,7 @@
 - **【作用】**按左键使用，获得 10 秒生命恢复效果。
 
 #### 嘀嗒怀表
-![item](../../assets/images/items/support/嘀嗒怀表.png)
+![item](../../../assets/images/legacy/items/assistant/嘀嗒怀表.png)
 - 【外形】时钟
 - 【兑换需求】绿宝石块×16，末影珍珠×16
 - 【最大能量值】600
@@ -36,7 +36,7 @@
 - **【作用】**主手持有时，持续给予「跳跃 II」效果。按左键使用，向前传送 16 格。此传送不能穿过方块。
 
 #### 鹦鹉螺挂饰
-![item](../../assets/images/items/support/鹦鹉螺挂饰.png)
+![item](../../../assets/images/legacy/items/assistant/鹦鹉螺挂饰.png)
 - 【外形】鹦鹉螺壳
 - 【兑换需求】附魔金苹果×16，不死图腾 x1
 - 【最大耐久值】100
@@ -46,7 +46,7 @@
   + 若拯救时耐久值不足，则销毁自身完成拯救。
 
 #### 奇妙魔力调教棒
-![item](../../assets/images/items/support/奇妙魔力调教棒.png)
+![item](../../../assets/images/legacy/items/assistant/奇妙魔力调教棒.png)
 - 【外形】木棍
 - 【兑换需求】拴绳×16，金锭 x8
 - 【最大耐久值】100
@@ -61,7 +61,7 @@
     * 若 5 分钟内未掷出、或者使用者退出主服务器/当前维度，该生物（玩家）将自动脱落。
 
 #### Unity Stone
-![item](../../assets/images/items/support/UnityStone.png)
+![item](../../../assets/images/legacy/items/assistant/UnityStone.png)
 - 【外形】海洋之心
 - 【兑换需求】信标 x64，绿宝石块 x64
 - 无使用限制
@@ -78,7 +78,7 @@
 <details>
 <summary>先前描述（点击展开）</summary>
 
-![item](../../assets/images/items/support/冒险者罗盘.png)
+![item](../../../assets/images/legacy/items/assistant/冒险者罗盘.png)
 - 【外形】指南针
 - 【兑换需求】末影水晶×1，下界石英 x16
 - 【最大耐久值】200
@@ -96,7 +96,7 @@
 </details>
 
 #### 奇妙的无尽宝箱
-![item](../../assets/images/items/support/奇妙的无尽宝箱.png)
+![item](../../../assets/images/legacy/items/assistant/奇妙的无尽宝箱.png)
 - 【外形】箱子
 - 【兑换需求】钻石块 x32，绿宝石块 x64
 - **【作用】**
@@ -106,7 +106,7 @@
   + **注意：一旦放下再拆除，其将失效（即使使用精准采集附魔的工具）。**
 
 #### 便携式鞘翅缝纫机
-![item](../../assets/images/items/support/便携式鞘翅缝纫机.png)
+![item](../../../assets/images/legacy/items/assistant/便携式鞘翅缝纫机.png)
 - 【外形】织布机
 - 【兑换需求】铁块 x32，线 x64
 - 【最大能量值】64
@@ -116,7 +116,7 @@
   + 未满时不可使用。
 
 #### 蒸汽喷射推进器
-![item](../../assets/images/items/support/蒸汽喷射推进器.png)
+![item](../../../assets/images/legacy/items/assistant/蒸汽喷射推进器.png)
 - 【外形】高炉
 - 【兑换需求】铁块 x32，红石块 x64
 - 【最大能量值】64
@@ -124,7 +124,7 @@
 - **【作用】**左键使用，向前瞬间加速至 50 m/s。可用于起飞及飞行时加速，或者赶路。
 
 #### 姜汁汽水
-![item](../../assets/images/items/support/姜汁汽水.png)
+![item](../../../assets/images/legacy/items/assistant/姜汁汽水.png)
 - 【外形】龙息
 - 【兑换需求】不死图腾 x1，玻璃 x64
 - 【最大能量值】2
@@ -133,7 +133,7 @@
   + 可手持，亦可**放置于背包**；当生命值扣除至零，如果尚有剩余饮料，即实施拯救（同不死图腾）。
 
 #### 发明家动力背包
-![item](../../assets/images/items/support/发明家动力背包.png)
+![item](../../../assets/images/legacy/items/assistant/发明家动力背包.png)
 - 【外形】高炉
 - 【兑换需求】损坏的铁砧 x16，烟花火箭 x16
   + 烟花样式：延时③，苦力怕状（黄绿色，淡化至黄色，闪烁）
@@ -143,7 +143,7 @@
   + 注意：喷出的蒸汽可烫伤他人。
 
 #### てるてる坊主
-![item](../../assets/images/items/support/晴天娃娃.png)
+![item](../../../assets/images/legacy/items/assistant/晴天娃娃.png)
 - 【外形】不死图腾
 - 【兑换需求】线 x4，纸 x4
 - **一次性道具**
@@ -155,7 +155,7 @@
 ## 宝蓝精灵
 
 #### 彩虹喵之刃
-![item](../../assets/images/items/support/彩虹喵之刃T0.png)
+![item](../../../assets/images/legacy/items/assistant/彩虹喵之刃T0.png)
 - 【外形】铁剑
 - 【兑换需求】热带鱼桶（小丑鱼）（注：没有前缀）+ 热带鱼桶（五彩搏鱼）
 - 不限使用次数
@@ -165,7 +165,7 @@
   + 弹丸碰触方块时反弹，产生野猫的叫声。最多反弹 5 次。
 
 #### 彩弹枪
-![item](../../assets/images/items/support/彩弹枪.png)
+![item](../../../assets/images/legacy/items/assistant/彩弹枪.png)
 - 【外形】定制材质
   + 如关闭服务器资源包，将显示为木铲。
 - 【兑换需求】黄绿色带釉陶瓦 x64，红色带釉陶瓦 x64
@@ -177,7 +177,7 @@
   + **请于开敞环境使用，严禁对人、或在居民区燃放。**
 
 #### 晴空怀表
-![item](../../assets/images/items/support/晴空怀表.jpg)
+![item](../../../assets/images/legacy/items/assistant/晴空怀表.jpg)
 
 - 【外形】时钟
 - 【兑换需求】附魔之瓶 x16，恶魂之泪 x8
@@ -187,7 +187,7 @@
 请注意，不同于自然的天气切换，使用后 10 分钟内必然再下雨（并且雷暴概率大大增加）。
 
 #### 便携式黑洞
-![Mobile_Blackhole](../../assets/images/items/support/Mobile_Blackhole.png)
+![Mobile_Blackhole](../../../assets/images/legacy/items/assistant/Mobile_Blackhole.png)
 - 【外形】黑曜石
 - 【兑换需求】黑曜石 x1，末影珍珠 x2
 - **【作用】**使用后消耗，投掷一个迷你黑洞，将周围的生物（玩家）卷入该处，并持续 5 秒。  
