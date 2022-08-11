@@ -2,6 +2,16 @@
 
 下面介绍 NFS 服务器中各可用场地。它们可以使用 `/town select` 命令前往。
 
+### WWR 2022 :id=wwr2022
+
+本次在一座名为*阿克斯城* 的中世纪城市当中展开飞行角逐。
+
+- 检查点数量：待公布
+- 及格线：待公布
+- [开赛预告](https://community.craft.moe/d/2987)
+
+**地图制作：** *阿尔萨斯工业* 建筑团队
+
 ### WWR 2021 :id=wwr2021
 
 本次首度在城市空间展开飞行角逐。途中需穿越隧道、室内、下水道等复杂地形。
@@ -9,12 +19,12 @@
 - 检查点数量：74
 - 及格线：4分50秒
 - [开赛预告](https://bbs.nyaa.cat/d/1873-2021-world-wings-rally)
-- [成绩提交](https://bbs.craft.moe/d/2482-2021-world-wings-rally)（7月31日至8月7日）
+- [成绩提交](https://community.craft.moe/d/2482-2021-world-wings-rally)（7月31日至8月7日）
 - [排名公示](https://bbs.nyaa.cat/d/1886-wwr2021)
 - [快速飞行示范](https://www.bilibili.com/video/BV15v411J7aX/)，仅供参考
 
 
-- [倒飞挑战](https://bbs.craft.moe/d/2496-2021wwr)（非官方）
+- [倒飞挑战](https://community.craft.moe/d/2496-2021wwr)（非官方）
 
 <details>
 <summary>:construction_worker: 建设人员名单</summary>
@@ -78,8 +88,8 @@ Tormentia
 在“毛运村”街道与建筑之间穿梭。
 
 - 检查点数量：36
-- [成绩提交](https://bbs.craft.moe/d/2494-2021)（8月4日至7日）
-- [排名公示](https://bbs.craft.moe/d/2490-2021)
+- [成绩提交](https://community.craft.moe/d/2494-2021)（8月4日至7日）
+- [排名公示](https://community.craft.moe/d/2490-2021)
 - **制作人员：**`Lv_da`
 
 ### KSC 2020 - 毛运会跑酷挑战
@@ -89,8 +99,8 @@ Tormentia
 使用 `/town select` 命令选择 **2020 毛运会跑酷世界**，即可开始你的表演。
 
 - 检查点数量：45
-- [成绩提交](https://bbs.craft.moe/d/2029)**（截止时间已过）**
-- [成绩公布](https://bbs.craft.moe/d/2037)
+- [成绩提交](https://community.craft.moe/d/2029)**（截止时间已过）**
+- [成绩公布](https://community.craft.moe/d/2037)
 
 ### Ice Rush
 

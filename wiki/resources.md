@@ -32,7 +32,7 @@
 ?> :heart: 【2022.3.14更新】**Minecraft 1.18.2 简单整合**
 
 由 *BlingWang* 整理，提供可被 MultiMC 导入的 Mod 包。  
-[原帖与下载地址](https://bbs.craft.moe/d/2735-minecraft-118x)
+[原帖与下载地址](https://community.craft.moe/d/2735-minecraft-118x)
 
 <details>
 <summary>默认包含模组及资源包</summary>
@@ -51,7 +51,7 @@
 由*凤凰卷 `phoenixlzx`* 整理，仅包含 Mods 本体。  
 模组列表请见[子服务器列表](wiki/server-network#hana)页面。
 
-- [原帖](https://bbs.craft.moe/d/2764-nyaacat-flourish-moment-20222)
+- [原帖](https://community.craft.moe/d/2764-nyaacat-flourish-moment-20222)
 - [派兹网盘下载](https://dl.blingwang.cn/NyaaCat_FlourishMoment.2022.2.mods.zip)
 
 --------
@@ -66,7 +66,7 @@
 
 支持 1.14.4 / 1.15.\* / 1.16.\* / 1.17.\* / 1.18.\* 。
 
-[论坛讨论 / 下载](https://bbs.craft.moe/d/1316)
+[论坛讨论 / 下载](https://community.craft.moe/d/1316)
 
 ### [Fabric] EasierVillagerTrading :id=easier-trading
 

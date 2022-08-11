@@ -11,7 +11,7 @@
 ?> :heart: 【2021.10.24更新】**Minecraft 1.17.1 简单整合**
 
 由 *BlingWang* 整理，提供包含启动器的独立整合包，亦提供可直接被 MultiMC 导入的 Mod 包。  
-[原帖与下载地址](https://bbs.craft.moe/d/2553-minecraft-1171)
+[原帖与下载地址](https://community.craft.moe/d/2553-minecraft-1171)
 
 <details>
 <summary>默认包含模组</summary>
@@ -23,7 +23,7 @@
 ?> :blue_heart: 【2021.8.22更新】**Fabric 简单整合**
 
 由 *Atom202SLL* 整理，可直接被 MultiMC 导入。  
-[原帖与下载地址](https://bbs.craft.moe/d/2079-multimcminecraft-117-fabric/)
+[原帖与下载地址](https://community.craft.moe/d/2079-multimcminecraft-117-fabric/)
 
 <details>
 <summary>Mod 一览</summary>
@@ -61,7 +61,7 @@ sodium-fabric-mc1.17.1-0.3.0+build.5<br>
 ?> :heart: 【2021.02.14更新】Minecraft 1.16.4 & 1.16.5 简单整合
 
 由 *BlingWang* 整理，可直接被 MultiMC 导入。  
-[原帖与下载地址](https://bbs.craft.moe/d/2182)
+[原帖与下载地址](https://community.craft.moe/d/2182)
 
 <details>
 <summary>默认包含模组</summary>
@@ -73,7 +73,7 @@ sodium-fabric-mc1.17.1-0.3.0+build.5<br>
 ?> :blue_heart: 【2021.1.21更新】**Fabric 简单整合**
 
 由 *Atom202SLL* 整理，可直接被 MultiMC 导入。  
-[原帖与下载地址](https://bbs.craft.moe/d/2079-multimcminecraft-116-fabric/18)
+[原帖与下载地址](https://community.craft.moe/d/2079-multimcminecraft-116-fabric/18)
 
 <details>
 <summary>Mod 一览</summary>
@@ -101,7 +101,7 @@ sodium-fabric-mc1.17.1-0.3.0+build.5<br>
 ?> :green_heart: 【2020.11.30更新】**Fabric 不完全整合/Auth Me/optifine/锂钠磷/投影mod教程**
 
 由 *Kinomotomoyo* 整理，需解压后手动添加到游戏。  
-[原帖与下载地址](https://bbs.craft.moe/d/1923-20201130minecraft-1164-fabric-auth-meoptifinemod)
+[原帖与下载地址](https://community.craft.moe/d/1923-20201130minecraft-1164-fabric-auth-meoptifinemod)
 
 <details>
 <summary>默认包含模组</summary>
@@ -158,7 +158,7 @@ _感谢派兹，辛苦更新_
 ?> :blue_heart: 【2020.11.04更新】**Fabric 简单整合**
 
 由 *Atom202SLL* 整理，可直接被 MultiMC 导入。  
-[原帖与下载地址](https://bbs.craft.moe/d/1923-20201130minecraft-1164-fabric-auth-meoptifinemod)
+[原帖与下载地址](https://community.craft.moe/d/1923-20201130minecraft-1164-fabric-auth-meoptifinemod)
 
 <details>
 <summary>Mod 一览</summary>
@@ -193,7 +193,7 @@ _感谢派兹，辛苦更新_
 **1.15.2 Fabric 简单整合** *by BlingWang* （适用于 MultiMC）  
 除 Optifine 暂时缺失以外，体验上基本与 1.14.4 整合包无异；此外，还新增几个实用插件。
 
-详情请见 [相关帖子](https://bbs.craft.moe/d/1409)。
+详情请见 [相关帖子](https://community.craft.moe/d/1409)。
 
 <details>
 <summary>默认包含模组</summary>
@@ -208,11 +208,11 @@ _感谢派兹，辛苦更新_
 
 ### Minecraft 1.14.4
 
-[1.14.4 Fabric 简单整合 by phoenixlzx](https://bbs.craft.moe/d/1185)
+[1.14.4 Fabric 简单整合 by phoenixlzx](https://community.craft.moe/d/1185)
 
 ### Minecraft 1.13.2
 
-[Minecraft 1.13.2 Rift 简单整合 by phoenixlzx](https://bbs.craft.moe/d/718)
+[Minecraft 1.13.2 Rift 简单整合 by phoenixlzx](https://community.craft.moe/d/718)
 
 ### Minecraft 1.12
 
