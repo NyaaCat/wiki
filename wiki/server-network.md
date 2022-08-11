@@ -27,7 +27,7 @@
   + `brainhole` - 脑洞（像素画）世界
   + `EpicWorld` - 资源世界
   + 详情请参阅 [维度列表](nyaa/worlds.md)。
-* [规则详见](wiki/rules.md)
+* [规则详见](nyaa/rules.md)
 * [权限详见](wiki/permission.md)
 
 

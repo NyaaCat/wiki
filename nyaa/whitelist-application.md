@@ -10,7 +10,7 @@
 - 您也许不善于使用电子邮件沟通
 - 您希望快速开始游戏
 
-请 [加入毛玉线圈物语服务器](wiki/whitelist-application-kedama)，这是对于一般玩家的推荐申请方式。
+请 [加入毛玉线圈物语服务器](nyaa/whitelist-application-kedama)，这是对于一般玩家的推荐申请方式。
 
 选项 2 - 如果您满足以下任意条件：
 
@@ -19,7 +19,7 @@
 - 您要求不重置的主世界
 - 您善于使用电子邮件沟通
 
-请 [通过邮件申请白名单](wiki/whitelist-application-email)，这是喵窝最原始的申请方式。
+请 [通过邮件申请白名单](nyaa/whitelist-application-email)，这是喵窝最原始的申请方式。
 
 选项 3 - 如果您满足以下任意条件：
 
@@ -27,4 +27,4 @@
 - 您是直播主
 - 您善于绘图或渲染
 
-请 [通过迎新群直接联系管理组](wiki/whitelist-application-direct)。
+请 [通过迎新群直接联系管理组](nyaa/whitelist-application-direct)。

@@ -1,15 +1,14 @@
 - 起步
-  - [游戏规则 :four_leaf_clover:](wiki/rules.md)
-  - [新人指南](nyaa/beginners-guide.md)
+  - [游戏规则 :four_leaf_clover:](nyaa/rules.md)
   - [常见问题](wiki/faq.md)
   - [常用命令大全 :four_leaf_clover:](tutorial/commands-help)
   - [推荐资源](wiki/resources.md)
 - 社区
   - [Planet NyaaCat](wiki/planet-nyaacat.md)
   - [玩家群组](wiki/groups.md)
-  - [白名单申请](wiki/whitelist-application.md)
   - [作品集](space/works.md)
 - 喵窝世界
+  - [新人指南](nyaa/beginners-guide.md)
   - [玩家权限](wiki/permission)
   - [城镇村落总览](nyaa/realms.md)
   - [经济规则](nyaa/economic.md)

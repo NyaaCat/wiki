@@ -22,7 +22,7 @@ NyaaWiki **并不是** 针对《Minecraft》游戏的指南和知识库，它是
 
 ## 入服准备
 
-**如果还没提交申请，请先阅读 [新玩家申请](wiki/whitelist-application.md) 后提交申请。**
+**如果还没提交申请，请先阅读 [新玩家申请](nyaa/whitelist-application.md) 后提交申请。**
 
 收到欢迎信时就可以进入服务器开始游戏了。但是为了确保最佳的游戏和社区体验，请先考虑以下步骤——
 
@@ -50,7 +50,7 @@ NyaaWiki **并不是** 针对《Minecraft》游戏的指南和知识库，它是
 
 ### 阅读游戏规则
 
-登录之前，请务必再次阅读[游戏规则](wiki/rules.md)。如仍有疑虑，可在玩家群组内、或进入游戏询问。
+登录之前，请务必再次阅读[游戏规则](nyaa/rules.md)。如仍有疑虑，可在玩家群组内、或进入游戏询问。
 
 <span class="nw-important">这里死亡掉落！<code>/back</code>、<code>/home</code> 命令扣款！<code>/suicide</code> 也扣款！</span><br>
 重要的事情讲过三遍了！  

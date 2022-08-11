@@ -20,7 +20,7 @@
 | 常见疑问 | 直达传送门 |
 |-|-|
 | 喵窝服务器对客户端有特别的要求吗？ | :point_right:[准备好客户端](nyaa/beginners-guide#prepare-client) |
-| 第一次加入服务器如何注册？以后如何登录？ | :point_right:[申请白名单](wiki/whitelist-application.md)，并准备好客户端 |
+| 第一次加入服务器如何注册？以后如何登录？ | :point_right:[申请白名单](nyaa/whitelist-application.md)，并准备好客户端 |
 | 我是新玩家，我应该去哪生存？ | :point_right:[白手起家](nyaa/beginners-guide#start-from-scratch) |
 | 我该怎么赚钱？ | :point_right:[每个节操都要精打细算](nyaa/beginners-guide#earning) |
 | 如何去其它维度（世界）？ | :point_right:[维度列表](nyaa/worlds)<br />要摆传送门请往下翻\~ |
@@ -235,7 +235,7 @@
 
 当然可以，但是：
 
-- 你的伙伴需要自行在 [minecraft.net](https://www.minecraft.net) 注册、激活国际版账号，并**自行申请**喵窝[白名单](wiki/whitelist-application)，使用**自己的账号**登录游戏。
+- 你的伙伴需要自行在 [minecraft.net](https://www.minecraft.net) 注册、激活国际版账号，并**自行申请**喵窝[白名单](nyaa/whitelist-application)，使用**自己的账号**登录游戏。
 - **不要与你的伙伴互相共享账号**（即使你们在一起）。这是违反规则的！
 
 <!--
