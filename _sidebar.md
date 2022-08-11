@@ -1,27 +1,27 @@
-- 起步
-  - [游戏规则 :four_leaf_clover:](nyaa/rules.md)
-  - [常见问题](wiki/faq.md)
-  - [常用命令大全 :four_leaf_clover:](tutorial/commands-help)
+- 起步 :four_leaf_clover:
+  - [游戏规则](nyaa/rules.md)
+  - [常用命令大全](tutorial/commands-help)
   - [推荐资源](wiki/resources.md)
-- 社区
-  - [Planet NyaaCat](wiki/planet-nyaacat.md)
+- 社区共融 :four_leaf_clover:
+  - [服务器列表](wiki/server-network.md)
   - [玩家群组](wiki/groups.md)
   - [作品集](space/works.md)
+  - [游戏活动](legacy/activities.md)
+  - [历史考古](legacy/)
+  - [Planet NyaaCat](wiki/planet-nyaacat.md)
 - 喵窝世界
   - [新人指南](nyaa/beginners-guide.md)
+  - [常见问题](wiki/faq.md)
   - [玩家权限](wiki/permission)
   - [城镇村落总览](nyaa/realms.md)
   - [经济规则](nyaa/economic.md)
   - [资源获取:公用生产设施](nyaa/public-facilities.md)
   - [维度列表](nyaa/worlds.md)
-  - [服务器列表 :four_leaf_clover:](wiki/server-network.md)
   - [创造激励计划](nyaa/creation.md)
-  - [游戏活动 :four_leaf_clover:](nyaa/activities.md)
-  - [历史考古](legacy/)
 - 实用帮助
   - [插件帮助 :four_leaf_clover:](tutorial/plugins.md)
   - [交通导航](tutorial/map-navi.md)
-  - [建筑教程](tutorial/building.md)
+  - [建筑教程 :four_leaf_clover:](tutorial/building.md)
   - [主世界道具图鉴](nyaa/items.md)
 - Need For Speed :four_leaf_clover:
   - [赛事](nfs/events.md)

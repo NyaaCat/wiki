@@ -4,7 +4,7 @@
 
 ## 历史文献、参考总览
 
-?> :monkey_face: **喵窝创世之前**
+?> :monkey_face: **喵窝 & 毛线创世之前**
 
 👉[Archive 服务器](wiki/server-network#archive)
 
@@ -35,7 +35,7 @@
 - 人类活动遗存
   + [名胜古迹](legacy/nyaa/historical-sites)
   + [图书馆](nyaa/projects/libraries)
-  + [历年游戏活动](nyaa/activities)
+  + [历年游戏活动](legacy/activities)
 
 
 - 已失效的道具

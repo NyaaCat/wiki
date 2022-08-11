@@ -34,7 +34,7 @@
 “职业死斗”<span class="nw-spoiler">3.1</span>再度复刻上线！（这回Rem太懒，活动简介都没写）  
 全新 DLC 追加新职业——**La Pluma**！同时，对部分原有职业进行了技术调整。
 
-:point_right: *往年死斗活动资料，可供参考：[2021](nyaa/activities/2021#labour-day ':target=_blank') | [2020](nyaa/activities/2020#labour-day ':target=_blank') | [2019](nyaa/activities/2019#labour-day ':target=_blank')*  
+:point_right: *往年死斗活动资料，可供参考：[2021](legacy/activities/2021#labour-day ':target=_blank') | [2020](legacy/activities/2020#labour-day ':target=_blank') | [2019](legacy/activities/2019#labour-day ':target=_blank')*  
 
 ?> :gift: **REWARDS | 新奖励追加**
 
@@ -120,12 +120,12 @@ _\* 新增或有改动_
 
 ## 2022 劳动节活动 #2：围攻行动（复刻） :id=labour-day-besiege
 
-> 本次照搬了[2020 年国庆节活动](nyaa/activities/2020.md#national-day-besiege)的内容，未作改动。  
+> 本次照搬了[2020 年国庆节活动](legacy/activities/2020.md#national-day-besiege)的内容，未作改动。  
 [预告帖在此](https://bbs.craft.moe/d/2898-20222siegegame-2020reboot2020)
 
 - :clock3: **开放时间：**  
   2022 年 5 月 1 日 12:00 — 5 月 3 日 12:00 (CST)
-- :game_die: **活动详情：**请见[2020 年国庆节活动](nyaa/activities/2020.md#national-day-besiege)。
+- :game_die: **活动详情：**请见[2020 年国庆节活动](legacy/activities/2020.md#national-day-besiege)。
 - :gift: **活动奖励：**  
   根据胜场数和击杀数，按一定比例取得活动兑换物奖励。正式比赛奖励将会发放至玩家的邮箱。  
   如击杀数达 20、胜利场数达 10，可获得特殊奖励。
@@ -140,11 +140,11 @@ _\* 新增或有改动_
 
 ## 往年活动
 
-- [2021](nyaa/activities/2021.md)
-- [2020](nyaa/activities/2020.md)
-- [2019](nyaa/activities/2019.md)
-- [2018](nyaa/activities/2018.md)
-- [2017](nyaa/activities/2017.md)
-- [2016](nyaa/activities/2016.md)
-- [2015](nyaa/activities/2015.md)
-- [2014](nyaa/activities/2014.md)
+- [2021](legacy/activities/2021.md)
+- [2020](legacy/activities/2020.md)
+- [2019](legacy/activities/2019.md)
+- [2018](legacy/activities/2018.md)
+- [2017](legacy/activities/2017.md)
+- [2016](legacy/activities/2016.md)
+- [2015](legacy/activities/2015.md)
+- [2014](legacy/activities/2014.md)

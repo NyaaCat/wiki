@@ -1,8 +1,8 @@
 # 2020 年国庆节活动兑换道具
 
 :people_holding_hands: 国庆活动包含两大部分，分别是：
-- **围攻行动**（[道具详情](#围攻行动)）（[活动内容](nyaa/activities#national-day-besiege)）
-- **王牌战机**（[道具详情](#王牌战机)）（[活动内容](nyaa/activities#national-day-airfight)）
+- **围攻行动**（[道具详情](#围攻行动)）（[活动内容](legacy/activities#national-day-besiege)）
+- **王牌战机**（[道具详情](#王牌战机)）（[活动内容](legacy/activities#national-day-airfight)）
 
 ## 围攻行动
 
