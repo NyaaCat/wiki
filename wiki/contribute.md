@@ -7,7 +7,7 @@ NyaaWiki 采用 [Docsify](https://docsify.js.org) 构建，源文件存放于 [G
 - 了解 Markdown、CommonMark 和 Github Flavored Markdown 语法。
 - 了解 Git 的基本用法，能够解决简单的文件冲突。
 - 有较好的文字表达能力。
-- 了解 NyaaCat 社区和喵窝服务器的内容。
+- 了解 NyaaCat 社区和喵窝、毛线等社区服务器的内容。
 
 ### 参与方式
 
@@ -46,6 +46,7 @@ NyaaWiki 采用 [Docsify](https://docsify.js.org) 构建，源文件存放于 [G
     + 以及其它。
   - `nfs` - "Need For Speed" 子服务器相关内容。
   - `nyaa` - 喵窝世界的各项设定、村落、经济、工程、特色物品和活动等等。
+  - `kedama` - 毛线服务器相关的各项内容。
   - `pvp` - "PVP" 子服务器相关内容。
   - `space` - 玩家产生的服务器相关艺术作品，包括绘画、游戏内合影、音视频等。
   - `tutorial` - 玩家贡献的各种教程。这里指的是手把手式、非常 case specific 的教程，而非一般的通用教学和知识整理。  
