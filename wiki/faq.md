@@ -254,7 +254,7 @@
     +   希望获取正版 giftcode 的原因
     +   接触 Minecraft 历史
     +   优秀作品，包括但不限于 Minecraft 建筑作品，附有图或作品地址
--->
+    -->
 
 ?> :construction_worker: **我不从事 IT 相关行业 / 我对 IT 相关领域没有兴趣，可以加入这个社区吗？**
 
@@ -278,7 +278,7 @@
 
 ?> :red_circle: **服务器地址无法解析？显示 Unknown host?**
 
-请更新您的 DNS。[戳这里](http://tools.cloudxns.net/Index/Diag)。
+请更新您的 DNS。[戳这里查询目前使用的 DNS 地址](https://ping.huatuo.qq.com/)。
 
 
 ?> :orange_circle: **GNU/Linux 下 Minecraft 如何输入中文（或其他 CJK 字符）？**
