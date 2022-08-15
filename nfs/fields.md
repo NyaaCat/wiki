@@ -18,13 +18,13 @@
 
 - 检查点数量：74
 - 及格线：4分50秒
-- [开赛预告](https://bbs.nyaa.cat/d/1873-2021-world-wings-rally)
-- [成绩提交](https://community.craft.moe/d/2482-2021-world-wings-rally)（7月31日至8月7日）
-- [排名公示](https://bbs.nyaa.cat/d/1886-wwr2021)
+- [开赛预告](https://community.craft.moe/d/2466)
+- [成绩提交](https://community.craft.moe/d/2482)（7月31日至8月7日）
+- [排名公示](https://community.craft.moe/d/2509)
 - [快速飞行示范](https://www.bilibili.com/video/BV15v411J7aX/)，仅供参考
 
 
-- [倒飞挑战](https://community.craft.moe/d/2496-2021wwr)（非官方）
+- [倒飞挑战](https://community.craft.moe/d/2496)（非官方）
 
 <details>
 <summary>:construction_worker: 建设人员名单</summary>
@@ -60,9 +60,10 @@ Tormentia
   + `Atom202SLL`
   + `Crystal_dorufin`
   + `TMCT_xiaomo`  
-<span class="nw-spoiler">某不愿透露姓名的喵：这是刺杀名单吗</span>
-- [成绩提交](https://bbs.nyaa.cat/d/1737)**（截止时间已过）**
-- [成绩公布](https://bbs.nyaa.cat/d/1754)
+   <span class="nw-spoiler">某不愿透露姓名的喵：这是刺杀名单吗</span>
+- [开赛预告](https://community.craft.moe/d/2004)
+- [成绩提交](https://community.craft.moe/d/2005)**（截止时间已过）**
+- [成绩公布](https://community.craft.moe/d/2036)
 - [飞行赛道攻略](https://www.bilibili.com/video/BV1T54y1i74E)
 
 ### WWR 2019
@@ -71,7 +72,8 @@ Tormentia
 
 - 检查点数量：70
 - 及格线：4′10″
-- [成绩提交](https://bbs.nyaa.cat/d/1454)**（截止时间已过）**
+- [开赛预告](https://community.craft.moe/d/1006)
+- [成绩提交](https://community.craft.moe/d/1030)**（截止时间已过）**
 - [飞行赛道攻略](https://www.bilibili.com/video/av58730575)
 
 ### WWR 2018

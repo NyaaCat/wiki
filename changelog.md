@@ -13,7 +13,7 @@
 - **修订了对社区的定义。**现在“NyaaCat 社区”同时囊括原喵窝、毛玉线圈物语玩家社区，而且内容不仅限于 *Minecraft*。
 - 原毛玉线圈物语社区论坛（地址 `forum.craft.moe`）改名为“NyaaCat 社区论坛”，调整了版块。现在重定向至 `community.craft.moe`。
 - 喵窝论坛（原地址 `bbs.nyaa.cat`）关闭。现在重定向至“NyaaCat 社区论坛”。
-- 原喵窝 Wiki （地址 `wiki.nyaa.cat`）现在起接受原毛玉线圈物语社区的内容投稿。
+- 原喵窝 Wiki （地址 `wiki.nyaa.cat`）现在起接受原毛玉线圈物语社区的内容投稿，亦可从 `wiki.craft.moe` 访问了。
 - 现在所有 *Minecraft* 服务器入口的标语（MOTD）统一为同时显示喵窝与毛玉线圈物语。
 - 其余现有的运营策略维持不变。
 

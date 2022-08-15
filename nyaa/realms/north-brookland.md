@@ -17,7 +17,7 @@
 北溪台已接入**下界基岩之上冰道交通网东线**，入口位于 `(5608, -5844)`。  
 北溪台和周边卫星城之间，也通了地铁，未来将接入新北市的公共铁路网。以下是线路图。
 
-![北溪台地铁](https://bersella-ai.cc/nyan/map-NorthBrook-subway.png)
+![北溪台地铁](https://dl.bersella-ai.cc/nyaa/map-NorthBrook-subway-fs8.png)
 
 ***
 

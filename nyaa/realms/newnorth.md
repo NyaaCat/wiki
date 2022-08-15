@@ -125,7 +125,7 @@ _狸猫_  家设有公共建材仓库。取得同意后，可与*狸猫*  共建
 
 以下数据截至  **2018 年 6 月 15 日**。
 
-![](https://bersella-ai.cc/nyan/map-NewNorth-subway.png)  
+![](https://dl.bersella-ai.cc/nyaa/map-NewNorth-subway-fs8.png)  
 【[相关页面](tutorial/map-navi/railway-universal-Bersella "路痴、新喵士的解药：全喵窝铁路线指南（小爱版）")】
 
 #### 车站概览

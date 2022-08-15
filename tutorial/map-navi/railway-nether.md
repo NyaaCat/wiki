@@ -30,7 +30,7 @@
 
 > **『下界地铁』地图**
 
-![喵窝下界轨道交通线路图](https://bersella-ai.cc/nyan/map-nether-traffic.png)
+![喵窝下界轨道交通线路图](https://dl.bersella-ai.cc/nyaa/map-nether-traffic-fs8.png)
 
 下界地铁各站的出入口可参考上图中的介绍，入站、出站均有电梯插件进行支持，大部分线路均为双路、双向自加速铁路和冰道的混合动力模式（俗称冰铁），玩家可自选使用矿车或船进行移动，相关载具需提前自备。
 
@@ -68,4 +68,4 @@
 交通网复线自 `(0,130,0)` 向四个方向拓展，伸出四条主干道。
 截至目前（{docsify-updated}），该交通网已接入的地点如下：
 
-![下界交通网](https://bersella-ai.cc/nyan/map-nether-bedrock-traffic.png)
+![下界交通网](https://dl.bersella-ai.cc/nyaa/map-nether-bedrock-traffic-fs8.png)
