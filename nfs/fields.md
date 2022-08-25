@@ -6,13 +6,20 @@
 
 本次在一座名为*阿克斯城* 的中世纪城市当中展开飞行角逐。
 
-- 检查点数量：待公布
-- 及格线：待公布
+- 检查点数量：98
+- 及格线：215 秒
 - [开赛预告](https://community.craft.moe/d/2987)
+- [成绩提交](https://community.craft.moe/d/3005)（8月15日至21日）
+- [参考路线](https://www.bilibili.com/video/BV1Ct4y1g7YY) by Cocoabeans_
 
-**地图提供：** *阿尔萨斯工业* 建筑团队
+<details>
+<summary>:construction_worker: 建设人员名单</summary>
 
-**制作人员：** `Yaolinger102`
+**地图制作：** [阿尔萨斯工业](https://space.bilibili.com/47983516) 建筑团队  
+**宣传设计渲染、标点制作：** `Yaolinger102`  
+**渲染指导：** `FollowerZz`
+
+</details>
 
 ### WWR 2021 :id=wwr2021
 
@@ -84,6 +91,18 @@ Tormentia
 
 - 检查点数量：60
 - [成绩提交](https://bbs.nyaa.cat/d/1315)**（截止时间已过）**
+
+### KPC 2022 - 毛运会跑酷锦标赛 :id=ksc2022
+
+!> **该场所仅于活动期间限定开放。**
+
+在毛线乐园的街道与建筑之间穿梭。
+
+- 检查点数量：22
+- 及格线：420 秒
+- [开赛预告、成绩提交](https://community.craft.moe/d/3010)（8月17日至23日）
+- [排名公示](https://community.craft.moe/d/3067)
+- **制作人员：**`Bai_Tian` `Ghost_wh1026` `NAGISAKI_MINATO` `langua`
 
 ### ~~KSC 2021 - 毛运会跑酷项目~~ :id=ksc2021
 
