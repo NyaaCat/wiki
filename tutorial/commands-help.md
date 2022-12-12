@@ -17,7 +17,7 @@
 | `/espawn`:smile_cat: | 返回喵窝默认出生点 | 当前为大神殿 |
 | `/spawn`<br>`/town tp`:smile_cat: | 返回玩家设定的出生点 | |
 | `/mvtp [维度代号]`:smile_cat: |前往指定[维度](nyaa/worlds.md "也称世界")的默认出生点 ||
-| `/back`:smile_cat:  | 返回上一次传送前所在位置 | 收费 |
+| `/back`:smile_cat:  | 返回上一次传送前所在位置<br/>**注意！现在不会传送到上次死亡位置** | 收费 |
 | `/home`:smile_cat:  | 传送回家 | 收费 |
 | `/home [家的名称]`:smile_cat:  | 传送回指定名称的家 | 收费 |
 | `/home bed`:smile_cat: | 传送回你上一次使用过的床的位置 | 收费 |
