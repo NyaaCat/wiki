@@ -6,14 +6,22 @@
 
 !> 除管理组公告、服务器重大变动之外，其余内容会逐步迁移至[民间事件](changelogs/unofficial-events.md)。
 
+## 2023
+
+### 2023-1-2 新版本，但是是小游戏
+
+经*奈诺 `Aqua_nano`* [引荐](https://community.craft.moe/d/3501)，小游戏“[Dungeon of the Arbalist](https://www.planetminecraft.com/project/dungeon-of-the-arbalist-dungeon-crawler-zombies-game-1-50-players-realms-map-1-17-1-by-command-realm/)”现已登陆社区。可用 `1.19.3` 客户端登录 `hana.nyaacat.com` 以体验。  
+<span class="nw-spoiler">这也意味着 hana 代号的用途出现了变更</span>
+
 ## 2022
 
 ### 2022 秋季
 
 **主世界：**
 
-- 现在幻翼被完全逐出喵窝了。
-- 现在灾厄巡逻队再度出没于世界各处。
+- 现在幻翼被完全逐出喵窝及毛线了。
+- 现在灾厄巡逻队再度出没于喵窝各处。*（毛线待确认）*
+- 恢复了木牌商店，目前仅支持出售，且用法有变动。
 
 **服务器变动：**
 

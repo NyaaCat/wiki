@@ -141,55 +141,10 @@ Need For Speed 服务器为喵窝的竞速游戏服务器。玩家可以在这�
 
 ### NyaaCat: Flourish Moment :id=hana
 
-喵窝的 **Mod 服务器**，名称寓意为“繁华绽放之瞬间”。通常是中短期的，每期内容不尽相同。  
-如要登入，需使用对应的 Mod 客户端——原版通常无法进入；登录喵窝/毛线之后，执行命令 `/server hana`，即登入该服务器。退出后，切换回高版本原版客户端，即可回到你熟悉的世界。
+~~喵窝的 **Mod 服务器**，名称寓意为“繁华绽放之瞬间”。通常是中短期的，每期内容不尽相同。~~  
+目前开放小游戏“[Dungeon of the Arbalist](https://www.planetminecraft.com/project/dungeon-of-the-arbalist-dungeon-crawler-zombies-game-1-50-players-realms-map-1-17-1-by-command-realm/)”供社区玩家体验。注意游戏说明均为英文。
 
-所以看到好玩的 Mod 可以推荐到[论坛](https://bbs.nyaa.cat/d/1824-mod)啦。
-
-- **服务器代号：**`hana`
-- **游戏版本：**`1.18.1`
-- 当前存档：第十期 `2022.2`
-- P.S. 主群已分享所需模组的合集，需自行导入。
-
-!> 游玩 Mod 服务器，需将 Java 版本更新至 17。  
-内存应至少分配 4GB。
-
-<details>
-<summary>:notebook_with_decorative_cover: 本期模组列表（点击展开）</summary>
-
-?> :newspaper: **内容类**
-
-| 模组 | 功能简述 | 前置模组 |
-|-|-|-|
-| [Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2) | **“应用能源”**，更科学、智能地存储与运输物品，以及更多 ||
-| _插件：[Wireless Terminals](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2-wireless-terminals)_ | 整合并添加无线合成、流体、接口终端等多种终端机 | “应用能源” |
-| [Botania](https://botaniamod.net/) | **“植物魔法”**，蕴含大自然魔力的科技模组 ||
-| [Hookshot](https://www.curseforge.com/minecraft/mc-mods/cammies-combat-tweaks) | 加入一种立体机动装置 ||
-| [Modern Industrialization](https://www.curseforge.com/minecraft/mc-mods/modern-industrialization) | 引入现代工业设备 | [Indium](https://www.curseforge.com/minecraft/mc-mods/indium)<br /><sup>*为兼容Sodium所需</sup> |
-| [Promenade](https://www.curseforge.com/minecraft/mc-mods/promenade) | 加入鸭子及全新生物群系 | [Dawn](https://www.curseforge.com/minecraft/mc-mods/dawn) |
-| [Sky Villages](https://www.curseforge.com/minecraft/mc-mods/sky-villages-fabric) | 随机生成浮空村庄 | [Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config)<br />[Cloth API](https://www.curseforge.com/minecraft/mc-mods/cloth-api) |
-| The [Wild Mod](https://www.curseforge.com/minecraft/mc-mods/the-wild-mod)| 抢先体验 *Minecraft* 1.19 新内容——青蛙和循声守卫等 | |
-| [Trinkets](https://www.curseforge.com/minecraft/mc-mods/the-wild-mod)| 可佩戴饰品 | |
-| [When Dungeons Arise](https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise-fabric) | 随机生成神庙、宫殿、要塞、城镇，以及帆船、飞船、树屋等结构 | |
-
-
-?> :wrench: **辅助类**  
-此分类下的模组可独立于 Mod 服务器使用。
-
-
-| 模组 | 功能简述 | 前置模组 |
-|-|-|-|
-| Fabric API | | |
-| [Iris](https://irisshaders.net/) | 替代Optifine | [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) |
-| [Krypton](https://www.curseforge.com/minecraft/mc-mods/krypton) | 优化客户端的网络性能 | |
-| [Lamb Dynamic Lights](https://www.curseforge.com/minecraft/mc-mods/neat) | 加入动态光源 | [ModMenu](https://www.curseforge.com/minecraft/mc-mods/modmenu) |
-| [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) | 优化客户端性能 ||
-| [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor) | 优化光照性能 | |
-| [Roughly Enough Items](https://irisshaders.net/) | 物品管理器 | [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-forge) |
-
-
-</details>
-
+以 `1.19.3` 客户端登录 `hana.nyaacat.com` 即可游玩。
 
 
 ### New Features Express :id=pre
@@ -198,12 +153,10 @@ Need For Speed 服务器为喵窝的竞速游戏服务器。玩家可以在这�
 此世界仅供测试，不设备份，不保证长期在线，请勿建造重大工程。
 
 - **服务器代号：**`pre`
-- **当前版本：**`1.18.1`
-  + 以 `1.18.1` 客户端登录后，执行命令 `/server pre` 开始体验。
 
 ### Hub Server
 
-“待机服务器”，只有一个陈设简单的出生点。如（首次）使用除**对应主服务器之当前版本**以外的客户端登录喵窝（例如 1.12.2），将自动进入此地图。
+“待机服务器”，只有一个陈设简单的出生点。如（首次）使用除**对应主服务器之当前版本**以外的客户端登录喵窝（例如 1.12.2），或者所在服务器面临停机维护，将自动进入此地图。
 
 - **服务器代号：**`hub`
 
