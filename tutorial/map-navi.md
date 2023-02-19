@@ -25,4 +25,4 @@
 - [下界铁路搭乘指南](tutorial/map-navi/railway-nether)
 - [喵窝轨道交通线路图（小爱版）](tutorial/map-navi/railway-universal-Bersella.md)   **目前持续更新中**
 - [交通线性地图](tutorial/map-navi/railway-linear-map)
-- [喵窝交通线路图（光棱版）](tutorial/map-navi/railway-universal-jack.md) 最后更新：2023 年 1 月
+- [喵窝交通线路图（光棱版）](tutorial/map-navi/railway-universal-jack.md) 最后更新：2023 年 2 月
