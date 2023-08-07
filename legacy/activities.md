@@ -26,6 +26,108 @@
 
 --------
 
+## 2023 劳动节活动「围攻行动 II Demo测试」 :id=labour-day
+
+> 本页依据[预告帖](https://community.craft.moe/d/3887)略有改动
+
+![ad](https://global.cdn.blingwang.cn/2023/05/01/644f92deec348.png)
+
+本来准备五一给大家做【出发！日卡卡省的垂钓之旅！】2.0的  
+但是！  
+我们的把鱼鱼背在背上的功能在1.19.2  
+失效了！！！  
+所以我们把当前在1.19.2同步开发的【SiegeGame II 丨围攻行动 II】已经完成的部分展示给大家  
+希望各位玩的开心，并且能为我们接下来的开发提出宝贵的意见 (鞠躬)
+
+?> :clock3: **活动报名**
+
+- **参加方式**：在 5 月 2 日 12:00 ~ 5 月 5 日 24:00 内，进入游戏大厅选择装备后进入游戏场地
+- **活动服务器**：活动开始后，使用命令 `/server act2` 进入活动服务器，即可等待比赛开始。
+
+?> :balance_scale: **游戏规则**
+
+本次活动规则就是——  
+**没有规则！！！**
+
+- 玩家将会在大厅向前进入游戏，并在获得系统随机配装后被传送进入游戏地图。
+- 在游戏地图中，玩家各自为战。
+- 玩家完成击杀将会获取 1 击杀分数。
+- 得分排行榜将一直显示在玩家的侧边计分板。
+- 玩家死亡后会被清空背包传送回大厅。
+
+**所以！为了能出现在排行榜上，尽可能击杀敌人吧！**
+
+当然，如果不想打架也可以在大厅中选择观战。  
+当你厌倦了只是在一旁看着，也可以输入`/sa quit`回到大厅。
+
+?> :game_die: **游戏玩法**
+
+<details>
+<summary>:bowling: 道具介绍（点击展开）</summary>
+
+**枪械**是本次活动的重点；本次活动会公开总共 27 把不同的枪械。
+
+| 类别 | 枪支参考图 |
+|-|-|
+| **自动步枪** | ![rifle](https://global.cdn.blingwang.cn/2023/05/01/644f7883e7b3e.png) ![rifle](https://global.cdn.blingwang.cn/2023/05/01/644f788470445.png) ![rifle](https://global.cdn.blingwang.cn/2023/05/01/644f7885a6ba5.png) ![rifle](https://global.cdn.blingwang.cn/2023/05/01/644f7885e713d.png) ![rifle](https://global.cdn.blingwang.cn/2023/05/01/644f78864e58a.png) ![rifle](https://global.cdn.blingwang.cn/2023/05/01/644f7886b6579.png) |
+| **冲锋枪** | ![submachine-gun](https://global.cdn.blingwang.cn/2023/05/01/644f78871f334.png) ![submachine-gun](https://global.cdn.blingwang.cn/2023/05/01/644f788787eac.png) ![submachine-gun](https://global.cdn.blingwang.cn/2023/05/01/644f788acbc29.png) ![submachine-gun](https://global.cdn.blingwang.cn/2023/05/01/644f788b2d134.png) ![submachine-gun](https://global.cdn.blingwang.cn/2023/05/01/644f788b81dec.png) ![submachine-gun](https://global.cdn.blingwang.cn/2023/05/01/644f788bdfd31.png) |
+| **狙击步枪** | ![sniper](https://global.cdn.blingwang.cn/2023/05/01/644f788212bd4.png) ![sniper](https://global.cdn.blingwang.cn/2023/05/01/644f7881893ca.png) |
+| **轻机枪** | ![machine-gun](https://global.cdn.blingwang.cn/2023/05/01/644f7882911d5.png) ![machine-gun](https://global.cdn.blingwang.cn/2023/05/01/644f788376761.png) |
+| **霰弹枪** | ![shotgun](https://global.cdn.blingwang.cn/2023/05/01/644f78812035d.png) ![shotgun](https://global.cdn.blingwang.cn/2023/05/01/644f788309386.png) ![shotgun](https://global.cdn.blingwang.cn/2023/05/01/644f788fdac4c.png) ![shotgun](https://global.cdn.blingwang.cn/2023/05/01/644f789290d34.png) |
+| **手枪** | ![pistol](https://global.cdn.blingwang.cn/2023/05/01/644f788e20473.png) ![pistol](https://global.cdn.blingwang.cn/2023/05/01/644f789214393.png) ![pistol](https://global.cdn.blingwang.cn/2023/05/01/644f788f368cf.png) ![pistol](https://global.cdn.blingwang.cn/2023/05/01/644f788c465a0.png) |
+| **大威力手枪** | ![handgun](https://global.cdn.blingwang.cn/2023/05/01/644f78907554a.png) ![handgun](https://global.cdn.blingwang.cn/2023/05/01/644f7890f298f.png) ![handgun](https://global.cdn.blingwang.cn/2023/05/01/644f788dbb81c.png) |
+
+并且和之前不同的是，我们不用在【SHIFT+鼠标左键】开连发了！！！
+新版枪械插件操作为：
+
+- 【鼠标右键】开火
+- 【鼠标左键】瞄准
+- 【F】更换弹匣
+- 【奔跑中SHIFT】滑铲！！！
+
+我们还制作了新的**投掷物**：
+
+| 投掷物 | 功能 | 参考图 |
+|-|-|-|
+| **破片手雷** | 【鼠标右键】投掷<br>投出的手雷会在碰撞到方块后反弹<br>投出 3.5 s 后爆炸<br>爆炸之前会有“滴滴滴”的响声 | ![grenade](https://global.cdn.blingwang.cn/2023/05/01/644f82ae61a1e.png) |
+| **震爆弹** | 【鼠标右键】投掷<br>投出的震爆弹会在碰撞到方块后反弹<br>投出 2 s 后爆炸<br>使周围的玩家缓慢 | ![flashbomb](https://global.cdn.blingwang.cn/2023/05/01/644f82add3d5b.png) |
+
+**其它道具**：
+
+| 辅助道具 | 功能 | 参考图 |
+|-|-|-|
+| **急救装置** | 【鼠标右键】使用<br>恢复自身全部生命值<br>使用后冷却 30 秒<br>需手持装填，装填时间较长 | ![aid-kit](https://global.cdn.blingwang.cn/2023/05/01/644f81d3ed7c2.png) |
+| **弃权装置** | 【鼠标右键】使用<br>杀死自己回到大厅<br>**慎用！** | ![exit-node](https://global.cdn.blingwang.cn/2023/05/01/644f81d39a683.png) |
+| **摄像头** | 设置在游戏场地各个角落<br>用于监视玩家在游戏中的行为<br>玩家被照射 4 秒后会【发光】 | ![camera](https://global.cdn.blingwang.cn/2023/05/01/644f84ff30598.png) |
+
+</details>
+
+**方块破坏机制**：在新版中，方块破坏会有多个阶段；枪械和爆炸不仅能杀死玩家，也能对方块造成损坏。  
+示例：在场地中随处可见【黏土方块】墙体；墙体受冲击后会转变为【破碎的黏土方块】；继续受冲击则转变为【墙体支架】。
+
+![destruction](https://global.cdn.blingwang.cn/2023/05/01/644f8fe90e5ae.png)
+
+<details>
+<summary>:world_map: 游戏场地（点击展开）</summary>
+
+**【切尔诺贝格 丨 Chernobyk】**
+
+前红色国家的废弃发电厂。玩家将在此处进行混战。  
+场景中有着大量可被破坏方块；请大肆破坏！释放天性！
+
+游戏场地每过5分钟会进行重置，每次重置耗时 20 秒。场地重置时，玩家将被传送回大厅。
+
+![chernobyk](https://global.cdn.blingwang.cn/2023/05/01/644f502814807.png/w1920q85)
+
+</details>
+
+!> **注意事项**
+
+- 本次活动游戏版本为 `1.19.2`。
+- PVP 活动惯例, 请关闭玩家雷达等一系列作弊性质的辅助工具。
+- 请保持良好的游戏心态。
+- 请勿恶意刷战绩，一经发现，立即交由管理处置。
+
 ## 2023 春节活动【幻境战记：职业死斗2.0】 :id=spring-fes
 
 > 关键词：PVP、职业、小队、死斗  

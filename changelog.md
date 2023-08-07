@@ -8,6 +8,16 @@
 
 ## 2023
 
+### 2023-6-23 Minecraft 1.20.1 先行体验
+
+服务器 `pre` 即日起开放新版本 `1.20.1` 测试。  
+目前已有升级规划，现正等待现有插件完成跟进。升级将另行通告。
+
+### 2023-6-14 nyaa.cat 域名和主页不可达
+
+据报告，受注册局影响，`nyaa.cat` 域名被标记为 Serverhold 且不可解析。七月已恢复解析，但受近期网络攻击影响，主页、Wiki 以及游戏服务器等仍可能难以连接。\
+有热心伙伴启用了临时域名 `nyaa.id` 作为备份。
+
 ### 2023-1-2 新版本，但是是小游戏
 
 经*奈诺 `Aqua_nano`* [引荐](https://community.craft.moe/d/3501)，小游戏“[Dungeon of the Arbalist](https://www.planetminecraft.com/project/dungeon-of-the-arbalist-dungeon-crawler-zombies-game-1-50-players-realms-map-1-17-1-by-command-realm/)”现已登陆社区。可用 `1.19.3` 客户端登录 `hana.nyaacat.com` 以体验。  
