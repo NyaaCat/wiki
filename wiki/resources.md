@@ -27,20 +27,13 @@
 
 ——以下整合包可正常登录喵窝世界，以及除 `hana` 以外的所有[子服务器](wiki/server-network)。
 
-### Minecraft 1.18.2
+### Minecraft 1.20.1
 
-?> :heart: 【2022.3.14更新】**Minecraft 1.18.2 简单整合**
+?> :heart: 【2023.6.23更新】**Minecraft 1.20.1 简单整合**
 
-由 *BlingWang* 整理，提供可被 MultiMC 导入的 Mod 包。  
-[原帖与下载地址](https://community.craft.moe/d/2735-minecraft-118x)
+由 *BlingWang* 整理，提供可被 MultiMC 导入的 Mod 包。
 
-<details>
-<summary>默认包含模组及资源包</summary>
-
-[模组列表](https://global.cdn.blingwang.cn/2022/03/14/6101253b41c65.png)
-[资源包列表](https://global.cdn.blingwang.cn/2022/03/08/56b12d625b9e9.png)
-
-</details>
+[原帖与下载地址](https://community.craft.moe/d/3934) [模组列表](https://moddermore.net/list/VAJaICLWh_k8)
 
 ## 模组服务器整合包
 
@@ -76,7 +69,15 @@
 * 按住 Shift 键单击一种交易内容即可将背包中的物品全部用于交易
 * 按住 Ctrl 键单击一种交易内容即可只准备交易（就像原版一样）
 
-[CurseForge 介绍 / 下载](https://www.curseforge.com/minecraft/mc-mods/easiervillagertrading)
+[Modrinth 介绍 / 下载](https://modrinth.com/mod/easiervillagertrading/versions)
+
+### [Fabric] Iris :id=iris
+
+兼容 OptiFine 光影包的开源光影模组，需与 Sodium 一同使用。
+
+- [官方网页](https://irisshaders.dev)
+- FAQ、光影包兼容列表和 Iris 之限制可在[GitHub 页面](https://github.com/IrisShaders/Iris)查阅
+- [Modrinth 下载地址](https://modrinth.com/mod/iris/versions)
 
 ### [Fabric] Sodium :id=sodium
 
@@ -85,13 +86,13 @@
 
 - MCBBS 上的[介绍](https://www.mcbbs.net/thread-1079347-1-1.html)
 - [GitHub 下载地址](https://github.com/jellysquid3/sodium-fabric/releases)
-- [CurseForge 下载地址](https://www.curseforge.com/minecraft/mc-mods/sodium/files)
-  + [Gitee镜像](https://gitee.com/mirrors_trending/sodium-fabric/tree/1.18.x%2Fdev/)，可供自行编译（选择 `1.18.x/dev` 分支，编译后即适配 1.18.2）
+- [Modrinth 下载地址](https://modrinth.com/mod/sodium/versions)
+  + [Gitee镜像](https://gitee.com/mirrors_trending/sodium-fabric/tree/1.20%2Fdev/)，可供自行编译
 
 !> **Optifine 和 Sodium 不兼容。** 使用本插件前，须先移除/禁用 OptiFabric 和 Optifine，反之亦然。  
 除提高性能以外，其并不能取代 Optifine（包括光影、披风、资源包的额外特性等）。
 
-### [Forge] JourneyMap
+### [Forge / Fabric / Quilt] JourneyMap
 
 VoxelMap 的替代品，其优势是：
 1. 界面简洁美观
@@ -101,9 +102,10 @@ VoxelMap 的替代品，其优势是：
 1. 可生成 PNG 格式的世界地图
 1. 拥有更多选项
 
-当前支持最高至 1.18.2 的游戏版本，仅支持 Forge 框架。
+当前支持最高至 1.20.2 的游戏版本。
 
-- [CurseForge 下载地址](https://minecraft.curseforge.com/projects/journeymap/files)
+- [官方指引及教程](http://journeymap.info/)
+- [Modrinth 下载地址](https://modrinth.com/mod/journeymap/versions)
 - MCBBS 上的[介绍](https://www.mcbbs.net/forum.php?mod=viewthread&tid=612917)
 
 ## 资源包（材质）
@@ -113,7 +115,7 @@ VoxelMap 的替代品，其优势是：
 -   [ChromaHills](http://www.chromahills.com/)
 -   [Soartex Fanver](http://soartex.net/downloads/)
 -   [R3D Realism](http://www.minecraftforum.net/topic/1182714-)
-- [Faithful](https://faithful.team) —— 原版材质高清重制
+- [Faithful](https://www.faithfulpack.net) —— 原版材质高清重制
 - [ZigZag](https://zigzagpack.com/) —— 敲可爱，Mojang还进行过[采访](https://www.mcbbs.net/thread-1075295-1-1.html)
 
 ## 光影包
