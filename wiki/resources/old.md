@@ -6,6 +6,21 @@
 
 ## 整合包（客户端）
 
+### Minecraft 1.18.2
+
+?> :heart: 【2022.3.14更新】**Minecraft 1.18.2 简单整合**
+
+由 *BlingWang* 整理，提供可被 MultiMC 导入的 Mod 包。  
+[原帖与下载地址](https://community.craft.moe/d/2735-minecraft-118x)
+
+<details>
+<summary>默认包含模组及资源包</summary>
+
+[模组列表](https://global.cdn.blingwang.cn/2022/03/14/6101253b41c65.png)
+[资源包列表](https://global.cdn.blingwang.cn/2022/03/08/56b12d625b9e9.png)
+
+</details>
+
 ### Minecraft 1.17.1
 
 ?> :heart: 【2021.10.24更新】**Minecraft 1.17.1 简单整合**
