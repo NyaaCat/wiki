@@ -24,7 +24,7 @@
 | `/sethome`:smile_cat:  | 设置家 | 收费 |
 | `/sethome [家的名称]`:smile_cat:  | 设置一个家 | 收费 |
 | `/delhome [家的名称]`:smile_cat:  | 删除一个家 ||
-| `/town select` | 变更出生点，村落间传送 | 初次免费，此后每次均收费<br />*目前仅开通了“樱华町”* |
+| `/town select` | 在主世界和资源维度间切换<br/>:smile_cat:变更出生点，村落间传送 | 初次免费，此后每次均收费 |
 | `/tpa [玩家 ID]`:smile_cat: | 将自己传送到对方身边 | 传送前需经对方同意 |
 | `/tpahere [玩家 ID]`:smile_cat: | 邀请对方传送到自己身边 | 需经对方确认同意 |
 | `/server [服务器代号]` |前往指定的[服务器](wiki/server-network.md "查看服务器列表") | |
