@@ -20,9 +20,9 @@
 
 > 全下界交通图概览
 
-黑灰色线路为Y5[主网络](#y5)，彩色线路为基岩上方[复线](#y130)。等比例图请见[喵窝交通线路图（光棱版）](tutorial/map-navi/railway-universal-jack.md)。
+黑灰色线路为Y5[主网络](#y5)，彩色线路为基岩上方[复线](#y130)。等比例图请见[喵窝交通线路图（光棱版）](tutorial/map-navi/railway-universal-len.md)。
 
-![喵窝交通线路图（光棱版）](railway-jack/nether-simple.svg)
+![喵窝交通线路图（光棱版）](railway-len/nether-simple.svg)
 
 --------
 
