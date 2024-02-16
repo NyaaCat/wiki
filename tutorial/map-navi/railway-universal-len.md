@@ -1,6 +1,6 @@
 # 喵窝交通线路图（光棱版）
 
-最后更新：2023 年 2 月
+最后更新：2024 年 2 月
 
 本页面提供的交通图由[地铁路线绘制器](https://railmapgen.github.io/rmp/)生成，工程文件在 GitHub 上，支持协作更新。
 
@@ -28,12 +28,12 @@
 4. 🚪 代表传送门坐标（和 🔼 或者 🔽 连通）（仅简化地图使用。等比例地图使用支线表示传送门位置）
 </details>
 
-![下界交通线路图](railway-jack/nether-simple.svg)
+![下界交通线路图](railway-len/nether-simple.svg)
 
 
 <details><summary>等比例路线图体积较大，建议在新标签页中打开。</summary>
 
-![等比例下界交通路线图](railway-jack/nether-full.svg)
+![等比例下界交通路线图](railway-len/nether-full.svg)
 </details>
 
 ## 协作更新指南
@@ -45,10 +45,10 @@
 
 > 下界交通线路图
 
-- 等距图工程文件：`railway-jack/nether-full.json`
-- 等距图：`railway-jack/nether-full.svg`
-- 简化图工程文件：`railway-jack/nether-simple.json`
-- 简化图：`railway-jack/nether-simple.svg`
+- 等距图工程文件：`railway-len/nether-full.json`
+- 等距图：`railway-len/nether-full.svg`
+- 简化图工程文件：`railway-len/nether-simple.json`
+- 简化图：`railway-len/nether-simple.svg`
 
 地图编辑约定：
 
