@@ -172,7 +172,7 @@ NyaaWiki **并不是** 针对《Minecraft》游戏的指南和知识库，它是
 *   更改昵称 `/nick [昵称]`
   - 此昵称会覆盖游戏 ID 显示，但不影响之。
 
-更改前后缀需要一定的卷和经验，详情见 [Ukit 插件指南](legacy/tutorial/plugins/ukit.md#chat-prefix-suffix)。
+更改前后缀需要一定的卷和经验，详情见 [Ukit 插件指南](tutorial/plugins/ukit?id=chat-prefix-suffix)。
 
 * * *
 
