@@ -8,14 +8,14 @@
 
 NyaaWiki **并不是** 针对《Minecraft》游戏的指南和知识库，它是针对 NyaaCat 社区和喵窝服务器的指南、手册和知识库系统。如果希望获得关于 Minecraft 游戏本身的信息，请访问：
 
-* [中文 Minecraft Wiki](https://minecraft-zh.gamepedia.com/)
+* [中文 Minecraft Wiki](https://zh.minecraft.wiki)
   - 如果在中国内地，可访问此 [镜像站](https://wiki.biligame.com/mc)
-* [英文 Minecraft Wiki](http://minecraft.gamepedia.com/Minecraft_Wiki)
+* [英文 Minecraft Wiki](https://minecraft.wiki)
 
-如果你是第一次玩 Minecraft，请首先参考官方 Wiki 的[《菜鸟手册》](https://minecraft-zh.gamepedia.com/%E6%95%99%E7%A8%8B/%E8%8F%9C%E9%B8%9F%E6%89%8B%E5%86%8C)<sup>（或者[内地镜像站页面](https://wiki.biligame.com/mc/%E6%95%99%E7%A8%8B/%E8%8F%9C%E9%B8%9F%E6%89%8B%E5%86%8C)）</sup>。  
-如果你之前没有在其它正版 Java 版服务器游玩的经历，请务必确认你使用的是 [Java 版客户端](https://minecraft-zh.gamepedia.com/Java%E7%89%88)，并通过**在 minecraft.net 注册和激活的 Java 版账号**登录游戏。
+如果你是第一次玩 Minecraft，请首先参考官方 Wiki 的[《菜鸟手册》](https://zh.minecraft.wiki/%E6%95%99%E7%A8%8B/%E8%8F%9C%E9%B8%9F%E6%89%8B%E5%86%8C)<sup>（或者[内地镜像站页面](https://wiki.biligame.com/mc/%E6%95%99%E7%A8%8B/%E8%8F%9C%E9%B8%9F%E6%89%8B%E5%86%8C)）</sup>。  
+如果你之前没有在其它正版 Java 版服务器游玩的经历，请务必确认你使用的是 [Java 版客户端](https://zh.minecraft.wiki/Java%E7%89%88)，并通过**在 minecraft.net 注册和激活的 Java 版账号**登录游戏。
 
-尽管也可以[借助 Geyser](https://bbs.nyaa.cat/d/1877) 来使用 [基岩版](https://minecraft-zh.gamepedia.com/%E5%9F%BA%E5%B2%A9%E7%89%88) 游玩喵窝服务器，但它并不受 Mojang 及喵窝官方支持，且你依然需要 Java 版账号来游玩。  
+尽管也可以[借助 Geyser](https://bbs.nyaa.cat/d/1877) 来使用 [基岩版](https://zh.minecraft.wiki/%E5%9F%BA%E5%B2%A9%E7%89%88) 游玩喵窝服务器，但它并不受 Mojang 及喵窝官方支持，且你依然需要 Java 版账号来游玩。  
 [网易（中国）版](https://mc.163.com/) 不受支持。
 
 - - -
@@ -172,7 +172,7 @@ NyaaWiki **并不是** 针对《Minecraft》游戏的指南和知识库，它是
 *   更改昵称 `/nick [昵称]`
   - 此昵称会覆盖游戏 ID 显示，但不影响之。
 
-更改前后缀需要一定的卷和经验，详情见 [Ukit 插件指南](legacy/tutorial/plugins/ukit.md#chat-prefix-suffix)。
+更改前后缀需要一定的卷和经验，详情见 [Ukit 插件指南](tutorial/plugins/ukit?id=chat-prefix-suffix)。
 
 * * *
 
