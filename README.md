@@ -10,7 +10,7 @@ NyaaCat 从 Minecraft 的玩家群体发展而来，是一个开放性、多元�
 
 ### 加入游戏
 
-服务器版本 Paper 1.20.1 **Online mode**
+服务器版本 Paper 1.20.4 **Online mode**
 
 ?> :floppy_disk: 如使用其他版本，包括 mod 服务器 (hana) 的客户端，可能导向待机服务器。请通过这里跳转至正确的服务器。
 
