@@ -96,7 +96,7 @@ WATER_SPLASH
 WATER_WAKE
 ```
 
-如果需要了解它们的效果，请戳 [这里](https://wiki.biligame.com/mc/%E9%A2%97%E7%B2%92)。
+如果需要了解它们的效果，请戳 [这里](https://wiki.biligame.com/mc/%E7%B2%92%E5%AD%90)。
 
 ## 如何使用？
 
