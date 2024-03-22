@@ -16,7 +16,7 @@ UKit 包含了服务于玩家的一些辅助功能，以方便生活、展示自
 可以在聊天栏，以及本插件所有命名功能（前后缀、物品重命名、预编辑告示牌）等处使用多彩文字。  
 在执行下列各种命名类命令前，可用命令 `/echo [文本内容]` 进行测试，以免浪费现金；通过该命令发送的测试内容，不会被别人看到。
 
-* [样式代码介绍](https://minecraft-zh.gamepedia.com/%E6%A0%B7%E5%BC%8F%E4%BB%A3%E7%A0%81)（[内地镜像](https://wiki.biligame.com/mc/%E6%A0%B7%E5%BC%8F%E4%BB%A3%E7%A0%81)）
+* [样式代码介绍](https://zh.minecraft.wiki/w/%E6%A0%BC%E5%BC%8F%E5%8C%96%E4%BB%A3%E7%A0%81)
 * [RGB 调色板](https://www.matools.com/color)
 * [彩虹渐变文本生成器](http://patorjk.com/text-color-fader/)（[使用说明](https://bbs.nyaa.cat/d/1762)）
 
@@ -117,7 +117,7 @@ UKit 包含了服务于玩家的一些辅助功能，以方便生活、展示自
 ?> :game_die: 操作方法
 
 * 存储经验
-  1. 拿着[附魔之瓶](https://minecraft-zh.gamepedia.com/%E9%99%84%E9%AD%94%E4%B9%8B%E7%93%B6)**（原版物品）**
+  1. 拿着[附魔之瓶](https://zh.minecraft.wiki/w/%E9%99%84%E9%AD%94%E4%B9%8B%E7%93%B6)**（原版物品）**
   2. 执行命令 `/u xp store [经验值]`
 * 恢复经验
   1. 从存储的瓶子里恢复：`/u xp take [经验值]`
