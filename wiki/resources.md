@@ -104,17 +104,17 @@ VoxelMap 的替代品，其优势是：
 
 当前支持最高至 1.20.2 的游戏版本。
 
-- [官方指引及教程](http://journeymap.info/)
+- [官方指引及教程](https://teamjm.github.io/journeymap-docs/latest/)
 - [Modrinth 下载地址](https://modrinth.com/mod/journeymap/versions)
 - MCBBS 上的[介绍](https://www.mcbbs.net/forum.php?mod=viewthread&tid=612917)
 
 ## 资源包（材质）
 
 -   [Sphax PureBDCraft](https://bdcraft.net/purebdcraft-minecraft) —— 俗称“五边形”
--   [ShortBread](http://www.planetminecraft.com/texture_pack/shortbread--/)
--   [ChromaHills](http://www.chromahills.com/)
--   [Soartex Fanver](http://soartex.net/downloads/)
--   [R3D Realism](http://www.minecraftforum.net/topic/1182714-)
+-   [ShortBread](https://www.planetminecraft.com/texture-pack/shortbread--/)
+-   [ChromaHills](https://www.chromahills.com/)
+-   [Soartex Fanver](https://soartex.net/downloads/)
+-   [R3D Realism](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/1241290-r3d-craft-play-minecraft-in-high-definition)
 - [Faithful](https://www.faithfulpack.net) —— 原版材质高清重制
 - [ZigZag](https://zigzagpack.com/) —— 敲可爱，Mojang还进行过[采访](https://www.mcbbs.net/thread-1075295-1-1.html)
 
@@ -126,7 +126,7 @@ VoxelMap 的替代品，其优势是：
 
 ## 皮肤
 
--   [幻想乡人物皮肤](http://pan.baidu.com/s/1mgyq8mW)  by setomu@yuly
+-   [幻想乡人物皮肤](https://pan.baidu.com/s/1mgyq8mW)  by setomu@yuly
 -   [Love Live! 皮肤合集](https://www.mcbbs.net/thread-315887-1-1.html)  by Arasd_Yu
 - 还有其它的吗？[在这里挑选！](https://www.minecraftskins.com/)
 

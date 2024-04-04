@@ -6,7 +6,7 @@
 
 ### 申请要求
 
-提交申请之前，建议先仔细阅读[提问的智慧](http://lilydjwg.vim-cn.com/articles/smart-questions.html)
+提交申请之前，建议先仔细阅读[提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)
 
 - [必需] 您有一个网络上的身份（ID）
 - [必需] 您有一个随时能够联系的邮箱地址

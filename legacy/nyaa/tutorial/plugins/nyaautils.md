@@ -22,7 +22,7 @@ NyaaUtils 包含了各类杂项辅助功能，本页面列出该插件在喵窝�
 
 * [格式化代码介绍](https://zh.minecraft.wiki/%E6%A0%BC%E5%BC%8F%E5%8C%96%E4%BB%A3%E7%A0%81)（[内地镜像](https://wiki.biligame.com/mc/%E6%A0%BC%E5%BC%8F%E5%8C%96%E4%BB%A3%E7%A0%81)）
 * [RGB 调色板](https://www.matools.com/color)
-* [彩虹渐变文本生成器](http://patorjk.com/text-color-fader/)（[使用说明](https://bbs.nyaa.cat/d/1762)）
+* [彩虹渐变文本生成器](https://patorjk.com/text-color-fader/)（[使用说明](https://bbs.nyaa.cat/d/1762)）
 
 !> 大量使用 RGB 彩色文本可能会导致你的消息/命令字数长度迅速达到上限（256 个字符）。
 
