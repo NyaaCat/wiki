@@ -44,7 +44,7 @@
 *   灯箱控制插件，包含功能：
     +   空手点亮红石灯
         -   使用 WorldEdit 点亮/关闭区域内的红石灯
-*   WorldEdit 插件，详细请参见[WE Wiki](http://wiki.sk89q.com/wiki/WorldEdit/Reference)
+*   WorldEdit 插件，详细请参见[WE Wiki](https://worldedit.enginehub.org/en/latest/)
 *   承接来自管理组的建筑工程，不允许承接其他玩家的工程
 *   申请 UBW 服务器的独立工程世界
 
