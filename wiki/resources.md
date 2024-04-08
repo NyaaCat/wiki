@@ -29,7 +29,7 @@
 
 ### Minecraft 1.20.4
 
-?> :heart: 【2024.02.13 更新】**Minecraft 1.20.1 简单整合** *by BlingWang*
+?> :heart: 【2024.02.13 更新】**Minecraft 1.20.4 简单整合** *by BlingWang*
 
 提供可被 MultiMC 导入的 Mod 包。
 
