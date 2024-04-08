@@ -72,7 +72,7 @@ NyaaWiki 采用 [Docsify](https://docsify.js.org) 构建，源文件存放于 [G
    如在其它页面引用该章节，`[可以这样](wiki/contribute#required)`。
 7. 并不是所有的页面都要列入侧边栏。一些详细内容的页面也可以存放在相应目录下并通过其他页面访问。
 8. 本Wiki源仓库托管于 GitHub，为确保拉取、推送顺畅，应尽量避免上传文本以外的文件。  
-  对于图片，有条件者应尽量引用外链；确需由Wiki自行托管的，应先尽可能压缩图片，推荐通过[Jpgmin](https://jpgmin.cn)压缩。  
+  对于图片，有条件者应尽量引用外链；确需由Wiki自行托管的，应先尽可能压缩图片，推荐通过 [Jpgmin](https://jpgmin.cn) 压缩。  
   对于非图片文件，请使用稳定可靠的文件托管外链服务。
 9. Docsify 可能与你所用 Markdown 编辑器**存在分歧**。为避免过多的 commit，请先在本地运行 Wiki 预览效果。
    - 如使用 VS Code，可以安装插件 [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)，然后点击右下角的 **Go Live**，用浏览器访问 `localhost:5500` 即可预览。  
@@ -87,4 +87,5 @@ NyaaWiki 采用 [Docsify](https://docsify.js.org) 构建，源文件存放于 [G
 
 * [Docsify 的特有文档语法](https://docsify.js.org/#/helpers)
 * [本 Wiki 定制样式汇总](wiki/contribute/custom-stylesheet.md)
-* [Jpgmin](https://jpgmin.cn)——Mozjpeg 与 PngQuant 的第三方网页界面，压缩效果好，可批量压缩，操作简便。
+* [Jpgmin](https://jpgmin.cn)——MozJPEG 与 PngQuant 的第三方网页界面，压缩效果好，可批量压缩，操作简便。
+* [Squoosh](https://squoosh.app)——由 GoogleChromeLabs 开发，用于图片压缩的网页应用，支持多种格式的输出（WebP 是亮点）
