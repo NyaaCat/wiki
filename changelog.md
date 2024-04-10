@@ -15,7 +15,6 @@
   + `/u lock` 功能增强，主要补全了对锁定展示框内物品的展示功能。
   + 详情请参考 [Ukit 插件页面](tutorial/plugins/ukit.md)。
 - Discord bot 转发项目获得更新。
-  + 现在由玩家发送的聊天内容，发送者的昵称会以粗体显示了。
   + 现在游戏内使用 `/u show` 展示物品的信息会被转发到 Discord 了。
 
 ### 2024-04-04 加入插件 FreedomChat 等
