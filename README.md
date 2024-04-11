@@ -19,7 +19,7 @@ NyaaCat 从 Minecraft 的玩家群体发展而来，是一个开放性、多元�
 
 !> :coffee: 自 1.18.x 版本起，Java 须升级到 17.0 或以上。如以官方启动器登录，则无需为此担心。  
 如正使用第三方启动器，推荐以下发行版（对于 HMCL 应考虑“JDK FX”）：  
-[Adoptium Eclipse Temurin](https://adoptium.net/temurin/releases) | [Zulu JRE](https://www.azul.com/downloads/?version=java-21-lts&package=jre) | [Zulu JDK FX](https://www.azul.com/downloads/?version=java-21-lts&package=jdk-fx)  
+[Amazon Corretto](https://docs.aws.amazon.com/corretto/latest/corretto-17-ug/downloads-list.html) | [Zulu JRE](https://www.azul.com/downloads/?version=java-17-lts&package=jre) | [Zulu JDK FX](https://www.azul.com/downloads/?version=java-17-lts&package=jdk-fx)
 
 申请喵窝白名单请先阅读[白名单申请](nyaa/whitelist-application.md)。
 
