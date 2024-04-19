@@ -8,10 +8,19 @@
 
 ## 2024
 
+### 2024-04-08 Ukit 更新及其它
+
+- Ukit 插件功能获得更新。
+  + `/u mail` 邮箱功能上线，弥补了 1.18 更新以来邮箱功能的缺位。
+  + `/u lock` 功能增强，主要补全了对锁定展示框内物品的展示功能。
+  + 详情请参考 [Ukit 插件页面](tutorial/plugins/ukit.md)。
+- Discord bot 转发项目获得更新。
+  + 现在游戏内使用 `/u show` 展示物品的信息会被转发到 Discord 了。
+
 ### 2024-04-04 加入插件 FreedomChat 等
 
 - 自服务器升级以来，有部分玩家因安装 No Chat Reports 模组，遭遇被主服务器踢出、归来后不断报告“聊天信息验证失败”错误等情况，严重影响游戏体验。管理组遂引入插件 FreedomChat，以图修复。<span class="nw-spoiler">Blame M$</span>
-- 加入了[收纳袋](https://zh.minecraft.wiki/w/%E6%94%B6%E7%BA%B3%E8%A2%8B)。
+- 加入了 [收纳袋](https://zh.minecraft.wiki/w/%E6%94%B6%E7%BA%B3%E8%A2%8B) 的合成配方。
 - 现在可通过 `/tpauto` 自动接受其他玩家的传送请求了。
 
 ### 2024-04-01 EpicWorld 重置
