@@ -240,7 +240,7 @@ VoxelMap 的替代品，其优势是：
 
 ## 资源包（材质）
 
-- [Sphax PureBDCraft](https://bdcraft.net/purebdcraft-minecraft) —— 俗称“五边形”
+- [Sphax PureBDCraft](https://bdcraft.net/purebdcraft-minecraft) —— 俗称“五边形”（需要付费获取最新版本）
 - [Faithful](https://www.faithfulpack.net) —— 原版材质高清重制
 
 ## 光影包
