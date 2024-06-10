@@ -26,6 +26,131 @@
 
 --------
 
+## 2024 端午节活动：黄泉比良坂丨よもつひらさか·先行体验
+
+> 本页依据[预告帖](https://community.craft.moe/d/5100)略有改动  
+*关键词：PVP 大战场 团队*
+
+![title](https://pan.suzakuwcx.com/d/guest/photo/pack.png?sign=1VIqm2MaIZ8P7xb5AmtQOQE-iInfL38tkFrOQZryi4Y=:0)
+
+?> :file_folder: **前情提要**
+
+> 可惜你不早来，我已吃了黄泉灶火所煮的食物了。但承 亲爱的吾兄远道而来，我愿意回去。且去和黄泉之神相商， 请你切勿窥看我。”这样说了，女神退入殿内，历时甚久。伊 耶那岐命不能复待，拿下左髻所插的木栉，取下旁边的一个 栉齿，点起火来，进殿看时，乃见女神身上蛆虫聚集，脓血流溢，大雷在其头上，火雷在其胸上，黑雷在其腹上，拆雷在其阴上，稚雷在其左手，土雷在其右手，鸣雷在其左足， 伏雷在其右足，合计生成雷神八尊。  
+    引自 《*古事记 一　伊耶那岐命与伊耶那美命*》
+
+> 最后伊耶那美命亲自追来，伊耶那岐命乃取千引 石，堵塞黄泉比良坂。二神隔石相对而立，致诀别之词。其 时伊耶那美命说道：  
+    “我亲爱的兄，因为你如此行为，我当每日把你的国人扼死千名!”伊耶那岐命答道：  
+    “我亲爱的妹，你如这样，我每日建立产室千五百所! 因此一日之中必死千人，日之中亦必生千五百人。  
+    引自《*古事记 一　伊耶那岐命与伊耶那美命*》
+
+> 而今，那堵塞黄泉比良坂的巨石碎裂，生死之界限不再分明，死者可以复生，生者无法死去，人间大乱，又有邪祟趁此残害人间  
+    昨日梦中，见天神伊耶那岐，赐吾修补巨石之重任曰：修补巨石者，需供奉所有神像取悦众神，届时必有心怀不轨者阻挠，务必小心  
+    梦醒，召死士能人数十名，前往黄泉比良坂
+
+奉天神之命，玩家需要前往黄泉比良坂修补封阻生死界的巨石。同时需要阻止前来阻挠的敌人。发挥你强大的战斗技巧和队友配合（*协作能力*），取得胜利！
+
+?> :clock3: **活动日程**
+
+2024 年 6 月 9 日 20:00  
+至  
+2024 年 6 月 10 日 20:00
+
+?> :game_die: **活动介绍**
+
+| 流程 | 解读 |
+|-|-|
+| ![step1](https://pan.suzakuwcx.com/d/guest/photo/%E6%BC%94%E7%A4%BA%E6%96%87%E7%A8%BF1_101.png?sign=xwcX5YNvllNvAIUybHK7f2WKtpMBb1dS9Aad6EIirZI=:0) | 游戏形式：双阵营大战场太刀对抗 |
+| ![step2](https://pan.suzakuwcx.com/d/guest/photo/%E6%BC%94%E7%A4%BA%E6%96%87%E7%A8%BF1_109.png?sign=ClTIovztx8IDvE_Ol_bDjBxDzBSiPedZmkX-34Ns05A=:0) | 游戏目标：在黄泉比良坂尽可能多地**夺取战术据点**（佛像）<br>图中高亮者为各阵营复活点<br>游戏中所有佛像均高亮 |
+| ![step3](https://pan.suzakuwcx.com/d/guest/photo/%E6%BC%94%E7%A4%BA%E6%96%87%E7%A8%BF1_113.png?sign=Fx8MeOB30A0kVHSSouZX4k_zOI0LpakiXjTiX5-Cf0A=:0) | 胜利条件：<br>A. **一方夺取全部据点**，<br>或 B. **一方在本局时间耗尽时占有更多据点** |
+
+| 战斗方式 | 解读 |
+|-|-|
+| ![attack](https://pan.suzakuwcx.com/d/guest/photo/%E6%BC%94%E7%A4%BA%E6%96%87%E7%A8%BF1_22.png?sign=qGyLXm56N_CQQYU2Wd7mj9JuzmzY_i994WP-jSd4NNQ=:0) | 普攻：单击左键 |
+| ![hard-attack](https://pan.suzakuwcx.com/d/guest/photo/%E6%BC%94%E7%A4%BA%E6%96%87%E7%A8%BF1_33.png?sign=YDgQFU8P_P_Lm57S75ID0wtzd9q9VuIXAxtY8a6kXDQ=:0) | 蓄力攻击：长按 F 键后松开 |
+| ![defend](https://pan.suzakuwcx.com/d/guest/photo/%E6%BC%94%E7%A4%BA%E6%96%87%E7%A8%BF1_51.png?sign=hv0FlyTpSMGD0ZkyLhjWUTja2xOIS9fgcv3GAemy4js=:0) | 防御：按住右键 |
+| ![slide](https://pan.suzakuwcx.com/d/guest/photo/%E6%BC%94%E7%A4%BA%E6%96%87%E7%A8%BF1_68.png?sign=uHI4xL2KVk8D83BVPP32LEdK2S80qwSmV_SMsxo0MJs=:0) | 垫步：按住 Shift（潜行）键后松开 |
+| ![block](https://pan.suzakuwcx.com/d/guest/photo/%E6%BC%94%E7%A4%BA%E6%96%87%E7%A8%BF1_72.png?sign=_itAl1xUXh7VWNfCxTfOuIclfoP9CeF0SibjmTtlVAQ=:0) | 肩撞：防御时，按住 Shift 键松开 |
+| ![strike](https://pan.suzakuwcx.com/d/guest/photo/%E6%BC%94%E7%A4%BA%E6%96%87%E7%A8%BF1_78.png?sign=9N0y1Tjo2rrET4Gv_Xln6BQ82_8yFtNNohQMsqc98Qk=:0) | 纳刀/拔刀：按 Q 键以切换 |
+
+!> **注意事项**
+
+- 必须使用活动专用材质包。请确保已成功安装，如未安装可尝试[手动下载](https://pan.suzakuwcx.com/d/guest/minecraft/resourcepacks/%E3%80%9016Bit-Samurai%20%E3%80%91%E9%BB%84%E6%B3%89%E6%AF%94%E8%89%AF%E5%9D%82%20%E6%9D%90%E8%B4%A8%E5%8C%85v1.0.2.zip?sign=Z14DrUh52kN4LoRgF5fHDbebRbP4uZCNBK-H5GkQKUc=:0)。
+- 游戏内自带详细教程，请务必认真阅读！！！！
+- PDF版文本下载链接：<span class="nw-spoiler">https://cloud.189.cn/web/share?code=7jqaaqYf2U3q （访问码：4znw）</span>
+- 本次活动并非完成品，仍有瑕疵多多包涵！！
+
+<details>
+<summary>:construction_worker: 制作人员名单</summary>
+
+```
+16-bit Samurai | 十六位武士
+
+程序：
+Chuxuan_Windy 丨楚轩
+
+美术：
+ABraHam_Sid_ | 镇川
+
+建筑：
+LiIci111丨鲑鱼
+
+制作协力：
+- Ran_nano | 兰那梛/李德二
+- Asakura_kukii | 曲奇
+- Aqua_Bz | 白枣
+- FollowerZz | Fz
+- Milkice丨奶冰
+
+捣乱：
+丘丘猫 | AB的猫
+```
+
+</details>
+
+![ending](https://pan.suzakuwcx.com/d/guest/photo/16bitlogo%20gold.png?sign=XH3FvKp-cfkOsbvKpvLpz1XLiJyQvgu_qZKnAFBp01U=:0)
+
+
+## 2024 劳动节活动：收集 :id=labour-day
+
+> 本页依据[预告帖](https://community.craft.moe/d/5031)略有改动
+
+一年一度的劳动节来了，~~按照喵毛惯例~~，我们的传统pvp节目就要…… 欸等等，纪念收集活动？
+
+在这适合劳作 ~~坐牢~~ 的日子里，一起击败怪物，探索世界，寻找每一份付出的意义，收集象征着辛勤与汗水的纪念奖章吧！记得要做点节日特色小吃！
+
+?> :clock3: **活动日程**
+
+CST **2024/5/1 16:00:00 - 2024/5/5 23:59:59**  
+*注：实际顺延 30 个小时左右*
+
+活动于喵窝、毛线主服务器开展。
+
+?> :game_die: **玩法和奖励**
+
+参与活动，能够直接在喵窝/毛线服务器内获得特殊材料【**劳动者晶石**】，用于在 NPC 处直接兑换活动奖励！
+
+-   击杀怪物时，会有几率获得 1 个劳动者晶石，几率会随玩家击杀怪物的频率动态调整。
+  + 调查发现，该几率在击败怪物后 200 秒内为零；200～800 秒内逐渐增加至 100%；可掉落次数允许累积。
+-   探索村庄的宝箱时，会固定在全新或刷新后的宝箱中获得 1 个劳动者晶石。
+-   合成节日特殊食品时，有极小概率获得 1 个劳动者晶石。
+
+获得劳动者晶石时，将同时累计**活动热度**。当活动热度累积达到 512 时，能够获得终极奖励 【**墨冰矿工镐**】
+
+-   通过击杀怪物或开启宝箱获得时，将积累 2 点活动热度。
+-   通过合成食品获得时，将积累 1 点活动热度。
+-   可以在出生点的特定位置查看自己的活动热度。
+
+【特殊事件】活动期间，流浪商人可能会带来不一样的商品……
+
+!> **注意事项**
+
+-   建议参与活动时优先 [更新喵毛活动材质包](https://cloud.189.cn/web/share?code=I73Q73BJz6fq) (访问码1dy1)
+-   特殊食物的合成配方会在登录服务器后自动解锁，请打开合成表查阅。由于游戏限制，配方产物暂不支持预览，将在合成后直接获得。
+-   本次活动结束后将会卸载所有活动相关内容，怪物掉落、宝箱生成、合成表等内容将回到原版内容。
+-   由于喵窝有计划的内容更新，暂不在喵窝服务器设置活动材料兑换的NPC。  
+    别急，大的在后面。
+
+
 ## 2024 春节活动：走！我们去毛玉环岛！ :id=spring-fes
 
 > 本页依据[预告帖](https://community.craft.moe/d/4752)略有改动  
