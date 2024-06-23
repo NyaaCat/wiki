@@ -144,10 +144,9 @@ Need For Speed 服务器为喵窝的竞速游戏服务器。玩家可以在这�
 
 ### NyaaCat: Flourish Moment :id=hana
 
-~~喵窝的 **Mod 服务器**，名称寓意为“繁华绽放之瞬间”。通常是中短期的，每期内容不尽相同。~~  
-目前开放小游戏“[Dungeon of the Arbalist](https://www.planetminecraft.com/project/dungeon-of-the-arbalist-dungeon-crawler-zombies-game-1-50-players-realms-map-1-17-1-by-command-realm/)”供社区玩家体验。注意游戏说明均为英文。
+喵窝的 **Mod 服务器**，名称寓意为“繁华绽放之瞬间”。通常是中短期的，每期内容不尽相同。
 
-以 `1.19.3` 客户端登录 `hana.nyaacat.com` 即可游玩。
+以 `1.20.1` [Mod 客户端](/wiki/resources?id=模组服务器整合包) 登录 `hana.nyaacat.com` 即可游玩。
 
 
 ### New Features Express :id=pre

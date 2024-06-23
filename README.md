@@ -49,6 +49,12 @@ act.nyaacat.com
 act2.nyaacat.com
 ```
 
+Mod 服务器 "Flourish Moment (hana)"
+
+```
+hana.nyaacat.com
+```
+
 如果您仍有延迟过高、网络抖动等问题，请联系管理组寻求帮助。
 
 ### 联系

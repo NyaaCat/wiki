@@ -545,7 +545,7 @@ _感谢派兹，辛苦更新_
 
 ### NyaaCat: Flourish Moment 2022.2
 
-原用于登录模组服务器 [hana](wiki/server-network#hana)，由 *凤凰卷 `phoenixlzx`* 整理，仅包含 Mods 本体。  
+用于登录模组服务器 [hana](wiki/server-network#hana)，由 *凤凰卷 `phoenixlzx`* 整理，仅包含 Mods 本体。  
 
 - [原帖](https://community.craft.moe/d/2764-nyaacat-flourish-moment-20222)
 - [派兹网盘下载](https://dl.blingwang.cn/NyaaCat_FlourishMoment.2022.2.mods.zip)
