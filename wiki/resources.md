@@ -25,7 +25,7 @@
 
 ## 原版整合包（客户端）
 
-——以下整合包可正常登录喵窝世界，以及 [子服务器](wiki/server-network)。
+——以下整合包可正常登录喵窝世界，以及除 `hana` 以外的所有[子服务器](wiki/server-network)。
 
 ### Minecraft 1.20.4
 
@@ -177,6 +177,67 @@ Use it in creative, or use it temporarily in survival.
 - [YetAnotherConfigLib](https://modrinth.com/mod/yacl) - A builder-based configuration library for Minecraft.
 - [bad packets](https://modrinth.com/mod/badpackets) - Bad Packets allows packet messaging between different modding platforms.
 - [lazy-language-loader](https://modrinth.com/mod/lazy-language-loader) - lazy-language-loader improves loading times when changing your language by only reloading the language instead of all the game resources!
+
+</details>
+
+## 模组服务器整合包
+
+——以下整合包可登录模组服务器 `hana`。
+
+### NyaaCat: Flourish Moment 2024.6
+
+由 *凤凰卷 `phoenixlzx`* 整理，提供可被 MultiMC 导入的 Mod 包。
+
+[原帖与下载地址](https://community.craft.moe/d/5122)
+
+<details>
+<summary>默认包含模组</summary>
+
+[Moddermore 列表](https://moddermore.net/list/Ni5DCRustDdX)
+
+- [3D Skin Layers](https://modrinth.com/mod/3dskinlayers) - Render the player skin layer in 3d!
+- [Ad Astra](https://modrinth.com/mod/ad-astra) - Live long and prosper, Ad Astra!
+- [AppleSkin](https://modrinth.com/mod/appleskin) - Food/hunger-related HUD improvements
+- [Applied Botanics](https://modrinth.com/mod/applied-botanics) - mana through ae2, what could go wrong
+- [Applied Energistics 2](https://modrinth.com/mod/ae2) - AE2: A popular automation and storage mod
+- [Applied Energistics 2 Wireless Terminals](https://modrinth.com/mod/applied-energistics-2-wireless-terminals) - An addon for Applied Energistics 2 that adds wireless versions of several Terminals
+- [Aquamirae](https://modrinth.com/mod/aquamirae) - Ship graveyard with terrible deep sea creatures!
+- [Balm](https://modrinth.com/mod/balm) - Abstraction Layer (but not really)™ for Blay's multiplatform mods
+- [Botania](https://modrinth.com/mod/botania) - An innovative natural magic themed tech mod
+- [Botarium](https://modrinth.com/mod/botarium) - A crossplatform API for devs that makes transfer and storage of items, fluids and energy easier, as well as some other helpful things
+- [Cloth Config API](https://modrinth.com/mod/cloth-config) - Configuration Library for Minecraft Mods
+- [Cooking for Blockheads](https://modrinth.com/mod/cooking-for-blockheads) - Adds a cooking book and multiblock kitchens that only shows recipes you can make with what you currently have in your inventory.
+- [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) - Reduce resource usage while Minecraft is in the background or idle.
+- [Enhanced Block Entities](https://modrinth.com/mod/ebe) - Reduce block entity FPS lag with almost no compromises, and improve their visuals
+- [Fabric API](https://modrinth.com/mod/fabric-api) - Lightweight and modular API providing common hooks and intercompatibility measures utilized by mods using the Fabric toolchain.
+- [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin) - This is a mod that enables usage of the Kotlin programming language for Fabric mods.
+- [Forge Config API Port](https://modrinth.com/mod/forge-config-api-port) - NeoForge's & Forge's config systems provided to other modding ecosystems. Designed for a multiloader architecture.
+- [Friends&Foes (Fabric/Quilt)](https://modrinth.com/mod/friends-and-foes) - Adds outvoted and forgotten mobs from the mob votes in a believable vanilla plus style. (Copper Golem, Glare, Moobloom, Iceologer, Barnacle, Wildfire, Illusioner, Rascal, Tuff Golem)
+- [Friends&Foes - Flowery Mooblooms (Fabric/Quilt)](https://modrinth.com/mod/friends-and-foes-flowery-mooblooms-fabric) - An addon for the Friends&Foes mod, adding one moobloom variant for each flower.
+- [Geckolib](https://modrinth.com/mod/geckolib) - A 3D animation library for entities, blocks, items, armor, and more!
+- [Inventory Profiles Next](https://modrinth.com/mod/inventory-profiles-next) - Take control over you inventory. Sort. Move matching Items. Throw all. Locked slots. Gear sets! And much more.
+- [Iris Shaders](https://modrinth.com/mod/iris) - A modern shaders mod for Minecraft intended to be compatible with existing OptiFine shader packs
+- [Just Enough Items](https://modrinth.com/mod/jei) - JEI - View Items and Recipes
+- [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) - A dynamic lights mod for Fabric.
+- [Lithium](https://modrinth.com/mod/lithium) - No-compromises game logic/server optimization mod
+- [Mod Menu](https://modrinth.com/mod/modmenu) - Adds a mod menu to view the list of mods you have installed.
+- [Mythic Mounts](https://modrinth.com/mod/mythic-mounts) - Befriend legendary creatures to accompany you across the world!
+- [Naturalist](https://modrinth.com/mod/naturalist) - Adds new immersive wildlife with realistic behavior!
+- [No Chat Reports](https://modrinth.com/mod/no-chat-reports) - Makes chat unreportable (where possible)
+- [Obscure API](https://modrinth.com/mod/obscure-api) - Auxiliary Library
+- [Patchouli](https://modrinth.com/mod/patchouli) - Accessible, Data-Driven, Dependency-Free Documentation for Minecraft Modders and Pack Makers
+- [Physics Mod](https://modrinth.com/mod/physicsmod) - Welcome to a more destructive Minecraft than you've ever seen before!
+- [Resourceful Config](https://modrinth.com/mod/resourceful-config) - Resourceful Config is a mod that allows for developers to make cross-platform configs
+- [Resourceful Lib](https://modrinth.com/mod/resourceful-lib) - Resourceful Lib
+- [Shulker Box Tooltip](https://modrinth.com/mod/shulkerboxtooltip) - View the contents of shulker boxes from your inventory
+- [Sodium](https://modrinth.com/mod/sodium) - A modern rendering engine for Minecraft which greatly improves performance
+- [Stellarity](https://modrinth.com/mod/stellarity) - Extreme rehaul and expansion of The End! 'We have End Update at home.'
+- [Trinkets](https://modrinth.com/mod/trinkets) - A data-driven accessory mod
+- [Waystones](https://modrinth.com/mod/waystones) - Teleport back to activated waystones. For Survival, Adventure or Servers.
+- [Wilder Wild](https://modrinth.com/mod/wilder-wild) - This mod aims to upgrade the Wild Update!
+- [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) - Displays a map of the nearby world terrain, players, mobs, entities in the corner of your screen. Lets you create waypoints which help you find the locations you've marked.
+- [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) - Adds a full screen world map which shows you what you have explored in the world. Works great together with Xaero's Minimap.
+- [libIPN](https://modrinth.com/mod/libipn) - Inventory Profiles Next GUI/Config library
 
 </details>
 
