@@ -6,7 +6,7 @@
 
 特区的基础建设由建筑师曲奇 `Round_Cookies` 率先建造。先前，其将此规划为“科幻”风格，后停止建设长达两年有余；直至 2019 年 5 月 15 日，特区由管理组征用，转型为近未来工业城市。
 
-![科技特区导览图](../../assets/images/realms/hitech-industries-guide.jpg)
+![科技特区导览图](../../assets/images/realms/hitech-industries-guide-2024.webp)
 
 ## 交通
 
