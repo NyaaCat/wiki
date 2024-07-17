@@ -2,7 +2,7 @@
 
 > 活动纪念代币 **「小恶魔果实」**，用以兑换纪念品，以下是代币详情：  
 ![代币](../../../assets/images/items/activity-exclusive/2021/spring-festival/小恶魔果实.png)  
-关于活动详情，请见[此帖子](https://bbs.nyaa.cat/d/1816-2021)。
+关于活动详情，请见[此帖子<sup>（存档截图）</sup>](/assets/images/legacy/nyaabbs/1816-2021.webp ':ignore')。
 
 <span class="nw-spoiler">所以为什么它们都有“海之眷顾”的附魔？</span>
 

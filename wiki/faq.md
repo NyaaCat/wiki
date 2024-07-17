@@ -160,7 +160,7 @@
 
 在码云也可以看《[安装教程](https://gitee.com/mirrors_trending/Geyser/wikis/Setup)》。
 
-此外，基岩版自动升级后（如1.17.x），可能会无法登录尚未升级（如1.16.5）的喵窝。请参考《[基岩版版本回退 & Geyser版本管理](https://bbs.nyaa.cat/d/1877-minecraftbedrock-edition-geyser)》。
+此外，基岩版自动升级后（如1.17.x），可能会无法登录尚未升级（如1.16.5）的喵窝。请参考《[基岩版版本回退 & Geyser版本管理<sup>（存档截图）</sup>](/assets/images/legacy/nyaabbs/1877-minecraftbedrock-edition-geyser.webp ':ignore')》。
 
 
 ?> :iphone: **我可以用手机登录喵窝吗？**

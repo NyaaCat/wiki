@@ -2,7 +2,7 @@
 
 > 活动纪念代币 **「下界核心」**，用以兑换纪念品，以下是代币详情：  
 ![代币](../../../assets/images/items/activity-exclusive/2021/new-year/下界核心.png)  
-关于活动详情，请见[此帖子](https://bbs.nyaa.cat/d/1795-2021)。
+关于活动详情，请见[此帖子<sup>（Internet Archive）</sup>](https://web.archive.org/web/20210127045743/https://bbs.nyaa.cat/d/1795-2021)。
 
 
 #### 2021 元旦礼包

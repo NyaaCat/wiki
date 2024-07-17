@@ -15,7 +15,7 @@ NyaaWiki **并不是** 针对《Minecraft》游戏的指南和知识库，它是
 如果你是第一次玩 Minecraft，请首先参考官方 Wiki 的[《新手手册》](https://zh.minecraft.wiki/Tutorial%3A%E6%96%B0%E6%89%8B%E6%89%8B%E5%86%8C)<sup>（或者[内地镜像站页面](https://wiki.biligame.com/mc/%E6%95%99%E7%A8%8B%3A%E6%96%B0%E6%89%8B%E6%89%8B%E5%86%8C)）</sup>。  
 如果你之前没有在其它正版 Java 版服务器游玩的经历，请务必确认你使用的是 [Java 版客户端](https://zh.minecraft.wiki/Java%E7%89%88)，并通过**在 minecraft.net 注册和激活的 Java 版账号**登录游戏。
 
-尽管也可以[借助 Geyser](https://bbs.nyaa.cat/d/1877) 来使用 [基岩版](https://zh.minecraft.wiki/%E5%9F%BA%E5%B2%A9%E7%89%88) 游玩喵窝服务器，但它并不受 Mojang 及喵窝官方支持，且你依然需要 Java 版账号来游玩。  
+尽管也可以[借助 Geyser<sup>（存档截图）</sup>](/assets/images/legacy/nyaabbs/1877-minecraftbedrock-edition-geyser.webp ':ignore') 来使用 [基岩版](https://zh.minecraft.wiki/%E5%9F%BA%E5%B2%A9%E7%89%88) 游玩喵窝服务器，但它并不受 Mojang 及喵窝官方支持，且你依然需要 Java 版账号来游玩。  
 [网易（中国）版](https://mc.163.com/) 不受支持。
 
 - - -
@@ -98,7 +98,7 @@ NyaaWiki **并不是** 针对《Minecraft》游戏的指南和知识库，它是
 * 浪花町：神楽町（一期）、长乐町（二期）
 * 柚木小镇：~~北部提供自建区~~，其余为成品房（需购买）
 * 阿库亚斯：[提供现成住宅及自建区](nyaa/realms/aquas.md)
-* 樱华町：[提供现成住宅](https://bbs.nyaa.cat/d/1714)与自建区。*注意：成品房购置门槛较高。*
+* 樱华町：[提供现成住宅<sup>（存档截图）</sup>](/assets/images/legacy/nyaabbs/1714.webp ':ignore')与自建区。*注意：成品房购置门槛较高。*
 * 新北市：*不建议入住，请遵从居委会安排*
 * 像素村、科技特区等：*不可入住*
 

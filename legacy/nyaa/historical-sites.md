@@ -10,7 +10,7 @@
 
 自 2015 年 2 月起，喵窝开始启用由 MythicDrops 插件提供的铁砧维修功能。随后，原来用于修复的木牌被移除，但在各维修站保留了若干铁砧。
 
-2016 年 9 月，NyaaUtils 插件的 [材料修复功能上线](https://bbs.nyaa.cat/d/601)，旧版维修站失去了存在意义。
+2016 年 9 月，NyaaUtils 插件的 [材料修复功能上线<sup>（存档截图）</sup>](/assets/images/legacy/nyaabbs/601-nyaautils.webp ':ignore')，旧版维修站失去了存在意义。
 
 目前仍保留完整结构的旧版维修站地点：
 

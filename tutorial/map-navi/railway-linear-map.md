@@ -6,7 +6,7 @@
 
 地图基于实地勘测绘制，具备高精度的特点。但正是由于需要实地勘测，数据更新相对缓慢
 
-如果有线路相关的问题，可以前往 [反馈地址](https://bbs.nyaa.cat/d/1524) 或者 [项目地址](https://github.com/tolking/map)
+如果有线路相关的问题，可以前往 [反馈地址<sup>（存档截图）</sup>](/assets/images/legacy/nyaabbs/1524.webp ':ignore') 或者 [项目地址](https://github.com/tolking/map)
 
 可以选择通过 [在线地址访问](https://map.ououe.com?type=nyaaWorld)
 
