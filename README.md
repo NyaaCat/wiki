@@ -4,7 +4,7 @@
 
 NyaaCat 从 Minecraft 的玩家群体发展而来，是一个开放性、多元化的游戏玩家社区。目前，社区仍运营着数个游戏服务器，包括但不限于喵窝、毛线和其他主题 Minecraft 服务器，泰拉瑞亚、星界边境等各类长短期游戏服务器。
 
-[主页](https://www.nyaa.cat) | [论坛](https://bbs.nyaa.cat) | [常见问题](wiki/faq.md) | [新人指南](nyaa/beginners-guide.md) | [游戏规则](nyaa/rules.md) | [世界地图](https://map.nyaacat.com/nyaa/)
+[主页](https://www.nyaa.cat) | [论坛](https://community.craft.moe) | [常见问题](wiki/faq.md) | [新人指南](nyaa/beginners-guide.md) | [游戏规则](nyaa/rules.md) | [世界地图](https://map.nyaacat.com/nyaa/)
 
 欢迎[参与贡献](wiki/contribute.md)，让知识库变得更好。
 

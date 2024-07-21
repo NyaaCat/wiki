@@ -90,7 +90,7 @@ Tormentia
 以 [EpicWorld](https://www.spigotmc.org/resources/epicworldgenerator-1-15-1-16-1.8067/) 自然风光为基础修建的飞行赛道。
 
 - 检查点数量：60
-- [成绩提交](https://bbs.nyaa.cat/d/1315)**（截止时间已过）**
+- [成绩提交<sup>（存档截图）</sup>](/assets/images/legacy/nyaabbs/1315-2018-wwr.webp ':ignore')**（截止时间已过）**
 
 ### KPC 2022 - 毛运会跑酷锦标赛 :id=ksc2022
 

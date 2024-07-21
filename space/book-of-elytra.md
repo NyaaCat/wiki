@@ -9,7 +9,7 @@
 1. 即使通过飞行塔开始飞行，也无法前进非常远。
 2. 飞行过程必须格外小心，如果不慎坠落野外（特别是海里），想要继续前行是很困难的。
 
-为了解决喵民们的实际困难，2016 年 9 月 4 日，樱花动力公司[发布了首款动力燃料](https://bbs.nyaa.cat/d/586)。
+为了解决喵民们的实际困难，2016 年 9 月 4 日，樱花动力公司[发布了首款动力燃料<sup>（存档截图）</sup>](/assets/images/legacy/nyaabbs/586-nyaautils.webp ':ignore')。
 
 ![](../../assets/images/history/elytra/fuel-single.png)  
 <small>最早的动力燃料。</small>

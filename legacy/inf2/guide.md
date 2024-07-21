@@ -1,6 +1,6 @@
 # Infinite Infernal 开发组简易攻略
 
-> 本文原刊载于 [NyaaBBS](https://bbs.nyaa.cat/d/1555-infinite-infernal)。
+> 本文原刊载于 [NyaaBBS<sup>（存档截图）</sup>](/assets/images/legacy/nyaabbs/1555-infinite-infernal.webp ':ignore')。
 
 Inf 来到喵窝后，逐渐有新玩家开始体验这一船新的肝黑模式。不过由于移除了新手教程，这会导致一些设计引导上的问题被暴露出来，使很多玩家在肝黑时不得门路，只能四处求助于其他玩家的帮助。本篇攻略会简单介绍 Inf 的系统，帮助大家在 Inf 快速上手。
 

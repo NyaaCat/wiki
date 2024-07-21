@@ -7,7 +7,7 @@
 ![浅夏的风铃草](../../../assets/images/items/activity-exclusive/2020-natsu-matsuri/浅夏的风铃草.png)
 
 * 【外形】铃兰
-* 【来源】本次夏日祭全部活动通用的代币奖励。[详见](https://bbs.nyaa.cat/d/1752)
+* 【来源】本次夏日祭全部活动通用的代币奖励。[详见<sup>（存档截图）</sup>](/assets/images/legacy/nyaabbs/1752-2020.webp ':ignore')
 
 ## 活动限定物品
 

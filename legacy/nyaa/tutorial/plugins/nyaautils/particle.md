@@ -1,6 +1,6 @@
 # NyaaUtils 粒子效果指南
 
-[论坛讨论](https://bbs.nyaa.cat/d/1165)
+[论坛讨论<sup>（存档截图）</sup>](/assets/images/legacy/nyaabbs/1165-20171113-nyaautils.webp ':ignore')
 
 ## 基本知识
 

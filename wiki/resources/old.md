@@ -565,7 +565,7 @@ _感谢派兹，辛苦更新_
 
 </details>
 
-- [论坛讨论 - Internet Archive](https://web.archive.org/web/20170704154306/https://bbs.nyaa.cat/d/960--)
+- [论坛讨论<sup>（存档截图）</sup>](/assets/images/legacy/nyaabbs/960--.webp ':ignore')
 - [GitHub 下载](https://github.com/Librazy/TooltipFilter/releases)
 - [配置文件内容（有中英文客户端区分）](https://github.com/Librazy/TooltipFilter/wiki/Some-good-filters)
 

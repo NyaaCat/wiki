@@ -53,4 +53,4 @@ Wiki 同时也对 Docsify 提供的“深色主题”样式进行了深度改良
 </details>
 
 定制工作主要集中在**配色**上。为便于维护，已改动的样式被移至 `dark.css` 文件前列。感兴趣者可在本地环境下尝试修改。  
-有任何改进意见的，欢迎在[论坛帖子](https://bbs.nyaa.cat/d/1700)中提出。
+有任何改进意见的，欢迎在[论坛帖子<sup>（Internet Archive）</sup>](https://web.archive.org/web/20200926061120/https://bbs.nyaa.cat/d/1700-nyaawiki)中提出。

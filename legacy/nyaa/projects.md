@@ -14,7 +14,7 @@
 规划或实施中的：
 
 - **【科技城专线】**  
-南沙港至科技特区的二级铁路延长项目，由*小爱 `Bersella_AI`* 负责。关于项目规划、进展、合伙情况，请见[BBS帖子](https://bbs.nyaa.cat/d/1483/15 "好耶是新坑/ 主世界「科技城专线」工程规划、建设进度及合伙邀请")。
+南沙港至科技特区的二级铁路延长项目，由*小爱 `Bersella_AI`* 负责。关于项目规划、进展、合伙情况，请见[BBS帖子<sup>（存档截图）</sup>](/assets/images/legacy/nyaabbs/1483.webp ':ignore 好耶是新坑/ 主世界「科技城专线」工程规划、建设进度及合伙邀请')。
 - **【下界交通网】**  
 联系主世界热门聚落的[轨道网络](nyaa/projects/nether-traffic.md)，由*小爱 `Bersella_AI`* 负责统筹维护，正持续拓展。如有意扩建，请遵循[轨道工程建设规范](tutorial/building/railway-construction-standard#二、下界交通网部分)下界部分，薪酬面议。
 
