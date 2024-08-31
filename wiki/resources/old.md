@@ -736,13 +736,13 @@ _感谢派兹，辛苦更新_
 
 ## 资源包（材质）
 
-- [R3D Realism](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/1241290-r3d-craft-play-minecraft-in-high-definition)
-- [Soartex Fanver](https://soartex.net/downloads/)
-- [ChromaHills](https://www.chromahills.com/)
-- [ShortBread](https://www.planetminecraft.com/texture-pack/shortbread--/)
-- [ZigZag](https://zigzagpack.com/) —— 敲可爱，Mojang 还进行过[采访](https://www.minecraft.net/sv-se/article/zigzag-resource-pack)
+- [[1.7.10 - 1.11.2] R3D Realism](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/1241290-r3d-craft-play-minecraft-in-high-definition)
+- [[1.2.x - 1.18.x] Soartex Fanver](https://soartex.net/downloads/)
+- [[1.4 - 1.19] ChromaHills](https://www.chromahills.com/)
+- [[1.7.4] ShortBread](https://www.planetminecraft.com/texture-pack/shortbread--/)
+- [[1.8 - 1.19] ZigZag](https://zigzagpack.com/) —— 敲可爱，Mojang 还进行过[采访](https://www.minecraft.net/sv-se/article/zigzag-resource-pack)
 
 ## 光影包
 
 - [SEUS (Sonic Ether’s Unbelievable Shaders)](https://www.sonicether.com/seus/)
-- [Chocapic13' Shaders](https://www.curseforge.com/minecraft/customization/chocapic13-shaders)
+- [[1.7.2 - 1.20.1] Chocapic13' Shaders](https://www.curseforge.com/minecraft/customization/chocapic13-shaders)

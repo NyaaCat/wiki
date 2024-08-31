@@ -230,18 +230,18 @@ Use it in creative, or use it temporarily in survival.
 - [论坛讨论 / 下载](https://community.craft.moe/d/1316)
 - [Modrinth 下载地址](https://modrinth.com/mod/autoreconnector-fabric/versions)
 
-### [Fabric] Iris :id=iris
+### [Fabric / NeoForge / Quilt] Iris :id=iris
 
-兼容 OptiFine 光影包的开源光影模组，需与 Sodium 一同使用。当前支持 1.16.5 及以上版本。
+兼容 OptiFine 光影包的开源光影模组，需与 Sodium 一同使用。支持 1.16.5 及以上版本。
 
 - [官方网页](https://irisshaders.dev)
 - FAQ、光影包兼容列表和 Iris 之限制可在[GitHub 页面](https://github.com/IrisShaders/Iris)查阅
 - [Modrinth 下载地址](https://modrinth.com/mod/iris/versions)
 - MC 百科上的[介绍](https://www.mcmod.cn/class/3697.html)
 
-### [Fabric] Sodium :id=sodium
+### [Fabric / NeoForge / Quilt] Sodium :id=sodium
 
-可以大幅提升游玩时的**帧率**，尤其在核芯（集成）显卡、入门独显平台上。当前支持 1.16.3 及以上版本。
+可以大幅提升游玩时的**帧率**，尤其在核芯（集成）显卡、入门独显平台上。支持 1.16.3 及以上版本。
 
 - [GitHub 下载地址](https://github.com/jellysquid3/sodium-fabric/releases)
 - [Modrinth 下载地址](https://modrinth.com/mod/sodium/versions)
@@ -250,21 +250,21 @@ Use it in creative, or use it temporarily in survival.
 !> **Optifine 和 Sodium 不兼容。** 使用本插件前，须先移除/禁用 OptiFabric 和 Optifine，反之亦然。  
 除提高性能以外，其并不能取代 Optifine（包括光影、披风、资源包的额外特性等）。
 
-### [Forge / Fabric / Quilt] Xaero's Minimap
+### [Fabric / Forge / NeoForge / Quilt] Xaero's Minimap
 
-原版外观的小地图，与 Xaero's World Map 一起使用，效果更佳。当前支持 1.7.10 及以上版本。
+原版外观的小地图，与 Xaero's World Map 一起使用，效果更佳。支持 1.7.10 及以上版本。
 
 - [Modrinth 下载地址](https://modrinth.com/mod/xaeros-minimap/versions)
 - MC 百科上的[介绍](https://www.mcmod.cn/class/1701.html)
 
 ## 资源包（材质）
 
-- [Sphax PureBDCraft](https://bdcraft.net/purebdcraft-minecraft) —— 俗称“五边形”（需要付费获取最新版本）
-- [Faithful](https://www.faithfulpack.net) —— 原版材质高清重制
+- [Sphax PureBDCraft](https://bdcraft.net/purebdcraft-minecraft) —— 俗称“五边形”，支持 1.0 及以上版本（需要付费获取最新版本）
+- [Faithful](https://www.faithfulpack.net) —— 原版材质高清重制，支持 1.4 及以上版本
 
 ## 光影包
 
-- [BSL Shaders](https://bitslablab.com/bslshaders/)
+- [[Iris / OptiFine] BSL Shaders](https://bitslablab.com/bslshaders/) —— 支持 1.7.10 及以上版本
 
 ## 皮肤
 
