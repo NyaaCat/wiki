@@ -26,10 +26,12 @@
 
 --------
 
-## 2024 夏日祭：买买镇！森林与海洋之集市 :natsu-matsuri
+## 2024 夏日祭：买买镇！森林与海洋之集市 :id=natsu-matsuri
 
 > 本页依据[预告帖](https://community.craft.moe/d/5145)略有改动  
 *关键词：模拟经营*
+
+![title](https://global.cdn.mikupics.cn/2024/08/06/66b0fb56c9a75.jpg)
 
 ?> :file_folder: **前情提要**
 
@@ -144,7 +146,7 @@ langua
 ![ending](https://pan.suzakuwcx.com/d/guest/photo/16bitlogo%20gold.png?sign=XH3FvKp-cfkOsbvKpvLpz1XLiJyQvgu_qZKnAFBp01U=:0)
 
 
-## 2024 端午节活动：黄泉比良坂丨よもつひらさか·先行体验
+## 2024 端午节活动：黄泉比良坂丨よもつひらさか·先行体验 :id=lunar-may-5th
 
 > 本页依据[预告帖](https://community.craft.moe/d/5100)略有改动  
 *关键词：PVP 大战场 团队*
