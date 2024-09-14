@@ -102,7 +102,7 @@
 
 ## 更早年份的更新
 
-* [2022](changelogs/2021.md) :blossom:
+* [2022](changelogs/2022.md) :blossom:
 * [2021](changelogs/2021.md) :balloon:
 * [2020](changelogs/2020.md) :butterfly:
 * [2019](changelogs/2019.md) :sparkles:
