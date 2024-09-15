@@ -8,7 +8,6 @@
   - [作品集](space/works.md)
   - [游戏活动](legacy/activities.md)
   - [历史考古](legacy/)
-  - [Planet NyaaCat](wiki/planet-nyaacat.md)
 - 喵窝世界
   - [新人指南](nyaa/beginners-guide.md)
   - [常见问题](wiki/faq.md)

@@ -65,11 +65,7 @@ NyaaWiki **并不是** 针对《Minecraft》游戏的指南和知识库，它是
 
 ### 新星的诞生 :id=hello-world
 
-初次亮相的你会首先来到[大神殿](nyaa/realms/sakurakacho "即樱华町")。跟窝里的各位打个招呼吧！
-
-![yO3Li.jpg](https://s3.jpg.cm/2021/04/13/yO3Li.jpg)
-*（是的，就像这样）*
-
+初次亮相的你会首先来到[大神殿](nyaa/realms/sakurakacho "即樱华町")。跟窝里的各位打个招呼吧！  
 之后，请步行至大神殿南面的“守望之田”，取得必要的食物。  
 有了充足的补给，该给自己挑选一处落脚之地。在[城镇村落总览](nyaa/realms.md)里挑选吧。  
 
