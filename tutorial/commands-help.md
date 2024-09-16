@@ -138,7 +138,7 @@
 <details>
 <summary>:x: 尚未被替代的原 NyaaUtils 命令，仅供参考</summary>
 
-**主条目：[NyaaUtils 插件指南](legacy/tutorial/plugins/nyaautils.md)**
+**主条目：[NyaaUtils 插件指南](legacy/nyaa/tutorial/plugins/nyaautils.md)**
 
 | 命令| 说明| 备注 |
 |-|-|-|

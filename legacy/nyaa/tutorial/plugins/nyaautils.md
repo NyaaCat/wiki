@@ -1,6 +1,6 @@
 # NyaaUtils 插件指南
 
-!> :construction: **NyaaUtils 已终止服务；本页将择期归档，内容仅供参考。**
+!> :construction: **NyaaUtils 已终止服务，内容仅供参考。**
 
 NyaaUtils 包含了各类杂项辅助功能，本页面列出该插件在喵窝服务器的详细使用指南。
 
@@ -60,7 +60,7 @@ NyaaUtils 包含了各类杂项辅助功能，本页面列出该插件在喵窝�
 
 可以通过 NyaaUtils 为自己、鞘翅和弹射物增加粒子特效。
 
-[详细介绍](legacy/tutorial/plugins/nyaautils/particle)
+[详细介绍](legacy/nyaa/tutorial/plugins/nyaautils/particle.md)
 
 ## 飞行相关
 
@@ -269,7 +269,7 @@ NyaaUtils 包含了各类杂项辅助功能，本页面列出该插件在喵窝�
 玩家进入已被规划的领域（通常是聚落）时，屏幕中央会弹出该领域名称、以及管理者 ID（如有）。可随时使用 `/nu realm info` 命令查询自己所在领域的信息。  
 离开任何已规划领域，会弹出「荒野」字样。
 
-玩家亦可申请为特定区域建立领域提示，详见 [经济规则](nyaa/economic.md#领域规划)。
+玩家亦可申请为特定区域建立领域提示，详见 [经济规则](nyaa/economic.md#领域提示)。
 
 --------
 
