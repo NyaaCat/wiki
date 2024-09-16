@@ -1,6 +1,6 @@
 # NyaaBank 操作向导
 
-!> :construction: **NyaaBank 已终止服务；本页将择期归档，内容仅供参考。**
+!> :construction: **NyaaBank 已终止服务，内容仅供参考。**
 
 本页记录适用于普通玩家和银行家的NyaaBank（喵窝联合银行）操作向导。  
 关于NyaaBank插件详情，请见[此页](legacy/nyaa/economics/nyaabank.md "NyaaBank介绍")。

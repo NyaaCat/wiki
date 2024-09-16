@@ -31,13 +31,17 @@
 
 ## 交易细则
 
+- [天喵商城](/tutorial/plugins/hmarket?id=hm)——即世界商店
+- [木牌商店](/tutorial/plugins/hmarket?id=shop)
+- [喵店](/tutorial/plugins/nyaashop?id=shop)
+
+
 !> :x: **以下高级交易功能尚未恢复，仅供参考。**
 
-- [天喵商城](legacy/tutorial/plugins/hamsterecohelper#世界商店)——即世界商店
-- [个人商店](legacy/tutorial/plugins/hamsterecohelper#木牌商店)——包含出售、收购和抽奖
-- [拍卖](legacy/tutorial/plugins/hamsterecohelper#拍卖)
-- [征购](legacy/tutorial/plugins/hamsterecohelper#征购)
-- [天喵直送](legacy/tutorial/plugins/hamsterecohelper#天喵直送)
+- [个人商店](legacy/nyaa/tutorial/plugins/hamsterecohelper#木牌商店)——包含出售、收购和抽奖
+- [拍卖](legacy/nyaa/tutorial/plugins/hamsterecohelper#拍卖)
+- [征购](legacy/nyaa/tutorial/plugins/hamsterecohelper#征购)
+- [天喵直送](legacy/nyaa/tutorial/plugins/hamsterecohelper#天喵直送)
 
 ## 系统服务收费细则
 
@@ -71,10 +75,10 @@
 
 ### 重命名、邮送物品
 
-请参见“[Ukit 指南](tutorial/plugins/ukit)”：
+请参见“[Ukit 指南](tutorial/plugins/ukit?id=物品相关)”：
 
-- 重命名物品 —— 每次收取 10 卷
-
+- 重命名物品 —— 每个收取 10 卷
+- 邮送物品 —— 每次收取 1 卷（潜影盒为 18 卷）
 
 ### 玩家提供的系统服务
 

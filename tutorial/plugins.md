@@ -8,5 +8,6 @@
 |--|--|
 |[UKit](tutorial/plugins/ukit.md)|各项辅助功能|
 |[PlayTimeTracker](tutorial/plugins/playtimetracker.md)|在线时间记录|
-|[HamsterEcoHelper](tutorial/plugins/heh.md)|经济流动辅助插件|
+|[Hmarket](tutorial/plugins/hmarket.md)|仓鼠市场|
 |[LockettePro](tutorial/plugins/lockettepro)|个人财产保护|
+|[NyaaShop](tutorial/plugins/nyaashop.md)|喵店|

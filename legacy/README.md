@@ -17,9 +17,9 @@
   + [NPC 向导](legacy/nyaa/npc)
   + [世界建设工程](legacy/nyaa/projects)
   + [传送中心](legacy/nyaa/teleport-center)
-  + [银行系统](legacy/nyaa/economics/nyaabank)及其[操作手册](legacy/tutorial/plugins/nyaabank-instructions)
+  + [银行系统](legacy/nyaa/economics/nyaabank)及其[操作手册](legacy/nyaa/tutorial/plugins/nyaabank-instructions)
   + [NyaaUtils](legacy/nyaa/tutorial/plugins/nyaautils.md)
-  + [经济流动辅助插件 HEH](legacy/tutorial/plugins/hamsterecohelper.md)
+  + [经济流动辅助插件 HEH](legacy/nyaa/tutorial/plugins/hamsterecohelper.md)
 
 
 - 历史文献

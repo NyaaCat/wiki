@@ -137,8 +137,8 @@
 #### 示例
 |位置|示例图|相应命令|
 |-|-|-|
-| 南北向的起点站 | ![Example-Guidance-NS](../../assets/images/building-tutorial/railway-construction-standard/guidance-sign-NS.jpg) | ``` /nu se sign 0 `&5&l↙ 本线下一站：` ``` <br />`/nu se sign 1 &5&l&n月望谷` <br />`/nu se sign 2 往南沙港` |
-| 东西向的换乘站 | ![Example-Guidance-WE](../../assets/images/building-tutorial/railway-construction-standard/guidance-sign-WE.jpg) | ``` /nu se sign 0 `&3&l&n本站： 柚木小镇` ``` <br />``` /nu se sign 1 `&b&l下一站： &b&l&n红魔城` ``` <br />``` /nu se sign 2 &b往科技特区 ``` <br />```/nu se sign 3 `&f&l<<< 月望谷，南沙港` ``` |
+| 南北向的起点站 | ![Example-Guidance-NS](../../assets/images/building-tutorial/railway-construction-standard/guidance-sign-NS.jpg) | ``` /u signedit 0 `&5&l↙ 本线下一站：` ``` <br />`/u signedit 1 &5&l&n月望谷` <br />`/u signedit 2 往南沙港` |
+| 东西向的换乘站 | ![Example-Guidance-WE](../../assets/images/building-tutorial/railway-construction-standard/guidance-sign-WE.jpg) | ``` /u signedit 0 `&3&l&n本站： 柚木小镇` ``` <br />``` /u signedit 1 `&b&l下一站： &b&l&n红魔城` ``` <br />``` /u signedit 2 &b往科技特区 ``` <br />```/u signedit 3 `&f&l<<< 月望谷，南沙港` ``` |
 
 ?> :information_source: 执行命令前，主手持**无NBT标签的**告示牌。
 

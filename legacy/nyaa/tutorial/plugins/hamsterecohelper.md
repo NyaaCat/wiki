@@ -1,6 +1,6 @@
 # HamsterEcoHelper 插件指南
 
-!> :construction: **HamsterEcoHelper 已终止服务；本页将择期归档，内容仅供参考。**
+!> :construction: **HamsterEcoHelper 已终止服务，内容仅供参考。**
 
 HamsterEcoHelper（仓鼠症插件）是为促进服务器经济流动的辅助性插件。
 
@@ -88,7 +88,7 @@ HamsterEcoHelper（仓鼠症插件）是为促进服务器经济流动的辅助�
 例如：以 9 节操/个收购石头，则手中拿着石头然后敲 `/hshop buy 9`
 
 如果不想再用这个箱子，对准它敲命令 `/hchest remove`。
-<!-- 如果忘记自己的存储箱在哪里，命令 `/h shop storage info`。 -->
+如果忘记自己的存储箱在哪里，命令 `/h shop storage info`。
 
 #### 购买商品与响应收购
 

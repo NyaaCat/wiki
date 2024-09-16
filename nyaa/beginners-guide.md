@@ -151,10 +151,10 @@ NyaaWiki **并不是** 针对《Minecraft》游戏的指南和知识库，它是
 **——开店！**
 
 [万华街](nyaa/realms/sakurakacho.md#商业：万华街 "点击了解入驻规则")是目前全喵窝最大、最活跃的商业街，没有之一，玩家们皆可享受最上佳的购物乐趣。你的第一桶金，在这等着你！   
-选中心仪的空铺面（找不到的话可以在《[导览图](https://docs.qq.com/sheet/DV2tHUkFJSkxoQkFp?tab=BB08J2)》里挑），简单装修，立起一块写着 `[shop]` 的牌子，即刻开业！用 `/u signedit [2-4] [简介]` 吸引顾客点击！最后打上 `/h shop sell [单价]` 上架第一个商品！  
+选中心仪的空铺面（找不到的话可以在《[导览图](https://docs.qq.com/sheet/DV2tHUkFJSkxoQkFp?tab=BB08J2)》里挑），简单装修，立起一块写着 `[shop]` 的牌子，即刻开业！用 `/u signedit [2-4] [简介]` 吸引顾客点击！最后打上 `/hm my offer [单价]` 上架第一个商品！  
 **想去其它城镇购物、开分店？**多关注下其介绍！
 
-如果你有珍贵、或大热门物品待售，而自家店面不易被发现，不妨考虑[天喵商城](tutorial/plugins/heh?id=hm "世界商店")！上天喵，秒（拍）到你说好！  
+如果你有珍贵、或大热门物品待售，而自家店面不易被发现，不妨考虑 [天喵商城](tutorial/plugins/hmarket.md?id=hm "世界商店")！上天喵，秒（拍）到你说好！  
 输入命令 `/hm` 即可访问天喵，百种热门商品，满足你的不时之需！
 
 当然生意总是细水长流。如果你需要一大笔启动资金，不妨了解一下[创造激励计划](nyaa/creation.md)，或寻找任务发布栏、询问在线玩家等，认领、完成各种工程任务来赚取大笔资财。
@@ -168,7 +168,7 @@ NyaaWiki **并不是** 针对《Minecraft》游戏的指南和知识库，它是
 *   更改昵称 `/nick [昵称]`
   - 此昵称会覆盖游戏 ID 显示，但不影响之。
 
-更改前后缀需要一定的卷和经验，详情见 [Ukit 插件指南](tutorial/plugins/ukit?id=chat-prefix-suffix)。
+更改前后缀需要一定的卷和经验，详情见 [Ukit 插件指南](tutorial/plugins/ukit.md?id=chat-prefix-suffix)。
 
 * * *
 
