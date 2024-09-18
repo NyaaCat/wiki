@@ -11,6 +11,9 @@
 - [周年纪念道具](nyaa/items/anniversary-gifts.md)
 - [活动兑换道具](nyaa/items/activity-exclusive.md)
 - [旧版装备道具](nyaa/items/old-but-working.md)*（原版下可勉强工作的）*
+- [NyaaWorks “喵工坊”专属家具](nyaa/items/nyaaworks.md)
+- NyaaGears “喵秘宝”专属道具
+- NyaaEnchants “喵附魔”专属道具
 
 以下道具已失去功能，仅供参考：
 
