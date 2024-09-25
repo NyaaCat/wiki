@@ -8,8 +8,9 @@
 |--|--|
 |[UKit](tutorial/plugins/ukit.md)|各项辅助功能|
 |[PlayTimeTracker](tutorial/plugins/playtimetracker.md)|在线时间记录|
-|[HamsterEcoHelper](tutorial/plugins/heh.md)|经济流动辅助插件|
+|[Hmarket](tutorial/plugins/hmarket.md) 仓鼠市场|经济流动辅助插件|
 |[LockettePro](tutorial/plugins/lockettepro)|个人财产保护|
+|[NyaaShop](tutorial/plugins/nyaashop.md) 喵店| 木牌出售、收购 |
 |[NyaaWorks](tutorial/plugins/nyaaworks.md) 喵工坊| 家具布置 |
 |NyaaEnchants 喵附魔 | 高级附魔功能和一系列定制附魔 |
 |NyaaGears 喵秘宝 | 每日集物宾果游戏、抽奖等 |

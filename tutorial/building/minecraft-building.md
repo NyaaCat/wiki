@@ -83,12 +83,6 @@ Minecraft 建筑中骨架，屋顶和墙体三者构成一栋建筑的基本轮�
 - 缺失细节
 - 不和谐
 
-相关讨论请参考玩家bitdancer在喵窝论坛的[讨论帖](https://bbs.nyaa.cat/topic/95/%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E4%B8%9A%E4%BD%99mc%E5%BB%BA%E7%AD%91%E5%B8%88%E5%AF%B9%E5%96%B5%E6%9C%8D%E7%9A%84%E5%BB%BA%E7%AD%91%E8%AF%84%E4%BB%B7) <sup>[1]</sup>
-
 ### 建筑进阶
 
 这篇教程旨在给 Minecraft 建筑初学者提供一个整体概念的描绘，如果你想在 Minecraft 建筑上做得更好，关键是要留心现实中的建筑和别人优秀的建筑作品，多多实践，不要不好意思模仿。
-
-----
-
-[1]: 由于 NodeBB 版论坛 [关闭](changelogs/2016?id=2016-02-08-新论坛上线及创造组-worldedit-schematics-命名规则更新)，本链接暂不可用

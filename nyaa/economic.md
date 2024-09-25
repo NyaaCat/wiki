@@ -31,13 +31,17 @@
 
 ## 交易细则
 
+- [天喵商城](/tutorial/plugins/hmarket?id=hm)——即世界商店
+- [木牌商店](/tutorial/plugins/hmarket?id=shop)
+- [喵店](/tutorial/plugins/nyaashop?id=shop)
+
+
 !> :x: **以下高级交易功能尚未恢复，仅供参考。**
 
-- [天喵商城](legacy/tutorial/plugins/hamsterecohelper#世界商店)——即世界商店
-- [个人商店](legacy/tutorial/plugins/hamsterecohelper#木牌商店)——包含出售、收购和抽奖
-- [拍卖](legacy/tutorial/plugins/hamsterecohelper#拍卖)
-- [征购](legacy/tutorial/plugins/hamsterecohelper#征购)
-- [天喵直送](legacy/tutorial/plugins/hamsterecohelper#天喵直送)
+- [个人商店](legacy/nyaa/tutorial/plugins/hamsterecohelper#木牌商店)——包含出售、收购和抽奖
+- [拍卖](legacy/nyaa/tutorial/plugins/hamsterecohelper#拍卖)
+- [征购](legacy/nyaa/tutorial/plugins/hamsterecohelper#征购)
+- [天喵直送](legacy/nyaa/tutorial/plugins/hamsterecohelper#天喵直送)
 
 ## 系统服务收费细则
 
@@ -71,10 +75,10 @@
 
 ### 重命名、邮送物品
 
-请参见“[Ukit 指南](tutorial/plugins/ukit)”：
+请参见“[Ukit 指南](tutorial/plugins/ukit?id=物品相关)”：
 
-- 重命名物品 —— 每次收取 10 卷
-
+- 重命名物品 —— 每个收取 10 卷
+- 邮送物品 —— 每次收取 1 卷（潜影盒为 18 卷）
 
 ### 玩家提供的系统服务
 
@@ -103,7 +107,7 @@
 
 创造激励计划由管理组负责基本框架的建设和任务指引，并通过各种交流途径（Wiki、BBS、群组等）向玩家邀请，协调玩家完成具体任务。
 
-如果参加[建造工程](nyaa/projects.md)，建设（手工）、材料与卷预算将由管理组根据建设进度逐步发放；工程量较小时，可能直接发放材料。  
+如果参加建造工程，建设（手工）、材料与卷预算将由管理组根据建设进度逐步发放；工程量较小时，可能直接发放材料。  
 建筑建设完成后，在门前留下建筑者的名牌以及购置费用（如有必要），以便日后管理组购置或其他玩家购置时支付相应的卷。
 
 !> 请负责的玩家认真督促工程进度，谢绝拖延。
