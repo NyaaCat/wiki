@@ -6,16 +6,15 @@
 
 ## 关于 Minecraft
 
-NyaaWiki **并不是** 针对《Minecraft》游戏的指南和知识库，它是针对 NyaaCat 社区和喵窝服务器的指南、手册和知识库系统。如果希望获得关于 Minecraft 游戏本身的信息，请访问：
+NyaaWiki **并不是** 针对《Minecraft》游戏的指南和知识库，它是针对 NyaaCat 社区和喵窝/毛线服务器的指南、手册和知识库系统。如果希望获得关于 Minecraft 游戏本身的信息，请访问：
 
 * [中文 Minecraft Wiki](https://zh.minecraft.wiki)
-  - 如果在中国内地，可访问此 [镜像站](https://wiki.biligame.com/mc)
 * [英文 Minecraft Wiki](https://minecraft.wiki)
 
-如果你是第一次玩 Minecraft，请首先参考官方 Wiki 的[《新手手册》](https://zh.minecraft.wiki/Tutorial%3A%E6%96%B0%E6%89%8B%E6%89%8B%E5%86%8C)<sup>（或者[内地镜像站页面](https://wiki.biligame.com/mc/%E6%95%99%E7%A8%8B%3A%E6%96%B0%E6%89%8B%E6%89%8B%E5%86%8C)）</sup>。  
-如果你之前没有在其它正版 Java 版服务器游玩的经历，请务必确认你使用的是 [Java 版客户端](https://zh.minecraft.wiki/Java%E7%89%88)，并通过**在 minecraft.net 注册和激活的 Java 版账号**登录游戏。
+如果你是第一次玩 Minecraft，请首先参考官方 Wiki 的[《新手手册》](https://zh.minecraft.wiki/Tutorial%3A%E6%96%B0%E6%89%8B%E6%89%8B%E5%86%8C)。  
+如果你之前没有在其它正版 Java 版服务器游玩的经历，请务必确认你使用的是 [Java 版客户端](https://zh.minecraft.wiki/Java%E7%89%88)，并通过**已购买 Minecraft Java 版的微软账号**登录游戏。
 
-尽管也可以[借助 Geyser<sup>（存档截图）</sup>](/assets/images/legacy/nyaabbs/1877-minecraftbedrock-edition-geyser.webp ':ignore') 来使用 [基岩版](https://zh.minecraft.wiki/%E5%9F%BA%E5%B2%A9%E7%89%88) 游玩喵窝服务器，但它并不受 Mojang 及喵窝官方支持，且你依然需要 Java 版账号来游玩。  
+尽管也可以[借助 Geyser<sup>（存档截图）</sup>](/assets/images/legacy/nyaabbs/1877-minecraftbedrock-edition-geyser.webp ':ignore') 来使用 [基岩版](https://zh.minecraft.wiki/%E5%9F%BA%E5%B2%A9%E7%89%88) 游玩喵窝服务器，但它并不受 Mojang 及喵窝官方支持，且你依然需要**同时拥有** Java 版的微软账号来游玩。  
 [网易（中国）版](https://mc.163.com/) 不受支持。
 
 - - -
@@ -36,7 +35,7 @@ NyaaWiki **并不是** 针对《Minecraft》游戏的指南和知识库，它是
 
 ### 准备好客户端 :id=prepare-client
 
-关于客户端，你仅需确保，使用的版本和服务器<span class="nw-explain" title="例如，服务器为 1.18.2 版本，则你只能使用 1.18.2 客户端">**完全匹配**</span>。<br />
+关于客户端，你仅需确保，使用的版本和服务器**完全匹配**。不匹配亦基本无妨，目前支持旧版客户端登录，但需要注意有可能出现非预期的问题（例如纪念品/兑换代币领取后变成原版物品）。<br />
 插件方面不作硬性要求。如希望使用辅助插件，但不善于安装，可在 [推荐资源](wiki/resources.md) 处获取客户端整合包。
 
 添加服务器时，请首先尝试使用地址 `play.nyaacat.com`，并将「服务器资源包」选项设为**询问**。
@@ -47,6 +46,7 @@ NyaaWiki **并不是** 针对《Minecraft》游戏的指南和知识库，它是
 如发现延迟较高（中国大陆约为 2\~60 ms，海外约为 40\~280 ms），请从 [首页](/) 选择其它地址尝试。  
 - 如出现「无法解析」、「Unknown host」等提示，请多刷新几次。  
 - 在“信号”标志稳定为<span class="nw-inf-green">绿色</span>之前，不要尝试登录。如等待超过三分钟，应重启游戏。
+- 避免通过任何网络代理登录 Minecraft 启动器或服务器。使用代理的情况下，你可能会被服务器拒绝登录。
 
 ### 阅读游戏规则
 
@@ -70,8 +70,8 @@ NyaaWiki **并不是** 针对《Minecraft》游戏的指南和知识库，它是
 有了充足的补给，该给自己挑选一处落脚之地。在[城镇村落总览](nyaa/realms.md)里挑选吧。  
 
 ?> :information_source: **小贴士**
-- 如希望加入较活跃的聚落，目前可以考虑：**北溪台、北风城、南沙港、阿库亚斯**。
-- 新建成的聚落：**米米国、乌木镇、雾雨港**等，也值得一试。
+- 如希望加入较活跃的聚落，目前可以考虑：**琴山、琥珀川（北沼）、北风城、南沙港、Aqua's（阿库亚斯）**。
+- 新建成的聚落：**终末地、乌木镇、雾雨港**等，也值得一试。
 - 当下，对于其它聚落，本文编者**不保证**有人接应，请慎重选择。
 
 选中之后，设法去往目的地吧。键入命令`/town select`，选择**出生点（即 spawn 点）**的传送门会启动，它看起来像这样：
@@ -94,7 +94,7 @@ NyaaWiki **并不是** 针对《Minecraft》游戏的指南和知识库，它是
 * 浪花町：神楽町（一期）、长乐町（二期）
 * 柚木小镇：~~北部提供自建区~~，其余为成品房（需购买）
 * 阿库亚斯：[提供现成住宅及自建区](nyaa/realms/aquas.md)
-* 樱华町：[提供现成住宅<sup>（存档截图）</sup>](/assets/images/legacy/nyaabbs/1714.webp ':ignore')与自建区。*注意：成品房购置门槛较高。*
+* 樱华町：[提供现成住宅<sup>（存档截图）</sup>](/assets/images/legacy/nyaabbs/1714.webp ':ignore')与自建区。
 * 新北市：*不建议入住，请遵从居委会安排*
 * 像素村、科技特区等：*不可入住*
 
@@ -123,6 +123,8 @@ NyaaWiki **并不是** 针对《Minecraft》游戏的指南和知识库，它是
 在原版，这是直接威胁生命的事情；而我们终年盛开的樱华神树，用祂无穷的神力把它们都赶走了！感谢神树！晚上尽情开趴吧！
 
 ?> :heavy_check_mark: 樱华町全境**不会**生成怪物。相当安全。
+
+!> 樱华神树的庇护对资源维度 `epicworld` 无效。
 
 ### 采集资源去哪里 :id=mining
 
@@ -169,6 +171,15 @@ NyaaWiki **并不是** 针对《Minecraft》游戏的指南和知识库，它是
   - 此昵称会覆盖游戏 ID 显示，但不影响之。
 
 更改前后缀需要一定的卷和经验，详情见 [Ukit 插件指南](tutorial/plugins/ukit.md?id=chat-prefix-suffix)。
+
+### 探索各种特色玩法
+
+除了原版内容，这里有各式特色玩法和小游戏，极大丰富游戏体验！目前开放的有：
+
+- 家具——细节满分、制作简便，给你一个五星级的家。[详情](tutorial/plugins/nyaaworks.md)
+- 特色附魔系统——若干实用的定制附魔，以及突破原版上限的高级附魔。
+- 每日集物宾果游戏——A bingo a day makes NyaaCat great everyday。集物奖励可助力附魔和家具收集！
+
 
 * * *
 
