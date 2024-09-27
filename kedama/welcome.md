@@ -1,37 +1,34 @@
-<!-- 复制自喵窝简介改编而成的测试页面 -->
-<!-- 需要重构语句 -->
+<!-- 基於喵窝简介改编而成的毛线指南(测试) -->
 
-# 毛线新人指南
+# 毛玉线圈物语新人指南
 
-本指南旨在为新玩家提供一个简洁明了、能够快速上手毛玉线圈物语服务器( 略称毛线 ) 的指南。
+本指南旨在为新玩家提供一个简洁明了、能够快速上手毛玉线圈物语服务器( 毛线 ) 的毛线版本指南。喵窝版本请前往[喵窝指南](nyaa/beginners-guide.md)。
 
-请注意该指南可能会随着游戏设定而改变，欢迎玩家们在保持简单、简洁的原则上完善本页面。
+注意该指南可能会随着游戏设定而改变，欢迎玩家们在保持简单、简洁的原则上完善本页面。
 
 ## 关于 Minecraft
 
-NyaaCatWiki **并不是** 针对《Minecraft》游戏的指南和知识库，此分区是针对毛线的指南、手册和知识库系统。如果希望获得关于 Minecraft 游戏本身的信息，请访问：
+NyaaWiki **并不是** 针对《Minecraft》游戏的指南和知识库，它是针对 NyaaCat 社区和喵窝/毛线服务器的指南、手册和知识库系统。如果希望获得关于 Minecraft 游戏本身的信息，请访问：
 
 * [中文 Minecraft Wiki](https://zh.minecraft.wiki)
-  - 如果在中国内地，可访问此 [镜像站](https://wiki.biligame.com/mc)
 * [英文 Minecraft Wiki](https://minecraft.wiki)
 
-如果你是第一次玩 Minecraft，请首先参考官方 Wiki 的[《新手手册》](https://zh.minecraft.wiki/Tutorial%3A%E6%96%B0%E6%89%8B%E6%89%8B%E5%86%8C)<sup>（或者[内地镜像站页面](https://wiki.biligame.com/mc/%E6%95%99%E7%A8%8B%3A%E6%96%B0%E6%89%8B%E6%89%8B%E5%86%8C)）</sup>。  
-如果你之前没有在其它正版 Java 版服务器游玩的经历，请务必确认你使用的是 [Java 版客户端](https://zh.minecraft.wiki/Java%E7%89%88)，并通过**在 minecraft.net 注册和激活的 Java 版账号**登录游戏。
-
-尽管也可以[借助 Geyser<sup>（存档截图）</sup>](/assets/images/legacy/nyaabbs/1877-minecraftbedrock-edition-geyser.webp ':ignore') 来使用 [基岩版](https://zh.minecraft.wiki/%E5%9F%BA%E5%B2%A9%E7%89%88) 游玩毛线，但它并不受 Mojang 及 Nyaacat 支持，且你依然需要 Java 版账号来游玩。  
+如果你是第一次玩 Minecraft，请首先参考官方 Wiki 的[《新手手册》](https://zh.minecraft.wiki/Tutorial%3A%E6%96%B0%E6%89%8B%E6%89%8B%E5%86%8C)。  
+如果你之前没有在其它正版 Java 版服务器游玩的经历，请务必确认你使用的是 [Java 版客户端](https://zh.minecraft.wiki/Java%E7%89%88)，并通过**已购买 Minecraft Java 版的微软账号**登录游戏。
 [网易（中国）版](https://mc.163.com/) 不受支持。
 
 - - -
 
 ## 入服准备
 
-你只需要准备一个正版 JavaMinecraft 账号
+你只需要准备一个正版 Minecraft Java Edition 账号
 
 服务器列表中添加地址 'play.craft.moe' 并将「服务器资源包」选项设为**使用**即可游玩。
 
-关于客户端，毛线服务器已安装 ViaVersion , 即使你的游戏版本在 1.21.1 以下也依然可以加入游戏。
+关于客户端，毛线服务器已安装 ViaVersion , 即使你的游戏版本在 1.21.1 以下也依然可以加入游戏，但部分新版本内容及数据包会显示错误，推荐使用 1.21+ 的客户端加入游戏。
+
 插件方面不作硬性要求，但不安装渲染优化插件可能使你的游玩体验较低。
-如希望使用辅助插件, 推荐下载 HMCL 并使用 [推荐整合包](https://community.craft.moe/d/5121)。
+如希望使用辅助插件, 推荐使用[推荐资源](wiki/resources.md)
 
 ?> :information_source: **小贴士**
 
@@ -119,7 +116,7 @@ NyaaCatWiki **并不是** 针对《Minecraft》游戏的指南和知识库，此
 
 ### 你是特别的 :
 
-喵窝世界中的大家都有花花绿绿的称号。别眼馋了，你也可以有！
+喵毛世界中的大家都有花花绿绿的称号。别眼馋了，你也可以有！
 
 *   更改前缀 `/u chat prefix set [前缀]` 例如 `/u chat prefix set &a&l&n&o我是前缀`
 *   更改后缀 `/u chat suffix set [后缀]` 例如 `/u chat suffix set &#66ccff我是后缀`
@@ -135,12 +132,6 @@ NyaaCatWiki **并不是** 针对《Minecraft》游戏的指南和知识库，此
 在世界冒险，一张精确的地图必不可少。例如，使用小地图 Mod （如VoxelMap、JourneyMap），它们可以确定你的位置，协助找到回家的路。  
 更加全能的办法，是按下F3键，游戏画面左上角将显示你的实时方位。往世界中心走总是没错的！  
 最万能的办法，当属 `/espawn` ！
-
-<!-- TODO: 在地图服务恢复后更新下面段落 -->
-
-此外，亦可查看网页端[地图](https://map.nyaacat.com/nyaa/)。目前在中国大陆可能存在访问困难的问题，其余地区应正常。  
-注意：该地图并不会指示你当前的方位。
-
 当然，**你可以随时询问其他伙伴**，他们会帮助你脱离困境。
 
 * * *
@@ -161,8 +152,8 @@ NyaaCatWiki **并不是** 针对《Minecraft》游戏的指南和知识库，此
 
 #### 红石类
 
-*   轨道交通技术（页面待恢复）
-*   世界内有大量自动化轨道交通设施、红石演示装置，欢迎前往体验学习。
+
+*    [生电相关](tutorial/redstone)
 
 
 ### 回馈社区
@@ -172,5 +163,9 @@ NyaaCatWiki **并不是** 针对《Minecraft》游戏的指南和知识库，此
 #### 其他方式
 
 *   申请加入[NyaaWiki源文件仓库](https://github.com/NyaaCat/wiki)贡献者名单，协助完善这份知识库。  
-  [参与详情见此页。](wiki/contribute)
 *   在涉及服务器与社区的讨论中积极提出自己的看法。
+
+
+
+## 加入喵窝
+如果希望加入建筑浓度更高，但同模组同材质且由同管理组运营的服务器，欢迎前往 [新玩家申请](nyaa/whitelist-application.md) 提交加入喵窝申请。
