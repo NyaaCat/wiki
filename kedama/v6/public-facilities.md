@@ -84,8 +84,8 @@
     <td>兰花</td>
     <td>@yebuluoxi</td>
     <td> 2300，638</td>
-    <td>鞘翅</td>
     <td>/</td>
+    <td>请携带鞘翅</td>
   </tr>
   
   <tr>
@@ -217,6 +217,15 @@
     <td> 300，30</td>
     <td>/</td>
     <td>四联刷铁塔</td>
+  </tr>
+
+   <tr>
+    <td>大老鼠刷冰/雪姬</td>
+    <td>冰/雪</td>
+    <td>@Dao_Mouse</td>
+    <td> 1050，-500</td>
+    <td>地狱 128 -62</td>
+    <td>/</td>
   </tr>
 
   <tr>
