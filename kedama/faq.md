@@ -1,6 +1,23 @@
-# FAQ
+<!-- 由毛线官网与NyaaWiki整合而成的KedamaFAQ -->
+<!-- Last Updated: by 秋秋 -->
 
-此页面是对《[毛线新人指南](kedama/beginners-guide.md)》的补充。
+# FAQ
+本页面用于整理各类常见问题（Frequently Asked Questions）。对于初来乍到不清楚毛线情况的玩家，建议简单浏览这里列出的常见问题以免出现任何误解。
+
+| 常见疑问 | 直达传送门 |
+|-|-|
+| 毛线是什么 | 👉 [毛玉线圈物語](kedama/beginners-guide#prepare-client)服务器的简称。|
+| 毛线服务器对客户端有特别的要求吗？ | :point_right:[如何准备客户端](kedama/beginners-guide#prepare-client)。 |
+| 我有点卡 | 👉[服务器连线相关](kedama/faq#connection)。|
+| 我是新玩家，我应该去哪生存？ | :point_right:[白手起家](kedama/beginners-guide#start-from-scratch) |
+| 我该怎么赚钱？ | :point_right:[每个卷都要精打细算](kedama/beginners-guide#earning) |
+| 如何去其它维度（世界）？ | :point_right:[维度列表](kedama/worlds)<br />要摆传送门请往下翻\~ |
+| 如何在游戏聊天内分享一条命令？ | 命令前面加上`&f`。 |
+| 如何使用锁箱插件？ | :point_right:[牌子锁指南](tutorial/plugins/lockettepro.md) |
+| 如何设置名称前/后缀？ | :point_right:[Ukit 帮助](tutorial/plugins/ukit.md#chat-prefix-suffix) |
+| 如何创建邮箱？ | :point_right:[Ukit 帮助](tutorial/plugins/ukit.md#mailer) |
+| 服务器的管理员该找谁？ | 请参阅《[玩家权限](wiki/permission)》之“管理组”。 |
+
 
 没有找到所需的答案？
 
@@ -11,7 +28,6 @@
 
 ## 初来者相关 :id=newcomers
 
-一些常用问题已汇总到以下表格了。  
 更多方面的问题：
 - [插件和命令](tutorial/commands-help.md)
 - 关于[神奇物品](#items)
@@ -19,17 +35,7 @@
 - 服务器[连接问题](#connection)
 - [其它问题](#other-newcomers)
 
-| 常见疑问 | 直达传送门 |
-|-|-|
-| 毛线服务器对客户端有特别的要求吗？ | :point_right:[准备好客户端](kedama/beginners-guide#prepare-client) |
-| 我是新玩家，我应该去哪生存？ | :point_right:[白手起家](kedama/beginners-guide#start-from-scratch) |
-| 我该怎么赚钱？ | :point_right:[每个卷都要精打细算](kedama/beginners-guide#earning) |
-| 如何去其它维度（世界）？ | :point_right:[维度列表](kedama/worlds)<br />要摆传送门请往下翻\~ |
-| 如何在游戏聊天内分享一条命令？ | 命令前面加上`&f`。 |
-| 如何使用锁箱插件？ | :point_right:[牌子锁指南](tutorial/plugins/lockettepro.md) |
-| 如何设置名称前/后缀？ | :point_right:[Ukit 帮助](tutorial/plugins/ukit.md#chat-prefix-suffix) |
-| 如何创建邮箱？ | :point_right:[Ukit 帮助](tutorial/plugins/ukit.md#mailer) |
-| 服务器的管理员该找谁？ | 请参阅《[玩家权限](wiki/permission)》之“管理组”。 |
+
 
 ### 关于物品 :id=items
 
@@ -48,7 +54,7 @@
 
 ?> 💱 **那么这些物品(纪念品)要在哪里获取呢**
 
-服务器不定期举办活动，参与活动可获得兑换币获取纪念品，欢迎各路神仙游玩或投标</br>
+服务器不定期举办活动，参与活动可获得兑换币获取纪念品，欢迎各路神仙游玩或[投标](https://craft.moe/faq)</br>
 活动详情见[喵毛论坛](https://community.craft.moe/)当期发布的公告
 
 活动纪念品可在出生点或[银河商人处](https://community.craft.moe/d/3570)兑换。
@@ -94,9 +100,15 @@ v6 世界大约已开启 0.5 年，版本为 1.21 </br>
 
 ?> :woozy_face: **为什么我感觉服务器突然好卡啊？**
 
-注意: 宽带速度(Mbps)/延迟(ms)与服务端游戏刻([tps](https://www.zhihu.com/question/269769734/answer/349795953))与客户端帧率(fps)与非同一“卡顿”来源 </br>
-服务器游戏刻(TPS)可以使用 miniHud mod 查看。 </br>
-如果数值过低，请联系管理组反馈以协助解决问题。
+- 宽带速度( Mbps )
+- 延迟( ms )
+- 服务端游戏刻( [TPS](https://www.zhihu.com/question/269769734/answer/349795953) )
+- 客户端帧率( FPS )
+
+均非同一“卡顿”来源。服务器游戏刻( TPS )可以使用 miniHud mod 查看。
+
+毛线拥有多台自有产权的物理机设备，但这并不能解决 Mojang 的代码性能问题。 TPS 正常值为 20， 低于 15 时时间运行速度会明显缓慢。如果 TPS 数值持续过低，请联系管理组反馈以协助解决问题。
+
 
 tip: 帧率低？推荐使用[插件整合包](wiki/resources.md)
 </br></br>
@@ -105,6 +117,7 @@ tip: 帧率低？推荐使用[插件整合包](wiki/resources.md)
 ?> :iphone: **我可以用手机登录毛线吗？**
 
 你确定真的要这么干？  
+
 的确有个解决方案，叫[PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher)。
 </br></br>
 
@@ -115,15 +128,12 @@ tip: 帧率低？推荐使用[插件整合包](wiki/resources.md)
 当然可以。  
 请事先计划好整个活动的各方面细节，包括主办方(一名或多名玩家或服内玩家组织)、活动名称、活动主题、时间、地点、可以参与的玩家、活动流程细节、需要管理组做何种支持等。制作成一份活动规划发送至管理组邮件列表：`owo@nyaa.cat`。管理组审核后会予以回复。
 
-
-#### 额外: 救命！我的微软账号被盗了！
+---------
+## 额外: 救命！我的微软账号被盗了！
 
 如果无法找回账号，可以注册并购买新的 MC 账号，然后联系管理组成员转移角色资料(余额，背包内容等)，人工转移商店物资，移除被盗账号的 Lockette 木牌，然后重新锁箱即可。
 
 被盗账号直接作封禁处理。
-
--->
-
 
 ---------
 
