@@ -1,7 +1,5 @@
 # FAQ
 
-*最后更新：{docsify-updated}*
-
 此页面是对《[毛线新人指南](kedama/beginners-guide.md)》的补充。
 
 没有找到所需的答案？
