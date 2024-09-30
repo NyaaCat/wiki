@@ -19,6 +19,9 @@
   - [创造激励计划](nyaa/creation.md)
 - 毛线世界
   - [新人指南](kedama/beginners-guide.md)
+  - [常见问题](kedama/faq.md)
+  - [经济规则](kedama/economy.md)
+  - [资源获取:公用生产设施](kedama/public-facilities.md)
 - 实用帮助
   - [插件帮助 :four_leaf_clover:](tutorial/plugins.md)
   - [交通导航](tutorial/map-navi.md)
