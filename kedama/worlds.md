@@ -42,7 +42,7 @@
 关于 v4 世界的起始，请参见论坛帖子[「Update 1.16.4 & World V4 - Quaternary」](https://community.craft.moe/d/2117)
 
 #### v3 世界
-`v3` 世界是毛线的第四个世界，对应的世界代号为 `Windfall`，世界生成时的游戏版本为 `1.13.2`。  
+`v3` 世界是毛线的第三个世界，对应的世界代号为 `Windfall`，世界生成时的游戏版本为 `1.13.2`。  
 关于 v3 世界的起始，请参见论坛帖子[「Update Aquatic 1.13.2 & World V3 - 毛玉线圈物语·Windfall」](https://community.craft.moe/d/581)
 
 #### v2 世界

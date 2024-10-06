@@ -1,4 +1,4 @@
-# 规则
+# 毛玉线圈物语规则
 这里是毛线物语 Minecraft 服务器的游戏规则。请在加入游戏前认真阅读本规则，以免出现损失。  
 
 > 本页面来源于 [craft.moe/rules](https://craft.moe/rules)  

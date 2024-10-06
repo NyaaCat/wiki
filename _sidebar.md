@@ -24,7 +24,7 @@
   - [经济规则](kedama/economy.md)
   - [世界列表](kedama/worlds.md)
   - [公共设施/资源目录](kedama/public-facilities.md)
-  - [聚落图鉴](kedama/towns.md)
+  - [城镇/聚落图鉴](kedama/towns.md)
 - 实用帮助
   - [插件帮助 :four_leaf_clover:](tutorial/plugins.md)
   - [交通导航](tutorial/map-navi.md)
