@@ -13,4 +13,4 @@
 |[NyaaShop](tutorial/plugins/nyaashop.md) 喵店| 木牌出售、收购 |
 |[NyaaWorks](tutorial/plugins/nyaaworks.md) 喵工坊| 家具布置 |
 |NyaaEnchants 喵附魔 | 高级附魔功能和一系列定制附魔 |
-|NyaaGears 喵秘宝 | 每日集物宾果游戏、抽奖等 |
+|[NyaaGears](tutorial/plugins/nyaagears.md) 喵秘宝 | 每日集物宾果游戏、抽奖等 |
