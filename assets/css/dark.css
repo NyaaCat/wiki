@@ -20,11 +20,11 @@ Elements tweaked or added when forking from the origin
 */
 body {
   color: #cecece;
-  background-color: #212121;
+  background-color: #1c1c1c;
 }
 .sidebar {
   border-right: 1px solid rgba(255,255,255,.2);
-  background-color: #212121;
+  background-color: #1c1c1c;
   color: #cecece;
 }
 .sidebar ul li a {

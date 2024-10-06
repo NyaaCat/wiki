@@ -20,8 +20,10 @@
 - 毛线世界
   - [新人指南](kedama/beginners-guide.md)
   - [常见问题](kedama/faq.md)
+  - [毛线规则](kedama/rules.md)
   - [经济规则](kedama/economy.md)
-  - [资源获取:公用生产设施](kedama/public-facilities.md)
+  - [世界列表](kedama/worlds.md)
+  - [公共设施/资源目录](kedama/public-facilities.md)
   - [聚落图鉴](kedama/towns.md)
 - 实用帮助
   - [插件帮助 :four_leaf_clover:](tutorial/plugins.md)
