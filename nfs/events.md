@@ -14,6 +14,13 @@ WWR (World Wings Rally) 是由 [喵窝飞行家里程俱乐部 (NFMC)](legacy/ny
 
 不同的赛场难度有所差别，但都要求玩家熟悉原版飞行的基本技巧（包括如何合理使用烟花火箭）。
 
+经过 [重新上线](https://community.craft.moe/d/5231) 后，默认会显示指向下一个检查点的指引，可以使用命令 `/guidance <on|partial|off>` 配置指引等级以及开关。
+
+- `/guidance on` 会在前方使用会追踪的粒子连接到下一个检查点，并在下一个检查点中心显示绿点
+- `/guidance partial` 只会在下一个检查点中心显示绿点
+- `/guidance off` 会完全关闭功能
+
+
 ### 赛场
 
 请见 [场地](nfs/fields) 页面。

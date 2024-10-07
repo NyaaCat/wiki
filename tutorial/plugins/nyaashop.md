@@ -1,7 +1,5 @@
 # NyaaShop 插件指南
 
-!> :construction: **NyaaShop 插件当前在喵窝测试，毛线需等待正式上线。**
-
 NyaaShop（喵店）是为促进服务器经济流动的辅助性插件。
 
 --------
