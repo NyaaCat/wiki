@@ -39,6 +39,31 @@
         noData: '未找到结果',
         namespace: 'nyaawiki',
       },
+      'flexible-alerts': {
+        style: 'nyaa',
+        note: {
+          label: "说明"
+        },
+        tip: {
+          label: "小贴士"
+        },
+        warning: {
+          label: "警告"
+        },
+        attention: {
+          label: "注意"
+        },
+        important: {
+          label: '重要',
+          icon: 'icon-important',
+          className: 'important'
+        },
+        typeMappings: {
+          info: 'note',
+          danger: 'attention',
+          caution: 'attention'
+        }
+      },
       nativeEmoji: true,
       plugins: [
         EditOnGithubPlugin.create(
@@ -49,6 +74,7 @@
   </script>
   
   <!-- <script src="//unpkg.zhimg.com/docsify/lib/plugins/emoji.min.js"></script> -->
+  <script src="assets/js/docsify-plugin-flexible-alerts.min.js"></script>
   <script src="//cdnjs.cloudflare.com/ajax/libs/docsify/4.13.1/plugins/search.min.js"></script>
   <script src="//cdnjs.cloudflare.com/ajax/libs/docsify/4.13.1/plugins/zoom-image.min.js"></script>
 </body>
