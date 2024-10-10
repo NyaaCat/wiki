@@ -34,7 +34,7 @@
 ### 归档的主世界
 ?> 归档的世界将从服务器中下线并开放下载。  
 目前 `v2`, `v3`, `v4` 世界的存档的下载方式可以参见论坛帖子[「Update 1.18.2 & World V5 - Fluorescence」](https://community.craft.moe/d/2789)  
-由于[喵窝下载站](https://downloads.nyaacat.com ':disabled')暂时下线，种子文件 `kedama.v1-v4.20220310.torrent` 现可以在[本站附件](/assets/attachments/kedama.v1-v4.20220310.torrent)找到。 (by Nyaasu)  
+由于[喵窝下载站](https://downloads.nyaacat.com ':disabled')暂时下线，种子文件 `kedama.v1-v4.20220310.torrent` 现可以在[本站附件](assets/attachments/kedama.v1-v4.20220310.torrent ':ignore')找到。 (by Nyaasu)  
 另有 [OneDrive 备份](https://timeoutmoe-my.sharepoint.com/:f:/g/personal/admin_timeout_moe/Ek8ZR3YWljlGojK3y4CIIm4BsZyjoD7atmiqEpmoJhs_Xg?e=eNUdMG)可用。 (by Ping_timeout)
 
 #### v4 世界
