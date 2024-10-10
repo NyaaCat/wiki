@@ -60,3 +60,21 @@ For details & discussion, visit https://web.archive.org/web/20200729155257/https
 .nw-inf-t5p, .nw-inf-red, .nw-mark-red {
     color: #f44336;
 }
+
+/*
+and these will be some styles override the docsify default
+by langua
+*/
+
+.markdown-section code,
+.markdown-section pre {
+    border-radius: 2px;
+}
+
+.markdown-section p.warn {
+    background: rgba(51, 153, 0, 0.1);
+}
+
+.markdown-section p.tip {
+    background-color: rgba(255, 102, 102,0.1);
+}

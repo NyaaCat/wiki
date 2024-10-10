@@ -53,14 +53,14 @@ body {
   background-color: #333;
 }
 .markdown-section p.tip {
-  background-color: #3e3e3e;
+  background-color: rgba(255, 102, 102,0.1);
   color: #ddd;
 }
 .markdown-section p.tip em {
   color: #cecece;
 }
 .markdown-section p.warn {
-  background: rgba(156,204,101,.15);
+  background: rgba(51, 153, 0,0.1);
 }
 .markdown-section h1,
 .markdown-section h2,
@@ -76,14 +76,21 @@ body {
 .markdown-section em {
   color: #9e9e9e;
 }
-.markdown-section code,
-.markdown-section pre {
-    background-color: #3e3e3e;
+.markdown-section code{
+  background-color: #3e3e3e;
     color: var(--theme-color, #ddd);
-    font-family: Roboto Mono, Monaco, courier, monospace
+    font-family: Roboto Mono, Monaco, courier, monospace;
+    border-radius: 2px;
+}
+
+.markdown-section pre {
+    background-color: #101010;
+    color: var(--theme-color, #ddd);
+    font-family: Roboto Mono, Monaco, courier, monospace;
+    border-radius: 2px;
 }
 .markdown-section pre>code {
-  background-color: #3e3e3e;
+  background-color: #101010;
   color: #b0bec5;
 }
 .markdown-section figure,
@@ -94,7 +101,7 @@ body {
 
 /* Added elements */
 .markdown-section p.warn code {
-  background-color: rgba(156,204,101,.15);
+  background-color: rgba(156,204,101,.12);
 }
 .markdown-section p.tip code {
   background-color: rgba(255,255,255,.12);
@@ -434,16 +441,16 @@ body.sticky .sidebar-toggle {
 }
 .markdown-section p.tip {
   border-bottom-right-radius: 2px;
-  border-left: 4px solid #f66;
+  border-left: 4px solid  #f66;
   border-top-right-radius: 2px;
   margin: 2em 0;
   padding: 12px 24px 12px 30px;
   position: relative;
 }
 .markdown-section p.tip:before {
-  background-color: #f66;
+  background-color:  #f66;
   border-radius: 100%;
-  color: #3f3f3f;
+  color: #0c0c0c;
   content: '!';
   font-family: 'Dosis', 'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif;
   font-size: 14px;
