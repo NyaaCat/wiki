@@ -123,17 +123,10 @@
 
 将服务端升级到最新的 Minecraft 版本不是件非常容易的事情。在喵窝升级到下一个版本以前，需要等待插件跟进、性能评估、游戏策略的调整等。
 
-不过，喵窝对于跟进官方最新版本是积极的，相信不久之后就可以在喵窝享受最新版本（1.17.X）的特性了。
+不过，喵窝对于跟进官方最新版本是积极的，现在服务端版本已经更新到 1.21.1 了。
 
 
 ### 关于服务器连接问题 :id=connection
-
-?> :computer: **修改密码后无法登陆？**
-
-在 Mojang 官网修改密码后，新密码将会在 24h 内生效。在新密码生效前，**使用新旧密码均无法登陆 Minecraft**。
-
-总之甩锅给 Mojang 就是了
-
 
 ?> :dizzy_face: **我上次玩完活动就走了，这次登录怎么登不上？**
 
@@ -156,17 +149,17 @@
 ?> :door: **我可以用基岩版（Win10）客户端登录喵窝吗？**
 
 可以，但请注意，**以下方案不受 Mojang 官方支持，随时可能失效。**  
-——你需要的有[GeyserMC](https://geysermc.org/)，以及一个 *Minecraft* Java版服务器（可以是家里另一台电脑，也可以是VPS）。按照《[安装教程](https://github.com/GeyserMC/Geyser/wiki/Setup)》将Geyser安装到该服务器，然后通过其中转，登录喵窝。
+——你需要的有 [GeyserMC](https://geysermc.org/)，以及一个 *Minecraft* Java 版服务器（可以是家里另一台电脑，也可以是 VPS）。按照《[安装教程](https://github.com/GeyserMC/Geyser/wiki/Setup)》将 Geyser 安装到该服务器，然后通过其中转，登录喵窝。
 
 在码云也可以看《[安装教程](https://gitee.com/mirrors_trending/Geyser/wikis/Setup)》。
 
-此外，基岩版自动升级后（如1.17.x），可能会无法登录尚未升级（如1.16.5）的喵窝。请参考《[基岩版版本回退 & Geyser版本管理<sup>（存档截图）</sup>](/assets/images/legacy/nyaabbs/1877-minecraftbedrock-edition-geyser.webp ':ignore')》。
+此外，基岩版自动升级后（如 1.17.x），可能会无法登录尚未升级（如 1.16.5）的喵窝。请参考《[基岩版版本回退 & Geyser版本管理<sup>（存档截图）</sup>](/assets/images/legacy/nyaabbs/1877-minecraftbedrock-edition-geyser.webp ':ignore')》。
 
 
-?> :iphone: **我可以用手机登录喵窝吗？**
+?> :iphone: **我可以在手机上用 Java 版客户端登录喵窝吗？**
 
 你确定真的要这么干？  
-的确有个解决方案，叫[PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher)。
+的确有个解决方案，叫 [PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher)。
 
 
 ### 其它初来者问题 :id=other-newcomers
@@ -202,14 +195,14 @@
 管理组成员的头像上有着“深蓝色的闪电”徽章，而“红色的小扳手”徽章则代表站长。  
 将鼠标移动到徽章上可看到这些徽章的具体含义。
 
-
+<!--
 ?> :six_pointed_star: **头像上粉红色的徽章是什么？我能获取吗？有什么用处？**
 
 该徽章意为「Verified」（已认证），当在 NyaaBBS **累计发帖、回复 50 次以上** 时，即有资格获取之。  
 需要获取时，联系管理组处理。
 
 目前，该徽章仅作装饰之用。
-
+-->
 
 ?> :-( **我在论坛发言中输入了一个颜文字，然后样式崩坏了！**
 
@@ -235,7 +228,7 @@
 
 当然可以，但是：
 
-- 你的伙伴需要自行在 [minecraft.net](https://www.minecraft.net) 注册、激活国际版账号，并**自行申请**喵窝[白名单](nyaa/whitelist-application)，使用**自己的账号**登录游戏。
+- 你的伙伴需要自行在 [minecraft.net](https://www.minecraft.net) 购买许可证，并**自行申请**喵窝[白名单](nyaa/whitelist-application)，使用**自己的账号**登录游戏。
 - **不要与你的伙伴互相共享账号**（即使你们在一起）。这是违反规则的！
 
 <!--
@@ -384,7 +377,7 @@ chars=$(gdialog --inputbox ' ' 2>&1)
 
 ?> :yellow_circle: **macOS 下 Minecraft 如何在聊天框输入中文（或其他 CJK 字符）？**
 
-喵窝目前使用的游戏版本在 macOS Catalina (10.15) 和 Big Sur (11.0) 可以正常通过输入法输入中文。
+喵窝目前使用的游戏版本在 macOS Catalina (10.15) 至 Sequoia (15.0) 可以正常通过输入法输入中文。
 
 根据笔者测试，目前直接输入中文时存在以下问题：
 
@@ -398,6 +391,14 @@ chars=$(gdialog --inputbox ' ' 2>&1)
 这是由于 macOS Sierra 及以上版本的鼠标滚轮加速功能导致的；该功能对 Minecraft 并不是非常友好，从而会导致滚动速度鬼畜的问题。
 
 如果需要禁用滚轮加速功能，可以尝试安装 [DiscreteScroll](https://github.com/emreyolcu/discrete-scroll)。
+
+?> :green_circle: **在 Apple Silicon 版 macOS 使用 ARM64（原生）版 Java 进行游玩**
+
+目前官方启动器已经支持使用 ARM64 架构的 Java 来运行游戏，但请确认设置中「为《Minecraft：Java版》使用Arm64架构的Java运行时」已经勾选。
+
+如果想要使用 MultiMC（的整合包），目前 MultiMC 并不支持 ARM64 版的 Java；不过，你可以考虑使用 [Prism Launcher](https://prismlauncher.org/)，其为 MultiMC 的 fork 版本，完全兼容 MultiMC 格式的整合包。
+
+这样，你就不需要在你的电脑上安装 Rosetta 2 了，并且可以保证最佳性能。
 
 ?> :large_blue_circle: **下载文件失败/无法登录正版服务器**
 
