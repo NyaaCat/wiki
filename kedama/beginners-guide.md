@@ -191,6 +191,6 @@ TIP: 在主世界挖掘时请注意：如挖进了聚落领域范围，或者不
 #### 红石类
 
 
-*    [生电相关](tutorial/redstone)
+*    [生电相关](tutorial/redstone.md)
 
 
