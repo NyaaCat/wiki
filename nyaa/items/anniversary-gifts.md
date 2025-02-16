@@ -124,7 +124,7 @@
 
 ### 轻快的沉重核心
 
-![2025-heavy_core.png](https://s2.loli.net/2025/02/15/2jlpwPJdTrLQI3G.png)
+![2025-heavy_core.png](../../assets/images/items/anniversary-gifts/2025-heavy_core.png)
 
 - **【年份】2025**
 - 【外形】沉重核心，有附魔
@@ -138,7 +138,7 @@
 
 ### Sculk Vision Pro
 
-![2025-sculk_sensor.png](https://s2.loli.net/2025/02/15/HAJe1crZI7sLj2h.png)
+![2025-sculk_sensor.png](../../assets/images/items/anniversary-gifts/2025-sculk_sensor.png)
 
 - **【年份】2025**
 - 【外形】幽匿感测体，有附魔
