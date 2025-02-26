@@ -122,6 +122,14 @@
   + 在副手时：生物跟随距离 +9
 - **【作用】**便于拉拢生物。
 
+### 传奇之始
+
+![10th](../../assets/images/items/anniversary-gifts/10th.jpg)
+
+- **【年份】2024**
+- 【外形】回响碎片
+- **【作用】**作为头饰佩戴。
+
 ### 轻快的沉重核心
 
 ![2025-heavy_core.png](../../assets/images/items/anniversary-gifts/2025-heavy_core.png)
