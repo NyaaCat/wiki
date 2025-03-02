@@ -6,18 +6,18 @@
 
 | 常见疑问 | 直达传送门 |
 |-|-|
-| 毛线是什么 | :point_right: [毛玉线圈物語](kedama/beginners-guide.md)服务器的简称。|
-| 毛线服务器对客户端有特别的要求吗？ | :point_right: [如何准备客户端](kedama/beginners-guide#入服准备)。 |
-| 我有点卡 | :point_right:[服务器连线相关](kedama/faq#技术性问题)。|
-| 我是新玩家，我应该去哪生存？ | :point_right:[新手上路](kedama/beginners-guide#新手上路) |
-| 我该怎么赚钱？ | :point_right:[每个卷都要精打细算](kedama/beginners-guide#每个卷都要精打细算) |
-| 如何去其它维度（世界）？ | :point_right:[维度列表](kedama/worlds.md)<br />要摆传送门请往下翻\~ |
+| 毛线是什么 | :point_right: [毛玉线圈物語](../kedama/beginners-guide.md)服务器的简称。|
+| 毛线服务器对客户端有特别的要求吗？ | :point_right: [如何准备客户端](../kedama/beginners-guide#入服准备)。 |
+| 我有点卡 | :point_right:[服务器连线相关](../kedama/faq#技术性问题)。|
+| 我是新玩家，我应该去哪生存？ | :point_right:[新手上路](../kedama/beginners-guide#新手上路) |
+| 我该怎么赚钱？ | :point_right:[每个卷都要精打细算](../kedama/beginners-guide#每个卷都要精打细算) |
+| 如何去其它维度（世界）？ | :point_right:[维度列表](../kedama/worlds.md)<br />要摆传送门请往下翻\~ |
 | 如何在游戏聊天内分享一条命令？ | 命令前面加上`&f`。 |
-| 如何使用锁箱插件？ | :point_right:[牌子锁指南](tutorial/plugins/lockettepro.md) |
-| 如何设置名称前/后缀？ | :point_right:[Ukit 帮助](tutorial/plugins/ukit.md#chat-prefix-suffix) |
-| 如何创建邮箱？ | :point_right:[Ukit 帮助](tutorial/plugins/ukit.md#mailer) |
-| 服务器的管理员该找谁？ | :point_right:请参阅《[玩家权限](wiki/permission)》之“管理组”。 |
-
+| 如何使用锁箱插件？ | :point_right:[牌子锁指南](../tutorial/plugins/lockettepro.md) |
+| 如何设置名称前/后缀？ | :point_right:[Ukit 帮助](../tutorial/plugins/ukit.md#chat-prefix-suffix) |
+| 如何创建邮箱？ | :point_right:[Ukit 帮助](../tutorial/plugins/ukit.md#mailer) |
+| 服务器的管理员该找谁？ | :point_right:请参阅《[玩家权限](../wiki/permission)》之“管理组”。 |
+| 可以使用XX模组吗 | :point_right:[模组合法性问题](../kedama/faq#模组合法性问题) |
 
 没有找到所需的答案？
 
@@ -82,16 +82,15 @@
 
 ?> 🧊 **我能不能自己摆个下界传送门？**
 
-一般在野外，下界传送门可自行设置；但在聚落内则不建议私自设置，应首先和聚落内其他邻居共同决定。  
-若你新摆设的传送门与既有的门发生“串门”，应**以既有者为先，不得私自破坏或更改其目的地。**
+一般在野外，下界传送门可自行设置；但在聚落内则不建议私自设置，应首先和聚落内其他邻居共同决定。若你新摆设的传送门与既有的门发生“串门”，应**以既有者为先，不得私自破坏或更改其目的地。**
 </br></br>
 
 ?> :world_map: **毛线主世界地图是什么时候生成的？期间有更换过吗？**
 
 v1 ~ v4 已封存 </br>
-v5 世界大约已开启 3 年, 版本为 1.18 ~ 1.20 </br>
-v6 世界大约已开启 0.5 年，版本为 1.21 </br>
--本条目更新时间: 2024/10/1
+v5 世界大约已开启 3.5 年, 版本为 1.18 ~ 1.20 </br>
+v6 世界大约已开启 1 年，版本为 1.21 </br>
+-本条目更新时间: 2025/02/28
 </br></br>
 
 
@@ -99,16 +98,14 @@ v6 世界大约已开启 0.5 年，版本为 1.21 </br>
 
 将服务端升级到最新的 Minecraft 版本不是件非常容易的事情。在喵毛服务器升级到下一个版本以前，需要等待插件跟进、性能评估、游戏策略的调整等。
 
-不过，毛线对于跟进官方最新版本是非常积极的，目前的版本已是1.21.1。
+不过，毛线对于跟进官方最新版本是非常积极的，目前的版本已是1.21。
 </br></br>
 
 ### 关于服务器连接问题
 
 ?> :computer: **修改密码后无法登陆？**
 
-在 Mojang 官网修改密码后，新密码将会在 24h 内生效。在新密码生效前，**使用新旧密码均无法登陆 Minecraft**。
-
-总之甩锅给 Mojang 就是了
+在 Mojang 官网修改密码后，新密码将会在 24h 内生效。在新密码生效前，**使用新旧密码均无法登陆 Minecraft**。总之甩锅给 Mojang 就是了
 </br></br>
 
 ?> :woozy_face: **为什么我感觉服务器突然好卡啊？**
@@ -122,17 +119,35 @@ v6 世界大约已开启 0.5 年，版本为 1.21 </br>
 
 毛线拥有多台自有产权的物理机设备，但这并不能解决 Mojang 的代码性能问题。 TPS 正常值为 20， 低于 15 时时间运行速度会明显缓慢。如果 TPS 数值持续过低，请联系管理组反馈以协助解决问题。
 
-
 tip: 帧率低？推荐使用[插件整合包](wiki/resources.md)
 </br></br>
 
-
 ?> :iphone: **我可以用手机登录毛线吗？**
 
-你确定真的要这么干？  
-
-的确有个解决方案，叫[PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher)。
+你确定真的要这么干？  [PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher)。
 </br></br>
+
+
+### 模组合法性问题
+2025/02/28
+</br>
+关于毛线模组使用合法性:
+
+> [!important]
+> 毛线并不限制客户端是否安装某模组，而只根据玩家具体行为判定是否违规。  
+> 以**获利**为目的使用作弊客户端、作弊性 mod、外挂程序、自动化脚本等非正常手段会被判定违规，而仅供个人游戏或娱乐性用途的 mod 则暂未多加限制。  
+> 本 wiki 编者仅选取部分模组作为示例，如涉及自动化用法，请注意保持不获利使用。  
+> 具体可参阅[规则](kedama/rules)页面。
+
+常见生电辅助模组: minihud, tweakeroo, litmetica, autofish 均可使用。
+</br>
+强效生电辅助模组: tweaker-more, litmetica-printer, 宅闲鱼二改打印机暂允许使用。
+</br>
+外挂模组: **禁止使用**,包括**飞天/矿透/光环**等，除了:
+
+<img src="../assets/images/kedama.wiki/卷曰.他开你也开.jpg" width="40%"/>
+
+<img src="../assets/images/kedama.wiki/卷曰.给我揍回去.jpg" width="40%"/>
 
 ### 其它初来者问题
 
@@ -142,11 +157,9 @@ tip: 帧率低？推荐使用[插件整合包](wiki/resources.md)
 请事先计划好整个活动的各方面细节，包括主办方(一名或多名玩家或服内玩家组织)、活动名称、活动主题、时间、地点、可以参与的玩家、活动流程细节、需要管理组做何种支持等。制作成一份活动规划发送至管理组邮件列表：`owo@nyaa.cat`。管理组审核后会予以回复。
 
 
-? > 💦 额外: 救命！我的微软账号被盗了！
+? > 💦 额外: **救命！我的微软账号被盗了！**
 
-如果无法找回账号，可以注册并购买新的 MC 账号，然后联系管理组成员转移角色资料(余额，背包内容等)，人工转移商店物资，移除被盗账号的 Lockette 木牌，然后重新锁箱即可。
-
-被盗账号直接作封禁处理。
+如果无法找回账号，可以注册并购买新的 MC 账号，然后联系管理组转移角色资料(余额，背包内容等)，人工转移商店物资，移除被盗账号的 Lockette 木牌，然后重新锁箱即可。被盗账号作封禁处理。
 
 ---------
 
