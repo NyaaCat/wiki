@@ -133,7 +133,13 @@ tip: 帧率低？推荐使用[插件整合包](wiki/resources.md)
 </br>
 关于毛线模组使用合法性:
 
-常见生电辅助模组: minihud, tweakeroo, litmetica, autofish均可使用。
+> [!important]
+> 毛线并不限制客户端是否安装某模组，而只根据玩家具体行为判定是否违规。  
+> 以**获利**为目的使用作弊客户端、作弊性 mod、外挂程序、自动化脚本等非正常手段会被判定违规，而仅供个人游戏或娱乐性用途的 mod 则暂未多加限制。  
+> 本 wiki 编者仅选取部分模组作为示例，如涉及自动化用法，请注意保持不获利使用。  
+> 具体可参阅[规则](kedama/rules)页面。
+
+常见生电辅助模组: minihud, tweakeroo, litmetica, autofish 均可使用。
 </br>
 强效生电辅助模组: tweaker-more, litmetica-printer, 宅闲鱼二改打印机暂允许使用。
 </br>
