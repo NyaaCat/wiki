@@ -6,19 +6,18 @@
 
 | 常见疑问 | 直达传送门 |
 |-|-|
-| 毛线是什么 | :point_right: [毛玉线圈物語](../kedama/beginners-guide.md)服务器的简称。|
-| 毛线服务器对客户端有特别的要求吗？ | :point_right: [如何准备客户端](../kedama/beginners-guide#入服准备)。 |
-| 我有点卡 | :point_right:[服务器连线相关](../kedama/faq#技术性问题)。|
-| 我是新玩家，我应该去哪生存？ | :point_right:[新手上路](../kedama/beginners-guide#新手上路) |
-| 我该怎么赚钱？ | :point_right:[每个卷都要精打细算](../kedama/beginners-guide#每个卷都要精打细算) |
-| 如何去其它维度（世界）？ | :point_right:[维度列表](../kedama/worlds.md)<br />要摆传送门请往下翻\~ |
-| 如何在游戏聊天内分享一条命令？ | 命令前面加上`&f`。 |
-| 如何使用锁箱插件？ | :point_right:[牌子锁指南](../tutorial/plugins/lockettepro.md) |
-| 如何设置名称前/后缀？ | :point_right:[Ukit 帮助](../tutorial/plugins/ukit.md#chat-prefix-suffix) |
-| 如何创建邮箱？ | :point_right:[Ukit 帮助](../tutorial/plugins/ukit.md#mailer) |
-| 服务器的管理员该找谁？ | :point_right:请参阅《[玩家权限](../wiki/permission)》之“管理组”。 |
-| 可以使用XX模组吗 | :point_right:[模组合法性问题](../kedama/faq#模组合法性问题) |
-
+| 毛线是什么服务器？ | :point_right: [服务器简介](../kedama/beginners-guide.md) |
+| 新玩家应该在哪定居？ | :point_right: [生存指南](../kedama/beginners-guide#新手上路) |
+| 如何快速获得启动资金？ | :point_right: [经济系统详解](../kedama/economy.md#在线奖励货币增发途径) |
+| 客户端需要特殊配置吗？ | :point_right: [入服准备指南](../kedama/beginners-guide#入服准备) |
+| 游戏延迟高/卡顿怎么办？ | :point_right: [网络优化方案](../kedama/faq#技术性问题) |
+| 如何防止物品被偷？ | :point_right: [领地保护指南](../tutorial/plugins/lockettepro.md)|
+| 允许使用哪些模组？ | :point_right: [模组合规清单](../kedama/faq#模组合法性问题) |
+| 如何去不同世界？ | :point_right: [世界维度说明](../kedama/worlds.md)<br /> |
+| 聊天栏如何分享命令？ | `&f`+命令（如 `&f/spawn`） |
+| 定制个性化称号 | :point_right: [前缀/后缀设置](../tutorial/plugins/ukit.md#chat-prefix-suffix) |
+| 邮箱系统如何使用？ | :point_right: [邮件功能详解](../tutorial/plugins/ukit.md#mailer) |
+| 如何举报违规行为？ | :point_right: [玩家守则](../kedama/rules.md) <!-- new --> |
 没有找到所需的答案？
 
 先对自己的问题分类 —— 它是属于[Minecraft 本身](https://wiki.biligame.com/mc)的，还是服务器里各种新奇玩意的？</br>
@@ -28,49 +27,14 @@
 
 ## 初来者相关
 
-更多方面的问题：
-- [插件和命令](tutorial/commands-help.md)
-- 关于[神奇物品](#关于物品)
-- 关于[毛线世界](#关于这个世界)
-- 服务器[连接问题](#关于服务器连接问题)
-- [其它问题](#其它初来者问题)
-
-
-
-### 关于物品
-
-?> ⛏️ **我看商店里，那些装备道具似乎很厉害，值得买吗？**
-
-由于毛线v5服务器重置地图及纪念品，目前并没有大幅超出原版性能的装备道具。</br>
-喵毛服务器[特殊附魔](/*未有此页面*/) (此页面未完成) 工具兼有高实用性和获取难度，可以考虑入手。
-</br></br>
-
-?> ⚒️ **为什么有一些非工具的物品有附魔？它们可以给其它工具附魔吗？**
-
-这些附魔往往**仅用于装饰**，不能给其它工具附魔。  
-一些东西可能具有其他的加成属性，比如增加你的攻击、速度等，这时你可以选择把它们戴在头上（`/hat`），或者放在副手上。  
-一些附魔可能会间接工作，但并不靠谱，请不要依赖这个技巧。
-</br></br>
-
-?> 💱 **那么这些物品(纪念品)要在哪里获取呢**
-
-服务器不定期举办活动，参与活动可获得兑换币获取纪念品，欢迎各路神仙游玩或[投标](https://craft.moe/faq)</br>
-活动详情见[喵毛论坛](https://community.craft.moe/)当期发布的公告
-
-活动纪念品可在出生点或[银河商人处](https://community.craft.moe/d/3570)兑换。
-银河商人会被放置在管理组认为完成度高的原创建筑群中，位置固定后不会离开。
-</br></br>
-
-
 ### 关于这个世界
 
 ?> ❓ **没有领地插件?**
 
-- [游戏规则](https://craft.moe/rules)
-
-`本服务器的最小化限制不代表对违规行为有丝毫的宽容。干净利落快准狠是本服务器管理组的风格。`
-
-如果`有目的性地给他人造成损失、破坏游戏公平性、社区氛围和他人的游戏体验，包括盗窃、刷屏、无故杀人、抢夺物品、破坏他人物品或建筑、滥用他人无偿提供的公益设施或物品、恶意锁住他人箱子或方块等。`一经查证证据确凿则立即封禁。
+> [!important]
+> [游戏规则](https://craft.moe/rules)
+> 本服务器的最小化限制不代表对违规行为有丝毫的宽容。干净利落快准狠是本服务器管理组的风格。`
+> 如果**有目的性地给他人造成损失、破坏游戏公平性、社区氛围和他人的游戏体验，包括盗窃、刷屏、无故杀人、抢夺物品、破坏他人物品或建筑、滥用他人无偿提供的公益设施或物品、恶意锁住他人箱子或方块等。**一经查证证据确凿则立即封禁。
 
 服务器提供方块交互记录查询。 [`/co i`](tutorial/commands-help.md) 打开日志查看器，左键点方块、右键点箱子查看变更记录。再输入一次 [`/co i`](tutorial/commands-help.md) 关闭查看器回到正常生存状态。
 </br></br>
@@ -99,34 +63,28 @@ v6 世界大约已开启 1 年，版本为 1.21 </br>
 将服务端升级到最新的 Minecraft 版本不是件非常容易的事情。在喵毛服务器升级到下一个版本以前，需要等待插件跟进、性能评估、游戏策略的调整等。
 
 不过，毛线对于跟进官方最新版本是非常积极的，目前的版本已是1.21。
+
+
+### 关于物品
+
+?> ⛏️ **我看商店里，那些装备道具似乎很厉害，值得买吗？**
+
+参与喵毛服务器活动可获得[纪念品](https://community.craft.moe/d/3570), 以及服务器加入了[特殊附魔](/*未有此页面*/) (此页面未完成)。喜欢可以入手。
 </br></br>
 
-### 关于服务器连接问题
+?> 💱 **那么这些物品(纪念品)要在哪里获取呢**
 
-?> :computer: **修改密码后无法登陆？**
+参与喵毛服务器活动可获得兑换币获取纪念品，欢迎各路神仙游玩或[投标](https://craft.moe/faq)</br>
+活动详情见[喵毛论坛](https://community.craft.moe/)当期发布的公告
 
-在 Mojang 官网修改密码后，新密码将会在 24h 内生效。在新密码生效前，**使用新旧密码均无法登陆 Minecraft**。总之甩锅给 Mojang 就是了
-</br></br>
+活动纪念品可在出生点或[银河商人处](https://community.craft.moe/d/3570)兑换。
+银河商人会被放置在管理组认为完成度高的原创建筑群中，位置固定后不会离开。
 
-?> :woozy_face: **为什么我感觉服务器突然好卡啊？**
 
-- 宽带速度( Mbps )
-- 延迟( ms )
-- 服务端游戏刻( [TPS](https://www.zhihu.com/question/269769734/answer/349795953) )
-- 客户端帧率( FPS )
+?> :tent: **椅子能坐？
 
-均非同一“卡顿”来源。服务器游戏刻( TPS )可以使用 miniHud mod 查看。
-
-毛线拥有多台自有产权的物理机设备，但这并不能解决 Mojang 的代码性能问题。 TPS 正常值为 20， 低于 15 时时间运行速度会明显缓慢。如果 TPS 数值持续过低，请联系管理组反馈以协助解决问题。
-
-tip: 帧率低？推荐使用[插件整合包](wiki/resources.md)
-</br></br>
-
-?> :iphone: **我可以用手机登录毛线吗？**
-
-你确定真的要这么干？  [PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher)。
-</br></br>
-
+[NyaaWorks家具数据包](../tutorial/plugins/nyaaworks.md) <\br>
+如果显示为悬浮的烟火之星，请允许加载服务器资源包后重进服务器。
 
 ### 模组合法性问题
 2025/02/28
@@ -214,6 +172,30 @@ tip: 帧率低？推荐使用[插件整合包](wiki/resources.md)
 --------
 
 ## 技术性问题
+
+### 关于服务器连接问题
+
+?> :woozy_face: **为什么我感觉服务器突然好卡啊？**
+
+- 宽带速度( Mbps )
+- 延迟( ms )
+- 服务端游戏刻( [TPS](https://www.zhihu.com/question/269769734/answer/349795953) )
+- 客户端帧率( FPS )
+
+均非同一“卡顿”来源。毛线拥有多台自有产权的物理机设备，但这并不能解决 Mojang 的代码性能问题。 TPS 正常值为 20， 低于 15 时时间运行速度会明显缓慢。如果 TPS 数值持续过低，请联系管理组反馈以协助解决问题。服务器游戏刻( TPS )可以使用 miniHud mod 查看。
+
+tip: 帧率低？推荐使用[插件整合包](wiki/resources.md)
+</br></br>
+
+?> :iphone: **我可以用手机登录毛线吗？**
+
+你确定真的要这么干？  [PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher)。
+</br></br>
+
+?> :computer: **修改密码后无法登陆？**
+
+在 Mojang 官网修改密码后，新密码将会在 24h 内生效。在新密码生效前，**使用新旧密码均无法登陆 Minecraft**。总之甩锅给 Mojang 就是了
+</br></br>
 
 ?> :red_circle: **服务器地址无法解析？显示 Unknown host?**
 
