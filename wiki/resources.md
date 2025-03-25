@@ -243,9 +243,9 @@ Use it in creative, or use it temporarily in survival.
 
 可以大幅提升游玩时的**帧率**，尤其在核芯（集成）显卡、入门独显平台上。支持 1.16.3 及以上版本。
 
-- [GitHub 下载地址](https://github.com/jellysquid3/sodium-fabric/releases)
+- [GitHub 下载地址](https://github.com/CaffeineMC/sodium/releases)
 - [Modrinth 下载地址](https://modrinth.com/mod/sodium/versions)
-- MC 百科上的[介绍](https://www.mcmod.cn/class/198.html)
+- MC 百科上的[介绍](https://www.mcmod.cn/class/2785.html)
 
 !> **Optifine 和 Sodium 不兼容。** 使用本插件前，须先移除/禁用 OptiFabric 和 Optifine，反之亦然。  
 除提高性能以外，其并不能取代 Optifine（包括光影、披风、资源包的额外特性等）。
