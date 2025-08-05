@@ -97,9 +97,9 @@ v6 世界大约已开启 1 年，版本为 1.21 </br>
 > 本 wiki 编者仅选取部分模组作为示例，如涉及自动化用法，请注意保持不获利使用。  
 > 具体可参阅[规则](kedama/rules)页面。
 
-常见生电辅助模组: minihud, tweakeroo, litmetica, autofish 均可使用。
+常见生电辅助模组: minihud, tweakeroo, litematica, autofish 均可使用。
 </br>
-强效生电辅助模组: tweaker-more, litmetica-printer, 宅闲鱼二改打印机暂允许使用。
+强效生电辅助模组: tweaker-more, litematica-printer, 宅闲鱼二改打印机暂允许使用。
 </br>
 外挂模组: **禁止使用**,包括**飞天/矿透/光环**等，除了:
 
@@ -341,3 +341,4 @@ chars=$(gdialog --inputbox ' ' 2>&1)
 例如：`-Xmx2G` 表示为最多占用 2G 内存。
 
 请勿安装 32 位 Java——其最大只能分配 1G，已远不能满足在喵窝游玩的需求。
+
