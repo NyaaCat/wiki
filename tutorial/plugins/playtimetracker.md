@@ -28,7 +28,7 @@ PTT插件记录的在线时间为玩家的**真实游戏时间**。可用`/ptt`�
 |`v-windfall` | 1800 卷 | ？ |
 |`v-fluorescence` | 7200 卷 | 30 小时 |
 |`v-quaternary` | 3600 卷 | 16 小时 |
-|`v-mystique` | 14400 卷 | ？ |
+|`v-mystique` | 14400 卷 | 64 小时 |
 
 ## 日常奖励
 
