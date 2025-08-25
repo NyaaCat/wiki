@@ -27,120 +27,58 @@
 
 ——以下整合包可正常登录喵窝世界，以及除 `hana` 以外的所有[子服务器](wiki/server-network)。
 
-### Minecraft 1.21.1
+### Minecraft 1.21.8
 
-?> :heart: 【2024.08.31 更新】**Minecraft 1.21.1 简单整合** *by BlingWang*
+?> :heart: 【2025.08.14 更新】**Minecraft 1.21.8 简单整合** *by BlingWang*
 
-提供可被 MultiMC 导入的 Mod 包。
+提供可被 MultiMC 导入的 Mod 包，集成自动更新 mod 工具。
 
-[原帖与下载地址](https://community.craft.moe/d/5182)
+[原帖与下载地址](https://community.craft.moe/d/5536)
 
 <details>
 <summary>默认包含模组</summary>
 
-[Moddermore 列表](https://moddermore.net/list/ClMMrGvIbcXH)
-
-- [Animatica](https://modrinth.com/mod/animatica) - A mod implementing the OptiFine/MCPatcher animated texture format
-- [AppleSkin](https://modrinth.com/mod/appleskin) - Food/hunger-related HUD improvements
-- [Architectury API](https://modrinth.com/mod/architectury-api) - An intermediary api aimed to ease developing multiplatform mods.
-- [Auth Me](https://modrinth.com/mod/auth-me) - Authenticate yourself and re-validate your session
-- [Better Mount HUD](https://modrinth.com/mod/better-mount-hud) - Improves the ingame HUD while riding a mount
-- [Better Ping Display [Fabric]](https://modrinth.com/mod/better-ping-display-fabric) - Adds a configurable numerical ping display to the player list
-- [BetterF3](https://modrinth.com/mod/betterf3) - BetterF3 is a mod that replaces Minecraft's original debug HUD with a highly customizable, more human-readable HUD.
-- [Capes](https://modrinth.com/mod/capes) - Lets you use capes from OptiFine, LabyMod and other cape mods
-- [Cloth Config API](https://modrinth.com/mod/cloth-config) - Configuration Library for Minecraft Mods
-- [Concurrent Chunk Management Engine (Fabric)](https://modrinth.com/mod/c2me-fabric) - A Fabric mod designed to improve the chunk performance of Minecraft.
-- [Continuity](https://modrinth.com/mod/continuity) - A Fabric mod that allows for efficient connected textures
-- [Controlling](https://modrinth.com/mod/controlling) - Adds a search bar to the Key-Bindings menu
-- [Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders) - A mod that allows you to play Minecraft in a borderless fullscreen window.
-- [Dark Loading Screen](https://modrinth.com/mod/dark-loading-screen) - Makes the loading screen darker.
-- [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) - Reduce resource usage while Minecraft is in the background or idle.
-- [Enhanced Block Entities](https://modrinth.com/mod/ebe) - Reduce block entity FPS lag with almost no compromises, and improve their visuals
-- [Entity Culling](https://modrinth.com/mod/entityculling) - Using async path-tracing to hide Block-/Entities that are not visible
-- [Fabric API](https://modrinth.com/mod/fabric-api) - Lightweight and modular API providing common hooks and intercompatibility measures utilized by mods using the Fabric toolchain.
-- [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin) - This is a mod that enables usage of the Kotlin programming language for Fabric mods.
-- [FabricSkyBoxes Interop](https://modrinth.com/mod/fabricskyboxes-interop) - FabricSkyBoxes Interoperability for MCPatcher/OptiFine Skies
-- [FabricSkyboxes](https://modrinth.com/mod/fabricskyboxes) - Allows resource packs to define custom skyboxes.
-- [Fabrishot](https://modrinth.com/mod/fabrishot) - Take insanely large screenshots because why not
-- [FastQuit](https://modrinth.com/mod/fastquit) - Lets you return to the Title Screen early while your world is still saving in the background!
-- [FerriteCore](https://modrinth.com/mod/ferrite-core) - Memory usage optimizations
-- [Gamma Utils (Fullbright)](https://modrinth.com/mod/gamma-utils) - Gamma / Brightness / Night Vision mod, making it easy to see in the dark. Basically Fullbright for Fabric.
-- [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) - Speed up immediate mode rendering in Minecraft
-- [Indium](https://modrinth.com/mod/indium) - Sodium addon providing support for the Fabric Rendering API, based on Indigo
-- [Inventory Profiles Next](https://modrinth.com/mod/inventory-profiles-next) - Take control over you inventory. Sort. Move matching Items. Throw all. Locked slots. Gear sets! And much more.
-- [Iris Shaders](https://modrinth.com/mod/iris) - A modern shader pack loader for Minecraft intended to be compatible with existing OptiFine shader packs
-- [Language Reload](https://modrinth.com/mod/language-reload) - Reduces load times and adds fallbacks for languages
-- [Lithium](https://modrinth.com/mod/lithium) - No-compromises game logic/server optimization mod
-- [MixinTrace](https://modrinth.com/mod/mixintrace) - Adds a list of mixins in the stack trace to crash reports 
-- [Mod Menu](https://modrinth.com/mod/modmenu) - Adds a mod menu to view the list of mods you have installed.
-- [Model Gap Fix](https://modrinth.com/mod/modelfix) - Fixes gaps in Block Models and Item Models
-- [ModernFix](https://modrinth.com/mod/modernfix) - All-in-one mod that improves performance, reduces memory usage, and fixes many bugs. Compatible with all your favorite performance mods!
-- [More Chat History](https://modrinth.com/mod/morechathistory) - Increases the maximum length of chat history.
-- [More Culling](https://modrinth.com/mod/moreculling) - A mod that changes how multiple types of culling are handled in order to improve performance
-- [No Chat Reports](https://modrinth.com/mod/no-chat-reports) - Makes chat unreportable (where possible)
-- [OptiGUI](https://modrinth.com/mod/optigui) - Blazing fast custom GUI textures on Fabric and Quilt with built-in OptiFine custom GUI resource pack support
-- [Paginated Advancements & Custom Frames](https://modrinth.com/mod/paginatedadvancements) - Better advancements screen
-- [Polytone](https://modrinth.com/mod/polytone) - Customize Map Color, Block Colors, Colormaps and Block Sounds, Biome Colors, Dye Colors. Supports Optifine format. For Resource Packs
-- [Puzzle](https://modrinth.com/mod/puzzle) - Adds resourcepack features and a GUI to more conveniently configure OptiFine alternatives.
-- [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options) - Alternative Options Menu for Sodium
-- [Remove Reloading Screen](https://modrinth.com/mod/rrls) - Makes resource packs load in the background, allowing you to do other things while waiting!
-- [Searchables](https://modrinth.com/mod/searchables) - Searchables is a library mod that adds helper methods that allow for searching and filtering elements based on components, as well as offering built in auto-complete functionality.
-- [Sodium](https://modrinth.com/mod/sodium) - The fastest and most compatible rendering optimization mod for Minecraft. Now available for both NeoForge and Fabric!
-- [Sodium Extra](https://modrinth.com/mod/sodium-extra) - A Sodium addon that adds features that shouldn't be in Sodium.
-- [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) - Displays a map of the nearby world terrain, players, mobs, entities in the corner of your screen. Lets you create waypoints which help you find the locations you've marked.
-- [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) - Adds a full screen world map which shows you what you have explored in the world. Works great together with Xaero's Minimap.
-- [YetAnotherConfigLib](https://modrinth.com/mod/yacl) - A builder-based configuration library for Minecraft.
-- [Your Options Shall Be Respected (YOSBR)](https://modrinth.com/mod/yosbr) - Your options shall be respected.
-- [Zoomify](https://modrinth.com/mod/zoomify) - A zoom mod with infinite customizability.
-- [[EMF] Entity Model Features](https://modrinth.com/mod/entity-model-features) - EMF is an, OptiFine format, Custom Entity Model replacement mod available for Fabric and Forge.
-- [[ETF] Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures) - Emissive, Random & Custom texture support for entities in resourcepacks just like Optifine but for Fabric
-- [e4mc](https://modrinth.com/mod/e4mc) - Open a LAN server to anyone, anywhere, anytime.
-- [libIPN](https://modrinth.com/mod/libipn) - Inventory Profiles Next GUI/Config library
+~~you tell me~~
 
 </details>
 
-?> :blue_heart: 【2024.08.03 更新】**Minecraft 1.21.x 简单实用整合包** *by Big_WhiteDragon*
+?> :blue_heart: 【2025.08.14 更新】**Minecraft 1.21.8 简单实用整合包** *by Big_WhiteDragon*
 
-提供可被 MultiMC 导入的 Mod 包。
+提供可被 MultiMC / HMCL 导入的 Mod 包。
 
-[原帖与下载地址](https://community.craft.moe/d/5121)
+[原帖与下载地址](https://community.craft.moe/d/5539)
 
 <details>
 <summary>默认包含模组</summary>
 
-[Moddermore 列表](https://moddermore.net/list/xvXCQ87YMmgt)
+[Moddermore 列表](https://moddermore.net/list/4QpqkfnWts_1)
 
-- [Animatica](https://modrinth.com/mod/animatica) - A mod implementing the OptiFine/MCPatcher animated texture format
 - [AppleSkin](https://modrinth.com/mod/appleskin) - Food/hunger-related HUD improvements
 - [Auth Me](https://modrinth.com/mod/auth-me) - Authenticate yourself and re-validate your session
-- [Better Ping Display [Fabric]](https://modrinth.com/mod/better-ping-display-fabric) - Adds a configurable numerical ping display to the player list
 - [BetterF3](https://modrinth.com/mod/betterf3) - BetterF3 is a mod that replaces Minecraft's original debug HUD with a highly customizable, more human-readable HUD.
 - [Bobby](https://modrinth.com/mod/bobby) - Allows for render distances greater than the server's view-distance
 - [Capes](https://modrinth.com/mod/capes) - Lets you use capes from OptiFine, LabyMod and other cape mods
 - [Chat Heads](https://modrinth.com/mod/chat-heads) - See who you're chatting with!
 - [Concurrent Chunk Management Engine (Fabric)](https://modrinth.com/mod/c2me-fabric) - A Fabric mod designed to improve the chunk performance of Minecraft.
-- [Continuity](https://modrinth.com/mod/continuity) - A Fabric mod that allows for efficient connected textures
-- [Controlify](https://modrinth.com/mod/controlify) - Adds the best controller support to Minecraft Java edition!
+- [Continuity](https://modrinth.com/mod/continuity) - A Minecraft mod that allows for efficient connected textures
+- [Controlify (Controller support)](https://modrinth.com/mod/controlify) - Adds the best controller support to Minecraft Java edition!
 - [Debugify](https://modrinth.com/mod/debugify) - Fixes Minecraft bugs found on the bug tracker
 - [Entity Culling](https://modrinth.com/mod/entityculling) - Using async path-tracing to hide Block-/Entities that are not visible
 - [Fabric API](https://modrinth.com/mod/fabric-api) - Lightweight and modular API providing common hooks and intercompatibility measures utilized by mods using the Fabric toolchain.
 - [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin) - This is a mod that enables usage of the Kotlin programming language for Fabric mods.
 - [FerriteCore](https://modrinth.com/mod/ferrite-core) - Memory usage optimizations
 - [Forge Config API Port](https://modrinth.com/mod/forge-config-api-port) - NeoForge's & Forge's config systems provided to other modding ecosystems. Designed for a multiloader architecture.
-- [Freecam (Modrinth Edition)](https://modrinth.com/mod/freecam) - A highly customizable freecam mod.
+- [Freecam](https://modrinth.com/mod/freecam) - A highly customizable freecam mod.
 - [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) - Speed up immediate mode rendering in Minecraft
-- [Indium](https://modrinth.com/mod/indium) - Sodium addon providing support for the Fabric Rendering API, based on Indigo
 - [Iris Shaders](https://modrinth.com/mod/iris) - A modern shader pack loader for Minecraft intended to be compatible with existing OptiFine shader packs
 - [LAN World Plug-n-Play (mcwifipnp)](https://modrinth.com/mod/mcwifipnp) - LAN World Plug-n-Play (mcwifipnp)
-- [Lithium](https://modrinth.com/mod/lithium) - No-compromises game logic/server optimization mod
-- [MixinTrace](https://modrinth.com/mod/mixintrace) - Adds a list of mixins in the stack trace to crash reports 
+- [Lithium](https://modrinth.com/mod/lithium) - No-compromises game logic optimization mod. Well suited for clients and servers of all kinds. Now available for Fabric and NeoForge!
 - [Mod Menu](https://modrinth.com/mod/modmenu) - Adds a mod menu to view the list of mods you have installed.
 - [More Chat History](https://modrinth.com/mod/morechathistory) - Increases the maximum length of chat history.
 - [More Culling](https://modrinth.com/mod/moreculling) - A mod that changes how multiple types of culling are handled in order to improve performance
 - [OptiGUI](https://modrinth.com/mod/optigui) - Blazing fast custom GUI textures on Fabric and Quilt with built-in OptiFine custom GUI resource pack support
 - [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options) - Alternative Options Menu for Sodium
 - [Restore Chat Links](https://modrinth.com/mod/restore-chat-links) - Clickable player chat links
-- [Screenshot to Clipboard](https://modrinth.com/mod/screenshot-to-clipboard) - Screenshots taken are copied to the clipboard.
 - [Sodium](https://modrinth.com/mod/sodium) - The fastest and most compatible rendering optimization mod for Minecraft. Now available for both NeoForge and Fabric!
 - [Sodium Extra](https://modrinth.com/mod/sodium-extra) - A Sodium addon that adds features that shouldn't be in Sodium.
 - [Status Effect Bars](https://modrinth.com/mod/status-effect-bars) - Adds customizable bars to the status effects overlay to show the remaining duration of effects.
@@ -150,7 +88,7 @@ With selections, schematics, copy and paste, brushes, and scripting.
 Use it in creative, or use it temporarily in survival.
 - [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) - Displays a map of the nearby world terrain, players, mobs, entities in the corner of your screen. Lets you create waypoints which help you find the locations you've marked.
 - [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) - Adds a full screen world map which shows you what you have explored in the world. Works great together with Xaero's Minimap.
-- [YetAnotherConfigLib](https://modrinth.com/mod/yacl) - A builder-based configuration library for Minecraft.
+- [YetAnotherConfigLib (YACL)](https://modrinth.com/mod/yacl) - A builder-based configuration library for Minecraft.
 - [bad packets](https://modrinth.com/mod/badpackets) - Bad Packets allows packet messaging between different modding platforms.
 - [lazy-language-loader](https://modrinth.com/mod/lazy-language-loader) - lazy-language-loader improves loading times when changing your language by only reloading the language instead of all the game resources!
 
