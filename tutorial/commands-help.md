@@ -16,7 +16,6 @@
 | - | - | - |
 | `/espawn` | 返回默认出生点 | 喵窝为大神殿，毛线为最新周目世界 |
 | `/spawn`<br>`/town tp`:smile_cat: | 返回玩家设定的出生点 | |
-| `/mvtp [维度代号]`:smile_cat: |前往指定[维度](nyaa/worlds.md "也称世界")的默认出生点 ||
 | `/back`:smile_cat:  | 返回上一次传送前所在位置 | 收费 |
 | `/home`:smile_cat:  | 传送回家 | 收费 |
 | `/home [家的名称]`:smile_cat:  | 传送回指定名称的家 | 收费 |
@@ -29,6 +28,14 @@
 | `/tpahere [玩家 ID]`:smile_cat: | 邀请对方传送到自己身边 | 需经对方确认同意 |
 | `/server [服务器代号]` |前往指定的[服务器](wiki/server-network.md "查看服务器列表") | |
 
+<details>
+<summary>因权限调整已下线的指令</summary>
+
+| 命令| 说明| 备注 |
+| - | - | - |
+| `/mvtp [维度代号]`:smile_cat: |前往指定[维度](nyaa/worlds.md "也称世界")的默认出生点 |2025 年 9 月起不可用，部分世界前往方式请参考[维度列表](nyaa/worlds.md)页面说明|
+
+</details>
 
 ## 经济 / 市场类
 
