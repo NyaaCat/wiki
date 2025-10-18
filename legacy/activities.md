@@ -143,8 +143,6 @@ langua
 
 </details>
 
-![ending](https://pan.suzakuwcx.com/d/guest/photo/16bitlogo%20gold.png?sign=XH3FvKp-cfkOsbvKpvLpz1XLiJyQvgu_qZKnAFBp01U=:0)
-
 
 ## 2024 端午节活动：黄泉比良坂丨よもつひらさか·先行体验 :id=lunar-may-5th
 
@@ -226,8 +224,6 @@ LiIci111丨鲑鱼
 ```
 
 </details>
-
-![ending](https://pan.suzakuwcx.com/d/guest/photo/16bitlogo%20gold.png?sign=XH3FvKp-cfkOsbvKpvLpz1XLiJyQvgu_qZKnAFBp01U=:0)
 
 
 ## 2024 劳动节活动：收集 :id=labour-day

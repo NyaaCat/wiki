@@ -17,24 +17,20 @@ Art by Φ | ©NyaaCat Community
 
 ### 官方渲染照片
 
-?> :camera: 目前皆在[这里](https://downloads.nyaacat.com/images/)托管。原图非常大，下载可能较慢。
+?> 因原始文件托管服务器已下线，以下内容目前部分托管于外部服务，不保证可用性。
 
-| 照片文件 | 内容 |
-|-|-|
+| 照片文件 | 内容 | 下载 |
+|-|-|-|
 | birdcage1.20200820.8k.png | *（暂未开放的区域）* |
-| chunky-east2.100000spp-4k.png | 一行人在 AQUA'S 的风水商桥上嬉戏 |
+| chunky-east2.100000spp-4k.png | 一行人在 AQUA'S 的风水商桥上嬉戏 | [13 MB](https://www.aoisnow.net/nyaarender/chunky-east2.100000spp-4k.png)
 | eastcity1-20180820.8k.PNG | AQUA'S 海星城全景 |
 | kedama1-rev2.20181225.8K.png | 众人齐聚「毛玉线圈物语」V2毛运村 |
-| kedama1-rev1.20180826.8K.png | *（上图的早期版本）* |
-| kedama1.20180822.8K.png | *（上图的更早期版本）* |
-| machi1-rev1.8K.20180825.png | 万华街，人流熙熙攘攘 |
-| machi1.20180821.8K.png | *（上图的早期版本）* |
+| kedama1-rev1.20180826.8K.png | *（上图的早期版本）* | [31 MB](https://www.aoisnow.net/nyaarender/kedama1-rev1.20180826.8K.png)
+| kedama1.20180822.8K.png | *（上图的更早期版本）* | [33 MB](https://www.aoisnow.net/nyaarender/kedama1.20180822.8K.png)
+| machi1-rev1.8K.20180825.png | 万华街，人流熙熙攘攘 | [42 MB](https://www.aoisnow.net/nyaarender/machi1-rev1.8K.20180825.png)
+| machi1.20180821.8K.png | *（上图的早期版本）* | [42 MB](https://www.aoisnow.net/nyaarender/machi1.20180821.8K.png)
 | north-brookland1.20200820.4ki.png | 一行人正在邮轮上眺望北溪台 |
-| spawn1.20180820.8K.png | 一人躲在旧「新手洞穴」内 |
-| westcity1-20180820.8K.png | 一人踱步于柚木小镇街上 |
-
-### 玩家衍生作品
-
-（TBC）
+| spawn1.20180820.8K.png | 一人躲在旧「新手洞穴」内 | [55 MB](https://www.aoisnow.net/nyaarender/spawn1.20180820.8K.png)
+| westcity1-20180820.8K.png | 一人踱步于柚木小镇街上 | [37 MB](https://www.aoisnow.net/nyaarender/westcity1-20180820.8K.png)
 
 <!-- 注意！除官方版权作品以外，不建议直接向本 Wiki 的 Git 仓库保存作品（仓库空间有限）。尽量多地使用外链。-->

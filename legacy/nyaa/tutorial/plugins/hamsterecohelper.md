@@ -1,6 +1,6 @@
 # HamsterEcoHelper 插件指南
 
-!> :construction: **HamsterEcoHelper 已终止服务，内容仅供参考。**
+!> 2022 年 2 月 20 日更新后，因相关插件下线，本页提及的功能均已移除不再可用，相关功能已于 2022 年秋季被 Hmarket 插件取代，以下内容仅作为历史资料供回顾参考。
 
 HamsterEcoHelper（仓鼠症插件）是为促进服务器经济流动的辅助性插件。
 
