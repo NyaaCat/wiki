@@ -6,6 +6,12 @@
 
 !> 除管理组公告、服务器重大变动之外，其余内容会逐步迁移至[民间事件](changelogs/unofficial-events.md)。
 
+## 2026
+
+### 2026-02-09
+
+锁箱插件 LockettePro 更新，支持使用 PDC (PersistentDataContainer) 数据存储实现容器的无痕上锁和高级管理功能，请参考[LockettePro 插件指南](tutorial/plugins/lockettepro.md)页面的相关说明。
+
 ## 2025
 
 ### 2025-09-01
@@ -13,6 +19,9 @@
 - 自 8 月 6 日起发生[硬件故障](https://community.craft.moe/d/5530)后，经过近一个月的等待，喵窝更换了新的服务器硬件，主服务器版本跃进至 1.21.8 版本。
 - Multiverse 插件权限回收，现在前往 epicworld 和 brainhole 世界需使用 `/town select` 指令付费前往，前往末地可使用主世界要塞传送门，请参考[维度列表](nyaa/worlds.md)页面的相关说明。
 
+### 2025-12-06
+
+- 开放普通玩家在生存模式、冒险模式、**创造模式**之间自由切换的权限。
 
 ## 2024
 
