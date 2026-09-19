@@ -21,7 +21,7 @@
 与游戏互通的群组。
 
 * NyaaCat 雪漫咖啡  
-闲聊群组，目前通过非官方服务与喵窝的 Discord `#general` 达成了互通。
+闲聊群组。
 
 * 毛线游戏群组  
 与游戏互通的公开群组。[点击加入](https://t.me/kedamacraft)
@@ -56,7 +56,7 @@ QQ 迎新群，允许玩家们先行接触萌新便于白名单审核。群号�
 
 * NyaaCat  
 喵窝的 Discord Server，可在游戏内输入 `/discord` 获取链接。
-  * `#general` 是闲聊频道，目前通过非官方服务与 Telegram 上的 `NyaaCat 雪漫咖啡` 群组达成了互通。
+  * `#general` 是闲聊频道。
   * <span class="nw-spoiler">#涩图</span>
   * `#ingame` 是与游戏互通的频道。
   * `#NyaaCat` 和 `#AFK` 是语音频道。
