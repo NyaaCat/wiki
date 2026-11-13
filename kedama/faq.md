@@ -189,7 +189,7 @@ tip: 帧率低？推荐使用[插件整合包](wiki/resources.md)
 
 ?> :iphone: **我可以用手机登录毛线吗？**
 
-你确定真的要这么干？  [PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher)。
+你确定真的要这么干？  [Angel Aura Amethyst](https://github.com/AngelAuraMC/Amethyst-Android)。
 </br></br>
 
 ?> :computer: **修改密码后无法登陆？**
